@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2017-11-21 10:52:06" build="171117">
+		<key name=".Vanilla" modified="2017-11-21 18:29:33" build="171117">
 			<value name="ColorTable00" type="dword" data="00222827"/>
 			<value name="ColorTable01" type="dword" data="009e5401"/>
 			<value name="ColorTable02" type="dword" data="0004aa74"/>
@@ -72,7 +72,7 @@
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
 			<value name="StartTasksFile" type="string" data=""/>
-			<value name="StartTasksName" type="string" data="{2-Rows}"/>
+			<value name="StartTasksName" type="string" data="{ST3}"/>
 			<value name="StartFarFolders" type="hex" data="00"/>
 			<value name="StartFarEditors" type="hex" data="00"/>
 			<value name="StoreTaskbarkTasks" type="hex" data="00"/>
@@ -209,7 +209,7 @@
 			<value name="DragPanel" type="hex" data="02"/>
 			<value name="DragPanelBothEdges" type="hex" data="00"/>
 			<value name="KeyBarRClick" type="hex" data="01"/>
-			<value name="StatusBar.Show" type="hex" data="00"/>
+			<value name="StatusBar.Show" type="hex" data="01"/>
 			<value name="StatusBar.Flags" type="dword" data="00000008"/>
 			<value name="StatusFontFace" type="string" data="Tahoma"/>
 			<value name="StatusFontCharSet" type="ulong" data="0"/>
@@ -292,7 +292,7 @@
 			<value name="MinimizeOnLoseFocus" type="hex" data="00"/>
 			<value name="DisableFarFlashing" type="hex" data="00"/>
 			<value name="DisableAllFlashing" type="hex" data="00"/>
-			<value name="FindText" type="string" data="frbs"/>
+			<value name="FindText" type="string" data="gfgfggfgffg"/>
 			<value name="FindMatchCase" type="hex" data="00"/>
 			<value name="FindMatchWholeWords" type="hex" data="00"/>
 			<value name="FindTransparent" type="hex" data="01"/>
@@ -483,18 +483,18 @@
 			<value name="DndLKey" type="hex" data="00"/>
 			<value name="DndRKey" type="hex" data="a2"/>
 			<value name="WndDragKey" type="dword" data="00121101"/>
-			<key name="Tasks" modified="2017-11-21 10:52:06" build="171117">
-				<value name="Count" type="long" data="20"/>
-				<key name="Task1" modified="2017-11-21 10:52:06" build="171117">
-					<value name="Name" type="string" data="{cmd::Cmder as Admin}"/>
-					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
-					<value name="Cmd1" type="string" data="*cmd /k &quot;%ConEmuDir%\..\init.bat&quot;  -new_console:d:%USERPROFILE%"/>
-					<value name="Active" type="long" data="0"/>
+			<key name="Tasks" modified="2017-11-21 18:29:33" build="171117">
+				<value name="Count" type="long" data="1"/>
+				<key name="Task1" modified="2017-11-21 18:29:33" build="171117">
+					<value name="Name" type="string" data="{ST3}"/>
+					<value name="GuiArgs" type="string" data=""/>
+					<value name="Cmd1" type="string" data="&gt;* -cur_console:d:D:\ &quot;D:\hiuSoft\Application\hiu-env\hiu-text\vendor\Sublime Text Portable\sublime_text.exe&quot;"/>
+					<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="1"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
-					<value name="Flags" type="dword" data="00000000"/>
+					<value name="Flags" type="dword" data="00000004"/>
 				</key>
-				<key name="Task2" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task2" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{cmd::Cmder}"/>
 					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
 					<value name="Cmd1" type="string" data="cmd /k &quot;%ConEmuDir%\..\init.bat&quot;  -new_console:d:%USERPROFILE%"/>
@@ -503,7 +503,7 @@
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="Flags" type="dword" data="00000000"/>
 				</key>
-				<key name="Task3" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task3" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Powershell::PowerShell as Admin}"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
@@ -512,7 +512,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Flags" type="dword" data="00000000"/>
 				</key>
-				<key name="Task4" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task4" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Powershell::Powershell}"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
@@ -522,7 +522,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Flags" type="dword" data="00000000"/>
 				</key>
-				<key name="Task5" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task5" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{bash::mintty as Admin}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -531,7 +531,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task6" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task6" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{bash::mintty}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -541,7 +541,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd2" type="string" data="%CMDER_ROOT%vendor\git-for-windows\usr\bin\mintty.exe /bin/bash -l -new_console:d:%userProfile%"/>
 				</key>
-				<key name="Task7" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task7" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{bash::bash as Admin}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -550,7 +550,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data="*cmd /c &quot;%ConEmuDir%\..\git-for-windows\bin\bash --login -i&quot; -new_console:d:%USERPROFILE%"/>
 				</key>
-				<key name="Task8" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task8" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{bash::bash}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -559,7 +559,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task9" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task9" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Shells::cmd}"/>
 					<value name="Flags" type="dword" data="00000002"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -572,7 +572,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd5" type="string" data="cmd /k &quot;%ConEmuDir%\..\init.bat&quot;  -new_console:s2THn  &amp;  A: &amp; cd %hiuapps%"/>
 				</key>
-				<key name="Task10" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task10" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Shells::cmd (Admin)}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -581,7 +581,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task11" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task11" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Shells::cmd-32}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -590,7 +590,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task12" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task12" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Shells::cmd 64/32}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -600,7 +600,7 @@
 					<value name="Count" type="long" data="2"/>
 					<value name="Cmd2" type="string" data="&quot;%windir%\syswow64\cmd.exe&quot; /k &quot;&quot;%ConEmuBaseDir%\CmdInit.cmd&quot; &amp; echo This is 32 bit cmd.exe -new_console:s50V&quot;"/>
 				</key>
-				<key name="Task13" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task13" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Shells::PowerShell (Admin)}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -610,7 +610,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task14" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task14" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Helper::Show ANSI colors}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -619,7 +619,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task15" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task15" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{Tools::Chocolatey (Admin)}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -628,7 +628,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task16" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task16" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{4-Panel}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -642,7 +642,7 @@
 					<value name="Cmd5" type="string" data="* -cur_console:d:D:\hiuSoft\Application\hiuEnvirontment\cmder &quot;C:\Program Files (x86)\Microsoft VS Code\code.exe&quot;"/>
 					<value name="Cmd6" type="string" data="-cur_console:bns2T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 6"/>
 				</key>
-				<key name="Task17" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task17" modified="2017-11-21 17:03:18" build="171117">
 					<value name="Name" type="string" data="{2-Rows}"/>
 					<value name="Flags" type="dword" data="00000001"/>
 					<value name="Hotkey" type="dword" data="0010114d"/>
@@ -655,25 +655,27 @@
 					<value name="Cmd4" type="string" data="-cur_console:ns1T85V -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 4"/>
 					<value name="Cmd5" type="string" data="-cur_console:ns2T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 5"/>
 				</key>
-				<key name="Task18" modified="2017-11-21 10:52:06" build="171117">
-					<value name="Name" type="string" data="{SublimeText3}"/>
-					<value name="Flags" type="dword" data="00000000"/>
-					<value name="Hotkey" type="dword" data="00101154"/>
+				<key name="Task18" modified="2017-11-21 17:03:18" build="171117">
+					<value name="Name" type="string" data="{3-Rows}"/>
+					<value name="Flags" type="dword" data="00000004"/>
+					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=""/>
-					<value name="Cmd1" type="string" data="&gt; -new_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder &quot;D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe&quot;"/>
-					<value name="Active" type="long" data="1"/>
-					<value name="Count" type="long" data="1"/>
+					<value name="Cmd1" type="string" data="-cur_console:bn -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvironment\cmder\icons\cmder.ico -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; "/>
+					<value name="Active" type="long" data="2"/>
+					<value name="Count" type="long" data="3"/>
+					<value name="Cmd2" type="string" data="&gt;* -cur_console:fs1T38V -cur_console:d:D:\hiuSoft\Application\hiuEnvironment -cur_console:C:D:\hiuSoft\Application\hiuEnvironment\cmder\icons\cmder.ico -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
+					<value name="Cmd3" type="string" data="-cur_console:bns1T50V -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvironment\cmder\icons\cmder.ico -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; "/>
 				</key>
-				<key name="Task19" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task19" modified="2017-11-21 18:21:30" build="171117">
 					<value name="Name" type="string" data="{ST3}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=""/>
-					<value name="Cmd1" type="string" data="&gt; -cur_console:f -cur_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder &quot;D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe&quot;"/>
+					<value name="Cmd1" type="string" data="&gt;* -cur_console:d:D:\ &quot;D:\hiuSoft\Application\hiu-env\hiu-text\vendor\Sublime Text Portable\sublime_text.exe&quot;"/>
 					<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task20" modified="2017-11-21 10:52:06" build="171117">
+				<key name="Task20" modified="2017-11-21 11:34:36" build="171117">
 					<value name="Name" type="string" data="{3-Rows}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -689,11 +691,11 @@
 				</key>
 			</key>
 
-			<key name="Apps" modified="2017-11-21 10:52:06" build="171117">
+			<key name="Apps" modified="2017-11-21 18:29:33" build="171117">
 				<value name="Count" type="long" data="0"/>
 			</key>
-			<key name="Colors" modified="2017-11-21 10:52:06" build="171117">
-				<key name="Palette1" modified="2017-11-21 10:52:06" build="171117">
+			<key name="Colors" modified="2017-11-21 18:29:33" build="171117">
+				<key name="Palette1" modified="2017-11-21 18:29:33" build="171117">
 					<value name="Name" type="string" data="Monokai"/>
 					<value name="ExtendColors" type="hex" data="00"/>
 					<value name="ExtendColorIdx" type="hex" data="0e"/>
@@ -780,7 +782,7 @@
 			<value name="TaskbarProgress" type="hex" data="01"/>
 			<value name="RetardInactivePanes" type="hex" data="00"/>
 			<value name="ProcessCmdStart" type="hex" data="01"/>
-			<value name="Multi.ShowSearch" type="hex" data="01"/>
+			<value name="Multi.ShowSearch" type="hex" data="00"/>
 			<value name="Multi.CloseConfirmFlags" type="hex" data="04"/>
 			<value name="FontUseDpi" type="hex" data="00"/>
 			<value name="FontUseUnits" type="hex" data="00"/>
@@ -794,7 +796,7 @@
 			<value name="StatusBar.Hide.Dpi" type="hex" data="01"/>
 			<value name="TabFlashChanged" type="long" data="-1"/>
 			<value name="TabModifiedSuffix" type="string" data="["/>
-			<key name="HotKeys" modified="2017-11-21 10:52:06" build="171117">
+			<key name="HotKeys" modified="2017-11-21 18:29:33" build="171117">
 				<value name="KeyMacroVersion" type="hex" data="02"/>
 				<value name="Multi.Modifier" type="dword" data="00000011"/>
 				<value name="Multi.ArrowsModifier" type="dword" data="0000005b"/>
