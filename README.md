@@ -1,4 +1,4 @@
 # hiu-text
 Hackable Text Editor
 
-![hiu-cmd](https://raw.githubusercontent.com/frizadiga/hiu-text/master/ss.PNG)
+![hiu-text](https://raw.githubusercontent.com/frizadiga/hiu-text/master/ss.PNG)
