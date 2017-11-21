@@ -1,0 +1,1 @@
+cd /d %appjs%/playground/hiu-me-vue & npm run dev

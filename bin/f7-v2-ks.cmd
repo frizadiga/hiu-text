@@ -1,0 +1,1 @@
+cd /d %appjs%/playground/f7-v2 &  cma https://f7-v2-ks.firebaseapp.com/kitchen-sink

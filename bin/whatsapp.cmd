@@ -1,0 +1,1 @@
+chrome --profile-directory="Default" --app="data:text/html,<html><body><script>resizeTo(664,732);location='https://web.whatsapp.com';</script></body></html>"

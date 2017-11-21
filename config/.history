@@ -1,0 +1,5253 @@
+exit
+exit
+exit
+mstsc /v:hiupc
+a:
+cd\
+ls
+cls
+cls & node
+mstsc /v:hiupc
+cd\
+ls
+cls & node
+a:
+http-server -p 1111
+d:
+dir
+cd..
+sublime 
+cd
+clear
+cmderr
+unalias
+cls
+unalias e.
+sublime
+pwd
+exit
+exit
+exit
+mstsc /v:hiupc
+a:
+cd\
+ls
+cls
+cls & node
+mstsc /v:hiupc
+cls & node
+a:
+http-server -p 1111
+d:
+dir
+sublime 
+cd
+clear
+unalias
+unalias e.
+pwd
+d:\
+cmderr
+cd/
+cd %cmder_root%
+%cmder_root%
+cd %cmder_root%\vender
+cd %cmder_root%\vendor
+cd %cmder_root%\vendor\sublime text portable
+cd %cmder_root%\vendor\sublime text portable\sublime_text.exe
+sublime_text.exe
+%cmder_root%\vendor\sublime text portable\sublime_text.exe
+cd bin
+sublime alias.bat
+cd..
+cd vendor
+cd cd sublime text portable
+cd  sublime text portable
+%CMDER_ROOT%
+cd %CMDER_ROOT%\vendor\sublime text portable
+%CMDER_ROOT%\vendor\sublime text portable\sublime_text.exe
+%CMDER_ROOT%\vendor\sublime text portable\sublime_text.exe -new_console
+"%CMDER_ROOT%\vendor\sublime text portable\sublime_text.exe" -new_console
+"%CMDER_ROOT%\vendor\sublime text portable\sublime_text.exe -new_console"
+cls & %CMDER_ROOT%\vendor\sublime text portable\sublime_text.exe -new_console
+cls & "%CMDER_ROOT%\vendor\sublime text portable\sublime_text.exe" -new_console
+sublime.exe -new_console
+sublime_text.exe -new_console
+cd sublime
+sublime & cls
+history
+;
+ls
+vi
+cd\
+cmd cur-console
+cmd new-console
+cls
+cmd
+subl
+sublime
+cmd
+subl
+cls
+sublime
+cls
+sublime
+exit
+exit
+exit
+mstsc /v:hiupc
+cd\
+cls & node
+manage-bde a:
+manage-bde a: -unlock -password
+%hiucmd%/hiuxampp/start
+ifconfig
+git
+mstsc /v:hiubook
+cd %appjs%
+cmd -new_consoles:s
+cmd -new_console:s
+cmd -new_console:s2T50V
+cd %cmder%
+a:
+d:
+cd config
+cls
+subl
+readme.md
+sublime
+ls
+sublime readme.md
+e.
+cmd -new_console
+subl -new_console
+subl -new_console:s
+vim user-aliases.cmd
+sublime
+manage-bde
+manage-bde -lock -forcedismount
+manage-bde -lock -forcedismount a:
+sl
+cmder -new_console
+cmder -cur_console
+mstsc /v:hiubook
+cls & node
+cls
+cls & node
+manage-bde a: -unlock -password
+a:
+cd %appjs%
+cd hiuapps
+cd %hiuapps%
+cd hiusig
+ls
+cd hiusig-sails
+nodemon app.js
+subl
+sublime
+cmd
+subl
+cls
+sublime
+sublime
+sublime %hiusig%\hiusig-sails
+sublime %hiusig%\
+dir
+sublime changelog.md
+D:\hiuSoft\Application\hiuEnvirontment\cmder\vendor\Sublime Text Portable
+cd config
+cls
+rm user-aliases.cmd~
+ls
+vim user-aliases.cmd
+vim -r user-aliases.cmd
+sublime
+d:
+cd..
+vim user-aliases.cmd
+sublime
+d:
+cd..
+ls
+sl
+cls
+exit
+node
+sl
+a:
+cd %hiuapps%
+cls
+cd hiusig/hiusig-sails
+nodemon app.js
+cd..
+ls
+sl
+cls
+wget hiuwave.com
+curl hiuwave.com
+manage-bde a: -unlock -password
+%hiucmd%/hiuxampp/start
+b:
+"dir
+rd hiuMedia
+rd /?
+rd hiuMedia /S
+dir
+net user
+rd hiuMedia /S /Q
+cd hiuMedia
+cd hiuVideo 
+takeown /?
+takeown /f hiuideo /r /d y
+takeown /f hiuVideo /r /d y
+takeown /F hiuVideo /R /D y
+takeown /F hiuVideo /R /D Y
+icacls hiuVideo /grant administrator:F /T
+Installtakeownership
+Installtakeownership.reg
+removetakeownership.reg
+rd hiuVideo /S /Q
+node -v
+a:
+d:
+cd..
+ls
+vi user-aliases.cmd
+%hiucmd%/hiuxampp/start
+ls
+vi user-aliases.cmd
+%hiucmd%/hiuxampp/start
+a:
+cd %hiuapps%
+cd hiusig/hiusig-sails
+npm -
+npm -i
+npm i
+npm install
+nodemon app.js
+takeown /f hiuVideo /r /d y
+takeown /F hiuVideo /R /D y
+takeown /F hiuVideo /R /D Y
+icacls hiuVideo /grant administrator:F /T
+Installtakeownership
+Installtakeownership.reg
+removetakeownership.reg
+rd hiuVideo /S /Q
+node -v
+a:
+vi user-aliases.cmd
+manage-bde a: -unlock -password
+%hiucmd%/hiuxampp/start
+mstsc -v:hiubook
+shutdown -h
+sails -v
+cmd
+cls
+sl
+sublime
+SUBL
+subl
+d:
+ %sublime%
+cd..
+cd vendor
+ls
+cd %sublime%
+%sublime%
+cd vendor
+ls
+cd %sublime%
+%sublime%
+%hiucmd%/hiuxampp/start
+a:
+cd %hiuapps%
+cd hiuwave.com
+cls
+dir
+nodemon npm start
+ls
+http-server -p 1111
+cwd
+ch
+pwd
+takeown /F hiuVideo /R /D y
+takeown /F hiuVideo /R /D Y
+icacls hiuVideo /grant administrator:F /T
+Installtakeownership
+Installtakeownership.reg
+removetakeownership.reg
+rd hiuVideo /S /Q
+node -v
+a:
+d:
+ls
+vi user-aliases.cmd
+%hiucmd%/hiuxampp/start
+vi user-aliases.cmd
+a:
+npm -
+npm -i
+npm install
+cd hiusig/hiusig-sails
+rm node_modules
+rd node_modules /S /Q
+cd hiusig-sails.old
+npm i
+cd..
+ls
+cd hiusig-sails
+npm i sails@~0.12.13 --force --save
+%hiucmder%/hiuxampp/start
+%hiucmd%/hiuxampp/start
+nodemon app.js
+cd %hiuapps%
+%hiucmd%/hiuxampp/stop
+cd %hiucmd%/start-hiusig-sails
+cd %hiucmd%/start-hiusig-sails.bat
+cd %hiucmd%/
+%hiucmd%/start-hiusig-sails.bat
+ %sublime%
+cd vendor
+ls
+cd %sublime%
+%sublime%
+cd vendor
+cd %sublime%
+%sublime%
+node -v
+a:
+sl
+d:
+cd config
+pwd
+v user-aliases.cmd
+cd..
+cd bin
+v readme.md
+cls
+ls
+v alias.bat
+netstat hiuwave.com
+netstat ab
+netstat -ab
+tasklist
+cd bin
+v readme.md
+cls
+v alias.bat
+netstat hiuwave.com
+netstat ab
+netstat -ab
+tasklist
+bde /?
+net view & mstsc -v:hiubook
+netsh wlan hiuMifi
+netsh wlan c hiuMifi
+a: & cd %hiucmd%
+dir
+ls
+mstsc -v:hiubook
+net view
+ping hiubook.com
+ping hiubook
+ping hiupc
+ping hiupc -4
+ping hiupc
+ping hiupc -4
+sl
+slc
+slc
+slc
+slc
+exit
+slc
+takeown /f hiuVideo /r /d y
+takeown /F hiuVideo /R /D y
+takeown /F hiuVideo /R /D Y
+icacls hiuVideo /grant administrator:F /T
+Installtakeownership
+Installtakeownership.reg
+removetakeownership.reg
+rd hiuVideo /S /Q
+node -v
+cd..
+vi user-aliases.cmd
+%hiucmd%/hiuxampp/start
+cls
+cd %cmder%
+a:
+cd %hiucmd%
+v start-hiusig-sails.bat
+d:
+cd config
+v user-profile.cmd
+v readme.md
+dir
+cd settings
+v conemu.xml
+ls
+v user-aliases.cmd
+hs -p 1111
+cd hiusig
+cd hiusig-sails
+ndm app.js
+node
+App Daemon 2 & cls
+cls & App Daemon 2
+cls & echo App Daemon 2
+cls & echo hiuCMD
+cls & echo App Daemon 1
+node
+cls
+cls & node
+d
+cls
+a:
+cd %hiucmd%
+ls
+start-hiusig-sails
+ndm app.js
+cls & ndm app.js
+cls & ndm app.js
+ping yeoman.io
+cmderr
+cd config
+ls
+sd -p
+v user-aliases.cmd
+v readme.md
+dir
+cd settings
+v conemu.xml
+ls
+v user-aliases.cmd
+hs -p 1111
+cd hiusig
+cd hiusig-sails
+ndm app.js
+node
+App Daemon 2 & cls
+cls & App Daemon 2
+cls & echo App Daemon 2
+cls & echo hiuCMD
+cls & echo App Daemon 1
+node
+cls
+cls & node
+d
+cd %hiucmd%
+ls
+start-hiusig-sails
+ndm app.js
+cls & ndm app.js
+cls & ndm app.js
+ping yeoman.io
+sd -p
+cmderr
+cd config
+v user-aliases.cmd
+bde a: -unlock -password
+a:
+notepad heart-indo.txt
+notepad heartache-indo.txt
+v heartache-indo.txt
+sl heartache-indo.txt
+copy /?
+copy hearche-indo.html
+copy heartache-indo.html
+copy heartache-indo.html wherever you are-indo.html
+copy "heartache-indo.html" "wherever you are-indo.html"
+sl wherever you are-indo.html
+sl heartache-indo.html
+notepad "wherever you are-indo.html"
+sl "wherever you are-indo.html"
+ren "wherever you are-indo.html" "wherever-you-are-indo.html"
+sl  "wherever-you-are-indo.html"
+sl  "hearthache-indo.html"
+sl  "heartache-indo.html"
+cd %appjs%
+cls
+cd appjs
+cd -hiuapps
+cd hiuwave.com
+cd..
+cd site
+256-256-0f2cfa15bd77ac738ef7a6d3ba790201.png
+e.
+git clone https://github.com/hiuWave/hiuwave.github.io.git
+"cd hiuwave.github.io
+cd hiuwave.github.io
+git init
+ls
+slc index.html
+sl index.html
+git checkout master
+git push master
+git config
+git glocal
+git global
+git --global
+git add.
+git add .
+git config --global user.email "frizadiga@gmail.com"
+git config --global user.name "frizadiga"
+git commit -m "2nd change"
+ping hiuwave.com
+ping 192.30.252.154
+nslookup 192.30.252.154 
+git add --all
+git commit -m "3rd Change"
+git remote -v
+git push -u origin master
+cmderr
+cd config
+v user-aliases.cmd
+a:
+cd %hiuapps%
+cd hiusig
+cd hiusig-sails
+ls
+sl
+cd..
+sl hiusig-sails
+a:
+hs -p 1111
+v user-aliases.cmd
+e d:
+e D:/
+e "D:/"
+e.
+bde a: -unlock -password
+ping google.com
+ping w3schools.com
+rsx
+code
+code
+%vscode%
+%sublime%
+%VSCODE%
+%VSCODE%
+code
+%vscode%
+%sublime%
+%VSCODE%
+%VSCODE%
+code
+vs
+"cd hiuwave.github.io
+cd hiuwave.github.io
+git init
+ls
+slc index.html
+sl index.html
+git checkout master
+git push master
+git config
+git glocal
+git global
+git --global
+git add.
+git add .
+git config --global user.email "frizadiga@gmail.com"
+git config --global user.name "frizadiga"
+git commit -m "2nd change"
+ping 192.30.252.154
+nslookup 192.30.252.154 
+git add --all
+git commit -m "3rd Change"
+git remote -v
+git push -u origin master
+v user-aliases.cmd
+a:
+cd %hiuapps%
+cd hiusig
+cd hiusig-sails
+cd..
+sl hiusig-sails
+a:
+hs -p 1111
+e d:
+e D:/
+e "D:/"
+e.
+bde :A  -unlock password
+bde :A  -unlock -password
+bde :a  -unlock -password
+bde a: -unlock -password
+bde a -unlock -password
+bde A: -unlock -password
+ping w3schools.com
+sails -v
+ping github.com
+ping instagram.com
+ping instagram.com -t
+nslookup hiuwave.com
+ping google.com
+ipconfig
+netsh wlan dis
+netsh wlan c hiuMifi
+ping hiuwave.com
+ping twitter.com -t
+ping google.com -t
+ping twitter.com
+sl
+ping google -t -a
+ping google.com -t -a
+ssh
+cmderr
+cd config
+ls
+dir -s
+dir /s
+rm .user-aliases.cmd.swp
+bash
+sd -h
+rsc
+rsx
+code
+vs code
+v user-aliases.cmd
+v user-aliases.cmd
+vs user-aliases.cmd
+vs users-aliases.cmd
+v user-aliases.cmd
+vs users-aliases.cmd
+vs user-aliases.cmd
+sd -h
+a:
+cd %appjs%
+cd electrom
+cd electron
+cd electron-quick-start
+ls
+v package.json
+dir
+npm start
+electron -v
+npm i -g electron
+npm un -g electron
+npm i -g electron --verbose
+ren "wherever you are-indo.html" "wherever-you-are-indo.html"
+sl  "wherever-you-are-indo.html"
+sl  "hearthache-indo.html"
+sl  "heartache-indo.html"
+cd %appjs%
+cls
+cd hiuwave.com
+cd..
+256-256-0f2cfa15bd77ac738ef7a6d3ba790201.png
+e.
+git clone https://github.com/hiuWave/hiuwave.github.io.git
+"cd hiuwave.github.io
+ls
+slc index.html
+git checkout master
+git push master
+git config
+git glocal
+git global
+git --global
+git add.
+git config --global user.email "frizadiga@gmail.com"
+git config --global user.name "frizadiga"
+git commit -m "2nd change"
+ping hiuwave.com
+ping 192.30.252.154
+nslookup 192.30.252.154 
+git commit -m "3rd Change"
+cmderr
+cd config
+v user-aliases.cmd
+a:
+sl
+sl hiusig-sails
+hs -p 1111
+v user-aliases.cmd
+e d:
+e D:/
+e "D:/"
+e.
+bde a: -unlock -password
+ping google.com
+ping w3schools.com
+rsx
+a:
+cd %hiudata%
+cd hiuweb
+cd site
+cd hiuwave.github.io
+vim index.html
+git commit -m 'caption revision'
+git commit -m "caption revision"
+git commit -m "change BG"
+ren BG.PNG BG.png
+git add .
+git commit -m "typo bg name"
+git commit -m "Restructure"
+git add index.html
+git commit -m "Typo BG"
+sl index.html
+git commit -m "add animation"
+v index.html
+git commit -m "change animation"
+git push origin master
+code .
+cd %hiuapps%
+cd hiusig
+;s
+cd hiusig-sails
+git init
+git remote add origin https://github.com/frizadiga/hiuSIG-sails.git
+git remote -v
+git add --all
+git commit -m "1st commit"
+git push -u origin master
+cd electron
+dir
+cd..
+cd appjs
+ rd electron /s /q
+cd -hiuapps
+git clone https://github.com/frizadiga/hiuElectron.git
+cd hiuelectron
+ls
+v package.json
+git pull
+npm start
+vs index.html
+cls
+;s
+cd hiusig-sails
+git init
+git remote add origin https://github.com/frizadiga/hiuSIG-sails.git
+git remote -v
+git add --all
+git commit -m "1st commit"
+cd electron
+cd appjs
+ rd electron /s /q
+cd -hiuapps
+git clone https://github.com/frizadiga/hiuElectron.git
+cd hiuelectron
+v package.json
+git pull
+vs index.html
+v index.html
+npm start
+git add .
+git commit -m "add fading animate"
+git push -u origin master
+dir
+hs -p 3333
+cd react-tutorial
+v server.go
+v server js
+v server.js
+cls
+cd..
+cd react
+ls
+e .
+cd hiuwave.github.io
+ls
+slc index.html
+sl index.html
+git checkout master
+git push master
+git config
+git glocal
+git global
+git --global
+git add.
+git config --global user.email "frizadiga@gmail.com"
+git config --global user.name "frizadiga"
+git commit -m "2nd change"
+ping hiuwave.com
+ping 192.30.252.154
+nslookup 192.30.252.154 
+git commit -m "3rd Change"
+cmderr
+cd config
+v user-aliases.cmd
+a:
+cd hiusig
+cd hiusig-sails
+sl
+sl hiusig-sails
+hs -p 1111
+v user-aliases.cmd
+e d:
+e D:/
+e "D:/"
+bde a: -unlock -password
+ping google.com
+ping w3schools.com
+rsx
+a:
+cd %hiuapps%
+cd hiusig/hiusig-sails
+cd,,
+cd hiuweb
+cd site
+cd/
+hs -p1111
+cd %appjs%
+cd -hiuapps
+cd hiuwave.com
+e.
+git init
+git remote add origin https://github.com/frizadiga/hiuwave.com-express.git
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/hiuWave/hiuwave.com-express.git
+git pull --rebase
+git pull origin master --rebase
+git add --all
+git commit -m "Initial"
+dir
+git pull
+git add .
+git commit
+git commit -m "Change Desc"
+git push -u origin master
+git rm -r --cached node_modules
+git commit -m "Removed ignored node_modules"
+git push origin master
+cd..
+rd /?
+ren/?
+ls
+ren hiuWave.com hiuwave.com-express
+exit
+a:
+cd %hiuapps%
+cd hiusig
+sl
+sl hiusig-sails
+a:
+hs -p 1111
+v user-aliases.cmd
+e d:
+e D:/
+e "D:/"
+e.
+bde a: -unlock -password
+ping google.com
+ping w3schools.com
+rsx
+start-hiusig-sails
+cd hiusig-sails
+nodemon app.js
+npm i
+ndm app.js
+v .gitignore
+dir
+cd .tmp
+cd public
+git add --all
+git commit -m "Fix MD Err"
+git push -u origin master
+cls
+sl .
+cd..
+cd hiuwave.com
+cd hiuwave.com-express
+ls
+hs -p 3333
+npm start
+git add .
+ndm npm start
+vs .
+git add .
+git commit
+git commit -m "Change Desc"
+git push -u origin master
+git rm -r --cached node_modules
+git commit -m "Removed ignored node_modules"
+git push origin master
+rd /?
+ren/?
+ls
+ren hiuWave.com hiuwave.com-express
+exit
+cd,,
+cd hiuelectron
+cd..
+cd hiuwave.com/hiuwave.com-express
+npm start
+git push -u origin master
+git rm -r --cached node_modules
+git commit -m "Removed ignored node_modules"
+rd /?
+ren/?
+ren hiuWave.com hiuwave.com-express
+start .
+md hiuwave.com
+mv 
+mc /?
+mv /?
+mv --help
+mov
+move
+move /?
+move hiuwave.com-express hiuwave.com/hiuwave.com-express
+mv hiuwave.com-express hiuwave.com/hiuwave.com-express
+cd hiuwave.com
+cd hiuwave.com-express
+cd..
+ls
+cd hiuelectron
+npm start
+sl .
+npm i
+git add ,
+git commit -m "make frameless window"
+electron-packager .
+e .
+e.
+git add .
+git commit -m "add dist"
+git push origin master
+hs -p 3333
+npm start
+ndm npm start
+ %vscode%
+%vscode%
+vs .
+sl .
+git add .
+git commit -m "5th update"
+git push origin master
+cd hiusig
+cd hiusig-sails
+ndm app.js
+node
+App Daemon 2 & cls
+cls & App Daemon 2
+cls & echo App Daemon 2
+cls & echo hiuCMD
+cls & echo App Daemon 1
+node
+cls
+cls & node
+d
+cd %hiucmd%
+ls
+start-hiusig-sails
+ndm app.js
+cls & ndm app.js
+cls & ndm app.js
+ping yeoman.io
+sd -p
+cmderr
+cd config
+v user-aliases.cmd
+bde a: -unlock -password
+a:
+notepad heart-indo.txt
+notepad heartache-indo.txt
+v heartache-indo.txt
+sl heartache-indo.txt
+copy /?
+copy hearche-indo.html
+copy heartache-indo.html
+copy heartache-indo.html wherever you are-indo.html
+copy "heartache-indo.html" "wherever you are-indo.html"
+sl wherever you are-indo.html
+sl heartache-indo.html
+notepad "wherever you are-indo.html"
+sl "wherever you are-indo.html"
+ren "wherever you are-indo.html" "wherever-you-are-indo.html"
+sl  "wherever-you-are-indo.html"
+sl  "hearthache-indo.html"
+sl  "heartache-indo.html"
+cd %appjs%
+cd appjs
+cd -hiuapps
+cd hiuwave.com
+cd..
+cd site
+256-256-0f2cfa15bd77ac738ef7a6d3ba790201.png
+e.
+git clone https://github.com/hiuWave/hiuwave.github.io.git
+"cd hiuwave.github.io
+cd hiuwave.github.io
+ls
+slc index.html
+sl index.html
+git push master
+git config
+git glocal
+git global
+git --global
+git config --global user.email "frizadiga@gmail.com"
+git config --global user.name "frizadiga"
+git commit -m "2nd change"
+ping hiuwave.com
+ping 192.30.252.154
+nslookup 192.30.252.154 
+git commit -m "3rd Change"
+v user-aliases.cmd
+a:
+cd hiusig
+cd hiusig-sails
+sl
+sl hiusig-sails
+hs -p 1111
+e d:
+e D:/
+e "D:/"
+e.
+bde a: -unlock -password
+ping google.com
+ping w3schools.com
+rsx
+code
+code
+%vscode%
+%sublime%
+%VSCODE%
+%VSCODE%
+code
+%vscode%
+%sublime%
+%VSCODE%
+%VSCODE%
+code
+vs
+vs ntuser.ini
+cmderr
+cd config
+v user-aliases.cmd
+a:
+cd %hiuapps%
+cd react
+cd react/hiureact
+cd react/hiu-react
+v readme.md
+v .gitignore
+git rm --cached readme.md
+git rm --cached README.md
+git rm --cached .gitignore
+git commit -m "delete .gitignore and readme.md"
+git pull origin master --rebase --continue
+git rebase --continue
+rm -fr "A:/hiuData/hiuWEB/AppJS/react/hiu-react/.git/rebase-apply"
+git pull --rebase
+git pull origin master--rebase
+git checkout master
+git push -u origin master
+git pull --rebase development
+git pull origin branchname --allow-unrelated-histories
+git pull origin master --allow-unrelated-histories
+start /
+git reset head
+git pull
+git pull origin master
+git pull origin master --rebase
+rd /q /s hiu-react
+cd hiu -react
+ls
+git init
+git commit -m "init"
+git remote add origin https://github.com/frizadiga/hiuReact.git
+git remote -v
+git add --help
+git commit -m "2nd update"
+git commit -m "change spin value"
+npm run test
+cls
+npm i -g serve
+serve help
+serve
+create-react-app -v
+cd..
+index hiu-react
+hiu-react --help
+cd hiu-react
+--help
+git add -A
+git add --all
+git commit -m "3rd update"
+npm i -g getstorybook
+getstorybook
+getstorybook -f
+git commit -m "enhancement"
+git config core.autocrlf true
+git commit "5th update"
+git commit -m "5th update"
+git diff
+git commit -m "apps in black"
+git add.
+git commit -m "comment unused var"
+ e. 
+e .
+start .
+git commit -m "change animate opacity"
+git commit -m "shorten readme"
+git add .
+git commot -m "fix margin top"
+git commit -m "fix margin top"
+git push origin master
+npm run build
+serve -s build
+sl .
+dir /s
+rm .user-aliases.cmd.swp
+bash
+sd -h
+rsc
+rsx
+code
+vs code
+v user-aliases.cmd
+v user-aliases.cmd
+vs user-aliases.cmd
+vs users-aliases.cmd
+vs users-aliases.cmd
+vs user-aliases.cmd
+cd %appjs%
+cd electrom
+cd electron
+cd electron-quick-start
+v package.json
+npm start
+npm i -g electron
+npm un -g electron
+npm i -g electron --verbose
+electron -v
+electron 
+cd %hiuapps%
+cd hiusig/hiusig-sails
+git fetch
+git pull master
+git add --all
+git commit -m "initial commit"
+git pull
+git pull --rebase
+git pull origin master
+git pull origin master --rebase
+git add .gitignore
+git add README.md
+git rebase --continue
+git push -u origin master
+git clone https://github.com/frizadiga/hiuSIG-sails.git
+ping youtube.com -t -a
+c:
+cd users
+cd frizadiga
+v .vimrc
+gpedit.msc
+%SystemRoot%\SysWOW64\OneDriveSetup.exe /uninstall
+ddfasdfsd
+sdfa
+sadf
+sdf
+rd "%UserProfile%\OneDrive" /Q /S & rd "%LocalAppData%\Microsoft\OneDrive" /Q /S & rd "%ProgramData%\Microsoft OneDrive" /Q /S & rd "C:\OneDriveTemp" /Q /S
+REG Delete "HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f & REG Delete "HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f
+cls
+sd -h
+netsh wlan c hiuMifi
+npm i -g create-react-app
+e.
+git -v
+git --version
+cd vendor
+sl readme.md
+cd clink
+node -v
+npm i -g electron-packager
+a:
+cd..
+dir
+ls
+md hiuGS
+cd hiugs
+cmderr
+cd config
+v user-aliases.cmd
+%vscode%
+vs .
+dir
+hs -p 3333
+cd react-tutorial
+v server.go
+v server js
+v server.js
+ls
+e .
+cd $appjs
+cd %appjs%
+a:
+cls
+rmdir react /q /s
+cd react
+mkdir react & cd react
+create-react-app hiuReact
+"cd..
+cd..
+create-react-app hiu-react
+cd hiu-react
+npm start
+nmap hiuwave.com
+cd hiu-react
+npm start
+c;s
+nmap hiuwave.com
+nmap google.com
+nmap hiuwave/cdir
+nmap -p80 hiuwave.com
+nmap -p 80 hiuwave.com
+nmap -O hiuwave.com
+nmap -O hiuPC
+nmap -O andromax.ms2
+nmap -O 192.168.1.7
+cd %hiucmd%
+ls
+sl start-hiusig-sails.bat
+c:
+cd/
+cd windows
+cd a:
+cd -d c:\Windows\System32\Drivers\etc\hosts
+cd system32
+cd drivers
+a:
+cd -d "c:\Windows\System32\Drivers\etc\hosts"
+cd /d "c:\Windows\System32\Drivers\etc\hosts"
+cd /D "c:\Windows\System32\Drivers\etc\hosts"
+cmderr
+cd config
+sl user-aliases.cmd
+cmderac
+cmderr
+cd config
+sl user-aliases.cmd
+cd /d c:
+cd /?
+c:\Windows\System32\Drivers\etc\hosts
+cd c:\Windows\System32\Drivers\etc\hosts
+a:
+cd c:\Windows\System32\Drivers\etc\
+cd /d c:\Windows\System32\Drivers\etc\
+v c:\Windows\System32\Drivers\etc\hosts
+path
+cmderac
+nginx
+cmderac
+start nginx
+nginxr
+cmderac
+create-react-app hiu-react
+cd hiu-react
+npm start
+electron-packager -v
+node
+netsh wlan dis
+ipconfig /flushdns
+netsh wlan c hiuMifi
+cmderac
+vs .
+dir
+hs -p 3333
+cd react-tutorial
+v server.go
+v server js
+v server.js
+ls
+cd $appjs
+rmdir react /q /s
+cd react
+mkdir react & cd react
+create-react-app hiuReact
+"cd..
+create-react-app hiu-react
+cd hiu-react
+npm start
+a:
+cd %appjs%
+cd -hiuapps
+cd hiuwave.com
+cd hiuwave.com-express
+cd..
+cd hiusig/hiusig-sails
+sl .
+git commit -m "Med Fix"
+git add -A
+git commit -m "add user and properties association"
+git commit -m "fix table align"
+git commit -m "7th update"
+git checkout master
+git commit -m "fix listing img"
+gl
+git pull
+git commit -m "medium update"
+git add .
+git commit -m "UI enhancement"
+cls
+git push origin master
+e .
+ e.
+gl
+git pull
+git commit -m "medium update"
+git commit -m "UI enhancement"
+cls
+e .
+ e.
+e.
+git commit -m "Fix UI Layout"
+git diff .
+git add .
+git commit -m "fix root-relative path"
+git remote ser-url origin git@github.com:frizadiga/hiuSIG-sails.git
+git remote set-url origin git@github.com:frizadiga/hiuSIG-sails.git
+git remote set-url origin https://github.com/frizadiga/hiuSIG-sails.git
+git remote -v
+git push origin master
+nginxr
+start nginx
+tasklist
+taskkill /IM nginx.exe
+taskkill /IM nginx.exe /f
+traceroute
+tracert smartfren.com
+tracert www.smartfren.com
+electron -v
+ipconfig
+create-react-app hiu-react
+npm start
+a:
+cd %appjs%
+cd react
+ls
+cd hiu-react
+sl .
+git diff .
+git commit -m "update"
+git push origin master
+git add .
+ipconfig /flushdns
+netsh wlan c hiuMifi
+cmderac
+a:
+;s
+ls
+serve -s
+serve -s -p 1111
+hs -p 1111
+a:
+cd hiudata/hiuweb/appjs/react/hiu-react
+npm start
+create-react-app hiu-react
+cd hiu-react
+:
+a:
+cd hiudata/hiuweb/appjs/-hiuapss/hiuwave.com/hiuwave.com-express
+cd hiudata/hiuweb/appjs/-hiuapps/hiuwave.com/hiuwave.com-express
+cls
+npm stat
+npm start
+npm run start
+cd..
+cd hiusig/hiusig-sails
+ndm app.js
+start-hiusig-sails.cmd
+start-hiusig-sails
+start-hiusig-sails
+cd /d %hiuapps%
+ls
+sl .
+ e .
+start-hiusig-sails.cmd
+start-hiusig-sails
+start-hiusig-sails
+cd /d %hiuapps%
+sl .
+ e .
+bash
+cls
+sd -h
+bde a: -unlock -password
+a:
+d:
+cd/
+rd windows10upgrade
+rd windows10upgrade /S /q
+cd %hiuweb%
+cd %appjs%
+cd.
+cd /d  %appjs%
+ls
+cd mongodb
+md data/db
+md \data\db
+md "\data\db"
+md data
+cd data
+md db
+cd db
+cd..
+cd bin
+mongod --dbpath A:\hiuData\hiuWEB\DB\MongoDB\data\db
+mongod
+mongod
+mongod.exe
+cd /d %mongodb%
+ %mongodb%
+cd /d %mongodb%
+cd bin
+mongod
+mongodb
+mongodb
+cd /d %hiuapps%
+sl .
+ e .
+cd vendor
+ls
+cmderr
+cmderac
+cd %mongodb%
+cd /d %mongodb%
+cd /d %mongodb%
+%mongodb%
+%MONGODB%
+cd %mongodb%
+cd /d %mongodb%
+cd /d %mongodb%
+%mongodb%
+%MONGODB%
+cd /d %hiuapps%
+cd hiusig/hiusig-sails
+echo %cd%|clip
+npm --help
+npm  install --help
+cd api/model
+cd api
+cd models
+v crud.js
+v reports.js
+ls
+cd..
+npm i sails-hook-autoreload --save-dev
+curl localhost/api/url-slug
+curl localhost/api/url-slug?s=test-query
+cmderr
+cmderac
+cd %mongodb%
+cd /d %mongodb%
+cd /d %mongodb%
+%mongodb%
+%MONGODB%
+A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+start-hiusig-sails
+node app.js
+ndm app.js
+cls & ndm app.js
+%MONGODB%
+docker version
+bde a: -unlock -password
+a:
+docket --version
+docker --version
+docker-conpose --version
+docker-compose --version
+docker-machine --version
+docker info
+docker ps
+docker run hello-word
+docker run hello-world
+node
+cls
+npm upgrade -h
+npm outdated -h
+react-native-cli --help
+%mongodb%
+%MONGODB%
+cd /d %hiuapps%
+cd hiusig/hiusig-sails
+echo %cd%|clip
+npm --help
+npm  install --help
+cd api/model
+cd api
+cd models
+v crud.js
+v reports.js
+npm i sails-hook-autoreload --save-dev
+curl localhost/api/url-slug
+curl localhost/api/url-slug?s=test-query
+curl 192.168.1.1/api/url-slug?s=test-query
+curl localhost:1337/api/url-slug?s=test-query
+curl localhost:1337/api/url-slug/?s=test-query
+curl http://192.168.1.1:1337/api/urlslug/?query=%27SELECT%20*%20FROM%20USERS%20INNER%20JOIN%20PROPERTIES%20on%20files.idOwner%27
+curl http://192.168.1.1:1337/api/urlslug/?query=testQuery
+curl http://192.168.1.1:1337/api/url-slug/?query=testQuery
+npm un sails-hook-autoreload --save-dev
+git commit -m "remove hook autoreload"
+git diff
+git push
+curl http://192.168.1.1:1337/api/url-slug/
+git commit -m "fix url-slug"
+v package.json
+npm r
+cd node_modules
+cd..
+ls
+npm -r --help
+npm -l
+cd.. npm uninstall
+cd.. & npm uninstall -h
+npm i -h
+cd hiusig-sails
+npm outdated
+npm upgrade
+git add .
+git commit -m "update"
+git push origin master
+npm i -g react-native-cli
+create-react-app --version
+npm upgrade -g
+express -V
+express --version
+npm i express-generator -g
+pm2 --help
+pm2 --version
+npm -g outdated
+react-native-cli --help
+rsx
+node -v
+choco outdated
+choco
+choco
+choco outdated
+nmap -O 192.168.1.7
+nmap --help
+cls & nmap -v -A 192.168.1.7
+npm i -g yo
+nmap -O 192.168.1.1
+nmap -O localhost
+nmap -O 192.168.1.3
+a:
+hs -p 1111
+bash
+cd /d %mongodb%
+cd /d %mongodb%
+%mongodb%
+%MONGODB%
+cd /d %hiuapps%
+cd hiuproperty
+cd hiuproperty-express
+npm i 
+ls
+sl .
+git add
+git diff
+git commit -m "some update"
+git push 
+git add .
+git commit -m "add title"
+git push
+node
+choco outdated
+java
+py
+android
+bash -c vi app.js
+bash -c vi $1
+bash -c vi %1
+v
+bash
+ls
+cls
+ls
+cls
+android
+%ANDROID_HOME%
+CD %ANDROID_HOME%
+android
+CD %ANDROID_HOME%
+%android_home%
+%sublime%
+%abdroid_home%
+%android_home%
+a:
+hs -p 1111
+bash
+android avd
+ls
+cmderr
+cmderac
+cd %mongodb%
+cd /d %mongodb%
+cd /d %mongodb%
+%mongodb%
+%MONGODB%
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-express
+npm start
+ndm npm start
+cd.. ..
+cd ../..
+cd -hiuapps
+cd hiu-react && ls
+cd..
+cd hiureactnative
+react-native run-android
+cls & ndm app.js
+%MONGODB%
+docker version
+bde a: -unlock -password
+a:
+docket --version
+docker --version
+docker-conpose --version
+docker-compose --version
+docker-machine --version
+docker info
+docker ps
+docker run hello-word
+docker run hello-world
+npm upgrade -h
+npm outdated -h
+react-native-cli --help
+npm i -g react-native-cli
+react-native-cli --version
+npm install -g react-native-cli
+react-native-cli
+py
+choco install python2
+react-native --help
+react-native -v
+@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+choco info docker
+choco info nodejs
+choco info nodejs --verbose
+choco install nodejs
+Y
+node -v
+node
+cls
+cd %hiuxampp%
+cd %hiucmd%
+cd hiuxampp
+cd %hiuweb%
+cd hiuweb
+cd xampp
+cd htdocs
+cd..
+cd apache
+cd bin
+ls
+httpd
+ls
+httpd
+bde -unlock -password a:
+a:
+%java_home%
+adb
+a:
+adb
+android
+%java_home%
+cd /d %java_home%
+cd /d D:\hiuSoft\Application\PROGRAMMING\Android\Android\android-sdk\platform-tools
+adb devices
+cd %hiuapps% /d
+cd /d %hiuapps% 
+cd hiureactnative
+react-native run-android
+react-native run-android
+cd hiureactnative
+react-native run-android
+react-native run-android
+%android_home%
+%java_home%
+a:
+adb devices
+%android_home%
+android avd
+httpd
+cd /d %hiuapps%
+cd hiureactnative
+ls
+react-native start
+sl .
+docker-conpose --version
+docker-compose --version
+docker-machine --version
+docker info
+docker ps
+docker run hello-word
+docker run hello-world
+npm upgrade -h
+npm outdated -h
+react-native-cli --help
+npm i -g react-native-cli
+react-native-cli --version
+npm install -g react-native-cli
+react-native-cli
+py
+choco install python2
+react-native --help
+react-native -v
+@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+choco info docker
+choco info nodejs
+choco info nodejs --verbose
+choco install nodejs
+Y
+node -v
+node
+cls
+cd %hiuxampp%
+cd %hiucmd%
+cd hiuxampp
+cd %hiuweb%
+cd hiuweb
+cd xampp
+cd htdocs
+cd..
+cd apache
+cd bin
+ls
+httpd
+cd /d %hiuapps%
+cd hiusig/hiusig-sails
+git diff --cached
+git commit -m "update"
+git commit -m "change query disposition"
+git status -V
+git status -h
+git status -s
+git status --verbose
+git diff -h
+git diff --help
+git commit -m "add query getAllAgent"
+sl .
+git status origin master
+git remote
+git remote -v
+git status origin
+git status --help
+git status 
+git status -v
+git commit -m "add agent populate query"
+git commit -m "update css"
+e.
+git stat
+git commit -m "fix logo"
+git commit -m "image resize and fix modal image scrolbar"
+git commit -m "add link" && git push origin master
+git status
+git add .
+git commit -m "fix width search bar"
+git push origin master
+cmderac
+subl
+cmderac
+sl .
+react-native start
+cd..
+rd /s /q hiureactnative
+npm i -g create-react-native-app
+create-react-native-app hiu-react-native
+ls
+a:
+%android_home%
+android avd
+android
+android.exe
+android.bat
+adb devices
+ping google.com
+ping google.com -a
+choco install yarn
+yarn --version
+npm i -g create-react-native-app
+ls
+create-react-native-app hiu-react-native
+rd /s /q hiu-react-native
+cmderac
+subl .
+sl .
+git add .
+git status
+git commit -m "update"
+git push origin master
+yarn init
+yarn init
+cd /d %hiuapps%
+cd hiusig/hiusig-sails
+cost-of-modules
+cd hiusig/hiusig-sails
+cost-of-modules
+yarn init
+cd /d %hiuapps% && ls
+cd hiusig
+cordova create hiuSIG-cordova
+cd hiusig-cordova
+ls
+cd hiusig-cordova
+cdv platform add browser
+cdv run browser
+cordova plugin add cordova-plugin-browsersync
+git init
+cd..
+ls
+cd /d %hiuapps%/hiusig
+cd hiusig-cordova
+cdv run --list
+cdv platform add android --save
+cdv requirement
+cdv requirements
+sl
+cdv run android
+cd /d %hiuapps%/hiusig
+android
+cd..
+cd hiureactnative
+ls
+react-native run-android
+cd hiusig-cordova
+ls
+cd hiusig-cordova
+cdv platform add browser
+cdv run browser
+cordova plugin add cordova-plugin-browsersync
+git init
+cd..
+ls
+bde a: -unlock -password
+a:
+npm info cordova version
+cdv -v
+android
+cd %android_home%
+mkdir "%ANDROID_HOME%\licenses"
+echo |set /p="8933bad161af4178b1185d1a37fbf41ea5269c55" > "%ANDROID_HOME%\licenses\android-sdk-license"
+e.
+npm i -g browser-sync
+adb device
+adb devices
+cmderr
+sd -h
+choco -v
+cmderac
+refreshenv
+ccd
+cd /d %hiuapps%/hiusig
+echo %cd% | clip
+git init
+cd..
+ls
+android
+C:\Users\frizadiga
+echo cd|clip
+echo%cd%|clip
+echo %cd%|clip
+ls
+cd /d %hiuapps%/hiusig
+e.
+rd /s /q hiu-react-native
+cmderac
+subl .
+sl .
+git commit -m "update"
+git push origin master
+yarn init
+yarn init
+cd /d %hiuapps%
+cd hiusig/hiusig-sails
+cost-of-modules
+cd hiusig/hiusig-sails
+cost-of-modules
+yarn init
+cd /d %hiuapps% && ls
+cd hiusig
+cordova create hiuSIG-cordova
+cd hiusig-cordova
+ls
+cd hiusig-cordova
+cdv platform add browser
+cdv run browser
+cordova plugin add cordova-plugin-browsersync
+ls
+cd /d %hiuapps%/hiusig
+cd hiusig-cordova
+cdv run --list
+cdv platform add android --save
+cdv requirement
+cdv requirements
+sl
+cdv build
+cdv platform list
+cordova info
+cdv clean android
+cdv platform ls
+cdv platform rm android
+cdv platform add android
+cd hiuReactnative
+react-native start
+cd..
+cd hiusig/hiusig-cordova
+cdv platforn save
+cdv platform save
+cdv build browser
+cdv build android
+cdv plugin add cordova-plugin-browsersync
+cdv run -- --live-reload
+cdv run android
+git remote add origin https://github.com/frizadiga/hiuSIG-Cordova.git git push -u origin master
+git remote add origin https://github.com/frizadiga/hiuSIG-Cordova.git
+git push -u origin master
+git pull
+git pull origin master
+git add -A
+git status
+git checkout master
+git checkout
+git checkout origin master
+git init
+ git add .
+ git add .
+ git commit -m "init"
+git remote -v
+git remote add origin https://github.com/frizadiga/hiuSIG-Cordova.git && git push -u origin master
+android
+cd..
+cd hiureactnative
+react-native run-android
+sl 
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-cordova
+cdv run browser
+hs 
+ls
+cd www
+hs
+bde a: -unlock -password
+ls
+bde
+manage-bde a: -unlock -password
+cmderr
+cd %cmder_root%
+cd /d %cmder_root%
+cd config
+vi user-aliases.cmd
+vim user-aliases.cmd
+e.
+vi user-aliases.cmd
+vim user-aliases.cmd
+clear
+cmderr
+alias
+e.
+e.
+alias
+clink
+v
+sl
+e.
+alias
+cd  /d %cmder_root%
+cd config 
+vim user-aliases.cmd
+vi user-aliases.cmd
+vim user-aliases.cmd
+clear
+alias
+e.
+e.
+alias
+clink
+cmderr
+alias /?
+read doskey/?
+doskey/?
+doskey /macros
+alias /reload
+e.
+lxrun
+lxrun /install
+lxcore_trace
+bash /lxcore_trace
+lxrun /install /y
+sl
+v
+vim -v
+bde A:
+git
+bash
+alias
+cmderr
+sl 
+node
+npm install electron -g
+npm uninstall electron -g
+cmderr
+sl 
+node
+npm install electron -g
+npm uninstall electron -g
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiu-electron
+npm -g cache clear 
+yarn -why
+yarn add global electron
+refreshenv
+electron -v
+global -v
+global
+electron .
+npm rm global --save
+yarn --help
+npm start
+git status
+git
+clear
+cmderr
+alias
+e.
+e.
+alias
+clink
+v
+sl
+e.
+alias
+cd  /d %cmder_root%
+cd config 
+vim user-aliases.cmd
+vi user-aliases.cmd
+vim user-aliases.cmd
+clear
+alias
+e.
+e.
+alias
+clink
+cmderr
+alias /?
+read doskey/?
+doskey/?
+doskey /macros
+alias /reload
+e.
+lxrun
+lxrun /install
+lxcore_trace
+bash /lxcore_trace
+lxrun /install /y
+v
+vim -v
+bde A:
+bash
+alias
+cmderr
+a:
+bde a: -unlock -password
+rsx
+adb shell netcfg
+adb devices
+adb connect 192.168.1.3:5555
+android
+npm i -g vue-cli
+npm i pm2 -g
+npm -g outdated
+npm up electron-prebuilt -g
+npm update electron-prebuilt -g
+npm outdated -g
+npm update electron -g
+electron -v
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\
+ren hiuelectron hiu-electron
+cd hiu-electron
+ls
+npm update electron -save
+npm i --save
+npm uninstall electron -g
+electron
+npm i
+npm i electron
+npm clear cache
+npm cacje
+npm cache
+npm cache clean
+npm install electron --save-dev
+npm install
+npm cache clear
+rd /s /q node_modules
+npm install && npm start
+electron .
+npm start
+yarn global add electron
+yarn global add webpack
+webpack -v
+sd -h
+sl
+sl 
+ping telkomsel.com
+curl telkomsel.com
+cls
+git add .
+git commit -m "update"
+git push
+git remote --help
+git remote set-url origin https://github.com/frizadiga/hiu-electron.git
+git remote -v
+git pull
+git status
+git status -v
+v readme.md
+git
+cd..
+md hiu-C
+ren hiu-C hiu-c
+cd hiu-c
+sl .
+gcc -v
+cd /d %hiuapps%/hiureactnative
+ccd
+npm start
+cd..
+cd hiusig/hiusig-sails
+cls
+diskpart
+sl .
+gcc -v
+cd /d %hiuapps%/hiureactnative
+ccd
+npm start
+cd..
+cd hiusig/hiusig-sails
+cls
+diskpart
+lxrun
+cmd
+yarn -v
+refreshenv
+yarn
+ping chocolatey.org
+node -v
+ping yarnpkg.com
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-cordova
+adb connect 192.168.1.2:5555
+adb connect 192.168.1.3:5555
+cls
+diskpart
+cd %hiusig%
+cd /d %hiusig%
+cd /d %hiusapps%
+cd /d %hiuapps%
+ccd 
+cd hiusig/hiusig-cordova
+ccd
+cdv run android
+git rm -r --cached platforms
+git commit -m "removed platform"
+git status -v
+git add .
+git commit -m "add gitignore item and fix close icon"
+git push 
+git status
+cls
+git add .
+git commit -m "update"
+git push
+git remote --help
+git remote set-url origin https://github.com/frizadiga/hiu-electron.git
+git remote -v
+git pull
+git status
+git status -v
+v readme.md
+git
+cd..
+md hiu-C
+ren hiu-C hiu-c
+cd hiu-c
+sl .
+gcc -v
+cd /d %hiuapps%/hiureactnative
+ccd
+npm start
+cd..
+cd hiusig/hiusig-sails
+diskpart
+bde a: -unlock -password
+a:
+cls
+sl
+yarn global add live-server
+npm
+refresenv
+choco
+npm i -g live-server
+live-server
+hs
+@sd -h
+rsx
+hostname
+@shutdown -h
+choco install yarn -y
+choco install yarn -y -force
+yarn -v
+choco install --force
+choco install yarn --force
+refreshenv
+choco upgrade nodejs -y
+choco /?
+ping google.com
+choco info nodejs
+choco upgrade /?
+choco upgrade all
+choco outdated
+yarn
+cmderr
+e.
+sysdm.cpl
+control.exe sysdm.cpl,System,2
+sysdm.cpl,System,3
+control.exe sysdm.cpl,System,3
+cd hiu-c
+sl .
+gcc -v
+cd /d %hiuapps%/hiureactnative
+ccd
+npm start
+cd..
+cd hiusig/hiusig-sails
+cls
+diskpart
+cd /d %hiuapps%/hiusig/hiusig-sails
+sails generate controller test
+e.
+git commit -m "add agent feature"
+git commit -m "add title description"
+git status
+git add .
+git commit -m "remove unused css classes and files"
+git push origin master
+start-hiusig-sails
+ndm app.js
+cmderac
+start-hiusig-sails
+ndm app.js
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+node -v
+cdv -v
+refreshenv
+hs --version
+hs
+npm -g outdated
+exit
+cd A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd..
+cd hiusig-cordova
+hs
+node
+hs
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd .. & cd hiusig-sails-cordova
+cd.. & cd hiusig-cordova
+cd hiusig
+cd hiusig-cordova
+cdv requirement
+cdv requirements
+cordova -v
+yarn global add cordova
+cdv -v
+cd..
+quasar init hiuSIG-quasar
+cd hiusig-quasar
+yarn
+e.
+quasar dev mat
+git init
+git remote add gitlab https://frizadiga@gitlab.com/frizadiga/hiuSIG-quasar.git
+git add .
+git commit -m "init" 
+git push -u gitlab master
+git remote add github https://github.com/frizadiga/hiuSIG-quasar.git
+git push -u github
+quasar build
+git status
+quasar wrap cordova
+refreshenv
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+cmderac
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+refreshenv
+tohiusig
+to-hiusig
+cmderac
+exit
+cd-hiucmd & hs
+cd-hiusig/hiusig-cordova & hs
+cd-hiusig/hiusig-cordova 
+cd-hiusig/ 
+sd -h
+choco install yarn -y -force
+yarn -v
+choco install --force
+choco install yarn --force
+refreshenv
+choco upgrade nodejs -y
+choco /?
+ping google.com
+choco info nodejs
+choco upgrade /?
+choco upgrade all
+choco outdated
+yarn
+cmderr
+e.
+sysdm.cpl
+control.exe sysdm.cpl,System,2
+sysdm.cpl,System,3
+control.exe sysdm.cpl,System,3
+cd hiu-c
+sl .
+gcc -v
+cd /d %hiuapps%/hiureactnative
+ccd
+npm start
+cd..
+cd hiusig/hiusig-sails
+cls
+diskpart
+cd /d %hiuapps%/hiusig/hiusig-sails
+sails generate controller test
+e.
+git commit -m "add agent feature"
+git commit -m "add title description"
+git status
+git add .
+git commit -m "remove unused css classes and files"
+git push origin master
+start-hiusig-sails
+ndm app.js
+cmderac
+start-hiusig-sails
+ndm app.js
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+node -v
+cdv -v
+refreshenv
+hs --version
+hs
+npm -g outdated
+exit
+cd A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd..
+cd hiusig-cordova
+hs
+node
+hs
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd .. & cd hiusig-sails-cordova
+cd.. & cd hiusig-cordova
+cd hiusig
+cd hiusig-cordova
+cdv requirement
+cdv requirements
+cordova -v
+yarn global add cordova
+cdv -v
+cd..
+quasar init hiuSIG-quasar
+cd hiusig-quasar
+yarn
+e.
+quasar dev mat
+git init
+git remote add gitlab https://frizadiga@gitlab.com/frizadiga/hiuSIG-quasar.git
+git commit -m "init" 
+git push -u gitlab master
+git remote add github https://github.com/frizadiga/hiuSIG-quasar.git
+git push -u github
+quasar build
+quasar wrap cordova
+refreshenv
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+cmderac
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+refreshenv
+tohiusig
+to-hiusig
+cmderac
+cd-hiusig
+cd hiusig-sails
+git add . & git commit -m "add massages controller"
+git add . & git commit -m "change action bookings controller"
+git add . & git commit -m "touch up"
+sails generate model properties-category
+sails generate model propertiesCategory
+git commit -m "add PropertiesTypes model"
+git -a -m "change routes of booking view"
+git commit -a -m "change routes of booking view"
+sails generate controller PropertiesTypes
+git add -A
+git commit -m "add PropertiesTypes controller"
+git commit -m "add messages model attribute"
+git commit -a -m "touch up admin sidebar"
+git commit -a -m "touch up color admin sidebar"
+git commit -a -m "touch up padding admin sidebar"
+git commit -a -m "change column name"
+git commit -a -m "add messagesList action controller"
+git commit -a -m "add render date"
+git commit -a
+git commit -m "add messages functionality"
+git commit -m "touchup"
+git commit -m "add message query filter"
+git push github & git push gitlab
+git log
+git commit -a -m "add animate opacity"
+git commit -a -m "add messageCreate action"
+git commit -a -m "fix routes"
+git commit -a -m "message create finish"
+git commmit -m "touch up"
+git commit -m "touch up"
+git commit -m "fixing"
+git status 
+git commit -m "message feature update "
+git commit -m "add feature agen message form"
+git commit -m "fix typo"
+git commit -m "sort messages by date"
+git commit -m "touch up and fix createId bug"
+git add . & git status
+git add . & git status -v
+git commit -m "add idOwner parameter"
+git status
+git commit "change route"
+git commit -m "change route"
+git push gitlab
+git add .
+git commit -v
+:q
+git status -v
+git commit -m "fix naming convention"
+git push github
+cd-hiusig
+start-hiusig-sails
+git push github
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails-api
+ndm app.js
+ndm app.js --port 7777
+
+cls
+sl
+yarn global add live-server
+npm
+refresenv
+choco
+npm i -g live-server
+live-server
+hs
+@sd -h
+rsx
+hostname
+@shutdown -h
+choco install yarn -y
+choco install yarn -y -force
+yarn -v
+choco install --force
+choco install yarn --force
+refreshenv
+choco upgrade nodejs -y
+choco /?
+ping google.com
+choco info nodejs
+choco upgrade /?
+choco upgrade all
+choco outdated
+yarn
+cmderr
+e.
+sysdm.cpl
+control.exe sysdm.cpl,System,2
+sysdm.cpl,System,3
+control.exe sysdm.cpl,System,3
+cd hiu-c
+sl .
+gcc -v
+cd /d %hiuapps%/hiureactnative
+ccd
+npm start
+cd..
+cd hiusig/hiusig-sails
+cls
+diskpart
+cd /d %hiuapps%/hiusig/hiusig-sails
+sails generate controller test
+e.
+git commit -m "add agent feature"
+git commit -m "add title description"
+git status
+git add .
+git commit -m "remove unused css classes and files"
+git push origin master
+start-hiusig-sails
+ndm app.js
+cmderac
+start-hiusig-sails
+ndm app.js
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+node -v
+cdv -v
+refreshenv
+hs --version
+hs
+npm -g outdated
+exit
+cd A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd..
+cd hiusig-cordova
+hs
+node
+hs
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd .. & cd hiusig-sails-cordova
+cd.. & cd hiusig-cordova
+cd hiusig
+cd hiusig-cordova
+cdv requirement
+cdv requirements
+cordova -v
+yarn global add cordova
+cdv -v
+cd..
+quasar init hiuSIG-quasar
+cd hiusig-quasar
+yarn
+e.
+quasar dev mat
+git init
+git remote add gitlab https://frizadiga@gitlab.com/frizadiga/hiuSIG-quasar.git
+git add .
+git commit -m "init" 
+git push -u gitlab master
+git remote add github https://github.com/frizadiga/hiuSIG-quasar.git
+git push -u github
+quasar build
+git status
+quasar wrap cordova
+refreshenv
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+cmderac
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+refreshenv
+tohiusig
+to-hiusig
+cmderac
+exit
+cd-hiucmd & hs
+cd-hiusig/hiusig-cordova & hs
+cd-hiusig/hiusig-cordova 
+cd-hiusig/ 
+choco install yarn -y -force
+yarn -v
+choco install --force
+choco install yarn --force
+refreshenv
+choco upgrade nodejs -y
+choco /?
+ping google.com
+choco info nodejs
+choco upgrade /?
+choco upgrade all
+choco outdated
+yarn
+cmderr
+e.
+sysdm.cpl
+control.exe sysdm.cpl,System,2
+sysdm.cpl,System,3
+control.exe sysdm.cpl,System,3
+cd hiu-c
+sl .
+gcc -v
+cd /d %hiuapps%/hiureactnative
+ccd
+npm start
+cd..
+cd hiusig/hiusig-sails
+cls
+diskpart
+cd /d %hiuapps%/hiusig/hiusig-sails
+sails generate controller test
+e.
+git commit -m "add agent feature"
+git commit -m "add title description"
+git status
+git add .
+git commit -m "remove unused css classes and files"
+git push origin master
+start-hiusig-sails
+ndm app.js
+cmderac
+start-hiusig-sails
+ndm app.js
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+control.exe sysdm.cpl,EditEnvironmentVariables
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariablescmd
+cmderac
+node -v
+cdv -v
+refreshenv
+hs --version
+hs
+npm -g outdated
+exit
+cd A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd..
+cd hiusig-cordova
+hs
+node
+hs
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuSIG\hiuSIG-sails
+cd .. & cd hiusig-sails-cordova
+cd.. & cd hiusig-cordova
+cd hiusig
+cd hiusig-cordova
+cdv requirement
+cdv requirements
+cordova -v
+yarn global add cordova
+cdv -v
+cd..
+quasar init hiuSIG-quasar
+cd hiusig-quasar
+yarn
+e.
+quasar dev mat
+git init
+git remote add gitlab https://frizadiga@gitlab.com/frizadiga/hiuSIG-quasar.git
+git commit -m "init" 
+git push -u gitlab master
+git remote add github https://github.com/frizadiga/hiuSIG-quasar.git
+git push -u github
+quasar build
+quasar wrap cordova
+refreshenv
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+cmderac
+e.
+cd /d %hiusig%
+bde a: -unlocl -password
+bde a: -unlock -password
+refreshenv
+tohiusig
+to-hiusig
+cmderac
+git add . & git commit -m "add massages controller"
+git add . & git commit -m "change action bookings controller"
+sails generate model properties-category
+sails generate model propertiesCategory
+git commit -m "add PropertiesTypes model"
+git -a -m "change routes of booking view"
+git commit -a -m "change routes of booking view"
+sails generate controller PropertiesTypes
+git add -A
+git commit -m "add PropertiesTypes controller"
+git commit -m "add messages model attribute"
+git commit -a -m "touch up admin sidebar"
+git commit -a -m "touch up color admin sidebar"
+git commit -a -m "touch up padding admin sidebar"
+git commit -a -m "change column name"
+git commit -a -m "add messagesList action controller"
+git commit -a -m "add render date"
+git commit -a
+git commit -m "add messages functionality"
+git commit -m "touchup"
+git commit -m "add message query filter"
+git push github & git push gitlab
+git commit -a -m "add animate opacity"
+git commit -a -m "add messageCreate action"
+git commit -a -m "fix routes"
+git commit -a -m "message create finish"
+git commmit -m "touch up"
+git commit -m "fixing"
+git status 
+git commit -m "message feature update "
+git commit -m "add feature agen message form"
+git commit -m "sort messages by date"
+git commit -m "touch up and fix createId bug"
+git commit -m "add idOwner parameter"
+git commit "change route"
+git commit -m "change route"
+git commit -v
+:q
+git commit -m "fix naming convention"
+cd-hiusig
+cd hiusig-sails
+git add ,
+git  status
+git commit -m "restructure db scheme"
+git commit -m "add animate"
+git commit -m "change image object-fit"
+git commit -m "add additional close button"
+git commit -m "fix insert properti mechanism"
+git commit -m "add bookings mechanism"
+git commit -m "major touch up partner page and remove inconcistence style"
+git commit -m "touch up and delete unused assets"
+git add . & git commit -m "add id to route"
+git commit -m "add avatar"
+git add . & git status & git commit -m "touch up search panel"
+git add . & git status & git commit -m "touch up"
+git add . & git status & git commit -m "add capitalize"
+git push gitlav
+git add . & git status & git commit -m "add shadow" & git push gitlab
+git add . & git status & git commit -m "change item" & git push gitlab
+git add . & git status & git commit -m "change icon" & git push gitlab
+git add . & git status & git commit -m "add new item" & git push gitlab
+git commit -m "add new property feature"
+git add . & git commit -m "touch up"
+git add . & git commit -m "fix not login user"
+git commmit -m "add queryable controller"
+git commit -m "add queryable controller"
+gitlab push
+git add . & git status & git commit -m "touch up menu item" & git push gitlab
+git commit -m "touch up and expand footer"
+git commit -m "add and fix posted on typo"
+git commit -m "renamed to agent-list"
+git commit -m "add link to image"
+git commit -m "add new pattern and touch up"
+git commit -m "add capitalize function"
+git commit -m "update title more descriptive"
+git commit -m "tune up script load and change admin title"
+git push github
+git commit -m "add accordion"
+git commit -m "add overflow-y scroll"
+git commit -m "custom order js load and simplify slideshow function"
+git commit -m "touch up footer and remove condominium"
+git commit -m "create folder for documents and update res.view location"
+git commit -m "add administration letter"
+git commit -m "change data name and add property status"
+git commit -m "change opts passing data"
+sails generate controller documents
+git commit -m "add spp"
+git commit -m "touch up and fix layout"
+git log
+git commit -m "add new style"
+git commit -m "add pseudo class"
+git commit -m "add ppjb letter"
+git commit -m "add spajb"
+git commit -m "touch up status footer"
+git commit -m "touch up and add dynamic loop for images"
+git commit -m "update to queryable code"
+git commit -m "touch up logo badge"
+git commit -m "relayout control"
+git commit -m "touch up opaque"
+git commit -m "touch up and add booking message"
+git add . & status -v
+git commit -m "med touch up"
+git commit "add maps styles" -m
+git commit -m 'add maps styles'
+git commit -m ''add maps styles"
+git commit -m "add maps styles"
+git commit -m "touch up" & git push gitlab
+git commit -m "mass touch up"
+git add . git status
+git push gitlab 
+git commit -m "touch up and comment unused style"
+git push gitlab & sd -h
+git commit -m "renamed properties to listings and some updates"
+git commit -m "add desc sorting"
+git commit -m "remove unused asset"
+git commit -m "touch up and add desc sorting"
+git commit -m "update sql"
+sd -h
+git commit -m "add datalist"
+git commit -m "add datalist functional"
+git commit -m "rename attributes"
+git add . & git status -v
+git commit -m "add test"
+git add . & git status 
+git commit -m "reduce paramaters and change parameters"
+git add . & git status
+git commit -m "touch up"
+git add . 
+git commit -m "sql update"
+git status
+git status -v
+git commit -m "touch up and add agent search feature"
+git add .
+git commit -m "fix typo"
+git push gitlab
+git commit -m "reduce paramaters and change parameters"
+git commit -m "touch up"
+git add . 
+git commit -m "sql update"
+git status
+git status -v
+git commit -m "touch up and add agent search feature"
+git commit -m "fix typo"
+cd /d A:\hiuData\College\$kripsi
+cd draft
+git init
+git remote add origin https://frizadiga@gitlab.com/frizadiga/skripsi-draft.git
+git remote -v
+git commit -m "init"
+git push -u origin master
+git add . git status
+git add . & git status
+vim
+ls
+git rm --cached  ~$Bab 1.docx
+git rm --cached  "~$Bab 3.docx"
+git rm --cached  "~$Bab 4.docx"
+git rm --cached  "~$Bab 1.docx"
+git rm --cached  "~WRL0003.tmp"
+git rm --cached  "~WRL0573.tmp"
+git rm --cached  "~WRL0696.tmp"
+git commit -m "update"
+git push gitlab
+git push
+git add
+git add .
+vi .gitignore
+git commit -m "touch up"
+git add . 
+git commit -m "sql update"
+git status
+git status -v
+git commit -m "touch up and add agent search feature"
+git commit -m "fix typo"
+cd /d A:\hiuData\College\$kripsi
+cd draft
+git init
+git remote add origin https://frizadiga@gitlab.com/frizadiga/skripsi-draft.git
+git remote -v
+git commit -m "init"
+git push -u origin master
+git add . git status
+git add . & git status
+vim
+ls
+git rm --cached  ~$Bab 1.docx
+git rm --cached  "~$Bab 3.docx"
+git rm --cached  "~$Bab 4.docx"
+git rm --cached  "~$Bab 1.docx"
+git rm --cached  "~WRL0003.tmp"
+git rm --cached  "~WRL0573.tmp"
+git rm --cached  "~WRL0696.tmp"
+git add
+cd /d A:\hiuData\College\$kripsi\draft
+git push gitlab
+git commmit -m "update"
+git checkout master
+vi .gitignore
+git rm "~$Bab 1.docx"
+git rm "~$Bab 3.docx"
+git rm "~$Bab 4.docx"
+git rm ""
+git rm --cached "~$Bab 1.docx"
+git rm --cached "~$Bab 3.docx"
+git rm --cached "~$Bab 4.docx"
+git rm --cached "~Diagram.pptx"
+git rm --cached "~WRL0003.tmp"
+git rm --cached "~WRL0573.tmp"
+git rm --cached "~WRL0696.tmp"
+git rm --cached "~$diagram.pptx"
+git rm --cached "~$Diagram.pptx"
+git push 
+git add .
+git commit -m "update"
+git push
+git add . & git commit -m "update" & git push
+ccd
+c:
+cd/
+git add . & git commit -m "update" & git push
+ccd
+c:
+cd/
+bde :A -unlock -password
+bde A: -unlock -password
+sl
+rsx
+choco install nodejs -y
+npm -v
+refenv
+refsenv
+bde :A -unlock -password
+bde A: -unlock -password
+rsx
+choco install nodejs -y
+npm -v
+refenv
+refsenv
+bde a: -unlock -password
+a:
+sl
+sd -h
+sd cmderac
+cmderac
+exit
+EXIT
+exit
+sd cmderac
+cmderac
+exit
+cd-hiusig
+cd hiusig-sails
+git add .& git status
+git commit -m "fix contains query"
+git push gitlab
+git status
+sd -h
+git pull gitlab master
+git push github
+refresh env
+refreshenv
+heroku login
+exit
+cd-skripsi
+git status
+exit
+refreshenv
+heroku login
+cd-skripsi
+git status
+git add . & git status & git commit -m "update"
+git push 
+git pull
+sd -h
+git push gitlab
+git status
+sd -h
+git pull gitlab master
+git push github
+refresh env
+refreshenv
+heroku login
+bde a: -unlock -password
+a:
+cd hiudate
+cd hiudata
+cd hiuweb/db/postgresql
+ls
+vsc
+sl
+cmderr
+e.
+vs
+node
+start-hiusig-sails
+bde a: -unlock -password
+cls
+bde a: -unlock -password
+sd -h
+a:
+bde a: -unlock -password
+                          bde a: -unlock -password
+ping google.com
+gpedit.msc
+s
+start-hiusig-sails
+gpedit.msc
+s
+start-hiusig-sails
+node -v && npm -v
+refreshenv
+a:
+bde a: -unlock -password
+ping google.com
+gpedit.msc
+taskkill /f /im OneDrive.exe
+%SystemRoot%\System32\OneDriveSetup.exe /uninstall
+%SystemRoot%\SysWOW64\OneDriveSetup.exe /uninstall
+rd "%UserProfile%\OneDrive" /Q /S &rd "%LocalAppData%\Microsoft\OneDrive" /Q /S& rd "%ProgramData%\Microsoft OneDrive" /Q /S &rd "C:\OneDriveTemp" /Q /S
+REG Delete "HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f & REG Delete "HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f
+cmderr
+e.
+netsh wlan c hiuMifi
+sd -h
+refreshenv
+npm i -g cordova vue http-server
+hs -p 1111
+hs -p 1111
+cmderr
+netsh wlan c hiuMifi
+sd -h
+refreshenv
+npm i -g cordova vue http-server
+hs -p 1111
+hs -p 1111
+cd/
+cd hiudata
+cd hiupic/cv
+git init
+ls
+e.
+vim .gitignore
+git remote add origin https://gitlab.com/frizadiga/CV.git
+git commit -m "init"
+git push -u
+git push -u origin mastercls
+cls
+git push -u origin master
+git add . 
+git commit -m "update"
+git push origin
+git config
+git config --global user.name "frizadiga"
+git config --global user.name
+git config --global user.email
+git remote
+git remote ?
+git push origin master
+git remote set origin https://frizadiga@gitlab.com/frizadiga/CV.git
+git remote set-url origin https://frizadiga@gitlab.com/frizadiga/CV.git
+git remote set-url origin git@gitlab.com:frizadiga/CV.git
+git push
+git remote --verbose
+exit
+bde a: -unlock -password
+git push
+git remote --verbose
+exit
+bde a: -unlock -password
+cmderax
+cmderac
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+choco -v
+revreshenv
+refreshenv
+cd-hiuproperty
+refreshenv
+bde a: -unlock -password
+cd /d %hiuapps%
+cd hiuproperty/
+refreshenv
+refenv
+cd-hiuproperty-sails
+cd hiuproperty-sails
+git add .
+git commit -m "touch up"
+git status
+git push
+cd..
+ls
+vue -v
+vue -V
+npm outdated -g
+vue init pwa hiuProperty-vue
+cd hiuProperty-vue
+npm i
+npm run dev
+ccd
+cd-hiusig
+cd-hiuproperty
+cd-hiuProperty
+sd -h
+bde a: -unlock -password
+cd-hiusig
+cd-hiuproperty
+cd-hiuProperty
+cd /d %hiuapps%/hiuproperty/hiuproperty-sails
+git pull
+start-hiu-property-sails
+refreshenv
+start-hiuproperty-sails
+hiuproperty-sails
+cmderr
+cd bin
+ls
+cd /d %hiuapps%/hiuproperty/hiuproperty-sails
+git pull
+start-hiu-property-sails
+refreshenv
+start-hiuproperty-sails
+hiuproperty-sails
+cmderr
+cd bin
+ls
+ping google.com
+e.
+cd..
+git init
+ping hiuwave.com
+git remote add origin https://github.com/frizadiga/hiuEnvirontment.git
+git remote -v
+git add .
+git commit -m "init"
+git remote -v
+git add .
+git commit -m "init"
+git add . & git status
+git commit -m "update"
+g\
+ls -al ~/.ssh
+eval $(ssh-agent -s)
+clip < ~/.ssh/id_rsa.pub
+clip < ls -al ~/.ssh/id_rsa.pub
+git push -u origin master
+cd bin
+ls
+ping hiuwave.com
+ping google.com
+start-hiuproperty-sails
+hiuproperty-sails
+cmderr
+cd bin
+ls
+cd /d %hiuapps%/hiuproperty/hiuproperty-sails
+start-hiu-property-sails
+start-hiuproperty-sails
+hiuproperty-sails
+cmderr
+cd bin
+ls
+e.
+cd..
+git init
+git remote add origin https://github.com/frizadiga/hiuEnvirontment.git
+git remote -v
+git add .
+git commit -m "init"
+git commit -m "init"
+g\
+ls -al ~/.ssh
+eval $(ssh-agent -s)
+clip < ~/.ssh/id_rsa.pub
+clip < ls -al ~/.ssh/id_rsa.pub
+git remote set-url origin git@github.com:frizadiga/hiuEnvirontment.git
+git remote -v
+git pull
+git pull origin master
+git pull origin master --allow-unrelated-history
+git checkout master
+git merge origin/master --allow-unrelated-histories
+git push -u origin master
+git add . & git status
+sl
+git add .
+git add . & git status -v
+ping google.com
+git commit -m "update"
+git push
+ping hiuwave.com
+ping hiuwave.com & ping hiuwave.com
+ping hiuwave.com & ping google.com
+netsh wlan dis godspeed
+netsh wlan dis Godspeed
+netsh wlan dis 'Godspeed'
+ping google.com & ping hiuwave.com
+npm install -g quasar-cli
+quasar list
+refreshenv
+quasar -v
+npm install -g quasar-cli
+quasar list
+quasar -v
+refreshenv
+rsx
+bde a: -unlock -password
+refreshenv
+quasar -v
+npm install -g quasar-cli
+quasar list
+quasar -v
+sd -s
+sd -a
+refreshenv
+bde a: -unlock -password
+rsx
+hiucmd
+cmderr
+e.
+cd hiuenvironment
+cd hiuenvirontment
+cd..
+ren hiuEnvirontment hiuEnvironment
+exit
+exit
+refreshenv
+github
+hiuproperty-vue
+exit
+cmderr
+cd hiuenvironment
+cd hiuenvirontment
+ren hiuEnvirontment hiuEnvironment
+exit
+exit
+bde a: -unlock -password
+cd a: & start.
+e.
+git add . & git status
+git commit -m "add new batch"
+git push
+git add . & git status & git commit -m "fix batch task" & git push
+sl
+cmderac
+cd /d %hiuapps%
+cd hiugs & ls
+git clone https://github.com/nodejs/node.git
+cd..
+cd node
+ls
+ndm asuncAwait.js
+ndm asyncAwait.js
+cd-appjs
+cd-appjs
+f7-vue
+exit
+exit
+f7-vue
+exit
+exit
+refreshenv
+cmder
+sl
+cmderr
+cd-appjs
+cd-appjs
+f7-vue
+exit
+exit
+f7-vue
+exit
+exit
+cd..
+git add .
+git commit -m & git push
+git commit -m "update" & git push
+chr
+envir
+sl
+android
+bde-a
+http-server -p 7777
+cmder
+refreshenv
+cmderr
+npm i -g json-server
+hs -p 7777
+git add. & git status
+git add . & git status
+git
+exit
+sl
+exit
+git
+a:
+bde-a
+ping google.com
+sl
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe"
+f
+exit
+sl
+exit
+c:
+%cmder_start%
+cmder /?
+cmder /single
+exit
+c:
+ConEmuC.exe /ATTACH /NOCMD
+& powershell "-new_console:C:`"C:\path with spaces\favicon.ico`""
+& powershell "-new_console:C
+powershell "-new_console:C
+e.
+start.
+sh.exe --login -i -new_console:P:"Palette"
+cmd  -new_console:P:"Palette"
+cmd  -new_console:P
+cmd  -new_console:N
+cmd  -new_console:sv
+cmder
+cmder /?
+cmder /SINGLE
+cmder "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+cmder /SINGLE "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+sl
+"D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe" -cur_console:foih -cur_console:t:\Application\hiuEnvironment\cmder
+exit
+cmder /SINGLE "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+"D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe" -cur_console:foih -cur_console:t:\Application\hiuEnvironment\cmder
+> -cur_console:f -cur_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe"
+cmder -cur_console:f -cur_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe"
+start %CMDER_ROOT%\vendor\conemu-maximus5\ConEmu.exe /icon "%CMDER_ROOT%\cmder.exe" /title Cmder /loadcfgfile "%CMDER_ROOT%\config\ConEmu.xml" /cmd cmd /k "%CMDER_ROOT%\vendor\init.bat cd %CD% && %~1"
+cmder /start cmd
+cmder /START cmd
+cmder /START cmd.exe
+cmder /START "echo hello cmder"
+cmder /START "cmd.exe"
+cmder /START "echo test"
+cmder /START "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+cmder /START "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+cmder /START "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+cmder /START "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe"
+cmder /START "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\"
+ConEmu64.exe -Single -run {Shells::cmd}
+ConEmu64.exe -Single -run {Shells::cmd /k echo test}
+cmder
+cmd /k "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+cd vendor
+init
+init.bat
+cd conemu-maximus5
+cd conemu
+ls
+attach
+sl
+exit
+exit
+exit
+exit
+cd..
+git add . 
+git commit -m "update"
+git push
+a:
+bde a:
+bde-a
+sl
+C:\Windows\System32\rundll32.exe sysdm.cpl
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\rundll32.exe sysdm.cpl,0
+envir
+sysdm.cpl
+start.
+f7-vue
+exit
+node
+exit
+f7-vue
+f7-vue & cmd -cur_console:s
+npm run dev
+cls
+git add . & git status -v
+git commit -m "change name"
+npm i
+C:\Windows\System32\rundll32.exe sysdm.cpl
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\rundll32.exe sysdm.cpl,0
+envir
+sysdm.cpl
+start.
+f7-vue
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-api
+git status
+echo on
+echo off
+ cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-vue
+ cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-vue
+cls
+npm update
+git add. & git status
+refreshenv
+git add . & git status
+f7-vue
+cd..
+cd -hiuapps/hiuproperty
+cd hiuproperty-api
+ccd
+cpcd
+ndm app
+exit
+f7-vue & cmd -cur_console:s
+npm run dev
+cls
+git commit -m "change name"
+npm ?
+npm help
+npm help npm
+npm up framework7-vue
+npm outdated
+npm i
+git add . & git status -v
+git commit -m "change dependency version" & git push
+cpcd & cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-api
+npm update
+exit
+git add . & git status
+git status
+git status -v
+git commit -m "update deps"
+git push
+ndm app
+git commit -m "update"
+a:
+bde a:
+bde-a
+C:\Windows\System32\rundll32.exe sysdm.cpl
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\rundll32.exe sysdm.cpl,0
+envir
+sysdm.cpl
+start.
+f7-vue
+sd -h
+node
+echo ogg
+echo off
+@echo off
+f
+clear
+ping google.com
+A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-api
+cls
+choco info
+choco info nodejs
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+     --profile-directory="Default"
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --profile-directory="Default" --app="data:text/html,<html><body><script>window.moveTo(580,240);window.resizeTo(800,600);window.location='http://www.test.de';</script></body></html>"
+appchr
+appchr localhost:1700
+chrome.exe --headless --disable-gpu --screenshot --window-size=1280,1696 https://www.chromestatus.com/
+chrome --headless --disable-gpu --screenshot --window-size=1280,1696 https://www.chromestatus.com/
+chrome --window-size=1280,1696 https://www.chromestatus.com/
+appchr http://localhost:1700
+appchr http://hiuwave.com
+cd..
+git add . & git status
+git commit -m "add chrome app command"
+git push
+sl
+appchr https://framework7.io/kitchen-sink-material/
+cd-hiuproperty 
+cd hiuproperty-api
+ run dev
+sd -h
+sd -h
+sl
+node
+chrome. --kiosk http://hiuwave.com
+chrome.cmd --kiosk http://hiuwave.com
+appchr http://hiuwave.com
+chrome.cmd --kiosk=http://hiuwave.com
+chrome.cmd --kiosk="http://hiuwave.com"
+chrome --kiosk
+chrome --kiosk hiuwave.com
+chrome -kiosk hiuwave.com
+chrome --app hiuwave.com
+chrome --app= hiuwave.com
+chrome --app="hiuwave.com"
+chrome --app="http://hiuwave.com"
+chrome --kiosk="http://hiuwave.com"
+chrome "http://hiuwave.com"
+chrome "http://hiuwave.com" --kiosk
+cmder
+ run dev
+sd -h
+cd..
+cd playground
+cd f7-vue
+cmder
+git status
+f7-vue
+cd-hiuproperty
+cd hiuproperty-api & ndm app
+cd-hiuproperty
+cd hiuproperty-api
+cd hiuproperty-api & ndm app
+cd-hiuproperty
+cd hiuproperty-api
+cd playground 
+cd f7-vue
+cd..
+git clone https://github.com/electron/electron-quick-start
+ren electron-quick-start hiu-me
+cd hiu-me
+sl .
+npm i & npm start
+npm i --verbose
+rm -rf node_modules
+ls
+chrome
+cd-appjs
+cd playground
+ls
+cd my-project
+cpcd
+exit
+exit
+exit
+sl
+bde-a
+f7-vue
+cd..
+cd..
+git add .
+git add -A
+git status
+git commit -m "update"
+git push
+sl
+node
+cd-appjs
+node
+sl
+git add -A
+git commit -m "update"
+git push
+node
+cmder
+node
+cmder
+exit
+f7-vue
+cd /d A:\hiuData\hiuWEB\AppJS\playground\my-project
+cd..
+git add . & git commit -m "update"
+git push
+sl
+cd-appjs
+cd playground
+cd my-project
+npm run dev
+cd..
+git add .
+git status
+git commit -m "update"
+git push
+chrome
+cd playground
+cd my-project
+npm run dev
+cd..
+cd-appjs
+cd-hiuapps
+cd -hiuapps
+md hiu-window-size
+cd hiu-window-size
+ls
+npm init
+git init
+git remote add origin git@github.com:frizadiga/hiu-window-size.git git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git & git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git
+git push -u origin master
+git remote -v
+exit
+f7-vue
+cd /d A:\hiuData\hiuWEB\AppJS\playground\my-project
+cd..
+git add . & git commit -m "update"
+git push
+cd-appjs
+cd playground
+cd my-project
+npm run dev
+cd..
+git status
+chrome
+cd playground
+cd my-project
+npm run dev
+cd..
+cd-appjs
+cd-hiuapps
+cd -hiuapps
+md hiu-window-size
+cd hiu-window-size
+ls
+npm init
+git init
+git remote add origin git@github.com:frizadiga/hiu-window-size.git git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git & git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git
+git push -u origin master
+git remote -v
+sym.cpl
+symdm.cpl
+sysdm.cpl
+bde-a
+git add .
+git commit -m "update"
+git push
+sl
+google-translate
+chrome --app="hiuwave.com" --window-size="300,300"
+chrome --app="hiuwave.com"
+chrome --window-size="300,300"
+chrome --window-size=300,300
+chrome --window-size=300,300 --app="http://hiuwave.com"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --profile-directory="Default"
+google-chrome "data:text/html;charset=ISO-8859-1,<html>     <head></head><body><script language=\"javascript\">         window.open('http://perso.f-hauri.ch/~felix/svg/dustin_w_Clock_autonom.svg',              'clock','toolbar=0,location=0,status=0,menubar=0,scrollbars=1,'              +'resizable=1,width=600,height=600,top=100,left=120');</script>"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default" --user-data-dir="Default"
+f7-kitchen-sink
+choco install nodejs
+choco upgrade nodejs
+choco upgrade nodejs -y
+C:\ProgramData\chocolatey\logs\chocolatey.log
+node -v
+refreshenv
+sd -h
+bde-a
+sl
+quran 1 2
+chrome
+sd -h
+chrome
+bde a: -unlock -password
+git add . & git status
+git commit -m "update"
+quran 1 7
+xampp-control
+bde-a
+xampp-control
+git add . & git status
+git commit -m "update"
+git push
+quran
+a:
+bde-a
+xampp-control
+xampp-control
+bde-a
+xampp-control
+cd-hiuproperty/hiuproperty-api
+git add .
+git status
+git status -v
+git commit -m "change model migration policy"
+git push
+\
+cls
+cd..
+cd playground
+md f7-v2 & cd f7-v2 & git clone https://github.com/nolimits4web/Framework7/tree/v2
+ls
+git clone https://github.com/nolimits4web/Framework7/tree/v2
+chrome --app="hiuwave.com" --window-size="300,300"
+chrome --app="hiuwave.com"
+chrome --window-size="300,300"
+chrome --window-size=300,300
+chrome --window-size=300,300 --app="http://hiuwave.com"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --profile-directory="Default"
+google-chrome "data:text/html;charset=ISO-8859-1,<html>     <head></head><body><script language=\"javascript\">         window.open('http://perso.f-hauri.ch/~felix/svg/dustin_w_Clock_autonom.svg',              'clock','toolbar=0,location=0,status=0,menubar=0,scrollbars=1,'              +'resizable=1,width=600,height=600,top=100,left=120');</script>"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default" --user-data-dir="Default"
+f7-kitchen-sink
+choco install nodejs
+choco upgrade nodejs
+choco upgrade nodejs -y
+C:\ProgramData\chocolatey\logs\chocolatey.log
+refreshenv
+sd -h
+bde-a
+quran 1 2
+chrome
+chrome
+bde a: -unlock -password
+git add . & git status
+git commit -m "update"
+quran 1 7
+xampp-control
+bde-a
+xampp-control
+quran
+a:
+bde-a
+xampp-control
+quran 1 1
+quran 2 300
+quran 2 255
+appchr http://hiupc:1700
+netsh wlan start hostednetwork
+netsh wlan show hostednetwork
+netsh wlan stop hostednetwork
+appchr http://hiuwave.com
+google-translate
+git add . & git status
+git commit -m "update"
+git push
+sl
+sd -h
+f7-kitchen-sink-mat
+appchr http://localhost:3000
+node -v
+node
+git add .
+git status
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-v2
+cls
+vim package.json
+npm run prod
+cd-hiuproperty/hiuproperty-api
+ndm api
+ndm app
+xampp-control
+hiu-me-vue
+xampp-control
+bde-a
+xampp-control
+cd-hiuproperty/hiuproperty-api
+git add .
+git status
+git status -v
+git commit -m "change model migration policy"
+git push
+\
+cls
+cd playground
+md f7-v2 & cd f7-v2 & git clone https://github.com/nolimits4web/Framework7/tree/v2
+git clone https://github.com/nolimits4web/Framework7/tree/v2
+git clone https://github.com/framework7io/Framework7.git
+rm -rf framework7
+git clone -b v2 https://github.com/framework7io/Framework7.git
+cd framework7
+git -v
+git --version
+git checkout v2
+git branch -a
+cd..
+rm -rf f7-v2
+git clone https://github.com/framework7io/Framework7.git -b v2 --single-branch f7-v2 
+cd f7-v2
+npm i grunt gulp -g
+npm i webpack -g
+ls
+npm i
+npm run prod
+git add .
+f7-vue
+f7-vue
+cd-appjs/playground
+cd f7-v2
+npm run prod & appchr http://localhost:3000
+f7-v2
+rm -rf f7-v2
+git clone https://github.com/framework7io/Framework7.git -b v2 --single-branch f7-v2 
+cd f7-v2
+npm i grunt gulp -g
+npm i webpack -g
+ls
+npm i
+npm run prod
+f7-vue
+cmder/vendor/Sublime Text Portable/Data/Index/LOG
+%cmder%/vendor/Sublime Text Portable/Data/Index/LOG
+%cmder%"/vendor/Sublime Text Portable/Data/Index/LOG"
+bde-a
+sl
+start.
+git status -v cmder/bin/hiuproperty-sails.cmd
+git status cmder/bin/hiuproperty-sails.cmd
+git status cmder/bin/hiuproperty-sails.cmd -v
+git status 
+git commit -m "update"
+git add .
+git status
+git push
+quran 
+quran 33 72
+sd -h
+google-traslation
+google-translate
+choco upgrade nodejs -y
+node -v & npm -v
+cd f7-v2
+npm i grunt gulp -g
+npm i webpack -g
+npm i
+npm run prod
+git add .
+f7-vue
+cmder
+c\mderr
+cmderr
+ls
+dir -ah
+dir
+dir /h
+dir -h
+dir /?
+cd cmder
+cd..
+dir /A
+vim .gitignore
+sp
+f7-v2
+f7-v2
+xampp-control
+sp
+f7-v2
+f7-v2
+xampp-control
+bde-a
+git diff
+git add .
+git status
+git commit -m "update"
+sl
+kbbi
+ons-ks-android
+f7-ks-mat
+acm http://hiupc:1777
+acm http://hiupc:1700
+sd -h
+git clone https://github.com/framework7io/Framework7.git -b v2 --single-branch f7-v2 
+cd f7-v2
+npm i grunt gulp -g
+npm i webpack -g
+ls
+npm i
+npm run prod
+f7-vue
+cmder/vendor/Sublime Text Portable/Data/Index/LOG
+%cmder%/vendor/Sublime Text Portable/Data/Index/LOG
+%cmder%"/vendor/Sublime Text Portable/Data/Index/LOG"
+bde-a
+sl
+start.
+git status -v cmder/bin/hiuproperty-sails.cmd
+git status cmder/bin/hiuproperty-sails.cmd
+git status cmder/bin/hiuproperty-sails.cmd -v
+git status 
+git add .
+quran 
+quran 33 72
+google-traslation
+google-translate
+choco upgrade nodejs -y
+node -v & npm -v
+npm i grunt gulp -g
+npm i webpack -g
+npm i
+npm run prod
+f7-vue
+cmder
+c\mderr
+cmderr
+dir -ah
+dir
+dir /h
+dir -h
+dir /?
+cd cmder
+dir /A
+vim .gitignore
+sp
+f7-v2
+f7-v2
+xampp-control
+gt
+cd-appjs
+cd playground
+ls
+acm http://hiupc:1700
+cd f7-v2
+git commit -m "update"
+cd..
+cd f7-vue
+cls
+git commit -m "add icon"
+git remote
+git remote -v
+git commit -m "change panel transition duration"
+git commit -m "tuning ui & touch up"
+git commit -m "tuning page transition"
+ git diff
+git commit -m "tuning panel animate"
+git commit -m "separate component & touch up"
+git commit -m "touch up & fix data"
+git diff
+git commit -m "touch up & add toolbar item"
+git status
+git add .
+git status -v
+git commit -m "redesign bottom toolbar"
+git push
+sd -h
+f7-vue
+cd-f7-v2
+cd..
+cd f7-v2
+hs -p 1777
+git commit -m "redesign bottom toolbar"
+git push
+sd -h
+f7-vue
+cd-f7-v2
+cd f7-v2
+hs -p 1777
+cd-appjs/playground
+cd f7-v2-vue
+vim package.json
+npm run build-prod
+cd dist
+ls
+cd kitchen-sink
+hs -p 3333 & acm http://hiupc:3333
+cd..
+acm http://hiupc:3333
+hs -p 3333 
+git outdated
+npm up
+npm outdated
+npm upgrade
+cmder
+acm http://hiupc:1700
+hs -p 3333 & acm http://hiupc:3333
+acm http://hiupc:3333
+hs -p 3333 
+git outdated
+npm up
+npm outdated
+npm upgrade
+cmder
+acm http://hiupc:1700
+cd-appjs/playground/f7-v2
+sl .
+cd..
+cd f7-vue
+git commit -m "tuning animation motion"
+git commit -m "tidy up"
+git diff
+git add .
+git status
+git commit -m "add pwa enhancement"
+git push
+heroku
+ping google.com
+bde-a
+git add .
+git status
+git status -v
+git add .
+git status
+git commit -m "update"
+git push
+git diff
+a:
+D:
+exit 1
+d:
+exit 1
+bde-a
+a:
+d:
+git diff
+rsx
+bt
+sd -h
+cd-hiuproperty
+cd hiuproperty-sails
+sl .
+ccd
+cpcd
+git add .
+git status
+git commit -m "upgrade w3.css"
+git push
+exit 1
+d:
+git diff
+start-xampp
+cd/
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-sails
+c:
+a:
+ndm
+c:
+a:
+ndm
+mstsc :v hiubook
+mstsc /v hiubook
+gt
+sd -h
+bde-a
+sl
+xampp-control
+cd-appjs/playground
+cls
+ls
+sails -v
+cd-hiuproperty
+cd hiuproperty-api
+npm i -g --save sails@^1.0.0
+npm install -g --save sails@^1.0.0
+xampp-control
+cd-appjs
+cd playground
+ls
+cd .
+sl .
+cd..
+rm -rf f7-v2
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git f7-v2
+cd f7-v2
+npm i & npm run build:dev
+acm http:hiupc:/1800 & hs -p 1800
+git diff
+npm run build:prod
+npm run dev
+npm install -g --save sails@^1.0.0
+npm install -g --save sails@beta
+sails upgrade
+sails -v
+npm run dev
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+ndm
+exit
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-sails
+c:
+a:
+ndm
+c:
+ndm
+mstsc :v hiubook
+mstsc /v hiubook
+sl
+xampp-control
+bde-a
+gt
+quran 1 1
+kbbi
+bt
+a:
+d:
+git diff
+git add .
+git status
+git commit -m "update"
+git push
+telegram
+git add . & git commit -m "update" & git push
+sd -h
+npm i -g sails@beta
+npm i -g firevase-tools json-server nativescript ngrok pm2 webpack
+npm i -g firebase-tools json-server nativescript ngrok pm2 webpack
+npm outdated -g
+refreshenv
+nvm
+nvm arc
+nvm arch
+nvm install
+nvm install 9.1.0
+nvm use 9.1.0
+node -v
+nvm install 8
+nvm install latest
+nvm install 8 latest
+nvm install lts
+nvm i
+nvm i 8.9.1
+nvm install 8.9.1
+nvm list
+nvm uninstall 9.0.0 8.0.0
+nvm uninstall 8.0.0
+nvm uninstall 9.0.0
+start C:\Users\frizadiga\AppData\Roaming\nvm\v9.0.0.
+nvm ls
+exit
+sl .
+rm -rf f7-v2
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git f7-v2
+cd f7-v2
+npm i & npm run build:dev
+acm http:hiupc:/1800 & hs -p 1800
+git diff
+npm run build:prod
+npm run dev
+npm install -g --save sails@^1.0.0
+npm install -g --save sails@beta
+npm install @sailshq/upgrade
+npm install sails-hook-grunt@^1.0.0-0 --save
+npm install sails-hook-grunt@^2.0.0-0 --save
+npm install sails-hook-grunt --save
+npm i sails-hook-sockets --save
+npm install balderdashy/sails-hook-sockets --save
+sails upgrade
+start .
+cd f-apps
+cd..
+rd f-apps
+hiuland
+cd-apps
+cd-appjs
+cd -hiuapps
+ls
+sails -v
+md hiuLand
+cd hiuland
+sails new hiu-land-api
+rm -rf hiu-land-api
+sails new hiu-land-api --no-frontend --fast
+cd hiu-land-api
+npm i
+git init
+git config --global user.name "frizadiga" &  git config --global user.email "frizadiga@gmail.com"
+git remote add origin git@gitlab.com:frizadiga/hiu-land-api.git
+git add .
+git commit -m "init" 
+git push -u origin master
+ndm
+cpcd
+sails generate api listings users
+sails generate api listings, users
+sails generate api users
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+ndm
+exit
+sl
+exit
+sl
+cd-appjs/playground/f7-vue
+npm run dev
+npm i
+sails new hiu-land-api
+rm -rf hiu-land-api
+sails new hiu-land-api --no-frontend --fast
+cd hiu-land-api
+npm i
+git init
+git config --global user.name "frizadiga" &  git config --global user.email "frizadiga@gmail.com"
+git remote add origin git@gitlab.com:frizadiga/hiu-land-api.git
+git commit -m "init" 
+git push -u origin master
+ndm
+cpcd
+sails generate api listings users
+sails generate api listings, users
+sails generate api users
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+ndm
+exit
+sl
+git add .
+git status
+git commit -m "update"
+git push
+ping google.com -t
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sl .
+ping google.com
+nvm uninstall 9.1.0 & nvm uninstall 8.9.1
+c:
+nvm uninstall 9.1.0 
+start C:\Users\frizadiga\AppData\Roaming\nvm\
+nvm install 8.9.1
+nvm use 8.9.1
+node 
+node -v
+nvm install latest
+nvm use 9.1.0
+node
+nvm ls
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm -v
+npm
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm
+nvm ls
+node
+nvm uninstall 9.1.0
+nvm install 9.1.0
+npm -v
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+exit
+sl
+cd-appjs/-hiuapps/hiuland/hiuland-api
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ccd
+cpcd
+ndm
+ndm app.js
+npm start
+ping google.com
+nvm
+nvm ls
+npm -v
+cd-appjs/playground
+cd f7-v2
+git diff
+npm run prod
+vim package.json
+hs -p 3000
+cpcd
+ndm
+ndm app.js
+npm start
+ping google.com
+nvm
+nvm ls
+npm -v
+cd-appjs/playground/f7-v2
+cma http://hiupc:3000
+cd..
+ls
+cd f7-v2-vue
+git diff
+git reset
+git reset --hard
+git pull
+npm i
+sd -h
+git diff
+git reset
+git reset --hard
+rm -rf node_modules
+npm i
+npm run dev
+hs -p 3333
+start .
+vim package.json
+npm run prod
+cd f7-vue
+git pull
+cd..
+ ls
+sd -h
+sails generate controller res
+ndm
+exit
+sl
+exit
+sl
+cd-appjs/playground/f7-vue
+npm install
+npm -v
+node build/dev-server.js
+cd..
+cd -hiuapps
+cd hiuland
+git clone git@gitlab.com:frizadiga/f7-vue.git hiu-land-pwa
+cd hiu-land-pwa
+git remote -v
+git remote add origin git@gitlab.com:frizadiga/hiu-land-pwa.git
+git remote set origin git@gitlab.com:frizadiga/hiu-land-pwa.git
+git remote set-url origin git@gitlab.com:frizadiga/hiu-land-pwa.git
+git commit -m "init"
+git push -u origin master
+npm run build
+npm i
+npm diff
+git diff
+git add .
+git status
+git status -v
+git commit -m "init fork change"
+hs
+npm run dev
+cpcd & npm run dev
+ccd
+cpcd
+ndm app.js
+npm start
+ping google.com
+nvm
+nvm -v
+nvm -ls
+nvm ls
+nvm use 9.1.0
+npm -v
+ndm
+git push -u origin master
+ndm
+cpcd
+sails generate api listings users
+sails generate api listings, users
+sails generate api users
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+ndm
+exit
+sl
+cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-vue
+nvm list
+nvm use 8.9.1
+gt
+ls
+cd f7-v2-vue
+npm run dev
+npm i
+cd..
+cd f7-vue
+npm -v
+node -v
+acm http://hiupc:1700
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+git status
+git add .
+git status -v
+git status 
+git commit -m "pivot project"
+git push
+kbbi
+sd -h
+sails generate controller res
+ndm
+exit
+ping google.com -t
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sl .
+ping google.com
+nvm uninstall 9.1.0 & nvm uninstall 8.9.1
+c:
+nvm uninstall 9.1.0 
+start C:\Users\frizadiga\AppData\Roaming\nvm\
+nvm install 8.9.1
+node 
+nvm install latest
+node
+nvm ls
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm -v
+npm
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+node
+nvm uninstall 9.1.0
+nvm install 9.1.0
+npm
+nvm ls
+nvm use 9.1.0
+node -v
+nvm use 8.9.1
+npm -v
+npm i -g sails@beta nodemon pm2 http-server ngrok firebase-tools
+d:
+git commit -a
+git reset 
+git add & git commit -a
+git add & git commit -a -m "update"
+git add
+cmderr
+sl
+git add .
+git status
+git commit -m "update"
+git push
+test
+xampp-control
+git diff
+npm -v
+node -v
+acm http://hiupc:1700
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+git status
+git add .
+git status -v
+git status 
+git commit -m "pivot project"
+git push
+kbbi
+sd -h
+sails generate controller res
+ndm
+exit
+ping google.com -t
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sl .
+ping google.com
+nvm uninstall 9.1.0 & nvm uninstall 8.9.1
+c:
+nvm uninstall 9.1.0 
+start C:\Users\frizadiga\AppData\Roaming\nvm\
+nvm install 8.9.1
+node 
+nvm install latest
+node
+nvm ls
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm -v
+npm
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+nvm uninstall 9.1.0
+nvm install 9.1.0
+npm
+nvm ls
+nvm use 9.1.0
+node -v
+nvm use 8.9.1
+npm -v
+npm i -g sails@beta nodemon pm2 http-server ngrok firebase-tools
+d:
+git commit -a
+git reset 
+git add & git commit -a
+git add & git commit -a -m "update"
+git add
+sl
+git add .
+git status
+git commit -m "update"
+git push
+test
+xampp-control
+git diff
+bde-a
+py
+node
+pssd
+pclip
+paste /?
+paste/?
+powershell -sta "add-type -as System.Windows.Forms; [windows.forms.clipboard]::GetText()"
+@if (@CodeSection == @Batch) @then  @echo off setlocal  set "getclip=cscript /nologo /e:JScript "%~f0""  rem // If you want to process the contents of the clipboard line-by-line, use rem // something like this to preserve blank lines: for /f "delims=" %%I in ('%getclip% ^| findstr /n "^"') do (     setlocal enabledelayedexpansion     set "line=%%I" & set "line=!line:*:=!"     echo(!line!     endlocal )  rem // If all you need is to output the clipboard text to the console without rem // any processing, then remove the "for /f" loop above and uncomment the rem // following line: :: %getclip%  goto :EOF  @end // begin JScript hybrid chimera WSH.Echo(WSH.CreateObject('htmlfile').parentWindow.clipboardData.getData('text'));
+cd cmder & cpcd
+cd /d pscd
+echo pscd
+echo pscd.cmd
+cd cmder
+cd..
+paste | cd /d
+cd /dD:\hiuSoft\Application\hiuEnvironment\cmder
+cd /d D:\hiuSoft\Application\hiuEnvironment\cmder
+a:
+print
+print "tes"
+cd /d paste 
+cd /d paste.exe 
+cmderr
+cd bin
+cd /d paste
+cd /d paste.exe
+echo paste.exe
+paste | cd
+paste | print
+paste|print
+paste|sort
+paste|sort|cd
+paste|sort|cd /d
+D:\hiuSoft\Application\hiuEnvironment\cmder
+paste|cd /d
+paste|cd /d|echo
+paste|cd /d|echo paste
+paste & cd |
+paste & cd 
+cd %paste%
+cd /f %paste%
+cd /d %paste%
+cd /d | paste
+cd | paste
+cd
+paste
+paste | command
+paste | echo
+paste || echo
+cpcd
+clip
+clip /?
+D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+set _getclip=powershell "Add-Type -Assembly PresentationCore;[Windows.Clipboard]::GetText()" for /f "eol=; tokens=*" %I in ('%_getclip%') do set CLIPBOARD_TEXT=%I
+pscd
+cpcd & pscd
+cd pscd.cmd
+pscd.cmd
+cmd /p pscd.cmd
+cmd /c pscd.cmd
+cmd /c cd /d pscd.cmd
+cmd /c pscd.cmd | cd
+cmd /c pscd.cmd | cd /d %%
+cmd /c pscd.cmd | cd /d 
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo
+paste|sort|cd
+paste|sort|cd /d
+D:\hiuSoft\Application\hiuEnvironment\cmder
+paste|cd /d
+paste|cd /d|echo
+paste|cd /d|echo paste
+paste & cd |
+paste & cd 
+cd %paste%
+cd /f %paste%
+cd /d %paste%
+cd /d | paste
+cd | paste
+cd
+paste
+paste | command
+paste | echo
+paste || echo
+clip
+clip /?
+D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+set _getclip=powershell "Add-Type -Assembly PresentationCore;[Windows.Clipboard]::GetText()" for /f "eol=; tokens=*" %I in ('%_getclip%') do set CLIPBOARD_TEXT=%I
+pscd
+cpcd & pscd
+cd pscd.cmd
+pscd.cmd
+cmd /p pscd.cmd
+cmd /c pscd.cmd
+cmd /c cd /d pscd.cmd
+cmd /c pscd.cmd | cd
+cmd /c pscd.cmd | cd /d %%
+cmd /c pscd.cmd | cd /d 
+cmd /c pscd.cmd | echo
+cmd /p pscd.cmd | echo
+pscd | echo
+cd /d pscd
+cd /d cmd /c pscd
+cd /d & cmd /c pscd
+cpcd
+cpcd & pcd
+cd D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+cd /dD:\hiuSoft\Application\hiuEnvironment\cmder\bin
+cd /d D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+ccd
+cd /d A:\
+cd//
+git add .
+git commit -m "update"
+git push
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+sd -h
+sl
+d:
+git diff
+git status
+cma http:hiupc:1700
+a:
+cd..
+ls
+cd hiu-window-size
+git pull
+cmd /c pscd.cmd | cd /d %%
+cmd /c pscd.cmd | cd /d 
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-v2
+cma http://hiupc:1778
+npm run build:prod
+gt
+node
+node 3+3
+node -e 3+3
+node -e console.log(3+3)
+n -e console.log('stdout')
+n -e console.log(9^9)
+n -e console.log(9**9)
+n -e console.log(2*3)
+n -e console.log(2**3)
+n -v
+nvm ls
+d:
+git add .
+git status
+git commit -m "update"
+git push
+a:
+n
+git pull
+git pull origin
+git remote -v
+git pull origin master
+☕
+cd..
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+cd..
+cd playground
+cd f7-v2
+git diff
+ccd
+hs -p 1778
+xampp-control
+git diff
+cd-appjs/hiuland
+cd-appjs & ls
+cd -hiuapps
+cd hiuland
+ls
+cd hiu-land-pwa
+sl & cpcd &  npm run dev
+cpcd & npm run dev
+ccd & npm run dev
+cpcd & npm run dev
+ccd & npm run dev
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+cd..
+cd hiu-land-pwa
+ccd
+sl
+code .
+vsc
+choco
+choco install hyper
+d:
+a:
+hyper
+n -e console.log(9**9)
+n -e console.log(2*3)
+n -e console.log(2**3)
+n -v
+nvm ls
+git pull
+git pull origin
+git pull origin master
+☕
+cd..
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+cd..
+cd playground
+cd f7-v2
+git diff
+ccd
+hs -p 1778
+xampp-control
+cd-appjs/hiuland
+cd-appjs & ls
+cd -hiuapps
+cd hiuland
+ls
+cd hiu-land-pwa
+sl & cpcd &  npm run dev
+cpcd & npm run dev
+ccd & npm run dev
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console /single
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console /nosingle
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" /nosingle -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console /nosingle
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -cur_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -cur_console /single
+ cmd -cur_console:n powershell -cur_console:s1TVn bash -l -i -cur_console:s1THn ssh.exe user@127.0.0.1 -cur_console:s2THn
+cls
+git diff
+start-xampp
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+hs
+n
+sl
+git status 
+git remote
+git remote -v
+title 'Your cool tab' &amp; cmd
+title 
+a:
+title hiu-land-api
+d:
+git commit -a -m "update"
+git add .
+git commit -m "update"
+git push
+git status
+netsh wlan show driver
+sd -h
+hyper
+ccd
+n -v
+ sd -h
+ccd
+xampp-control
+git diff
+cd-appjs/hiuland
+cd-appjs & ls
+cd -hiuapps
+cd hiuland
+cd hiu-land-pwa
+sl & cpcd &  npm run dev
+cpcd & npm run dev
+ccd & npm run dev
+cd.. ..
+cd....
+cd..
+cd playground/f7-v2
+npm i -g firebase-tools
+firebase de
+ls
+firebase use --add
+vim firebase.json
+firebase deploy
+fb
+fbs
+frbs
+fbs open
+firebase open hosting
+firebase open 
+fbs open hosting:site
+https://f7-v2-ks.firebaseapp.com
+chr https://f7-v2-ks.firebaseapp.com
+chrome https://f7-v2-ks.firebaseapp.com
+start .
+hs -p 1778
+fbs deploy
+hs -p 1338
+title hiu-land-api
+d:
+git commit -a -m "update"
+netsh wlan show driver
+dxdiag
+sd -h
+rsx
+git status
+git add .
+git commit -m "update"
+git push
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+npm run dev
+ccd & npm run dev
+cd-appjs
+cd -hiuapps/hiuland/hiu-land-api
+git diff
+git status
+git add .
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+ccd & ndm
+sl
+cd /d a:\
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+control-xampp
+xampp-control
+xampp-control
+cd-appjs
+cd hiugs
+;s
+ls
+git clone https://github.com/vuejs/vuex.git
+e.
+e .
+fbs deploy
+hs -p 1338
+title hiu-land-api
+git commit -a -m "update"
+netsh wlan show driver
+dxdiag
+sd -h
+rsx
+git status
+git add .
+npm run dev
+ccd & npm run dev
+cd-appjs
+cd -hiuapps/hiuland/hiu-land-api
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+git add . 
+git commit -m "update"
+ssh
+ping nuxtjs.org
+bt
+n
+npm i vuex axios
+npm up
+npm status
+git commit -m "add & upgrade package"
+vue -v
+vue-cli
+npm i -g vue-cli
+cd ..
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+git diff
+git add .
+git commit -m "add store"
+git push
+d:
+git status
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+cd..
+cd-playground
+cd playground
+cd f7-v2
+git reset 
+git reset --hard
+git pull
+hs -p 1800
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+pcd & cd.. & cd hiu-land-pwa
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+ cd.. & cd hiu-land-pwa
+ccd & npm run dev
+git commit -m "add controller and model"
+start-xampp
+ccd & start-xampp
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+cd f7-v2
+git reset 
+git reset --hard
+hs -p 1800
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+pcd & cd.. & cd hiu-land-pwa
+ cd.. & cd hiu-land-pwa
+ccd & npm run dev
+git commit -m "add controller and model"
+start-xampp
+ccd & start-xampp
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+cd ..
+git commit -m "upgrade cmder -> v 1.3.4"
+git add .
+git commit -m "update"
+git push
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sd -h
+git status
+d:
+git pull
+$http.get
+HTTP.get
+_http
+telegram
+chrome --headless --disable-gpu --print-to-pdf https://www.chromestatus.com/
+start C:\Program Files (x86)\Google\Chrome\Application\
+pcd
+cd /d C:\Program Files (x86)\Google\Chrome\Application\
+start .
+a:
+a:/
+cd/
+chrome --headless --disable-gpu --screenshot https://www.chromestatus.com/
+ls
+chrome --headless --disable-gpu --repl https://www.chromestatus.com/
+title hiu-land-api
+netsh wlan show driver
+dxdiag
+sd -h
+rsx
+git status
+git add .
+npm run dev
+ccd & npm run dev
+cd-appjs
+cd -hiuapps/hiuland/hiu-land-api
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+git add . 
+git commit -m "update"
+ssh
+ping nuxtjs.org
+bt
+n
+npm i vuex axios
+npm up
+npm status
+git commit -m "add & upgrade package"
+vue -v
+vue-cli
+npm i -g vue-cli
+cd ..
+git commit -m "add store"
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+cd..
+cd-playground
+cd playground
+cd f7-v2
+git reset 
+git reset --hard
+git pull
+hs -p 1800
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+pcd & cd.. & cd hiu-land-pwa
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+ cd.. & cd hiu-land-pwa
+ccd & npm run dev
+git commit -m "add controller and model"
+start-xampp
+ccd & start-xampp
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+sl
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+git commit -m "import store"
+cma http://hiupc:1700
+gt
+readme.portable
+lisense.txt
+LISENSE.txt
+notepad LISENSE.txt
+vim lisense.txt
+e.
+npm outdated -g
+sails -v
+npm i -g sails vue-cli nodemon firebase-tools http-server
+npm i -g sails@beta
+nvm ls
+npm uninstall 9.1.0
+nvm uninstall 9.1.0
+e C:\Users\frizadiga\AppData\Roaming\nvm\v9.1.0.
+cmderr
+cls
+e.  cmder/vendor/git-for-windows/
+del  cmder/vendor/git-for-windows/package-lock.json
+del "cmder/vendor/git-for-windows/package-lock.json"
+del "/cmder/vendor/git-for-windows/package-lock.json"
+rm "/cmder/vendor/git-for-windows/package-lock.json"
+cd "/cmder/vendor/git-for-windows/package-lock.json"
+cd "/cmder/vendor/git-for-windows/"
+cd cmder/vendor/git-for-windows/"
+ls
+rm package-lock.json
+git commit -m "add new command"
+appchr http://hiupc:8888 1000 800
+appchr http://localhost:8888/phpmyadmin 1000 800
+appchr http://localhost:8888/phpmyadmin 1300 800
+appchr http://localhost:8888/phpmyadmin 1200 800
+appchr http://localhost:8888/phpmyadmin 1200 850
+appchr http://localhost:8888/phpmyadmin 1200 80%
+appchr http://localhost:8888/phpmyadmin 1100 800
+pma
+d:
+git commit -m "add & rename commands"
+git add .
+git commit -m "add screenshot"
+git add . & git commit -m "add pics readme"
+her
+git status
+git diff
+git status -v
+git commit -a -m "update"
+git push
+a:
+title hiu-land-pwa
+telegram
+xampp-control
+ping gitlab.com
+git
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+cd f7-v2
+git reset 
+git reset --hard
+hs -p 1800
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+pcd & cd.. & cd hiu-land-pwa
+ cd.. & cd hiu-land-pwa
+ccd & npm run dev
+git commit -m "add controller and model"
+start-xampp
+ccd & start-xampp
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+cd ..
+git commit -m "upgrade cmder -> v 1.3.4"
+git commit -m "update"
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+git pull
+$http.get
+HTTP.get
+_http
+telegram
+chrome --headless --disable-gpu --print-to-pdf https://www.chromestatus.com/
+start C:\Program Files (x86)\Google\Chrome\Application\
+pcd
+cd /d C:\Program Files (x86)\Google\Chrome\Application\
+start .
+a:/
+cd/
+chrome --headless --disable-gpu --screenshot https://www.chromestatus.com/
+chrome --headless --disable-gpu --repl https://www.chromestatus.com/
+cd-appjs
+cd -hiuapps
+cd hiuland/hiu-land-api
+sd -h
+nvm
+nvm install latest
+nvm use 9.2.0
+npm
+explorer C:\Users\frizadiga\AppData\Roaming\nvm\v9.2.0\node_modules\npm\
+e C:\Users\frizadiga\AppData\Roaming\nvm\v9.2.0\node_modules\npm\
+npm i -g npm@latest
+mv npm.cmd "c:\Program Files\nodejs\node_modules\npm\"
+npm -v
+nvm ls
+node -v
+n
+d:
+git commit -m "add new command"
+git blame
+git history
+git log
+a:
+her
+git remote -v
+git remote --help
+git -v
+git --version
+git 
+npm i sails-mysql
+npm i sails-mysql@beta
+git commit -m "add sails-mysql package & setting datastore"
+ping gitlab.com
+sails generate api files
+git add .
+cd api
+cd model
+cd models
+git..
+cd config
+git status models.js
+git diff models.js
+git status -v models.js
+cd..
+git status
+git commit -m "config & add attributes models"
+git push
+xampp-start
+pma
+xampp-control
+ls
+dir
+ssh
+git
+f7-v2-ks
+git
+f7-v2-ks
+git status
+cd-appjs/hiuland/hiu-land-api
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ccd
+n
+touch
+touch --help
+ xampp-control
+ xampp-control
+ xampp-control
+envir
+n
+touch
+touch --help
+ xampp-control
+ xampp-control
+ xampp-control
+ xampp-control
+ xampp-control
+ xampp-control
+%xampp%
+%cmder%
+envir
+refreshenv
+ xampp-control
+ xampp-control
+ xampp-control
+%XAMPP%
+%XAMPP%/xampp-control
+xampp-control
+xampp-start
+ xampp-control
+%XAMPP%
+%XAMPP%/xampp-control
+xampp-control
+refreshenv
+xampp-start
+%XAMPP%/xampp-control
+xampp-control
+refreshenv
+e %xampp%
+e %XAMPP%
+her
+git add .
+git status
+git commit -m "add new command & fix commands"
+git push
+xampp-start
+git commit -m "add new command & fix commands"
+git push
+git status
+xampp-control
+xampp-start
+sl
+git -v
+git 
+npm i sails-mysql
+npm i sails-mysql@beta
+git commit -m "add sails-mysql package & setting datastore"
+ping gitlab.com
+sails generate api files
+cd api
+cd model
+cd models
+git..
+cd config
+git status models.js
+git diff models.js
+git status -v models.js
+git commit -m "config & add attributes models"
+xampp-start
+pma
+xampp-control
+dir
+ssh
+git
+f7-v2-ks
+git commit -m "update cmder"
+git commit -m "update settings cmder"
+bde-a
+gt
+nvm ls
+n -v
+n
+ A:
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\playground\nuxt
+e.
+sl .
+cd ons-v2
+ls
+npm run build
+cd..
+rm -rf ons-v2
+kbbi
+cd-nuxt
+cd nuxt
+npm i vuex axios
+git init
+git remote add origin git@github.com:frizadiga/hiu-nuxt.git
+git commit -m "init"
+git push -u origin master
+git commit -m "add screenshot"
+git add .
+git status
+git commit -m "update"
+git push
+npm i -g makemehapi
+makemehapi
+git --version
+bt
+sd -h
+envir
+git commit -m "config & add attributes models"
+git push
+xampp-start
+pma
+xampp-control
+dir
+ssh
+git
+f7-v2-ks
+start-xampp
+xampp-start & ndm
+ls
+cls
+a:
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+pcd
+ndm
+ls
+dir
+ssh
+git
+f7-v2-ks
+cd-appjs/playground/nuxt
+ccd & npm run dev
+npm run dev
+git commit -m "add new command & fix commands"
+xampp-control
+xampp-start
+git add.
+git add .
+git status
+git commit -m "rename commands"
+git push
+f7-v2-ks
+cmder
+"%XAMPP%/xampp_start.exe""%XAMPP%/xampp_start.exe""%XAMPP%/xampp_start.exe"
+sl
+sl

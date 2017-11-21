@@ -1,0 +1,1 @@
+@echo phpmyadmin Apps by hiuWave & appchr http://localhost:8888/phpmyadmin 1100 800

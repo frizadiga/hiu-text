@@ -1,0 +1,9 @@
+[
+	{ "keys": ["super+shift+o"], "command": "prompt_add_folder" },
+  { "keys": ["ctrl+tab"], "command": "noop" },
+  { "keys": ["ctrl+shift+tab"], "command": "noop"},
+  { "keys": ["ctrl+f2"], "command": "toggle_minimap" },
+  { "keys": ["ctrl+shift+o"], "command": "open_project"},
+  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
+
+]

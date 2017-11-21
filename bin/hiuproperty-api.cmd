@@ -1,0 +1,1 @@
+cd /d %hiuapps%/hiuproperty/hiuproperty-api & nodemon app.js

@@ -1,0 +1,1 @@
+chrome --profile-directory="Default" --app="data:text/html,<html><body><script>resizeTo(412,732);location='https://web.telegram.org';</script></body></html>"

@@ -1,0 +1,1 @@
+@echo Chrome Mobile Apps by hiuWave & chrome --profile-directory="Default" --app="data:text/html,<html><body><script>window.resizeTo(412,732);window.location='%1';</script></body></html>"
