@@ -2067,7 +2067,7 @@
 					"file": "/D/hiuSoft/Application/hiu-env/hiu-text/README.md",
 					"settings":
 					{
-						"buffer_size": 110,
+						"buffer_size": 111,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -2524,15 +2524,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 110,
+								"buffer_size": 111,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										109,
-										109
+										110,
+										110
 									]
 								],
 								"settings":
