@@ -12,7 +12,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 796.0,
+		"new_window_height": 818.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -992,6 +992,14 @@
 				"selected_items":
 				[
 					[
+						"cdc",
+						"hiu-text\\bin\\cdc.cmd"
+					],
+					[
+						"hiu",
+						"hiu-text\\bin\\hiuproperty-api.cmd"
+					],
+					[
 						"model",
 						"hiu-land-api\\config\\models.js"
 					],
@@ -1372,10 +1380,6 @@
 						"api\\controllers\\PaymentsController.js"
 					],
 					[
-						"hiu",
-						"hiusig.sql"
-					],
-					[
 						"dpconfi",
 						"views\\dashboards\\payments-dp-confirm.ejs"
 					],
@@ -1498,10 +1502,6 @@
 					[
 						"user-f",
 						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"listing-fr",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -1538,7 +1538,7 @@
 			{
 			}
 		},
-		"new_window_width": 936.0
+		"new_window_width": 942.0
 	},
 	"windows":
 	[
@@ -2531,7 +2531,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,833,1716,-22,2668",
+			"position": "0,0,1,-1,-1,-1,-1,868,1681,-9,2639",
 			"replace":
 			{
 				"height": 102.0
@@ -2543,6 +2543,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"cdc",
+						"hiu-text\\bin\\cdc.cmd"
+					],
+					[
+						"hiu",
+						"hiu-text\\bin\\hiuproperty-api.cmd"
+					],
 					[
 						"model",
 						"hiu-land-api\\config\\models.js"
@@ -2924,10 +2932,6 @@
 						"api\\controllers\\PaymentsController.js"
 					],
 					[
-						"hiu",
-						"hiusig.sql"
-					],
-					[
 						"dpconfi",
 						"views\\dashboards\\payments-dp-confirm.ejs"
 					],
@@ -3050,10 +3054,6 @@
 					[
 						"user-f",
 						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"listing-fr",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0

@@ -1,1 +1,0 @@
-cd /d %hiuapps%/hiuproperty/hiuproperty-sails & nodemon app.js

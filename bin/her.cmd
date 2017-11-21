@@ -1,1 +1,0 @@
-@echo hiuEnvironment root path & cd /d "%CMDER_ROOT%" & cd..

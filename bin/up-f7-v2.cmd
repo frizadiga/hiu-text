@@ -1,1 +1,0 @@
-git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git f7-v2

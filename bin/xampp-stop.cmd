@@ -1,1 +1,0 @@
-"%XAMPP%/xampp_stop.exe"

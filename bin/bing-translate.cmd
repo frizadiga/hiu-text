@@ -1,1 +1,0 @@
-chrome --profile-directory="Default" --app="data:text/html,<html><body><script>resizeTo(500,500);location='https://www.bing.com/translator';</script></body></html>"

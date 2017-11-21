@@ -1,1 +1,0 @@
-acm "https://framework7.io/kitchen-sink-ios/"

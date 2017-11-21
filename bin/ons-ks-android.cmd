@@ -1,1 +1,0 @@
-acm "https://onsenui.github.io/vue-onsenui-kitchensink/main.html?platform=android"
