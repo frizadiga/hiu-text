@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/img",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io",
 		"/A/hiuData/hiuWEB/AppJS/hiuGS/sails/test/helpers",
 		"/A/hiuData/hiuWEB/AppJS/hiuGS/sails/test/unit",
@@ -15,7 +16,7 @@
 		"/A/hiuData/hiuWEB/AppJS/playground"
 	],
 	"last_version": 3143,
-	"last_window_id": 107,
+	"last_window_id": 108,
 	"log_indexing": false,
 	"settings":
 	{
@@ -2538,7 +2539,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,845,-8,-31,965",
+			"position": "0,0,1,-1,-1,-1,-1,865,1675,-11,2648",
 			"replace":
 			{
 				"height": 102.0
