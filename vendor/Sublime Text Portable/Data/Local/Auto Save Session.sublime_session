@@ -1556,6 +1556,26 @@
 				"selected_items":
 				[
 					[
+						"uk",
+						"uk-animation-fade"
+					],
+					[
+						"pos",
+						"uk-position-cover"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"uk-",
+						"uk-animation-kenburns"
+					],
+					[
+						"background",
+						"background-size"
+					],
+					[
 						"ha",
 						"cur-ha\tcursor: hand;"
 					],
@@ -1638,10 +1658,6 @@
 					[
 						"co",
 						"contentSRC"
-					],
-					[
-						"pos",
-						"pos-f\tposition: fixed;"
 					],
 					[
 						"back",
@@ -1750,10 +1766,6 @@
 					[
 						"tab",
 						"tab-instant-view"
-					],
-					[
-						"op",
-						"openModal"
 					],
 					[
 						"w3-ho",
@@ -2054,21 +2066,30 @@
 					[
 						"onkey",
 						"onkeyup\tAttr"
-					],
-					[
-						"pri",
-						"price-paid-off"
-					],
-					[
-						"no",
-						"no-payment-paid-off"
-					],
-					[
-						"pay-",
-						"pay-button-paid-off"
 					]
 				]
 			},
+			"buffers":
+			[
+				{
+					"file": "-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
+					"settings":
+					{
+						"buffer_size": 1391,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
+					"settings":
+					{
+						"buffer_size": 941,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
 			"build_system": "",
 			"build_system_choices":
 			[
@@ -2171,6 +2192,10 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io"
+			],
 			"file_history":
 			[
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
@@ -2503,6 +2528,75 @@
 				"whole_word": true,
 				"wrap": false
 			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1391,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1137,
+										1137
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 941,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										941,
+										941
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 54.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
 			"incremental_find":
 			{
 				"height": 54.0
@@ -2539,7 +2633,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,864,1860,-12,2833",
+			"position": "0,0,1,-1,-1,-1,-1,865,1602,-21,2576",
+			"project": "1.sublime-project",
 			"replace":
 			{
 				"height": 102.0
@@ -3074,7 +3169,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\1.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-env.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3088,19 +3183,21 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
 			"settings":
 			{
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 219.0,
+			"side_bar_visible": false,
+			"side_bar_width": 152.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 74
+			"window_id": 74,
+			"workspace_name": "/A/hiuData/hiuWEB/AppJS/1.sublime-workspace"
 		}
 	],
 	"workspaces":
