@@ -1,32 +1,39 @@
 {
 	"folder_history":
 	[
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/img",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io",
-		"/A/hiuData/hiuWEB/AppJS/hiuGS/sails/test/helpers",
-		"/A/hiuData/hiuWEB/AppJS/hiuGS/sails/test/unit",
-		"/A/hiuData/hiuWEB/AppJS/hiuGS/sails/test",
-		"/A/hiuData/hiuWEB/AppJS/hiuGS/sails",
-		"/A/hiuData/hiuWEB/AppJS/hiuGS",
-		"/D/hiuSoft/Application/hiu-env",
-		"/D/hiuSoft/Application/hiu-cmd",
-		"/D/hiuSoft/Application/hiu-text",
-		"/A/hiuData/hiuWEB/AppJS/playground/nuxt",
-		"/D/hiuSoft/Application/PROGRAMMING/cmder",
-		"/A/hiuData/hiuWEB/AppJS/playground"
 	],
 	"last_version": 3143,
-	"last_window_id": 108,
+	"last_window_id": 114,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 817.0,
+		"new_window_height": 826.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"uk",
+						"uk-animation-fade"
+					],
+					[
+						"pos",
+						"uk-position-cover"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"uk-",
+						"uk-animation-kenburns"
+					],
+					[
+						"background",
+						"background-size"
+					],
 					[
 						"ha",
 						"cur-ha\tcursor: hand;"
@@ -110,10 +117,6 @@
 					[
 						"co",
 						"contentSRC"
-					],
-					[
-						"pos",
-						"pos-f\tposition: fixed;"
 					],
 					[
 						"back",
@@ -222,10 +225,6 @@
 					[
 						"tab",
 						"tab-instant-view"
-					],
-					[
-						"op",
-						"openModal"
 					],
 					[
 						"w3-ho",
@@ -526,18 +525,6 @@
 					[
 						"onkey",
 						"onkeyup\tAttr"
-					],
-					[
-						"pri",
-						"price-paid-off"
-					],
-					[
-						"no",
-						"no-payment-paid-off"
-					],
-					[
-						"pay-",
-						"pay-button-paid-off"
 					]
 				]
 			},
@@ -644,6 +631,8 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -769,9 +758,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
 			],
 			"find":
 			{
@@ -798,6 +785,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"w3",
 					"19px",
 					";*/\n",
 					"300ms",
@@ -924,8 +912,7 @@
 					"||",
 					"% ||",
 					"</td>",
-					"Proof",
-					"proof"
+					"Proof"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -933,6 +920,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"u",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
 					"filter-options-listings",
@@ -1522,7 +1510,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\1.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\playground.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1540,7 +1528,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 219.0,
+			"side_bar_width": 152.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1555,6 +1543,26 @@
 			{
 				"selected_items":
 				[
+					[
+						"uk",
+						"uk-animation-fade"
+					],
+					[
+						"pos",
+						"uk-position-cover"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"uk-",
+						"uk-animation-kenburns"
+					],
+					[
+						"background",
+						"background-size"
+					],
 					[
 						"ha",
 						"cur-ha\tcursor: hand;"
@@ -1638,10 +1646,6 @@
 					[
 						"co",
 						"contentSRC"
-					],
-					[
-						"pos",
-						"pos-f\tposition: fixed;"
 					],
 					[
 						"back",
@@ -1750,10 +1754,6 @@
 					[
 						"tab",
 						"tab-instant-view"
-					],
-					[
-						"op",
-						"openModal"
 					],
 					[
 						"w3-ho",
@@ -2054,18 +2054,6 @@
 					[
 						"onkey",
 						"onkeyup\tAttr"
-					],
-					[
-						"pri",
-						"price-paid-off"
-					],
-					[
-						"no",
-						"no-payment-paid-off"
-					],
-					[
-						"pay-",
-						"pay-button-paid-off"
 					]
 				]
 			},
@@ -2173,6 +2161,8 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -2298,9 +2288,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
 			],
 			"find":
 			{
@@ -2327,6 +2315,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"w3",
 					"19px",
 					";*/\n",
 					"300ms",
@@ -2453,8 +2442,7 @@
 					"||",
 					"% ||",
 					"</td>",
-					"Proof",
-					"proof"
+					"Proof"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2462,6 +2450,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"u",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
 					"filter-options-listings",
@@ -2539,7 +2528,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,864,1860,-12,2833",
+			"position": "0,0,1,-1,-1,-1,-1,864,1602,-21,2575",
 			"replace":
 			{
 				"height": 102.0
@@ -3074,7 +3063,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\1.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\playground.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3095,7 +3084,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 219.0,
+			"side_bar_width": 152.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -3107,11 +3096,11 @@
 	{
 		"recent_workspaces":
 		[
-			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiu-env.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiu-ui.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/playground.sublime-workspace",
-			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/hiuEnvironment.sublime-workspace"
+			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiu-env.sublime-workspace"
 		]
 	}
 }
