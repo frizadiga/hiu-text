@@ -7,7 +7,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 826.0,
+		"new_window_height": 817.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -15,24 +15,24 @@
 				"selected_items":
 				[
 					[
-						"uk",
-						"uk-animation-fade"
-					],
-					[
-						"pos",
-						"uk-position-cover"
+						"mar",
+						"margin-left"
 					],
 					[
 						"op",
 						"opacity"
 					],
 					[
-						"uk-",
-						"uk-animation-kenburns"
+						"a",
+						"auto"
 					],
 					[
-						"background",
-						"background-size"
+						"max",
+						"max-width"
+					],
+					[
+						"text-a",
+						"text-align"
 					],
 					[
 						"ha",
@@ -79,10 +79,6 @@
 						"https"
 					],
 					[
-						"a",
-						"author"
-					],
-					[
 						"p",
 						"placeholder\tAttr"
 					],
@@ -119,16 +115,16 @@
 						"contentSRC"
 					],
 					[
+						"pos",
+						"pos-f\tposition: fixed;"
+					],
+					[
 						"back",
 						"background-color"
 					],
 					[
 						"ba",
 						"background-color"
-					],
-					[
-						"mar",
-						"margin-top"
 					],
 					[
 						"padd",
@@ -525,6 +521,10 @@
 					[
 						"onkey",
 						"onkeyup\tAttr"
+					],
+					[
+						"pri",
+						"price-paid-off"
 					]
 				]
 			},
@@ -534,10 +534,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "",
+				"height": 277.0,
+				"last_filter": "pac",
 				"selected_items":
 				[
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"",
 						"Boxy Theme: Configuration"
@@ -581,10 +589,6 @@
 					[
 						"jsx",
 						"Set Syntax: JSX"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"box",
@@ -631,8 +635,24 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/README.md",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/layouts/default.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/pages/list.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/pages/backpages/index.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2/kitchen-sink/js/app.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2-vue/kitchen-sink/js/app.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/pages/nuxt.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2/firebase.json",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/fbs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/gt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cma.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/n.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -671,12 +691,10 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
@@ -744,21 +762,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/footer.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/res-search-not-found.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs"
 			],
 			"find":
 			{
@@ -785,7 +789,10 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"w3",
+					"\">",
+					"to=\"",
+					"a",
+					"<div class=\"links\">\n        <a href=\"https://nuxtjs.org/\" target=\"_blank\" class=\"button--green\">Documentation</a>\n        <a href=\"https://github.com/nuxt/nuxt.js\" target=\"_blank\" class=\"button--grey\">GitHub</a>\n      </div>",
 					"19px",
 					";*/\n",
 					"300ms",
@@ -909,10 +916,7 @@
 					"%=",
 					"dataKuitansi",
 					"%>",
-					"||",
-					"% ||",
-					"</td>",
-					"Proof"
+					"||"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -920,7 +924,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"u",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
 					"filter-options-listings",
@@ -987,6 +990,30 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"nuxt",
+						"hiu-nuxt\\nuxt.config.js"
+					],
+					[
+						"pack",
+						"hiu-nuxt\\package.json"
+					],
+					[
+						"packa",
+						"hiu-nuxt\\package.json"
+					],
+					[
+						"app.js",
+						"f7-v2-vue\\kitchen-sink\\js\\app.js"
+					],
+					[
+						"fire",
+						"f7-v2\\firebase.json"
+					],
+					[
+						"ndm",
+						"cmder\\bin\\ndm.cmd"
+					],
 					[
 						"routes",
 						"hiu-land-api\\config\\routes.js"
@@ -1106,10 +1133,6 @@
 					[
 						"responses",
 						"f7-vue\\node_modules\\express\\lib\\response.js"
-					],
-					[
-						"packa",
-						"f7-vue\\package.json"
 					],
 					[
 						"cd-app",
@@ -1478,26 +1501,6 @@
 					[
 						"docum",
 						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kui",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"userform",
-						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"userscon",
-						"api\\controllers\\UsersController.js"
-					],
-					[
-						"user-f",
-						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"listing-fr",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -1510,7 +1513,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\playground.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-land.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1528,7 +1531,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 152.0,
+			"side_bar_width": 156.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1544,24 +1547,24 @@
 				"selected_items":
 				[
 					[
-						"uk",
-						"uk-animation-fade"
-					],
-					[
-						"pos",
-						"uk-position-cover"
+						"mar",
+						"margin-left"
 					],
 					[
 						"op",
 						"opacity"
 					],
 					[
-						"uk-",
-						"uk-animation-kenburns"
+						"a",
+						"auto"
 					],
 					[
-						"background",
-						"background-size"
+						"max",
+						"max-width"
+					],
+					[
+						"text-a",
+						"text-align"
 					],
 					[
 						"ha",
@@ -1608,10 +1611,6 @@
 						"https"
 					],
 					[
-						"a",
-						"author"
-					],
-					[
 						"p",
 						"placeholder\tAttr"
 					],
@@ -1648,16 +1647,16 @@
 						"contentSRC"
 					],
 					[
+						"pos",
+						"pos-f\tposition: fixed;"
+					],
+					[
 						"back",
 						"background-color"
 					],
 					[
 						"ba",
 						"background-color"
-					],
-					[
-						"mar",
-						"margin-top"
 					],
 					[
 						"padd",
@@ -2054,6 +2053,10 @@
 					[
 						"onkey",
 						"onkeyup\tAttr"
+					],
+					[
+						"pri",
+						"price-paid-off"
 					]
 				]
 			},
@@ -2064,10 +2067,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "",
+				"height": 277.0,
+				"last_filter": "pac",
 				"selected_items":
 				[
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"",
 						"Boxy Theme: Configuration"
@@ -2111,10 +2122,6 @@
 					[
 						"jsx",
 						"Set Syntax: JSX"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"box",
@@ -2161,8 +2168,24 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/README.md",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/layouts/default.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/pages/list.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/pages/backpages/index.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2/kitchen-sink/js/app.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2-vue/kitchen-sink/js/app.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/nuxt/pages/nuxt.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2/firebase.json",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/fbs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/gt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cma.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/n.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -2201,12 +2224,10 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
@@ -2274,21 +2295,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/footer.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/res-search-not-found.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs"
 			],
 			"find":
 			{
@@ -2315,7 +2322,10 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"w3",
+					"\">",
+					"to=\"",
+					"a",
+					"<div class=\"links\">\n        <a href=\"https://nuxtjs.org/\" target=\"_blank\" class=\"button--green\">Documentation</a>\n        <a href=\"https://github.com/nuxt/nuxt.js\" target=\"_blank\" class=\"button--grey\">GitHub</a>\n      </div>",
 					"19px",
 					";*/\n",
 					"300ms",
@@ -2439,10 +2449,7 @@
 					"%=",
 					"dataKuitansi",
 					"%>",
-					"||",
-					"% ||",
-					"</td>",
-					"Proof"
+					"||"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2450,7 +2457,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"u",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
 					"filter-options-listings",
@@ -2528,7 +2534,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,864,1602,-21,2575",
+			"position": "0,0,1,-1,-1,-1,-1,864,576,-12,1549",
 			"replace":
 			{
 				"height": 102.0
@@ -2540,6 +2546,30 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"nuxt",
+						"hiu-nuxt\\nuxt.config.js"
+					],
+					[
+						"pack",
+						"hiu-nuxt\\package.json"
+					],
+					[
+						"packa",
+						"hiu-nuxt\\package.json"
+					],
+					[
+						"app.js",
+						"f7-v2-vue\\kitchen-sink\\js\\app.js"
+					],
+					[
+						"fire",
+						"f7-v2\\firebase.json"
+					],
+					[
+						"ndm",
+						"cmder\\bin\\ndm.cmd"
+					],
 					[
 						"routes",
 						"hiu-land-api\\config\\routes.js"
@@ -2659,10 +2689,6 @@
 					[
 						"responses",
 						"f7-vue\\node_modules\\express\\lib\\response.js"
-					],
-					[
-						"packa",
-						"f7-vue\\package.json"
 					],
 					[
 						"cd-app",
@@ -3031,26 +3057,6 @@
 					[
 						"docum",
 						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kui",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"userform",
-						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"userscon",
-						"api\\controllers\\UsersController.js"
-					],
-					[
-						"user-f",
-						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"listing-fr",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -3063,7 +3069,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\playground.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-land.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3084,7 +3090,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 152.0,
+			"side_bar_width": 156.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -3096,9 +3102,9 @@
 	{
 		"recent_workspaces":
 		[
-			"/A/hiuData/hiuWEB/AppJS/hiu-ui.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/playground.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiu-ui.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiu-env.sublime-workspace"
 		]
