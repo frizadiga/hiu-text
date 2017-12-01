@@ -2065,14 +2065,6 @@
 			"buffers":
 			[
 				{
-					"file": "-hiuApps/hiu-ui/src/bundle.css",
-					"settings":
-					{
-						"buffer_size": 27960,
-						"line_ending": "Windows"
-					}
-				},
-				{
 					"file": "-hiuApps/hiu-ui/src/components/base.css",
 					"settings":
 					{
@@ -2092,32 +2084,11 @@
 					}
 				},
 				{
-					"file": "-hiuApps/hiu-ui/test/container.html",
+					"file": "-hiuApps/hiu-ui/kitchen-sink/container.html",
 					"settings":
 					{
 						"buffer_size": 124,
-						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "-hiuApps/hiu-ui/test/color.html",
-					"settings":
-					{
-						"buffer_size": 121,
-						"encoding": "UTF-8",
-						"line_ending": "Windows",
-						"name": "!"
-					}
-				},
-				{
-					"file": "-hiuApps/hiu-ui/test/a-test-wrapper.html",
-					"settings":
-					{
-						"buffer_size": 120,
-						"encoding": "UTF-8",
-						"line_ending": "Windows",
-						"name": "!"
 					}
 				}
 			],
@@ -2227,12 +2198,15 @@
 			[
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/dist",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/kitchen-sink",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/components",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/components"
 			],
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/color.html",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/container.html",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/a-test-wrapper.html",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
@@ -2357,10 +2331,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js"
 			],
 			"find":
 			{
@@ -2567,41 +2538,11 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "-hiuApps/hiu-ui/src/bundle.css",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 27960,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										346,
-										346
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
 							"file": "-hiuApps/hiu-ui/src/components/base.css",
 							"semi_transient": false,
 							"settings":
@@ -2627,11 +2568,11 @@
 								"translation.y": 3786.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 1,
 							"file": "-hiuApps/hiu-ui/dist/hiu-ui-min.css",
 							"semi_transient": false,
 							"settings":
@@ -2656,13 +2597,13 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "-hiuApps/hiu-ui/test/container.html",
-							"semi_transient": false,
+							"buffer": 2,
+							"file": "-hiuApps/hiu-ui/kitchen-sink/container.html",
+							"semi_transient": true,
 							"settings":
 							{
 								"buffer_size": 124,
@@ -2672,13 +2613,12 @@
 								"selection":
 								[
 									[
-										74,
-										82
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_name": "",
 									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
@@ -2686,64 +2626,6 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "-hiuApps/hiu-ui/test/color.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 121,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										121,
-										121
-									]
-								],
-								"settings":
-								{
-									"auto_name": "!",
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "-hiuApps/hiu-ui/test/a-test-wrapper.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 120,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										78,
-										78
-									]
-								],
-								"settings":
-								{
-									"auto_name": "!",
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
