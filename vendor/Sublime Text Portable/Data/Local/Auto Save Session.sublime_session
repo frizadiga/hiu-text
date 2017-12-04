@@ -2122,9 +2122,29 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "set",
+				"last_filter": "set sass",
 				"selected_items":
 				[
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"set scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"updat",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
 					[
 						"set",
 						"Set Syntax: SCSS"
@@ -2162,10 +2182,6 @@
 						"Package Control: List Packages"
 					],
 					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
 						"remove",
 						"Package Control: Remove Package"
 					],
@@ -2176,10 +2192,6 @@
 					[
 						"jsx",
 						"Set Syntax: JSX"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"box",
@@ -2568,7 +2580,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -2642,22 +2654,22 @@
 								"selection":
 								[
 									[
-										43263,
-										43263
+										15928,
+										15928
 									]
 								],
 								"settings":
 								{
 									"auto_name": "//colors",
-									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 39235.0,
+								"translation.y": 16334.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -2673,8 +2685,8 @@
 								"selection":
 								[
 									[
-										32,
-										32
+										209,
+										209
 									]
 								],
 								"settings":
@@ -2685,7 +2697,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
