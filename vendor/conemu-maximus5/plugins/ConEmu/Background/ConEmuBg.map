@@ -1,6 +1,6 @@
  ConEmuBg
 
- Timestamp is 5a102434 (Sat Nov 18 15:14:44 2017)
+ Timestamp is 5a27c1d4 (Wed Dec  6 13:09:24 2017)
 
  Preferred load address is 10000000
 
@@ -148,64 +148,64 @@
  0001:00005591       ?SettingsLoadW2800@@YAXXZ  10006591 f   ConEmuBg2800.obj
  0001:000056d9       ?SettingsSaveW2800@@YAXXZ  100066d9 f   ConEmuBg2800.obj
  0001:000057ca       _GetGlobalInfoW@4          100067ca f   ConEmuBg2800.obj
- 0001:00005b95       ?ConfigureW995@@YAHH@Z     10006b95 f   ConEmuBg995.obj
- 0001:00005bab       ?ExitFARW995@@YAXXZ        10006bab f   ConEmuBg995.obj
- 0001:00005c07       ?FMatchW995@@YA_NPB_WPA_W@Z 10006c07 f   ConEmuBg995.obj
- 0001:00005c26       ?GetMsgW995@@YAPB_WH@Z     10006c26 f   ConEmuBg995.obj
- 0001:00005c4a       ?GetPluginInfoW995@@YAXPAX@Z 10006c4a f   ConEmuBg995.obj
- 0001:00005ca1       ?SetStartupInfoW995@@YAXPAX@Z 10006ca1 f   ConEmuBg995.obj
- 0001:00005dfd       ?SettingsLoadW995@@YAXXZ   10006dfd f   ConEmuBg995.obj
- 0001:00005e0a       ?SettingsSaveW995@@YAXXZ   10006e0a f   ConEmuBg995.obj
- 0001:00005e17       _OpenPluginW@8             10006e17 f   ConEmuBg995.obj
- 0001:000061c6       ?FMatchA@@YA_NPBDPAD@Z     100071c6 f   ConEmuBgA.obj
- 0001:000061fc       ?SettingsLoadA@@YAXXZ      100071fc f   ConEmuBgA.obj
- 0001:00006209       ?SettingsSaveA@@YAXXZ      10007209 f   ConEmuBgA.obj
- 0001:00006216       _Configure@4               10007216 f   ConEmuBgA.obj
- 0001:00006233       _ExitFAR@0                 10007233 f   ConEmuBgA.obj
- 0001:0000629d       _GetMinFarVersion@0        1000729d f   ConEmuBgA.obj
- 0001:000062c2       _GetPluginInfo@4           100072c2 f   ConEmuBgA.obj
- 0001:0000632e       _OpenPlugin@8              1000732e f   ConEmuBgA.obj
- 0001:00006344       _SetStartupInfo@4          10007344 f   ConEmuBgA.obj
- 0001:000064d0       _GetFileVersionInfoSizeW@8 100074d0 f   version:VERSION.dll
- 0001:000064d6       _GetFileVersionInfoW@16    100074d6 f   version:VERSION.dll
- 0001:000064dc       _VerQueryValueW@16         100074dc f   version:VERSION.dll
- 0001:000064e2       ??2@YAPAXI@Z               100074e2 f   common-kernel32:Memory.obj
- 0001:0000650f       ??3@YAXPAX@Z               1000750f f   common-kernel32:Memory.obj
- 0001:00006529       ??_U@YAPAXI@Z              10007529 f   common-kernel32:Memory.obj
- 0001:00006543       ??_V@YAXPAX@Z              10007543 f   common-kernel32:Memory.obj
- 0001:0000655d       ?HeapDeinitialize@@YAXXZ   1000755d f   common-kernel32:Memory.obj
- 0001:00006575       ?HeapInitialize@@YA_NXZ    10007575 f   common-kernel32:Memory.obj
- 0001:00006597       ?xf_calloc@@YAPAXIIPBDH@Z  10007597 f   common-kernel32:Memory.obj
- 0001:000065f1       ?xf_free@@YAXPAXPBDH@Z     100075f1 f   common-kernel32:Memory.obj
- 0001:00006626       ?xf_malloc@@YAPAXIPBDH@Z   10007626 f   common-kernel32:Memory.obj
- 0001:0000667c       ?xf_set_tag@@YAXPAXPBDH_N@Z 1000767c f   common-kernel32:Memory.obj
- 0001:000066f8       ?xf_validate@@YA_NPAX@Z    100076f8 f   common-kernel32:Memory.obj
- 0001:0000672b       ?lstrdup@@YAPA_WPB_WI@Z    1000772b f   common-kernel32:MStrDup.obj
- 0001:00006780       ?lstrmerge@@YAPA_WPB_W00000000@Z 10007780 f   common-kernel32:MStrDup.obj
- 0001:00006885       ??0MSectionLockSimple@@QAE@XZ 10007885 f   common-kernel32:MSectionSimple.obj
- 0001:0000688f       ??0MSectionSimple@@QAE@_N@Z 1000788f f   common-kernel32:MSectionSimple.obj
- 0001:000068bc       ??1MSectionLockSimple@@QAE@XZ 100078bc f   common-kernel32:MSectionSimple.obj
- 0001:000068c7       ??1MSectionSimple@@QAE@XZ  100078c7 f   common-kernel32:MSectionSimple.obj
- 0001:000068cc       ?Close@MSectionSimple@@QAEXXZ 100078cc f   common-kernel32:MSectionSimple.obj
- 0001:000068e2       ?Init@MSectionSimple@@QAEXXZ 100078e2 f   common-kernel32:MSectionSimple.obj
- 0001:000068f8       ?Lock@MSectionLockSimple@@QAEHPAUMSectionSimple@@K@Z 100078f8 f   common-kernel32:MSectionSimple.obj
- 0001:00006960       ?TryEnter@MSectionSimple@@QAE_NXZ 10007960 f   common-kernel32:MSectionSimple.obj
- 0001:0000697f       ?Unlock@MSectionLockSimple@@QAEXXZ 1000797f f   common-kernel32:MSectionSimple.obj
- 0001:0000699b       ?SetThreadName@@YAXKPAD@Z  1000799b f   common-kernel32:WThreads.obj
- 0001:000069ea       ?apiCreateThread@@YAPAXP6GKPAX@Z0PAKPBDH@Z 100079ea f   common-kernel32:WThreads.obj
- 0001:00006adc       ?apiTerminateThreadEx@@YAHPAXKPBDH@Z 10007adc f   common-kernel32:WThreads.obj
- 0001:00006bb3       ?apiThreadHelper@@YGKPAX@Z 10007bb3 f   common-kernel32:WThreads.obj
- 0001:00006d41       ??3@YAXPAXI@Z              10007d41 f   LIBCMT:delete_scalar_size.obj
- 0001:00006d4f       ___raise_securityfailure   10007d4f f   LIBCMT:gs_report.obj
- 0001:00006d77       ___report_gsfailure        10007d77 f   LIBCMT:gs_report.obj
- 0001:00006e72       ___report_rangecheckfailure 10007e72 f   LIBCMT:gs_report.obj
- 0001:00006e7e       ___report_securityfailure  10007e7e f   LIBCMT:gs_report.obj
- 0001:00006f4e       @__security_check_cookie@4 10007f4e f   LIBCMT:_secchk_.obj
- 0001:00006f5f       __EH_epilog3               10007f5f f   LIBCMT:ehprolg3.obj
- 0001:00006f74       __EH_epilog3_GS            10007f74 f   LIBCMT:ehprolg3.obj
- 0001:00006f85       __EH_prolog3               10007f85 f   LIBCMT:ehprolg3.obj
- 0001:00006fb9       __EH_prolog3_GS            10007fb9 f   LIBCMT:ehprolg3.obj
- 0001:00006ff0       __EH_prolog3_catch         10007ff0 f   LIBCMT:ehprolg3.obj
+ 0001:00005b9a       ?ConfigureW995@@YAHH@Z     10006b9a f   ConEmuBg995.obj
+ 0001:00005bb0       ?ExitFARW995@@YAXXZ        10006bb0 f   ConEmuBg995.obj
+ 0001:00005c0c       ?FMatchW995@@YA_NPB_WPA_W@Z 10006c0c f   ConEmuBg995.obj
+ 0001:00005c2b       ?GetMsgW995@@YAPB_WH@Z     10006c2b f   ConEmuBg995.obj
+ 0001:00005c4f       ?GetPluginInfoW995@@YAXPAX@Z 10006c4f f   ConEmuBg995.obj
+ 0001:00005ca6       ?SetStartupInfoW995@@YAXPAX@Z 10006ca6 f   ConEmuBg995.obj
+ 0001:00005e02       ?SettingsLoadW995@@YAXXZ   10006e02 f   ConEmuBg995.obj
+ 0001:00005e0f       ?SettingsSaveW995@@YAXXZ   10006e0f f   ConEmuBg995.obj
+ 0001:00005e1c       _OpenPluginW@8             10006e1c f   ConEmuBg995.obj
+ 0001:000061cb       ?FMatchA@@YA_NPBDPAD@Z     100071cb f   ConEmuBgA.obj
+ 0001:00006201       ?SettingsLoadA@@YAXXZ      10007201 f   ConEmuBgA.obj
+ 0001:0000620e       ?SettingsSaveA@@YAXXZ      1000720e f   ConEmuBgA.obj
+ 0001:0000621b       _Configure@4               1000721b f   ConEmuBgA.obj
+ 0001:00006238       _ExitFAR@0                 10007238 f   ConEmuBgA.obj
+ 0001:000062a2       _GetMinFarVersion@0        100072a2 f   ConEmuBgA.obj
+ 0001:000062c7       _GetPluginInfo@4           100072c7 f   ConEmuBgA.obj
+ 0001:00006333       _OpenPlugin@8              10007333 f   ConEmuBgA.obj
+ 0001:00006349       _SetStartupInfo@4          10007349 f   ConEmuBgA.obj
+ 0001:000064d5       _GetFileVersionInfoSizeW@8 100074d5 f   version:VERSION.dll
+ 0001:000064db       _GetFileVersionInfoW@16    100074db f   version:VERSION.dll
+ 0001:000064e1       _VerQueryValueW@16         100074e1 f   version:VERSION.dll
+ 0001:000064e7       ??2@YAPAXI@Z               100074e7 f   common-kernel32:Memory.obj
+ 0001:00006514       ??3@YAXPAX@Z               10007514 f   common-kernel32:Memory.obj
+ 0001:0000652e       ??_U@YAPAXI@Z              1000752e f   common-kernel32:Memory.obj
+ 0001:00006548       ??_V@YAXPAX@Z              10007548 f   common-kernel32:Memory.obj
+ 0001:00006562       ?HeapDeinitialize@@YAXXZ   10007562 f   common-kernel32:Memory.obj
+ 0001:0000657a       ?HeapInitialize@@YA_NXZ    1000757a f   common-kernel32:Memory.obj
+ 0001:0000659c       ?xf_calloc@@YAPAXIIPBDH@Z  1000759c f   common-kernel32:Memory.obj
+ 0001:000065f6       ?xf_free@@YAXPAXPBDH@Z     100075f6 f   common-kernel32:Memory.obj
+ 0001:0000662b       ?xf_malloc@@YAPAXIPBDH@Z   1000762b f   common-kernel32:Memory.obj
+ 0001:00006681       ?xf_set_tag@@YAXPAXPBDH_N@Z 10007681 f   common-kernel32:Memory.obj
+ 0001:000066fd       ?xf_validate@@YA_NPAX@Z    100076fd f   common-kernel32:Memory.obj
+ 0001:00006730       ?lstrdup@@YAPA_WPB_WI@Z    10007730 f   common-kernel32:MStrDup.obj
+ 0001:00006785       ?lstrmerge@@YAPA_WPB_W00000000@Z 10007785 f   common-kernel32:MStrDup.obj
+ 0001:0000688a       ??0MSectionLockSimple@@QAE@XZ 1000788a f   common-kernel32:MSectionSimple.obj
+ 0001:00006894       ??0MSectionSimple@@QAE@_N@Z 10007894 f   common-kernel32:MSectionSimple.obj
+ 0001:000068c1       ??1MSectionLockSimple@@QAE@XZ 100078c1 f   common-kernel32:MSectionSimple.obj
+ 0001:000068cc       ??1MSectionSimple@@QAE@XZ  100078cc f   common-kernel32:MSectionSimple.obj
+ 0001:000068d1       ?Close@MSectionSimple@@QAEXXZ 100078d1 f   common-kernel32:MSectionSimple.obj
+ 0001:000068e7       ?Init@MSectionSimple@@QAEXXZ 100078e7 f   common-kernel32:MSectionSimple.obj
+ 0001:000068fd       ?Lock@MSectionLockSimple@@QAEHPAUMSectionSimple@@K@Z 100078fd f   common-kernel32:MSectionSimple.obj
+ 0001:00006965       ?TryEnter@MSectionSimple@@QAE_NXZ 10007965 f   common-kernel32:MSectionSimple.obj
+ 0001:00006984       ?Unlock@MSectionLockSimple@@QAEXXZ 10007984 f   common-kernel32:MSectionSimple.obj
+ 0001:000069a0       ?SetThreadName@@YAXKPAD@Z  100079a0 f   common-kernel32:WThreads.obj
+ 0001:000069ef       ?apiCreateThread@@YAPAXP6GKPAX@Z0PAKPBDH@Z 100079ef f   common-kernel32:WThreads.obj
+ 0001:00006ae1       ?apiTerminateThreadEx@@YAHPAXKPBDH@Z 10007ae1 f   common-kernel32:WThreads.obj
+ 0001:00006bb8       ?apiThreadHelper@@YGKPAX@Z 10007bb8 f   common-kernel32:WThreads.obj
+ 0001:00006d46       ??3@YAXPAXI@Z              10007d46 f   LIBCMT:delete_scalar_size.obj
+ 0001:00006d54       ___raise_securityfailure   10007d54 f   LIBCMT:gs_report.obj
+ 0001:00006d7c       ___report_gsfailure        10007d7c f   LIBCMT:gs_report.obj
+ 0001:00006e77       ___report_rangecheckfailure 10007e77 f   LIBCMT:gs_report.obj
+ 0001:00006e83       ___report_securityfailure  10007e83 f   LIBCMT:gs_report.obj
+ 0001:00006f53       @__security_check_cookie@4 10007f53 f   LIBCMT:_secchk_.obj
+ 0001:00006f64       __EH_epilog3               10007f64 f   LIBCMT:ehprolg3.obj
+ 0001:00006f79       __EH_epilog3_GS            10007f79 f   LIBCMT:ehprolg3.obj
+ 0001:00006f8a       __EH_prolog3               10007f8a f   LIBCMT:ehprolg3.obj
+ 0001:00006fbe       __EH_prolog3_GS            10007fbe f   LIBCMT:ehprolg3.obj
+ 0001:00006ff5       __EH_prolog3_catch         10007ff5 f   LIBCMT:ehprolg3.obj
  0001:00007030       __allmul                   10008030 f   LIBCMT:llmul.obj
  0001:00007070       __aulldiv                  10008070 f   LIBCMT:ulldiv.obj
  0001:000070d8       ??_Etype_info@@UAEPAXI@Z   100080d8 f i LIBCMT:std_type_info_static.obj
@@ -1920,11 +1920,11 @@
  0001:00004926       ?ConfigureProc@@YAHH@Z     10005926 f   ConEmuBg1900.obj
  0001:00005041       ?ConfigDlgProc@@YGHPAXHH0@Z 10006041 f   ConEmuBg2800.obj
  0001:000050e5       ?ConfigureProc@@YAHH@Z     100060e5 f   ConEmuBg2800.obj
- 0001:0000585a       ?ConfigDlgProc@@YGJPAXHHJ@Z 1000685a f   ConEmuBg995.obj
- 0001:000058fe       ?ConfigureProc@@YAHH@Z     100068fe f   ConEmuBg995.obj
- 0001:00005e39       ?ConfigDlgProc@@YGJPAXHHJ@Z 10006e39 f   ConEmuBgA.obj
- 0001:00005ee7       ?ConfigureProc@@YAHH@Z     10006ee7 f   ConEmuBgA.obj
- 0001:000061e3       ?GetMsg@@YAPADH@Z          100071e3 f   ConEmuBgA.obj
+ 0001:0000585f       ?ConfigDlgProc@@YGJPAXHHJ@Z 1000685f f   ConEmuBg995.obj
+ 0001:00005903       ?ConfigureProc@@YAHH@Z     10006903 f   ConEmuBg995.obj
+ 0001:00005e3e       ?ConfigDlgProc@@YGJPAXHHJ@Z 10006e3e f   ConEmuBgA.obj
+ 0001:00005eec       ?ConfigureProc@@YAHH@Z     10006eec f   ConEmuBgA.obj
+ 0001:000061e8       ?GetMsg@@YAPADH@Z          100071e8 f   ConEmuBgA.obj
  0001:00007030       $$000000                   10008030     LIBCMT:llmul.obj
  0001:00007070       $$000000                   10008070     LIBCMT:ulldiv.obj
  0001:000070fb       ?__scrt_initialize_thread_safe_statics@@YAHXZ 100080fb f   LIBCMT:thread_safe_statics.obj

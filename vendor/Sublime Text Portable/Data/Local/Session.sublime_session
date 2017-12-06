@@ -9,7 +9,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 817.0,
+		"new_window_height": 836.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -653,6 +653,9 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/scss/.gitkeep",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/less/.gitkeep",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/stylus/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/bundle.scss",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/components/base.css",
@@ -777,10 +780,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js"
 			],
 			"find":
 			{
@@ -1556,7 +1556,7 @@
 			{
 			}
 		},
-		"new_window_width": 957.0
+		"new_window_width": 937.0
 	},
 	"windows":
 	[
@@ -2203,6 +2203,9 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/scss/.gitkeep",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/less/.gitkeep",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/stylus/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/bundle.scss",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/components/base.css",
@@ -2327,10 +2330,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js"
 			],
 			"find":
 			{
@@ -2570,7 +2570,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,863,1645,-13,2618",
+			"position": "0,0,1,-1,-1,-1,-1,869,1632,-26,2585",
 			"replace":
 			{
 				"height": 102.0

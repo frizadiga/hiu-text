@@ -1,6 +1,6 @@
  ConEmuLn.x64
 
- Timestamp is 5a10243d (Sat Nov 18 15:14:53 2017)
+ Timestamp is 5a27c1de (Wed Dec  6 13:09:34 2017)
 
  Preferred load address is 0000000180000000
 
@@ -101,32 +101,32 @@
  0001:00002dc8       ?SettingsLoadW2800@@YAXXZ  0000000180003dc8 f   ConEmuLn2800.obj
  0001:00002f30       ?SettingsSaveW2800@@YAXXZ  0000000180003f30 f   ConEmuLn2800.obj
  0001:00003068       GetGlobalInfoW             0000000180004068 f   ConEmuLn2800.obj
- 0001:00003a74       ?ConfigureW995@@YAHH@Z     0000000180004a74 f   ConEmuLn995.obj
- 0001:00003a88       ?ExitFARW995@@YAXXZ        0000000180004a88 f   ConEmuLn995.obj
- 0001:00003b04       ?GetMsgW995@@YAPEB_WH@Z    0000000180004b04 f   ConEmuLn995.obj
- 0001:00003b2c       ?GetPluginInfoW995@@YAXPEAX@Z 0000000180004b2c f   ConEmuLn995.obj
- 0001:00003ba0       ?SetStartupInfoW995@@YAXPEAX@Z 0000000180004ba0 f   ConEmuLn995.obj
- 0001:00003d70       ?SettingsLoadW995@@YAXXZ   0000000180004d70 f   ConEmuLn995.obj
- 0001:00003d7c       ?SettingsSaveW995@@YAXXZ   0000000180004d7c f   ConEmuLn995.obj
- 0001:00003d88       OpenPluginW                0000000180004d88 f   ConEmuLn995.obj
- 0001:0000479c       ?SettingsLoadA@@YAXXZ      000000018000579c f   ConEmuLnA.obj
- 0001:000047a8       ?SettingsSaveA@@YAXXZ      00000001800057a8 f   ConEmuLnA.obj
- 0001:000047b4       Configure                  00000001800057b4 f   ConEmuLnA.obj
- 0001:000047c8       ExitFAR                    00000001800057c8 f   ConEmuLnA.obj
- 0001:00004848       GetMinFarVersion           0000000180005848 f   ConEmuLnA.obj
- 0001:00004878       GetPluginInfo              0000000180005878 f   ConEmuLnA.obj
- 0001:00004904       OpenPlugin                 0000000180005904 f   ConEmuLnA.obj
- 0001:00004924       SetStartupInfo             0000000180005924 f   ConEmuLnA.obj
- 0001:00004b1d       GetFileVersionInfoSizeW    0000000180005b1d f   version:VERSION.dll
- 0001:00004b23       GetFileVersionInfoW        0000000180005b23 f   version:VERSION.dll
- 0001:00004b29       VerQueryValueW             0000000180005b29 f   version:VERSION.dll
- 0001:00004b30       ?HeapDeinitialize@@YAXXZ   0000000180005b30 f   common-kernel64:Memory.obj
- 0001:00004b54       ?HeapInitialize@@YA_NXZ    0000000180005b54 f   common-kernel64:Memory.obj
- 0001:00004b88       ?xf_calloc@@YAPEAX_K0PEBDH@Z 0000000180005b88 f   common-kernel64:Memory.obj
- 0001:00004c18       ?xf_free@@YAXPEAXPEBDH@Z   0000000180005c18 f   common-kernel64:Memory.obj
- 0001:00004c54       ?xf_set_tag@@YAXPEAXPEBDH_N@Z 0000000180005c54 f   common-kernel64:Memory.obj
- 0001:00004cfc       __GSHandlerCheck           0000000180005cfc f   LIBCMT:_gshandler_.obj
- 0001:00004d1c       __GSHandlerCheckCommon     0000000180005d1c f   LIBCMT:_gshandler_.obj
+ 0001:00003a78       ?ConfigureW995@@YAHH@Z     0000000180004a78 f   ConEmuLn995.obj
+ 0001:00003a8c       ?ExitFARW995@@YAXXZ        0000000180004a8c f   ConEmuLn995.obj
+ 0001:00003b08       ?GetMsgW995@@YAPEB_WH@Z    0000000180004b08 f   ConEmuLn995.obj
+ 0001:00003b30       ?GetPluginInfoW995@@YAXPEAX@Z 0000000180004b30 f   ConEmuLn995.obj
+ 0001:00003ba4       ?SetStartupInfoW995@@YAXPEAX@Z 0000000180004ba4 f   ConEmuLn995.obj
+ 0001:00003d74       ?SettingsLoadW995@@YAXXZ   0000000180004d74 f   ConEmuLn995.obj
+ 0001:00003d80       ?SettingsSaveW995@@YAXXZ   0000000180004d80 f   ConEmuLn995.obj
+ 0001:00003d8c       OpenPluginW                0000000180004d8c f   ConEmuLn995.obj
+ 0001:000047a0       ?SettingsLoadA@@YAXXZ      00000001800057a0 f   ConEmuLnA.obj
+ 0001:000047ac       ?SettingsSaveA@@YAXXZ      00000001800057ac f   ConEmuLnA.obj
+ 0001:000047b8       Configure                  00000001800057b8 f   ConEmuLnA.obj
+ 0001:000047cc       ExitFAR                    00000001800057cc f   ConEmuLnA.obj
+ 0001:0000484c       GetMinFarVersion           000000018000584c f   ConEmuLnA.obj
+ 0001:0000487c       GetPluginInfo              000000018000587c f   ConEmuLnA.obj
+ 0001:00004908       OpenPlugin                 0000000180005908 f   ConEmuLnA.obj
+ 0001:00004928       SetStartupInfo             0000000180005928 f   ConEmuLnA.obj
+ 0001:00004b21       GetFileVersionInfoSizeW    0000000180005b21 f   version:VERSION.dll
+ 0001:00004b27       GetFileVersionInfoW        0000000180005b27 f   version:VERSION.dll
+ 0001:00004b2d       VerQueryValueW             0000000180005b2d f   version:VERSION.dll
+ 0001:00004b34       ?HeapDeinitialize@@YAXXZ   0000000180005b34 f   common-kernel64:Memory.obj
+ 0001:00004b58       ?HeapInitialize@@YA_NXZ    0000000180005b58 f   common-kernel64:Memory.obj
+ 0001:00004b8c       ?xf_calloc@@YAPEAX_K0PEBDH@Z 0000000180005b8c f   common-kernel64:Memory.obj
+ 0001:00004c1c       ?xf_free@@YAXPEAXPEBDH@Z   0000000180005c1c f   common-kernel64:Memory.obj
+ 0001:00004c58       ?xf_set_tag@@YAXPEAXPEBDH_N@Z 0000000180005c58 f   common-kernel64:Memory.obj
+ 0001:00004d00       __GSHandlerCheck           0000000180005d00 f   LIBCMT:_gshandler_.obj
+ 0001:00004d20       __GSHandlerCheckCommon     0000000180005d20 f   LIBCMT:_gshandler_.obj
  0001:00004d90       __security_check_cookie    0000000180005d90 f   LIBCMT:_amdsecgs_.obj
  0001:00004dd0       _alloca_probe              0000000180005dd0 f   LIBCMT:_chkstk_.obj
  0001:00004dd0       __chkstk                   0000000180005dd0 f   LIBCMT:_chkstk_.obj
@@ -1430,10 +1430,10 @@
  0001:00001280       ?ConfigureProc@@YAHH@Z     0000000180002280 f   ConEmuLn1900.obj
  0001:00002038       ?ConfigDlgProc@@YA_JPEAX_J10@Z 0000000180003038 f   ConEmuLn2800.obj
  0001:0000218c       ?ConfigureProc@@YAHH@Z     000000018000318c f   ConEmuLn2800.obj
- 0001:000030fc       ?ConfigDlgProc@@YA_JPEAXHH_J@Z 00000001800040fc f   ConEmuLn995.obj
- 0001:00003248       ?ConfigureProc@@YAHH@Z     0000000180004248 f   ConEmuLn995.obj
- 0001:00003d9c       ?ConfigDlgProc@@YA_JPEAXHH_J@Z 0000000180004d9c f   ConEmuLnA.obj
- 0001:00003ee8       ?ConfigureProc@@YAHH@Z     0000000180004ee8 f   ConEmuLnA.obj
+ 0001:00003100       ?ConfigDlgProc@@YA_JPEAXHH_J@Z 0000000180004100 f   ConEmuLn995.obj
+ 0001:0000324c       ?ConfigureProc@@YAHH@Z     000000018000424c f   ConEmuLn995.obj
+ 0001:00003da0       ?ConfigDlgProc@@YA_JPEAXHH_J@Z 0000000180004da0 f   ConEmuLnA.obj
+ 0001:00003eec       ?ConfigureProc@@YAHH@Z     0000000180004eec f   ConEmuLnA.obj
  0001:00004d80       $$000000                   0000000180005d80     LIBCMT:_amdsecgs_.obj
  0001:00004dc0       $$000000                   0000000180005dc0     LIBCMT:_chkstk_.obj
  0001:00004e24       ?dllmain_crt_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z 0000000180005e24 f   LIBCMT:dll_dllmain.obj

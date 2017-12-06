@@ -1,6 +1,6 @@
  ConEmu
 
- Timestamp is 5a10242a (Sat Nov 18 15:14:34 2017)
+ Timestamp is 5a27c1c9 (Wed Dec  6 13:09:13 2017)
 
  Preferred load address is 10000000
 
@@ -197,96 +197,96 @@
  0001:00004d47       ?insert@?$MArray@UWindowInfo@@@@QAEXHABUWindowInfo@@@Z 10005d47 f i ConEmuPlugin2800.obj
  0001:00004dbc       ?push_back@?$MArray@UWindowInfo@@@@QAEHABUWindowInfo@@@Z 10005dbc f i ConEmuPlugin2800.obj
  0001:00004e0c       _GetGlobalInfoW@4          10005e0c f   ConEmuPlugin2800.obj
- 0001:00004e9c       ??0CPluginW995@@QAE@XZ     10005e9c f   ConEmuPlugin995.obj
- 0001:00005020       ??_ECPluginW995@@UAEPAXI@Z 10006020 f i ConEmuPlugin995.obj
- 0001:00005020       ??_GCPluginW995@@UAEPAXI@Z 10006020 f i ConEmuPlugin995.obj
- 0001:00005379       ?CheckPanelExist@CPluginW995@@UAE_NXZ 10006379 f   ConEmuPlugin995.obj
- 0001:0000539c       ?ExecuteSynchroApi@CPluginW995@@UAE_NXZ 1000639c f   ConEmuPlugin995.obj
- 0001:000053bb       ?ExitFar@CPluginW995@@UAEXXZ 100063bb f   ConEmuPlugin995.obj
- 0001:00005437       ?GetActiveWindowType@CPluginW995@@UAEHXZ 10006437 f   ConEmuPlugin995.obj
- 0001:000054d7       ?GetEditorModifiedState@CPluginW995@@UAEKXZ 100064d7 f   ConEmuPlugin995.obj
- 0001:00005511       ?GetFarRect@CPluginW995@@UAE_NAAU_SMALL_RECT@@@Z 10006511 f   ConEmuPlugin995.obj
- 0001:00005554       ?GetMacroArea@CPluginW995@@UAEHXZ 10006554 f   ConEmuPlugin995.obj
- 0001:0000558e       ?GetMsg@CPluginW995@@UAEPB_WHPA_WI@Z 1000658e f   ConEmuPlugin995.obj
- 0001:000055d2       ?GetPanelDir@CPluginW995@@UAEPA_WKPA_WH@Z 100065d2 f   ConEmuPlugin995.obj
- 0001:000056b9       ?GetPanelInfo@CPluginW995@@UAE_NKPAUCEPanelInfo@@@Z 100066b9 f   ConEmuPlugin995.obj
- 0001:00005890       ?GetPanelItemInfo@CPluginW995@@UAE_NABUCEPanelInfo@@_NHAAU_WIN32_FIND_DATAW@@PAPA_W@Z 10006890 f   ConEmuPlugin995.obj
- 0001:000059fc       ?GetPluginInfoPtr@CPluginW995@@UAEXPAX@Z 100069fc f   ConEmuPlugin995.obj
- 0001:00005a55       ?GetWindowCount@CPluginW995@@UAEHXZ 10006a55 f   ConEmuPlugin995.obj
- 0001:00005a72       ?GuiMacroDlg@CPluginW995@@UAEXXZ 10006a72 f   ConEmuPlugin995.obj
- 0001:00005a77       ?InputBox@CPluginW995@@UAE_NPB_W000AAPA_W@Z 10006a77 f   ConEmuPlugin995.obj
- 0001:00005af7       ?IsMacroActive@CPluginW995@@UAE_NXZ 10006af7 f   ConEmuPlugin995.obj
- 0001:00005b47       ?LoadFarColors@CPluginW995@@UAEXAAY0BAA@E@Z 10006b47 f   ConEmuPlugin995.obj
- 0001:00005c00       ?LoadFarSettings@CPluginW995@@UAEXPAUCEFarInterfaceSettings@@PAUCEFarPanelSettings@@@Z 10006c00 f   ConEmuPlugin995.obj
- 0001:00005c37       ?OpenEditor@CPluginW995@@UAE_NPB_W_N11HH@Z 10006c37 f   ConEmuPlugin995.obj
- 0001:00005cd0       ?PanelControlApi@CPluginW995@@UAEHPAXHH0@Z 10006cd0 f   ConEmuPlugin995.obj
- 0001:00005ced       ?PostMacroApi@CPluginW995@@UAEXPB_WPAU_INPUT_RECORD@@_N@Z 10006ced f   ConEmuPlugin995.obj
- 0001:00005d86       ?ProcessEditorInputPtr@CPluginW995@@UAEHPBX@Z 10006d86 f   ConEmuPlugin995.obj
- 0001:00005da0       ?RedrawAll@CPluginW995@@UAEXXZ 10006da0 f   ConEmuPlugin995.obj
- 0001:00005dbd       ?SetStartupInfoPtr@CPluginW995@@UAEXPAX@Z 10006dbd f   ConEmuPlugin995.obj
- 0001:00005ec2       ?SetWindow@CPluginW995@@UAEXH@Z 10006ec2 f   ConEmuPlugin995.obj
- 0001:00005ef6       ?ShowMessage@CPluginW995@@UAEHPB_WH_N@Z 10006ef6 f   ConEmuPlugin995.obj
- 0001:00005f3f       ?ShowPluginMenu@CPluginW995@@UAEHPAUConEmuPluginMenuItem@@HH@Z 10006f3f f   ConEmuPlugin995.obj
- 0001:0000603d       ?ShowUserScreen@CPluginW995@@UAEX_N@Z 1000703d f   ConEmuPlugin995.obj
- 0001:00006062       ?StopWaitEndSynchro@CPluginW995@@UAEXXZ 10007062 f   ConEmuPlugin995.obj
- 0001:0000607b       ?UpdateConEmuTabsApi@CPluginW995@@UAE_NH@Z 1000707b f   ConEmuPlugin995.obj
- 0001:000062c5       ?WaitEndSynchro@CPluginW995@@UAEXXZ 100072c5 f   ConEmuPlugin995.obj
- 0001:000063d9       ??0CPluginAnsi@@QAE@XZ     100073d9 f   ConEmuPluginA.obj
- 0001:0000652d       ??_GCPluginAnsi@@UAEPAXI@Z 1000752d f i ConEmuPluginA.obj
- 0001:0000652d       ??_ECPluginAnsi@@UAEPAXI@Z 1000752d f i ConEmuPluginA.obj
- 0001:000069c8       ?CheckPanelExist@CPluginAnsi@@UAE_NXZ 100079c8 f   ConEmuPluginA.obj
- 0001:000069ec       ?ExecuteSynchroApi@CPluginAnsi@@UAE_NXZ 100079ec f i ConEmuPluginA.obj
- 0001:000069ef       ?ExitFar@CPluginAnsi@@UAEXXZ 100079ef f   ConEmuPluginA.obj
- 0001:00006a3b       ?GetActiveWindowType@CPluginAnsi@@UAEHXZ 10007a3b f   ConEmuPluginA.obj
- 0001:00006aae       ?GetEditorModifiedState@CPluginAnsi@@UAEKXZ 10007aae f   ConEmuPluginA.obj
- 0001:00006aeb       ?GetFarRect@CPluginAnsi@@UAE_NAAU_SMALL_RECT@@@Z 10007aeb f i ConEmuPluginA.obj
- 0001:00006af0       __get_startup_argv_mode    10007af0 f   LIBCMT:argv_mode.obj
- 0001:00006af0       ?GetMacroArea@CPluginAnsi@@UAEHXZ 10007af0 f   ConEmuPluginA.obj
- 0001:00006af4       ?GetMsg@CPluginAnsi@@UAEPB_WHPA_WI@Z 10007af4 f   ConEmuPluginA.obj
- 0001:00006b64       ?GetPanelDir@CPluginAnsi@@UAEPA_WKPA_WH@Z 10007b64 f   ConEmuPluginA.obj
- 0001:00006c28       ?GetPanelInfo@CPluginAnsi@@UAE_NKPAUCEPanelInfo@@@Z 10007c28 f   ConEmuPluginA.obj
- 0001:00006e03       ?GetPanelItemInfo@CPluginAnsi@@UAE_NABUCEPanelInfo@@_NHAAU_WIN32_FIND_DATAW@@PAPA_W@Z 10007e03 f   ConEmuPluginA.obj
- 0001:00006f02       ?GetPluginInfoPtr@CPluginAnsi@@UAEXPAX@Z 10007f02 f   ConEmuPluginA.obj
- 0001:00006f6f       ?GetWindowCount@CPluginAnsi@@UAEHXZ 10007f6f f   ConEmuPluginA.obj
- 0001:00006f92       ?GetWindowTypeName@CPluginW2800@@UAEPB_WH@Z 10007f92 f   ConEmuPlugin2800.obj
- 0001:00006f92       ?GetWindowTypeName@CPluginAnsi@@UAEPB_WH@Z 10007f92 f   ConEmuPluginA.obj
- 0001:00006f92       ?GetWindowTypeName@CPluginW995@@UAEPB_WH@Z 10007f92 f   ConEmuPlugin995.obj
- 0001:00006f92       ?GetWindowTypeName@CPluginW1900@@UAEPB_WH@Z 10007f92 f   ConEmuPlugin1900.obj
- 0001:00006fe9       ?GuiMacroDlg@CPluginAnsi@@UAEXXZ 10007fe9 f   ConEmuPluginA.obj
- 0001:00006fee       ?InputBox@CPluginAnsi@@UAE_NPB_W000AAPA_W@Z 10007fee f   ConEmuPluginA.obj
- 0001:0000711e       ?IsMacroActive@CPluginAnsi@@UAE_NXZ 1000811e f   ConEmuPluginA.obj
- 0001:00007174       ?LoadFarColors@CPluginAnsi@@UAEXAAY0BAA@E@Z 10008174 f   ConEmuPluginA.obj
- 0001:00007233       ?LoadFarSettings@CPluginAnsi@@UAEXPAUCEFarInterfaceSettings@@PAUCEFarPanelSettings@@@Z 10008233 f   ConEmuPluginA.obj
- 0001:00007276       ?Open@CPluginAnsi@@UAEPAXPBX@Z 10008276 f i ConEmuPluginA.obj
- 0001:00007276       ?Open@CPluginW995@@UAEPAXPBX@Z 10008276 f i ConEmuPlugin995.obj
- 0001:0000727f       ?OpenEditor@CPluginAnsi@@UAE_NPB_W_N11HH@Z 1000827f f   ConEmuPluginA.obj
- 0001:0000735f       ?PanelControlApi@CPluginAnsi@@UAEHPAXHH0@Z 1000835f f   ConEmuPluginA.obj
- 0001:00007389       ?PostMacroApi@CPluginAnsi@@UAEXPB_WPAU_INPUT_RECORD@@_N@Z 10008389 f   ConEmuPluginA.obj
- 0001:0000743b       ?ProcessSynchroEventPtr@CPluginAnsi@@UAEHPAX@Z 1000843b f i ConEmuPluginA.obj
- 0001:0000743b       ?ProcessViewerEventPtr@CPluginW995@@UAEHPAX@Z 1000843b f i ConEmuPlugin995.obj
- 0001:0000743b       ?ProcessEditorEventPtr@CPluginAnsi@@UAEHPAX@Z 1000843b f i ConEmuPluginA.obj
- 0001:0000743b       ?ProcessEditorEventPtr@CPluginW995@@UAEHPAX@Z 1000843b f i ConEmuPlugin995.obj
- 0001:0000743b       ?ProcessViewerEventPtr@CPluginAnsi@@UAEHPAX@Z 1000843b f i ConEmuPluginA.obj
- 0001:0000743b       ?ProcessSynchroEventPtr@CPluginW995@@UAEHPAX@Z 1000843b f i ConEmuPlugin995.obj
- 0001:0000743b       ?ProcessEditorInputPtr@CPluginAnsi@@UAEHPBX@Z 1000843b f i ConEmuPluginA.obj
- 0001:00007440       ?RedrawAll@CPluginAnsi@@UAEXXZ 10008440 f   ConEmuPluginA.obj
- 0001:00007463       ?SetStartupInfoPtr@CPluginAnsi@@UAEXPAX@Z 10008463 f   ConEmuPluginA.obj
- 0001:0000757b       ?SetWindow@CPluginAnsi@@UAEXH@Z 1000857b f   ConEmuPluginA.obj
- 0001:000075bb       ?ShowMessage@CPluginAnsi@@UAEHPB_WH_N@Z 100085bb f   ConEmuPluginA.obj
- 0001:00007663       ?ShowPluginMenu@CPluginAnsi@@UAEHPAUConEmuPluginMenuItem@@HH@Z 10008663 f   ConEmuPluginA.obj
- 0001:000077a2       ?ShowUserScreen@CPluginAnsi@@UAEX_N@Z 100087a2 f   ConEmuPluginA.obj
- 0001:000077c8       ?UpdateConEmuTabsApi@CPluginAnsi@@UAE_NH@Z 100087c8 f   ConEmuPluginA.obj
- 0001:00007a36       ??0?$MFileMapping@UConEmuGuiMapping@@@@QAE@XZ 10008a36 f i common-kernel32:ConEmuCheck.obj
- 0001:00007a36       ??0?$MFileMapping@UPanelViewSetMapping@@@@QAE@XZ 10008a36 f i PluginBackground.obj
- 0001:00007a36       ??0?$MFileMapping@UCESERVER_CONSOLE_MAPPING_HDR@@@@QAE@XZ 10008a36 f i ConEmuPluginBase.obj
- 0001:00007a5a       ??0CPluginBase@@QAE@XZ     10008a5a f   ConEmuPluginBase.obj
- 0001:00007b78       ??0MWow64Disable@@QAE@XZ   10008b78 f i ConEmuPluginBase.obj
- 0001:00007bbe       ??1CPluginBase@@UAE@XZ     10008bbe f   ConEmuPluginBase.obj
- 0001:00007bc5       ??1MWow64Disable@@QAE@XZ   10008bc5 f i ConEmuPluginBase.obj
- 0001:00007bfb       ??_G?$MFileMapping@UCESERVER_CONSOLE_MAPPING_HDR@@@@QAEPAXI@Z 10008bfb f i ConEmuPluginBase.obj
- 0001:00007c25       ??_GCPluginBase@@UAEPAXI@Z 10008c25 f i ConEmuPluginBase.obj
- 0001:00007c25       ??_ECPluginBase@@UAEPAXI@Z 10008c25 f i ConEmuPluginBase.obj
- 0001:00007c4b       ?ActivatePlugin@CPluginBase@@QAE_NKPAXK@Z 10008c4b f   ConEmuPluginBase.obj
+ 0001:00004ea1       ??0CPluginW995@@QAE@XZ     10005ea1 f   ConEmuPlugin995.obj
+ 0001:00005025       ??_ECPluginW995@@UAEPAXI@Z 10006025 f i ConEmuPlugin995.obj
+ 0001:00005025       ??_GCPluginW995@@UAEPAXI@Z 10006025 f i ConEmuPlugin995.obj
+ 0001:0000537e       ?CheckPanelExist@CPluginW995@@UAE_NXZ 1000637e f   ConEmuPlugin995.obj
+ 0001:000053a1       ?ExecuteSynchroApi@CPluginW995@@UAE_NXZ 100063a1 f   ConEmuPlugin995.obj
+ 0001:000053c0       ?ExitFar@CPluginW995@@UAEXXZ 100063c0 f   ConEmuPlugin995.obj
+ 0001:0000543c       ?GetActiveWindowType@CPluginW995@@UAEHXZ 1000643c f   ConEmuPlugin995.obj
+ 0001:000054dc       ?GetEditorModifiedState@CPluginW995@@UAEKXZ 100064dc f   ConEmuPlugin995.obj
+ 0001:00005516       ?GetFarRect@CPluginW995@@UAE_NAAU_SMALL_RECT@@@Z 10006516 f   ConEmuPlugin995.obj
+ 0001:00005559       ?GetMacroArea@CPluginW995@@UAEHXZ 10006559 f   ConEmuPlugin995.obj
+ 0001:00005593       ?GetMsg@CPluginW995@@UAEPB_WHPA_WI@Z 10006593 f   ConEmuPlugin995.obj
+ 0001:000055d7       ?GetPanelDir@CPluginW995@@UAEPA_WKPA_WH@Z 100065d7 f   ConEmuPlugin995.obj
+ 0001:000056be       ?GetPanelInfo@CPluginW995@@UAE_NKPAUCEPanelInfo@@@Z 100066be f   ConEmuPlugin995.obj
+ 0001:00005895       ?GetPanelItemInfo@CPluginW995@@UAE_NABUCEPanelInfo@@_NHAAU_WIN32_FIND_DATAW@@PAPA_W@Z 10006895 f   ConEmuPlugin995.obj
+ 0001:00005a01       ?GetPluginInfoPtr@CPluginW995@@UAEXPAX@Z 10006a01 f   ConEmuPlugin995.obj
+ 0001:00005a5a       ?GetWindowCount@CPluginW995@@UAEHXZ 10006a5a f   ConEmuPlugin995.obj
+ 0001:00005a77       ?GuiMacroDlg@CPluginW995@@UAEXXZ 10006a77 f   ConEmuPlugin995.obj
+ 0001:00005a7c       ?InputBox@CPluginW995@@UAE_NPB_W000AAPA_W@Z 10006a7c f   ConEmuPlugin995.obj
+ 0001:00005afc       ?IsMacroActive@CPluginW995@@UAE_NXZ 10006afc f   ConEmuPlugin995.obj
+ 0001:00005b4c       ?LoadFarColors@CPluginW995@@UAEXAAY0BAA@E@Z 10006b4c f   ConEmuPlugin995.obj
+ 0001:00005c05       ?LoadFarSettings@CPluginW995@@UAEXPAUCEFarInterfaceSettings@@PAUCEFarPanelSettings@@@Z 10006c05 f   ConEmuPlugin995.obj
+ 0001:00005c3c       ?OpenEditor@CPluginW995@@UAE_NPB_W_N11HH@Z 10006c3c f   ConEmuPlugin995.obj
+ 0001:00005cd5       ?PanelControlApi@CPluginW995@@UAEHPAXHH0@Z 10006cd5 f   ConEmuPlugin995.obj
+ 0001:00005cf2       ?PostMacroApi@CPluginW995@@UAEXPB_WPAU_INPUT_RECORD@@_N@Z 10006cf2 f   ConEmuPlugin995.obj
+ 0001:00005d8b       ?ProcessEditorInputPtr@CPluginW995@@UAEHPBX@Z 10006d8b f   ConEmuPlugin995.obj
+ 0001:00005da5       ?RedrawAll@CPluginW995@@UAEXXZ 10006da5 f   ConEmuPlugin995.obj
+ 0001:00005dc2       ?SetStartupInfoPtr@CPluginW995@@UAEXPAX@Z 10006dc2 f   ConEmuPlugin995.obj
+ 0001:00005ec7       ?SetWindow@CPluginW995@@UAEXH@Z 10006ec7 f   ConEmuPlugin995.obj
+ 0001:00005efb       ?ShowMessage@CPluginW995@@UAEHPB_WH_N@Z 10006efb f   ConEmuPlugin995.obj
+ 0001:00005f44       ?ShowPluginMenu@CPluginW995@@UAEHPAUConEmuPluginMenuItem@@HH@Z 10006f44 f   ConEmuPlugin995.obj
+ 0001:00006042       ?ShowUserScreen@CPluginW995@@UAEX_N@Z 10007042 f   ConEmuPlugin995.obj
+ 0001:00006067       ?StopWaitEndSynchro@CPluginW995@@UAEXXZ 10007067 f   ConEmuPlugin995.obj
+ 0001:00006080       ?UpdateConEmuTabsApi@CPluginW995@@UAE_NH@Z 10007080 f   ConEmuPlugin995.obj
+ 0001:000062ca       ?WaitEndSynchro@CPluginW995@@UAEXXZ 100072ca f   ConEmuPlugin995.obj
+ 0001:000063de       ??0CPluginAnsi@@QAE@XZ     100073de f   ConEmuPluginA.obj
+ 0001:00006532       ??_GCPluginAnsi@@UAEPAXI@Z 10007532 f i ConEmuPluginA.obj
+ 0001:00006532       ??_ECPluginAnsi@@UAEPAXI@Z 10007532 f i ConEmuPluginA.obj
+ 0001:000069cd       ?CheckPanelExist@CPluginAnsi@@UAE_NXZ 100079cd f   ConEmuPluginA.obj
+ 0001:000069f1       ?ExecuteSynchroApi@CPluginAnsi@@UAE_NXZ 100079f1 f i ConEmuPluginA.obj
+ 0001:000069f4       ?ExitFar@CPluginAnsi@@UAEXXZ 100079f4 f   ConEmuPluginA.obj
+ 0001:00006a40       ?GetActiveWindowType@CPluginAnsi@@UAEHXZ 10007a40 f   ConEmuPluginA.obj
+ 0001:00006ab3       ?GetEditorModifiedState@CPluginAnsi@@UAEKXZ 10007ab3 f   ConEmuPluginA.obj
+ 0001:00006af0       ?GetFarRect@CPluginAnsi@@UAE_NAAU_SMALL_RECT@@@Z 10007af0 f i ConEmuPluginA.obj
+ 0001:00006af5       __get_startup_argv_mode    10007af5 f   LIBCMT:argv_mode.obj
+ 0001:00006af5       ?GetMacroArea@CPluginAnsi@@UAEHXZ 10007af5 f   ConEmuPluginA.obj
+ 0001:00006af9       ?GetMsg@CPluginAnsi@@UAEPB_WHPA_WI@Z 10007af9 f   ConEmuPluginA.obj
+ 0001:00006b69       ?GetPanelDir@CPluginAnsi@@UAEPA_WKPA_WH@Z 10007b69 f   ConEmuPluginA.obj
+ 0001:00006c2d       ?GetPanelInfo@CPluginAnsi@@UAE_NKPAUCEPanelInfo@@@Z 10007c2d f   ConEmuPluginA.obj
+ 0001:00006e08       ?GetPanelItemInfo@CPluginAnsi@@UAE_NABUCEPanelInfo@@_NHAAU_WIN32_FIND_DATAW@@PAPA_W@Z 10007e08 f   ConEmuPluginA.obj
+ 0001:00006f04       ?GetPluginInfoPtr@CPluginAnsi@@UAEXPAX@Z 10007f04 f   ConEmuPluginA.obj
+ 0001:00006f71       ?GetWindowCount@CPluginAnsi@@UAEHXZ 10007f71 f   ConEmuPluginA.obj
+ 0001:00006f94       ?GetWindowTypeName@CPluginW2800@@UAEPB_WH@Z 10007f94 f   ConEmuPlugin2800.obj
+ 0001:00006f94       ?GetWindowTypeName@CPluginAnsi@@UAEPB_WH@Z 10007f94 f   ConEmuPluginA.obj
+ 0001:00006f94       ?GetWindowTypeName@CPluginW995@@UAEPB_WH@Z 10007f94 f   ConEmuPlugin995.obj
+ 0001:00006f94       ?GetWindowTypeName@CPluginW1900@@UAEPB_WH@Z 10007f94 f   ConEmuPlugin1900.obj
+ 0001:00006feb       ?GuiMacroDlg@CPluginAnsi@@UAEXXZ 10007feb f   ConEmuPluginA.obj
+ 0001:00006ff0       ?InputBox@CPluginAnsi@@UAE_NPB_W000AAPA_W@Z 10007ff0 f   ConEmuPluginA.obj
+ 0001:00007120       ?IsMacroActive@CPluginAnsi@@UAE_NXZ 10008120 f   ConEmuPluginA.obj
+ 0001:00007176       ?LoadFarColors@CPluginAnsi@@UAEXAAY0BAA@E@Z 10008176 f   ConEmuPluginA.obj
+ 0001:00007235       ?LoadFarSettings@CPluginAnsi@@UAEXPAUCEFarInterfaceSettings@@PAUCEFarPanelSettings@@@Z 10008235 f   ConEmuPluginA.obj
+ 0001:00007278       ?Open@CPluginAnsi@@UAEPAXPBX@Z 10008278 f i ConEmuPluginA.obj
+ 0001:00007278       ?Open@CPluginW995@@UAEPAXPBX@Z 10008278 f i ConEmuPlugin995.obj
+ 0001:00007281       ?OpenEditor@CPluginAnsi@@UAE_NPB_W_N11HH@Z 10008281 f   ConEmuPluginA.obj
+ 0001:00007361       ?PanelControlApi@CPluginAnsi@@UAEHPAXHH0@Z 10008361 f   ConEmuPluginA.obj
+ 0001:0000738b       ?PostMacroApi@CPluginAnsi@@UAEXPB_WPAU_INPUT_RECORD@@_N@Z 1000838b f   ConEmuPluginA.obj
+ 0001:0000743d       ?ProcessSynchroEventPtr@CPluginAnsi@@UAEHPAX@Z 1000843d f i ConEmuPluginA.obj
+ 0001:0000743d       ?ProcessViewerEventPtr@CPluginW995@@UAEHPAX@Z 1000843d f i ConEmuPlugin995.obj
+ 0001:0000743d       ?ProcessEditorEventPtr@CPluginAnsi@@UAEHPAX@Z 1000843d f i ConEmuPluginA.obj
+ 0001:0000743d       ?ProcessEditorEventPtr@CPluginW995@@UAEHPAX@Z 1000843d f i ConEmuPlugin995.obj
+ 0001:0000743d       ?ProcessViewerEventPtr@CPluginAnsi@@UAEHPAX@Z 1000843d f i ConEmuPluginA.obj
+ 0001:0000743d       ?ProcessSynchroEventPtr@CPluginW995@@UAEHPAX@Z 1000843d f i ConEmuPlugin995.obj
+ 0001:0000743d       ?ProcessEditorInputPtr@CPluginAnsi@@UAEHPBX@Z 1000843d f i ConEmuPluginA.obj
+ 0001:00007442       ?RedrawAll@CPluginAnsi@@UAEXXZ 10008442 f   ConEmuPluginA.obj
+ 0001:00007465       ?SetStartupInfoPtr@CPluginAnsi@@UAEXPAX@Z 10008465 f   ConEmuPluginA.obj
+ 0001:0000757d       ?SetWindow@CPluginAnsi@@UAEXH@Z 1000857d f   ConEmuPluginA.obj
+ 0001:000075bd       ?ShowMessage@CPluginAnsi@@UAEHPB_WH_N@Z 100085bd f   ConEmuPluginA.obj
+ 0001:00007665       ?ShowPluginMenu@CPluginAnsi@@UAEHPAUConEmuPluginMenuItem@@HH@Z 10008665 f   ConEmuPluginA.obj
+ 0001:000077a4       ?ShowUserScreen@CPluginAnsi@@UAEX_N@Z 100087a4 f   ConEmuPluginA.obj
+ 0001:000077ca       ?UpdateConEmuTabsApi@CPluginAnsi@@UAE_NH@Z 100087ca f   ConEmuPluginA.obj
+ 0001:00007a38       ??0?$MFileMapping@UConEmuGuiMapping@@@@QAE@XZ 10008a38 f i common-kernel32:ConEmuCheck.obj
+ 0001:00007a38       ??0?$MFileMapping@UPanelViewSetMapping@@@@QAE@XZ 10008a38 f i PluginBackground.obj
+ 0001:00007a38       ??0?$MFileMapping@UCESERVER_CONSOLE_MAPPING_HDR@@@@QAE@XZ 10008a38 f i ConEmuPluginBase.obj
+ 0001:00007a5c       ??0CPluginBase@@QAE@XZ     10008a5c f   ConEmuPluginBase.obj
+ 0001:00007b7a       ??0MWow64Disable@@QAE@XZ   10008b7a f i ConEmuPluginBase.obj
+ 0001:00007bc0       ??1CPluginBase@@UAE@XZ     10008bc0 f   ConEmuPluginBase.obj
+ 0001:00007bc7       ??1MWow64Disable@@QAE@XZ   10008bc7 f i ConEmuPluginBase.obj
+ 0001:00007bfd       ??_G?$MFileMapping@UCESERVER_CONSOLE_MAPPING_HDR@@@@QAEPAXI@Z 10008bfd f i ConEmuPluginBase.obj
+ 0001:00007c27       ??_GCPluginBase@@UAEPAXI@Z 10008c27 f i ConEmuPluginBase.obj
+ 0001:00007c27       ??_ECPluginBase@@UAEPAXI@Z 10008c27 f i ConEmuPluginBase.obj
+ 0001:00007c4d       ?ActivatePlugin@CPluginBase@@QAE_NKPAXK@Z 10008c4d f   ConEmuPluginBase.obj
  0001:00007de9       ?AddTab@CPluginBase@@QAE_NAAHH_N1HPB_W2HHHH@Z 10008de9 f   ConEmuPluginBase.obj
  0001:000080d2       ?AddTabFinish@CPluginBase@@QAEXH@Z 100090d2 f   ConEmuPluginBase.obj
  0001:000080e4       ?Attach2Gui@CPluginBase@@QAE_N_N@Z 100090e4 f   ConEmuPluginBase.obj
@@ -2749,12 +2749,12 @@
  0001:0000342b       ?GetFarSetting@@YAHPAXIPB_W@Z 1000442b f   ConEmuPlugin2800.obj
  0001:00004b38       ?WExists@@YAHABUWindowInfo@@ABV?$MArray@UWindowInfo@@@@@Z 10005b38 f   ConEmuPlugin2800.obj
  0001:00004b7c       ?WLoadWindows@@YAHAAV?$MArray@UWindowInfo@@@@H@Z 10005b7c f   ConEmuPlugin2800.obj
- 0001:0000504b       ?CallGuiMacroDlg@@YGJPAXHHJ@Z 1000604b f   ConEmuPlugin995.obj
- 0001:000051bb       ?CallGuiMacroProc@@YAXXZ   100061bb f   ConEmuPlugin995.obj
- 0001:000054ab       $LN18                      100064ab     ConEmuPlugin995.obj
- 0001:000054c7       $LN14                      100064c7     ConEmuPlugin995.obj
- 0001:00006558       ?CallGuiMacroDlg@@YGJPAXHHJ@Z 10007558 f   ConEmuPluginA.obj
- 0001:0000677d       ?CallGuiMacroProc@@YAXXZ   1000777d f   ConEmuPluginA.obj
+ 0001:00005050       ?CallGuiMacroDlg@@YGJPAXHHJ@Z 10006050 f   ConEmuPlugin995.obj
+ 0001:000051c0       ?CallGuiMacroProc@@YAXXZ   100061c0 f   ConEmuPlugin995.obj
+ 0001:000054b0       $LN18                      100064b0     ConEmuPlugin995.obj
+ 0001:000054cc       $LN14                      100064cc     ConEmuPlugin995.obj
+ 0001:0000655d       ?CallGuiMacroDlg@@YGJPAXHHJ@Z 1000755d f   ConEmuPluginA.obj
+ 0001:00006782       ?CallGuiMacroProc@@YAXXZ   10007782 f   ConEmuPluginA.obj
  0001:00009a06       ?LoadFarVersion@@YA_NAAUFarVersion@@AAY0CAA@_W@Z 1000aa06 f   ConEmuPluginBase.obj
  0001:00009a98       ?LoadFarVersion@@YA_NPB_WAAUFarVersion@@AAY0CAA@_W@Z 1000aa98 f   ConEmuPluginBase.obj
  0001:00009bac       ?LoadModuleVersion@@YA_NPB_WAAUtagVS_FIXEDFILEINFO@@PA_WI@Z 1000abac f   ConEmuPluginBase.obj
