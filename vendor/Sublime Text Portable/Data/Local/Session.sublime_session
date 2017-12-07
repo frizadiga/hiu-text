@@ -1,15 +1,13 @@
 {
 	"folder_history":
 	[
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/islamic/islamic-pwa",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/islamic/islamic-api"
 	],
 	"last_version": 3143,
-	"last_window_id": 114,
+	"last_window_id": 119,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 836.0,
+		"new_window_height": 780.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -1532,7 +1530,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-land.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-ui.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1556,7 +1554,7 @@
 			{
 			}
 		},
-		"new_window_width": 937.0
+		"new_window_width": 936.0
 	},
 	"windows":
 	[
@@ -2570,7 +2568,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,869,1632,-26,2585",
+			"position": "0,0,1,-1,-1,-1,-1,833,1621,-6,2573",
 			"replace":
 			{
 				"height": 102.0
@@ -3105,7 +3103,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-land.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-ui.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3138,12 +3136,10 @@
 	{
 		"recent_workspaces":
 		[
-			"/A/hiuData/hiuWEB/AppJS/hiu-ui.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/playground.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/islamic.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiu-env.sublime-workspace"
+			"/A/hiuData/hiuWEB/AppJS/playground.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiu-env.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace"
 		]
 	}
 }
