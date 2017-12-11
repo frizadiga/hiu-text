@@ -1,19 +1,25 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave",
+		"/A/hiuData/hiuWEB/AppJS/hiu/hiu"
 	],
 	"last_version": 3143,
 	"last_window_id": 126,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 809.0,
+		"new_window_height": 818.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"ex",
+						"extractSCSS"
+					],
 					[
 						"uk",
 						"uk-animation-fade"
@@ -521,10 +527,6 @@
 					[
 						"perc",
 						"percentPrice"
-					],
-					[
-						"onkey",
-						"onkeyup\tAttr"
 					]
 				]
 			},
@@ -651,6 +653,12 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.css",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.scss",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/scss/color.scss",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle-no-color.css",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.gitignore",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/scss/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/less/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/stylus/.gitkeep",
@@ -772,13 +780,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listing-detail.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-instant-view.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/footer.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/res-search-not-found.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js"
 			],
 			"find":
 			{
@@ -805,6 +807,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					".u",
+					".w3",
+					".u",
 					"$color_tranquil_approx",
 					"$color_pale_green_border_hover",
 					"$color_pale_green_hover",
@@ -929,10 +934,7 @@
 					"tabInstantView",
 					"city\"",
 					"city",
-					"dataListings",
-					"grey",
-					"text",
-					"w3-button"
+					"dataListings"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -940,6 +942,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					".i",
 					"u",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
@@ -1007,6 +1010,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"gitig",
+						".gitignore"
+					],
 					[
 						"pack",
 						"package.json"
@@ -1514,10 +1521,6 @@
 					[
 						"userform",
 						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"userscon",
-						"api\\controllers\\UsersController.js"
 					]
 				],
 				"width": 0.0
@@ -1525,9 +1528,13 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "1",
 				"selected_items":
 				[
+					[
+						"1",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\1.sublime-project"
+					],
 					[
 						"",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\playground.sublime-project"
@@ -1571,6 +1578,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"ex",
+						"extractSCSS"
+					],
 					[
 						"uk",
 						"uk-animation-fade"
@@ -2078,10 +2089,6 @@
 					[
 						"perc",
 						"percentPrice"
-					],
-					[
-						"onkey",
-						"onkeyup\tAttr"
 					]
 				]
 			},
@@ -2209,6 +2216,12 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.css",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.scss",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/scss/color.scss",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle-no-color.css",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.gitignore",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/scss/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/less/.gitkeep",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/stylus/.gitkeep",
@@ -2330,13 +2343,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listing-detail.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-instant-view.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/footer.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/res-search-not-found.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js"
 			],
 			"find":
 			{
@@ -2363,6 +2370,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					".u",
+					".w3",
+					".u",
 					"$color_tranquil_approx",
 					"$color_pale_green_border_hover",
 					"$color_pale_green_hover",
@@ -2487,10 +2497,7 @@
 					"tabInstantView",
 					"city\"",
 					"city",
-					"dataListings",
-					"grey",
-					"text",
-					"w3-button"
+					"dataListings"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2498,6 +2505,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					".i",
 					"u",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
@@ -2576,7 +2584,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,860,1612,-8,2565",
+			"position": "0,0,1,-1,-1,-1,-1,873,1649,-4,2602",
 			"replace":
 			{
 				"height": 102.0
@@ -2588,6 +2596,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"gitig",
+						".gitignore"
+					],
 					[
 						"pack",
 						"package.json"
@@ -3095,10 +3107,6 @@
 					[
 						"userform",
 						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"userscon",
-						"api\\controllers\\UsersController.js"
 					]
 				],
 				"width": 0.0
@@ -3106,9 +3114,13 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "1",
 				"selected_items":
 				[
+					[
+						"1",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\1.sublime-project"
+					],
 					[
 						"",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\playground.sublime-project"
@@ -3153,11 +3165,11 @@
 		"recent_workspaces":
 		[
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/ikan.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-env.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-text-project.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/playground.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-env.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-workspace"
 		]
 	}
