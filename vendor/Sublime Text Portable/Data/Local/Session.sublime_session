@@ -5,17 +5,25 @@
 		"/A/hiuData/hiuWEB/AppJS/hiu/hiu"
 	],
 	"last_version": 3143,
-	"last_window_id": 126,
+	"last_window_id": 127,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 818.0,
+		"new_window_height": 809.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"we",
+						"webpack-dev-server"
+					],
+					[
+						"ika",
+						"ikanJS"
+					],
 					[
 						"ex",
 						"extractSCSS"
@@ -519,14 +527,6 @@
 					[
 						"para",
 						"params"
-					],
-					[
-						"per",
-						"percentagePrice"
-					],
-					[
-						"perc",
-						"percentPrice"
 					]
 				]
 			},
@@ -653,6 +653,15 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/package.json",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.babelrc",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/webpack.config.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/js/ikan.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/app.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/css/ikan.css",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/app.bundle.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/app.js",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.css",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.scss",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/scss/color.scss",
@@ -771,16 +780,7 @@
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Hello.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Homepage.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/assets/w3.css",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/router/index.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/package-lock.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-listing-pictures-main.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listing-detail.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-instant-view.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/footer.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js"
+				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/assets/w3.css"
 			],
 			"find":
 			{
@@ -807,6 +807,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"crimson",
+					"blue_gre",
+					"blue-gre",
+					"ikan",
 					".u",
 					".w3",
 					".u",
@@ -930,11 +934,7 @@
 					"ss=\"tablink",
 					"cityName",
 					"dataListings",
-					"openCity",
-					"tabInstantView",
-					"city\"",
-					"city",
-					"dataListings"
+					"openCity"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1011,6 +1011,22 @@
 				"selected_items":
 				[
 					[
+						"color",
+						"src\\scss\\color.scss"
+					],
+					[
+						"app",
+						"examples\\app.html"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"wepconfig",
+						"webpack.config.js"
+					],
+					[
 						"gitig",
 						".gitignore"
 					],
@@ -1045,10 +1061,6 @@
 					[
 						"f7-view.vue",
 						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
-					],
-					[
-						"app",
-						"f7-vue\\src\\app.vue"
 					],
 					[
 						"wa.cmd",
@@ -1141,10 +1153,6 @@
 					[
 						"responses",
 						"f7-vue\\node_modules\\express\\lib\\response.js"
-					],
-					[
-						"packa",
-						"f7-vue\\package.json"
 					],
 					[
 						"cd-app",
@@ -1513,14 +1521,6 @@
 					[
 						"docum",
 						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kui",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"userform",
-						"views\\dashboards\\user-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -1528,9 +1528,17 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "1",
+				"last_filter": "env",
 				"selected_items":
 				[
+					[
+						"env",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-env.sublime-project"
+					],
+					[
+						"land",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-land.sublime-project"
+					],
 					[
 						"1",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\1.sublime-project"
@@ -1542,10 +1550,6 @@
 					[
 						"text",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-text-project.sublime-project"
-					],
-					[
-						"env",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-env.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1578,6 +1582,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"we",
+						"webpack-dev-server"
+					],
+					[
+						"ika",
+						"ikanJS"
+					],
 					[
 						"ex",
 						"extractSCSS"
@@ -2081,14 +2093,6 @@
 					[
 						"para",
 						"params"
-					],
-					[
-						"per",
-						"percentagePrice"
-					],
-					[
-						"perc",
-						"percentPrice"
 					]
 				]
 			},
@@ -2216,6 +2220,15 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/package.json",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.babelrc",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/webpack.config.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/js/ikan.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/app.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/css/ikan.css",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/app.bundle.js",
+				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/app.js",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.css",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.scss",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/scss/color.scss",
@@ -2334,16 +2347,7 @@
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Hello.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Homepage.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/assets/w3.css",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/router/index.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/package-lock.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-listing-pictures-main.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listing-detail.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-instant-view.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/footer.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js"
+				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/assets/w3.css"
 			],
 			"find":
 			{
@@ -2370,6 +2374,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"crimson",
+					"blue_gre",
+					"blue-gre",
+					"ikan",
 					".u",
 					".w3",
 					".u",
@@ -2493,11 +2501,7 @@
 					"ss=\"tablink",
 					"cityName",
 					"dataListings",
-					"openCity",
-					"tabInstantView",
-					"city\"",
-					"city",
-					"dataListings"
+					"openCity"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2584,7 +2588,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,873,1649,-4,2602",
+			"position": "0,0,1,-1,-1,-1,-1,859,1615,-9,2568",
 			"replace":
 			{
 				"height": 102.0
@@ -2596,6 +2600,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"color",
+						"src\\scss\\color.scss"
+					],
+					[
+						"app",
+						"examples\\app.html"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"wepconfig",
+						"webpack.config.js"
+					],
 					[
 						"gitig",
 						".gitignore"
@@ -2631,10 +2651,6 @@
 					[
 						"f7-view.vue",
 						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
-					],
-					[
-						"app",
-						"f7-vue\\src\\app.vue"
 					],
 					[
 						"wa.cmd",
@@ -2727,10 +2743,6 @@
 					[
 						"responses",
 						"f7-vue\\node_modules\\express\\lib\\response.js"
-					],
-					[
-						"packa",
-						"f7-vue\\package.json"
 					],
 					[
 						"cd-app",
@@ -3099,14 +3111,6 @@
 					[
 						"docum",
 						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kui",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"userform",
-						"views\\dashboards\\user-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -3114,9 +3118,17 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "1",
+				"last_filter": "env",
 				"selected_items":
 				[
+					[
+						"env",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-env.sublime-project"
+					],
+					[
+						"land",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-land.sublime-project"
+					],
 					[
 						"1",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\1.sublime-project"
@@ -3128,10 +3140,6 @@
 					[
 						"text",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-text-project.sublime-project"
-					],
-					[
-						"env",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-env.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3165,12 +3173,12 @@
 		"recent_workspaces":
 		[
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/ikan.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-env.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/1.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-text-project.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/playground.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/1.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-env.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-workspace"
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-text-project.sublime-workspace"
 		]
 	}
 }
