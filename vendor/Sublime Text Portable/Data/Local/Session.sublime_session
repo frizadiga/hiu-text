@@ -1,15 +1,16 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/App/hiuText-projects",
 		"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave",
 		"/A/hiuData/hiuWEB/AppJS/hiu/hiu"
 	],
 	"last_version": 3143,
-	"last_window_id": 127,
+	"last_window_id": 129,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 809.0,
+		"new_window_height": 810.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -653,6 +654,8 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-land.sublime-project",
+				"/A/hiuData/hiuWEB/App/hiuText-projects/1.sublime-project",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/package.json",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.babelrc",
@@ -778,9 +781,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/footer.ejs",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/package.json",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Homepage.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/assets/w3.css"
+				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Homepage.vue"
 			],
 			"find":
 			{
@@ -807,6 +808,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"AppJS",
+					"i-container",
+					"i-blue-grey",
+					"i-container",
 					"crimson",
 					"blue_gre",
 					"blue-gre",
@@ -930,11 +935,7 @@
 					"li",
 					"id=\"map\"",
 					"t, 'maps",
-					"map",
-					"ss=\"tablink",
-					"cityName",
-					"dataListings",
-					"openCity"
+					"map"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1010,6 +1011,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"apphtml",
+						"dist\\app.html"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"bundlescss",
+						"ref\\bundle.scss"
+					],
+					[
+						"bundlecss",
+						"ref\\bundle.css"
+					],
 					[
 						"color",
 						"src\\scss\\color.scss"
@@ -1505,22 +1522,6 @@
 					[
 						"dash",
 						"views\\dashboards\\dashboard.ejs"
-					],
-					[
-						"maps",
-						"views\\pages\\maps.ejs"
-					],
-					[
-						"modalpaym",
-						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"paymentjs",
-						"api\\models\\Payments.js"
-					],
-					[
-						"docum",
-						"api\\controllers\\DocumentsController.js"
 					]
 				],
 				"width": 0.0
@@ -1528,9 +1529,13 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "env",
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\ikan.sublime-workspace"
+					],
 					[
 						"env",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-env.sublime-project"
@@ -1542,10 +1547,6 @@
 					[
 						"1",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\1.sublime-project"
-					],
-					[
-						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\playground.sublime-project"
 					],
 					[
 						"text",
@@ -1573,7 +1574,7 @@
 			{
 			}
 		},
-		"new_window_width": 937.0
+		"new_window_width": 938.0
 	},
 	"windows":
 	[
@@ -2220,6 +2221,8 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-land.sublime-project",
+				"/A/hiuData/hiuWEB/App/hiuText-projects/1.sublime-project",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/package.json",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.babelrc",
@@ -2345,9 +2348,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/footer.ejs",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/package.json",
 				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Homepage.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/assets/w3.css"
+				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Homepage.vue"
 			],
 			"find":
 			{
@@ -2374,6 +2375,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"AppJS",
+					"i-container",
+					"i-blue-grey",
+					"i-container",
 					"crimson",
 					"blue_gre",
 					"blue-gre",
@@ -2497,11 +2502,7 @@
 					"li",
 					"id=\"map\"",
 					"t, 'maps",
-					"map",
-					"ss=\"tablink",
-					"cityName",
-					"dataListings",
-					"openCity"
+					"map"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2588,7 +2589,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,859,1615,-9,2568",
+			"position": "0,0,1,-1,-1,-1,-1,847,1622,-22,2576",
 			"replace":
 			{
 				"height": 102.0
@@ -2600,6 +2601,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"apphtml",
+						"dist\\app.html"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"bundlescss",
+						"ref\\bundle.scss"
+					],
+					[
+						"bundlecss",
+						"ref\\bundle.css"
+					],
 					[
 						"color",
 						"src\\scss\\color.scss"
@@ -3095,22 +3112,6 @@
 					[
 						"dash",
 						"views\\dashboards\\dashboard.ejs"
-					],
-					[
-						"maps",
-						"views\\pages\\maps.ejs"
-					],
-					[
-						"modalpaym",
-						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"paymentjs",
-						"api\\models\\Payments.js"
-					],
-					[
-						"docum",
-						"api\\controllers\\DocumentsController.js"
 					]
 				],
 				"width": 0.0
@@ -3118,9 +3119,13 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "env",
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\ikan.sublime-workspace"
+					],
 					[
 						"env",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-env.sublime-project"
@@ -3132,10 +3137,6 @@
 					[
 						"1",
 						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\1.sublime-project"
-					],
-					[
-						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\playground.sublime-project"
 					],
 					[
 						"text",
@@ -3172,12 +3173,13 @@
 	{
 		"recent_workspaces":
 		[
+			"/A/hiuData/hiuWEB/App/hiuText-projects/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/ikan.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-env.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/playground.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/1.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-env.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-text-project.sublime-workspace"
 		]
 	}
