@@ -7,13 +7,45 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 827.0,
+		"new_window_height": 818.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"com",
+						"Composable"
+					],
+					[
+						"c",
+						"console"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"con",
+						"concurrently"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
 					[
 						"we",
 						"webpack-dev-server"
@@ -103,10 +135,6 @@
 						"contentSRC"
 					],
 					[
-						"con",
-						"contentSRC"
-					],
-					[
 						"conte",
 						"content"
 					],
@@ -123,10 +151,6 @@
 						"z-index"
 					],
 					[
-						"pad",
-						"padding"
-					],
-					[
 						"co",
 						"contentSRC"
 					],
@@ -137,10 +161,6 @@
 					[
 						"ba",
 						"background-color"
-					],
-					[
-						"mar",
-						"margin-top"
 					],
 					[
 						"padd",
@@ -187,16 +207,8 @@
 						"style\tAttr"
 					],
 					[
-						"margin",
-						"margin-right"
-					],
-					[
 						"w3-d",
 						"w3-display-container"
-					],
-					[
-						"c",
-						"colspan\tAttr"
 					],
 					[
 						"w3-dis",
@@ -273,10 +285,6 @@
 					[
 						"ca",
 						"capitalize"
-					],
-					[
-						"font",
-						"font-weight"
 					],
 					[
 						"lin",
@@ -517,14 +525,6 @@
 					[
 						"modal-confirm-ap",
 						"modal-confirm-approve-dp"
-					],
-					[
-						"pe",
-						"pelunasan"
-					],
-					[
-						"para",
-						"params"
 					]
 				]
 			},
@@ -540,7 +540,7 @@
 				[
 					[
 						"set sass",
-						"Set Syntax: Sass"
+						"Set Syntax: SCSS"
 					],
 					[
 						"set scss",
@@ -651,37 +651,42 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/ikan/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/app.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/app.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/container.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.common.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/app.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/container.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/app.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/animation.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/input.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/app.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/ex/app.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/display.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/effect.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/README.md",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/color.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/table.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/extend.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/font.scss",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/package.json",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/css/ikan.css",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/js/ikan.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ex/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/base.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/node_modules/normalize.css/normalize.css",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/backup-webpack.config.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/font.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/extend.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/tooltip.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/modal.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/input.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/bar.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/grid.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/dropdown.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/image.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/container.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/color.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/table.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.css",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/button.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/README.md",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/border.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/display.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/round.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.config.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/build/webpack.config.js",
@@ -773,12 +778,7 @@
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/node/asyncAwait.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/dev.env.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/test/tomomi.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/w3.css"
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css/app.css"
 			],
 			"find":
 			{
@@ -805,6 +805,24 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"div",
+					"\">ikan",
+					"ikan_",
+					"i-overlay",
+					"i-opa",
+					"W3.CSS",
+					"icss",
+					"i-margin-left",
+					"h2",
+					"class=\"i-padding\"",
+					"\"i-padding\"",
+					"i-padding",
+					"class=\"left\"",
+					"w3",
+					"target=\"_top\"",
+					".asp",
+					"W3.CSS",
+					"w3-",
 					"ex",
 					"examp",
 					"w3",
@@ -914,25 +932,7 @@
 					"$color_pale_red_hover",
 					"$color_hint_of_green_approx",
 					"$color_fair_pink_approx",
-					"$color_masala_approx",
-					"$color_tapa_approx",
-					"$color_khaki_hover",
-					"crimson",
-					"$crimson",
-					"$color_gold_tips_approx",
-					"$color_husk_approx",
-					"$color_baby_blue_approx",
-					"$color_cream_approx",
-					"$color_snowy_mint_approx",
-					"$color_pippin_approx",
-					"$color_storm_dust_approx",
-					"$seashell",
-					"gray",
-					"grey",
-					"gray",
-					"$color_star_dust_approx",
-					"$color_golden_fizz_approx",
-					"$color_gossamer_approx"
+					"$color_masala_approx"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -940,6 +940,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"i",
+					"i-",
 					"i",
 					".i",
 					"I",
@@ -1013,6 +1015,74 @@
 				"selected_items":
 				[
 					[
+						"webpack",
+						"webpack.dev.js"
+					],
+					[
+						"app",
+						"src\\html\\app.html"
+					],
+					[
+						"conta",
+						"src\\html\\container.html"
+					],
+					[
+						"con",
+						"src\\scss\\container.scss"
+					],
+					[
+						"color",
+						"src\\html\\color.html"
+					],
+					[
+						"app.js",
+						"src\\app.js"
+					],
+					[
+						"appjs",
+						"src\\app.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"input",
+						"src\\scss\\input.scss"
+					],
+					[
+						"appscs",
+						"src\\scss\\app.scss"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"dis",
+						"src\\scss\\display.scss"
+					],
+					[
+						"font",
+						"src\\scss\\font.scss"
+					],
+					[
+						"bundle",
+						"ref\\bundle.scss"
+					],
+					[
+						"table",
+						"src\\scss\\table.scss"
+					],
+					[
+						"extend",
+						"src\\scss\\extend.scss"
+					],
+					[
+						"container",
+						"src\\scss\\container.scss"
+					],
+					[
 						"appht",
 						"ex\\app.html"
 					],
@@ -1021,16 +1091,8 @@
 						"src\\scss\\app.scss"
 					],
 					[
-						"color",
-						"src\\scss\\color.scss"
-					],
-					[
 						"base",
 						"src\\scss\\base.scss"
-					],
-					[
-						"bundle",
-						"ref\\bundle.scss"
 					],
 					[
 						"norma",
@@ -1049,20 +1111,12 @@
 						"ex\\app.html"
 					],
 					[
-						"appjs",
-						"src\\app.js"
-					],
-					[
 						"pac",
 						"package.json"
 					],
 					[
 						"web",
 						"webpack.config.js"
-					],
-					[
-						"font",
-						"src\\scss\\font.scss"
 					],
 					[
 						"exte",
@@ -1081,10 +1135,6 @@
 						"src\\scss\\grid.scss"
 					],
 					[
-						"table",
-						"src\\scss\\table.scss"
-					],
-					[
 						"butto",
 						"src\\scss\\button.scss"
 					],
@@ -1093,19 +1143,11 @@
 						"src\\scss\\border.scss"
 					],
 					[
-						"dis",
-						"src\\scss\\display.scss"
-					],
-					[
 						"appsc",
 						"src\\scss\\app.scss"
 					],
 					[
 						"",
-						"src\\scss\\container.scss"
-					],
-					[
-						"conta",
 						"src\\scss\\container.scss"
 					],
 					[
@@ -1121,14 +1163,6 @@
 						"examples\\container.html"
 					],
 					[
-						"extend",
-						"src\\scss\\extend.scss"
-					],
-					[
-						"app",
-						"src\\scss\\app.scss"
-					],
-					[
 						"ikanjs",
 						"dist\\js\\ikan.js"
 					],
@@ -1139,10 +1173,6 @@
 					[
 						"bundlecss",
 						"ref\\bundle.css"
-					],
-					[
-						"packa",
-						"package.json"
 					],
 					[
 						"wepconfig",
@@ -1329,10 +1359,6 @@
 						"hiuProperty-sails\\config\\models.js"
 					],
 					[
-						"con",
-						"hiuProperty-sails\\config\\connections.js"
-					],
-					[
 						"indexejs",
 						"views\\pages\\index.ejs"
 					],
@@ -1499,30 +1525,6 @@
 					[
 						"bank",
 						"views\\dashboards\\banks-manage.ejs"
-					],
-					[
-						"agent",
-						"views\\dashboards\\agents-confirm.ejs"
-					],
-					[
-						"listingfor",
-						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"document",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"repayme",
-						"views\\dashboards\\payments-repayment-confirm.ejs"
-					],
-					[
-						"modaldetailp",
-						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"paymentcont",
-						"api\\controllers\\PaymentsController.js"
 					]
 				],
 				"width": 0.0
@@ -1538,12 +1540,12 @@
 						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\hiu-env.sublime-project"
 					],
 					[
-						"play",
+						"",
 						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\playground.sublime-project"
 					],
 					[
-						"",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\islamic.sublime-project"
+						"play",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\playground.sublime-project"
 					],
 					[
 						"land",
@@ -2105,21 +2107,30 @@
 			"buffers":
 			[
 				{
-					"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/yt.cmd",
+					"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/nig.cmd",
 					"settings":
 					{
-						"buffer_size": 430,
+						"buffer_size": 123,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/pkpu.cmd",
+					"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/bu.cmd",
 					"settings":
 					{
-						"buffer_size": 65,
+						"buffer_size": 32,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/bl",
+					"settings":
+					{
+						"buffer_size": 21,
 						"encoding": "UTF-8",
 						"line_ending": "Windows",
-						"name": "http://jadwalsholat.pkpu.or.id/monthly.php?id=%1"
+						"name": "manage-bde %1: -lock"
 					}
 				}
 			],
@@ -2227,9 +2238,16 @@
 			},
 			"expanded_folders":
 			[
+				"/D/hiuSoft/Application/hiu-env/hiu-cmd",
+				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder",
+				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin"
 			],
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/bde-a.cmd",
+				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/pkpu.cmd",
+				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/yt.cmd",
+				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/telegram.cmd",
 				"/D/hiuSoft/Application/hiu-env/hiu-cmd/ENVIR-GLOBAL.reg",
 				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/cd-app.cmd",
 				"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/cd-appjs.cmd",
@@ -2353,11 +2371,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/config/connections.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/config/models.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/navbar.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/hiu-403.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/hiu-500.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/hiu-404.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/footer.ejs",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/package.json"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/hiu-403.ejs"
 			],
 			"find":
 			{
@@ -2563,24 +2577,52 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/yt.cmd",
+							"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/nig.cmd",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 430,
+								"buffer_size": 123,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/bu.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
 									]
 								],
 								"settings":
@@ -2595,26 +2637,26 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/pkpu.cmd",
+							"buffer": 2,
+							"file": "/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin/bl",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 65,
+								"buffer_size": 21,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										8,
-										8
+										20,
+										20
 									]
 								],
 								"settings":
 								{
-									"auto_name": "http://jadwalsholat.pkpu.or.id/monthly.php?id=%1",
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+									"auto_name": "manage-bde %1: -lock",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2662,7 +2704,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,865,1620,-12,2573",
+			"position": "0,0,1,-1,-1,-1,-1,858,1625,-10,2578",
 			"project": "hiu-env.sublime-project",
 			"replace":
 			{
@@ -2675,6 +2717,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"bdea",
+						"hiu-cmd\\cmder\\bin\\bde-a.cmd"
+					],
+					[
+						"tele",
+						"hiu-cmd\\cmder\\bin\\telegram.cmd"
+					],
 					[
 						"yt",
 						"hiu-cmd\\cmder\\bin\\yt.cmd"
@@ -2802,10 +2852,6 @@
 					[
 						"wa.cmd",
 						"cmder\\bin\\whatsapp.cmd"
-					],
-					[
-						"tele",
-						"cmder\\bin\\telegram.cmd"
 					],
 					[
 						"f7-vuemain.js",
@@ -3182,10 +3228,6 @@
 					[
 						"modal-pay",
 						"views\\partials\\modal-pay-dp.ejs"
-					],
-					[
-						"payment.",
-						"views\\dashboards\\payments.ejs"
 					]
 				],
 				"width": 0.0
