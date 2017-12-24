@@ -7,7 +7,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 818.0,
+		"new_window_height": 810.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -15,12 +15,36 @@
 				"selected_items":
 				[
 					[
-						"com",
-						"Composable"
+						"ikan",
+						"ikanCSS"
+					],
+					[
+						"co",
+						"component"
 					],
 					[
 						"c",
-						"console"
+						"component"
+					],
+					[
+						"i",
+						"innerHTML"
+					],
+					[
+						"te",
+						"templateData"
+					],
+					[
+						"side",
+						"side-bar"
+					],
+					[
+						"new",
+						"newItem"
+					],
+					[
+						"com",
+						"Composable"
 					],
 					[
 						"mar",
@@ -149,10 +173,6 @@
 					[
 						"z",
 						"z-index"
-					],
-					[
-						"co",
-						"contentSRC"
 					],
 					[
 						"back",
@@ -387,10 +407,6 @@
 						"fa-user-secret"
 					],
 					[
-						"te",
-						"textTerbilang"
-					],
-					[
 						"ter",
 						"terbilang"
 					],
@@ -509,22 +525,6 @@
 					[
 						"agents",
 						"agentsConfirm"
-					],
-					[
-						"w",
-						"width"
-					],
-					[
-						"pay",
-						"payRepayment"
-					],
-					[
-						"modal-confirm-d",
-						"modal-confirm-denied-dp"
-					],
-					[
-						"modal-confirm-ap",
-						"modal-confirm-approve-dp"
 					]
 				]
 			},
@@ -651,12 +651,29 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/template.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.css",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/home.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/side-bar.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/top-bar.html",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.common.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/head.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/.gitignore",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/axios.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/footer.html",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/app.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/html.css",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/sidebar.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/app.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.common.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/partials/sidebar.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/container.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/app.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.scss",
@@ -694,7 +711,6 @@
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/card.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/layout.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/padding.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/margin.scss",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
@@ -762,23 +778,7 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/templates/layout.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css/app.css"
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd"
 			],
 			"find":
 			{
@@ -802,9 +802,32 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"Reds",
+					"href='",
+					"')\">",
+					"onclick=\"ikanLink(",
+					"common",
+					"(),\n",
+					"},\n",
+					"wrapper",
+					"main",
+					"newNode",
+					"var",
+					"Item",
+					"onclick=\"ikan(",
+					"html\">",
+					"target=\"_top\" href",
+					"\"i-bar-item i-button\"",
+					"href=\".",
+					"w3",
+					"href=\"",
+					"include",
+					"I",
+					"Ikan",
+					"I",
 					"div",
 					"\">ikan",
 					"ikan_",
@@ -909,30 +932,7 @@
 					"i-content",
 					"i-row",
 					"w3-row",
-					"w3",
-					"i-section",
-					"i-margin",
-					"i-container",
-					"i-blue-grey",
-					"i-container",
-					"crimson",
-					"blue_gre",
-					"blue-gre",
-					"ikan",
-					".u",
-					".w3",
-					".u",
-					"$color_tranquil_approx",
-					"$color_pale_green_border_hover",
-					"$color_pale_green_hover",
-					"$color_dark_grey_text_hover",
-					"$color_pale_red_border_hover",
-					"$color_dark_grey_text_hover",
-					"$color_pale_green_hover",
-					"$color_pale_red_hover",
-					"$color_hint_of_green_approx",
-					"$color_fair_pink_approx",
-					"$color_masala_approx"
+					"w3"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -940,6 +940,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"i",
+					"ikan",
+					"Ikan",
 					"i",
 					"i-",
 					"i",
@@ -1015,20 +1018,40 @@
 				"selected_items":
 				[
 					[
-						"webpack",
-						"webpack.dev.js"
+						"htmlcss",
+						"src\\html\\assets\\html.css"
 					],
 					[
-						"app",
-						"src\\html\\app.html"
+						"topbar",
+						"src\\html\\assets\\top-bar.html"
 					],
 					[
 						"conta",
 						"src\\html\\container.html"
 					],
 					[
-						"con",
-						"src\\scss\\container.scss"
+						"home",
+						"src\\html\\home.html"
+					],
+					[
+						"side",
+						"src\\html\\assets\\side-bar.html"
+					],
+					[
+						"indexht",
+						"src\\html\\index.html"
+					],
+					[
+						"contai",
+						"src\\html\\container.html"
+					],
+					[
+						"htmljs",
+						"src\\html\\assets\\html.js"
+					],
+					[
+						"pa",
+						"package.json"
 					],
 					[
 						"color",
@@ -1037,6 +1060,30 @@
 					[
 						"app.js",
 						"src\\app.js"
+					],
+					[
+						"web",
+						"webpack.common.js"
+					],
+					[
+						"apphtml",
+						"src\\html\\wrapper\\app.html"
+					],
+					[
+						"appht",
+						"src\\html\\app.html"
+					],
+					[
+						"webpack",
+						"webpack.dev.js"
+					],
+					[
+						"app",
+						"src\\html\\app.html"
+					],
+					[
+						"con",
+						"src\\scss\\container.scss"
 					],
 					[
 						"appjs",
@@ -1083,10 +1130,6 @@
 						"src\\scss\\container.scss"
 					],
 					[
-						"appht",
-						"ex\\app.html"
-					],
-					[
 						"app.scss",
 						"src\\scss\\app.scss"
 					],
@@ -1107,16 +1150,8 @@
 						"dist\\js\\ikan.js"
 					],
 					[
-						"apphtml",
-						"ex\\app.html"
-					],
-					[
 						"pac",
 						"package.json"
-					],
-					[
-						"web",
-						"webpack.config.js"
 					],
 					[
 						"exte",
@@ -1153,10 +1188,6 @@
 					[
 						"ex",
 						"src\\scss\\extend.scss"
-					],
-					[
-						"contai",
-						"src\\scss\\container.scss"
 					],
 					[
 						"cont",
@@ -1497,34 +1528,6 @@
 					[
 						"report",
 						"views\\dashboards\\documents\\report-transactions.ejs"
-					],
-					[
-						"docu",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kuitansi",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"listing-f",
-						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"hius",
-						"hiusig.sql"
-					],
-					[
-						"users",
-						"api\\controllers\\UsersController.js"
-					],
-					[
-						"listingsco",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"bank",
-						"views\\dashboards\\banks-manage.ejs"
 					]
 				],
 				"width": 0.0
@@ -1581,7 +1584,7 @@
 			{
 			}
 		},
-		"new_window_width": 937.0
+		"new_window_width": 938.0
 	},
 	"windows":
 	[
@@ -1591,12 +1594,36 @@
 				"selected_items":
 				[
 					[
-						"com",
-						"Composable"
+						"ikan",
+						"ikanCSS"
+					],
+					[
+						"co",
+						"component"
 					],
 					[
 						"c",
-						"console"
+						"component"
+					],
+					[
+						"i",
+						"innerHTML"
+					],
+					[
+						"te",
+						"templateData"
+					],
+					[
+						"side",
+						"side-bar"
+					],
+					[
+						"new",
+						"newItem"
+					],
+					[
+						"com",
+						"Composable"
 					],
 					[
 						"mar",
@@ -1725,10 +1752,6 @@
 					[
 						"z",
 						"z-index"
-					],
-					[
-						"co",
-						"contentSRC"
 					],
 					[
 						"back",
@@ -1963,10 +1986,6 @@
 						"fa-user-secret"
 					],
 					[
-						"te",
-						"textTerbilang"
-					],
-					[
 						"ter",
 						"terbilang"
 					],
@@ -2085,22 +2104,6 @@
 					[
 						"agents",
 						"agentsConfirm"
-					],
-					[
-						"w",
-						"width"
-					],
-					[
-						"pay",
-						"payRepayment"
-					],
-					[
-						"modal-confirm-d",
-						"modal-confirm-denied-dp"
-					],
-					[
-						"modal-confirm-ap",
-						"modal-confirm-approve-dp"
 					]
 				]
 			},
@@ -2228,12 +2231,29 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/template.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.css",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/home.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/side-bar.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/top-bar.html",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.common.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/head.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/.gitignore",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/axios.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/footer.html",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/app.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/html.css",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/sidebar.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/app.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.common.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/partials/sidebar.html",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/container.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/app.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.scss",
@@ -2271,7 +2291,6 @@
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/card.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/layout.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/padding.scss",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/margin.scss",
 				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
@@ -2339,23 +2358,7 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/templates/layout.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css/app.css"
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd"
 			],
 			"find":
 			{
@@ -2379,9 +2382,32 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"Reds",
+					"href='",
+					"')\">",
+					"onclick=\"ikanLink(",
+					"common",
+					"(),\n",
+					"},\n",
+					"wrapper",
+					"main",
+					"newNode",
+					"var",
+					"Item",
+					"onclick=\"ikan(",
+					"html\">",
+					"target=\"_top\" href",
+					"\"i-bar-item i-button\"",
+					"href=\".",
+					"w3",
+					"href=\"",
+					"include",
+					"I",
+					"Ikan",
+					"I",
 					"div",
 					"\">ikan",
 					"ikan_",
@@ -2486,30 +2512,7 @@
 					"i-content",
 					"i-row",
 					"w3-row",
-					"w3",
-					"i-section",
-					"i-margin",
-					"i-container",
-					"i-blue-grey",
-					"i-container",
-					"crimson",
-					"blue_gre",
-					"blue-gre",
-					"ikan",
-					".u",
-					".w3",
-					".u",
-					"$color_tranquil_approx",
-					"$color_pale_green_border_hover",
-					"$color_pale_green_hover",
-					"$color_dark_grey_text_hover",
-					"$color_pale_red_border_hover",
-					"$color_dark_grey_text_hover",
-					"$color_pale_green_hover",
-					"$color_pale_red_hover",
-					"$color_hint_of_green_approx",
-					"$color_fair_pink_approx",
-					"$color_masala_approx"
+					"w3"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2517,6 +2520,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"i",
+					"ikan",
+					"Ikan",
 					"i",
 					"i-",
 					"i",
@@ -2583,6 +2589,12 @@
 						0,
 						1,
 						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
 					]
 				],
 				"cols":
@@ -2593,6 +2605,7 @@
 				"rows":
 				[
 					0.0,
+					0.311244856126,
 					1.0
 				]
 			},
@@ -2602,7 +2615,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,865,1620,-12,2573",
+			"position": "0,0,1,-1,-1,-1,-1,850,1601,-19,2555",
 			"replace":
 			{
 				"height": 102.0
@@ -2615,20 +2628,40 @@
 				"selected_items":
 				[
 					[
-						"webpack",
-						"webpack.dev.js"
+						"htmlcss",
+						"src\\html\\assets\\html.css"
 					],
 					[
-						"app",
-						"src\\html\\app.html"
+						"topbar",
+						"src\\html\\assets\\top-bar.html"
 					],
 					[
 						"conta",
 						"src\\html\\container.html"
 					],
 					[
-						"con",
-						"src\\scss\\container.scss"
+						"home",
+						"src\\html\\home.html"
+					],
+					[
+						"side",
+						"src\\html\\assets\\side-bar.html"
+					],
+					[
+						"indexht",
+						"src\\html\\index.html"
+					],
+					[
+						"contai",
+						"src\\html\\container.html"
+					],
+					[
+						"htmljs",
+						"src\\html\\assets\\html.js"
+					],
+					[
+						"pa",
+						"package.json"
 					],
 					[
 						"color",
@@ -2637,6 +2670,30 @@
 					[
 						"app.js",
 						"src\\app.js"
+					],
+					[
+						"web",
+						"webpack.common.js"
+					],
+					[
+						"apphtml",
+						"src\\html\\wrapper\\app.html"
+					],
+					[
+						"appht",
+						"src\\html\\app.html"
+					],
+					[
+						"webpack",
+						"webpack.dev.js"
+					],
+					[
+						"app",
+						"src\\html\\app.html"
+					],
+					[
+						"con",
+						"src\\scss\\container.scss"
 					],
 					[
 						"appjs",
@@ -2683,10 +2740,6 @@
 						"src\\scss\\container.scss"
 					],
 					[
-						"appht",
-						"ex\\app.html"
-					],
-					[
 						"app.scss",
 						"src\\scss\\app.scss"
 					],
@@ -2707,16 +2760,8 @@
 						"dist\\js\\ikan.js"
 					],
 					[
-						"apphtml",
-						"ex\\app.html"
-					],
-					[
 						"pac",
 						"package.json"
-					],
-					[
-						"web",
-						"webpack.config.js"
 					],
 					[
 						"exte",
@@ -2753,10 +2798,6 @@
 					[
 						"ex",
 						"src\\scss\\extend.scss"
-					],
-					[
-						"contai",
-						"src\\scss\\container.scss"
 					],
 					[
 						"cont",
@@ -3097,34 +3138,6 @@
 					[
 						"report",
 						"views\\dashboards\\documents\\report-transactions.ejs"
-					],
-					[
-						"docu",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kuitansi",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"listing-f",
-						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"hius",
-						"hiusig.sql"
-					],
-					[
-						"users",
-						"api\\controllers\\UsersController.js"
-					],
-					[
-						"listingsco",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"bank",
-						"views\\dashboards\\banks-manage.ejs"
 					]
 				],
 				"width": 0.0
