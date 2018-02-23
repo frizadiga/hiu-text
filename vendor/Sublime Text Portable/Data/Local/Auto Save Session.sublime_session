@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/A/AppJS/circledoo/testing",
+		"/C/hiu-env/hiu-cmd/cmder/bin",
 		"/A/AppJS/circledoo/service-api",
 		"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin",
 		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
@@ -14,7 +16,7 @@
 		"/A/hiuData/hiuWEB/App/forked"
 	],
 	"last_version": 3143,
-	"last_window_id": 138,
+	"last_window_id": 139,
 	"log_indexing": false,
 	"settings":
 	{
@@ -26,16 +28,40 @@
 				"selected_items":
 				[
 					[
+						"v",
+						"vouchersController"
+					],
+					[
+						"vou",
+						"vouchers_model_validation"
+					],
+					[
+						"tes",
+						"testimonisController"
+					],
+					[
+						"s",
+						"string"
+					],
+					[
+						"joi",
+						"Joi"
+					],
+					[
+						"pa",
+						"paymentsController"
+					],
+					[
+						"no",
+						"notificationsModel"
+					],
+					[
 						"user",
 						"userExpertises"
 					],
 					[
 						"ty",
 						"typeCircles"
-					],
-					[
-						"pa",
-						"payments"
 					],
 					[
 						"onke",
@@ -246,10 +272,6 @@
 						"Homepage"
 					],
 					[
-						"s",
-						"style\tAttr"
-					],
-					[
 						"w3-d",
 						"w3-display-container"
 					],
@@ -300,10 +322,6 @@
 					[
 						"fa",
 						"fa-info"
-					],
-					[
-						"v",
-						"void"
 					],
 					[
 						"moda",
@@ -520,22 +538,6 @@
 					[
 						"dis",
 						"displayDetailPayment"
-					],
-					[
-						"modal",
-						"modal-detail-payment"
-					],
-					[
-						"repa",
-						"repayment-paid-on"
-					],
-					[
-						"e",
-						"email"
-					],
-					[
-						"wid",
-						"width"
 					]
 				]
 			},
@@ -545,8 +547,8 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "set sass",
+				"height": 46.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -642,7 +644,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 446.0
 			},
 			"console":
 			{
@@ -662,18 +664,28 @@
 			},
 			"file_history":
 			[
-				"/A/AppJS/circledoo/service-api/src/v1/controller/users.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/messages.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/messages.js",
 				"/A/AppJS/circledoo/service-api/src/v1/router/vouchers.js",
-				"/A/AppJS/circledoo/service-api/src/v1/model/vouchers.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/payments.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/testimonis.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/testimonis.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/payments.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/payments.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/model.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/controller.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/notifications.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/notifications.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/genders.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/genders.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/users.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/vouchers.js",
 				"/A/AppJS/circledoo/service-api/src/v1/model/typeCircles.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/typeCircles.js",
-				"/A/AppJS/circledoo/service-api/src/v1/helpers/controller.js",
-				"/A/AppJS/circledoo/service-api/src/v1/router/notifications.js",
 				"/A/AppJS/circledoo/service-api/server.js",
 				"/A/AppJS/circledoo/service-api/src/v1/helpers/controllerFn.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/colaboration.js",
-				"/A/AppJS/circledoo/service-api/src/v1/helpers/model.js",
 				"/A/AppJS/circledoo/service-api/src/v1/model/users.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/circle_images.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/circles.js",
@@ -779,17 +791,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/container.html",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/a-test-wrapper.html",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html"
 			],
 			"find":
 			{
@@ -816,6 +818,13 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"\":",
+					"messages",
+					"\":",
+					"messages",
+					"\":",
+					"messages",
+					"messagesModel",
 					"venues",
 					"userExpertisesController",
 					"userExpertise",
@@ -936,14 +945,7 @@
 					"i-ul",
 					"i-badge",
 					"i-panel",
-					"i-display-c",
-					"i-ul",
-					"i-panel ",
-					"i-cell",
-					"i-cell-row",
-					"w3-cell-row",
-					"import",
-					"';"
+					"i-display-c"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1029,16 +1031,72 @@
 				"selected_items":
 				[
 					[
-						"users",
-						"src\\v1\\controller\\users.js"
+						"model",
+						"src\\v1\\helpers\\model.js"
 					],
 					[
-						"packa",
+						"package",
 						"package.json"
 					],
 					[
 						"controller",
 						"src\\v1\\helpers\\controller.js"
+					],
+					[
+						"vou",
+						"src\\v1\\router\\vouchers.js"
+					],
+					[
+						"vouchers",
+						"src\\v1\\controller\\vouchers.js"
+					],
+					[
+						"payments",
+						"src\\v1\\controller\\payments.js"
+					],
+					[
+						"testimonis",
+						"src\\v1\\router\\testimonis.js"
+					],
+					[
+						"paymen",
+						"src\\v1\\model\\payments.js"
+					],
+					[
+						"contro",
+						"src\\v1\\helpers\\controller.js"
+					],
+					[
+						"noti",
+						"src\\v1\\router\\notifications.js"
+					],
+					[
+						"notifi",
+						"src\\v1\\controller\\notifications.js"
+					],
+					[
+						"genders",
+						"src\\v1\\router\\genders.js"
+					],
+					[
+						"messages",
+						"src\\v1\\router\\messages.js"
+					],
+					[
+						"users",
+						"src\\v1\\controller\\users.js"
+					],
+					[
+						"message",
+						"src\\v1\\controller\\messages.js"
+					],
+					[
+						"gender",
+						"src\\v1\\controller\\genders.js"
+					],
+					[
+						"packa",
+						"package.json"
 					],
 					[
 						"collabo",
@@ -1313,10 +1371,6 @@
 						"cmder\\bin\\appchr.cmd"
 					],
 					[
-						"package",
-						"hiuProperty-sails\\package.json"
-					],
-					[
 						"package.json",
 						"hiuProperty-sails\\package-lock.json"
 					],
@@ -1425,10 +1479,6 @@
 						"hiuProperty-sails\\views\\partials\\navbar.ejs"
 					],
 					[
-						"model",
-						"hiuProperty-sails\\config\\models.js"
-					],
-					[
 						"indexejs",
 						"views\\pages\\index.ejs"
 					],
@@ -1491,54 +1541,6 @@
 					[
 						"w3",
 						"assets\\css\\w3-4.css"
-					],
-					[
-						"listingsj",
-						"api\\models\\Listings.js"
-					],
-					[
-						"hiusq",
-						"hiusig.sql"
-					],
-					[
-						"listingde",
-						"views\\pages\\listing-detail.ejs"
-					],
-					[
-						"conn",
-						"config\\connections.js"
-					],
-					[
-						"listincon",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"testcon",
-						"api\\controllers\\TestController.js"
-					],
-					[
-						"test",
-						"node_modules\\caseless\\test.js"
-					],
-					[
-						"listingco",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"lay",
-						"views\\layout-dashboards.ejs"
-					],
-					[
-						"sql",
-						"hiusig.sql"
-					],
-					[
-						"deve",
-						"config\\env\\development.js"
-					],
-					[
-						"testco",
-						"api\\controllers\\TestController.js"
 					]
 				],
 				"width": 0.0
@@ -1609,16 +1611,44 @@
 				"selected_items":
 				[
 					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"p",
+						"presignedUrl"
+					],
+					[
+						"v",
+						"vouchersController"
+					],
+					[
+						"vou",
+						"vouchers_model_validation"
+					],
+					[
+						"tes",
+						"testimonisController"
+					],
+					[
+						"joi",
+						"Joi"
+					],
+					[
+						"pa",
+						"paymentsController"
+					],
+					[
+						"no",
+						"notificationsModel"
+					],
+					[
 						"user",
 						"userExpertises"
 					],
 					[
 						"ty",
 						"typeCircles"
-					],
-					[
-						"pa",
-						"payments"
 					],
 					[
 						"onke",
@@ -1761,10 +1791,6 @@
 						"author"
 					],
 					[
-						"p",
-						"placeholder\tAttr"
-					],
-					[
 						"conten",
 						"contentSRC"
 					],
@@ -1829,10 +1855,6 @@
 						"Homepage"
 					],
 					[
-						"s",
-						"style\tAttr"
-					],
-					[
 						"w3-d",
 						"w3-display-container"
 					],
@@ -1883,10 +1905,6 @@
 					[
 						"fa",
 						"fa-info"
-					],
-					[
-						"v",
-						"void"
 					],
 					[
 						"moda",
@@ -2103,25 +2121,38 @@
 					[
 						"dis",
 						"displayDetailPayment"
-					],
-					[
-						"modal",
-						"modal-detail-payment"
-					],
-					[
-						"repa",
-						"repayment-paid-on"
-					],
-					[
-						"e",
-						"email"
-					],
-					[
-						"wid",
-						"width"
 					]
 				]
 			},
+			"buffers":
+			[
+				{
+					"file": "/A/AppJS/circledoo/service-api/src/v1/midleware/users.js",
+					"settings":
+					{
+						"buffer_size": 3379,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "const  usersMidleware =  require(\"../midleware/users\")\n\n\n*       - in: header\n *         name: email\n *         description: an authorization header\n *         required: true\n *         type: string    \n *       - in: header\n *         name: token\n *         description: an authorization header\n *         required: true\n *         type: string\n\nusersMidleware.check_is_auth\n\nDisarankan menggunakan Postman untuk bisa mengirim email dan token pada header\n",
+					"settings":
+					{
+						"buffer_size": 456,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/A/AppJS/circledoo/service-api/src/v1/router/vouchers.js",
+					"settings":
+					{
+						"buffer_size": 3583,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
 			"build_system": "",
 			"build_system_choices":
 			[
@@ -2129,8 +2160,8 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "set sass",
+				"height": 46.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -2226,7 +2257,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 446.0
 			},
 			"console":
 			{
@@ -2244,27 +2275,75 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/A/AppJS/circledoo/testing",
+				"/A/AppJS/circledoo/testing/message-service",
+				"/A/AppJS/circledoo/testing/message-service/src",
+				"/A/AppJS/circledoo/testing/message-service/src/socket",
+				"/A/AppJS/circledoo/testing/minio"
+			],
 			"file_history":
 			[
+				"/A/AppJS/circledoo/service-api/src/v1/router/users.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/typeCircles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/topics.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/testimonis.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/payments.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/notifications.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/messages.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/chat.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/genders.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/follow.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/conversation.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/comunity.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/comunity.js",
+				"/C/hiu-env/hiu-cmd/cmder/bin/alias.bat",
+				"/A/AppJS/circledoo/service-api/src/v1/router/comment.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/colaboration.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/circles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/circle_images.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/minio.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/chat_group.js",
+				"/A/AppJS/circledoo/testing/minio/index.js",
+				"/A/AppJS/circledoo/service-api/db.js",
+				"/A/AppJS/circledoo/testing/message-service/index.js",
+				"/A/AppJS/circledoo/testing/message-service/src/socket/room.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/index.js",
+				"/A/AppJS/circledoo/testing/minio/index.html",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/users.js",
+				"/A/AppJS/circledoo/service-api/db/live-saver-query/relations-constraint.sql",
+				"/A/AppJS/circledoo/testing/message-service/src/socket/chat.js",
+				"/A/AppJS/circledoo/testing/minio/.gitignore",
+				"/A/AppJS/circledoo/service-api/package.json",
+				"/A/AppJS/circledoo/service-api/src/v1/index.js",
+				"/A/AppJS/circledoo/service-api/db/live-saver-query/enable-auto-increment.sql",
+				"/A/AppJS/circledoo/testing/package.json",
+				"/A/AppJS/circledoo/service-api/db/live-saver-query/created-updated-deleted-at.sql",
 				"/A/AppJS/circledoo/service-api/src/v1/router/vouchers.js",
-				"/A/AppJS/circledoo/service-api/src/v1/model/vouchers.js",
+				"/A/AppJS/circledoo/service-api/node_modules/express/lib/router/index.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/messages.js",
+				"/A/AppJS/circledoo/service-api/src/v1/docs/index.html",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/genders.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/circles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/circles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/controller.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/model.js",
+				"/C/hiu-env/hiu-cmd/cmder/bin/pma.cmd",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/payments.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/testimonis.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/payments.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/notifications.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/vouchers.js",
 				"/A/AppJS/circledoo/service-api/src/v1/model/typeCircles.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/typeCircles.js",
-				"/A/AppJS/circledoo/service-api/src/v1/helpers/controller.js",
-				"/A/AppJS/circledoo/service-api/src/v1/router/notifications.js",
 				"/A/AppJS/circledoo/service-api/server.js",
 				"/A/AppJS/circledoo/service-api/src/v1/helpers/controllerFn.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/colaboration.js",
-				"/A/AppJS/circledoo/service-api/src/v1/helpers/model.js",
 				"/A/AppJS/circledoo/service-api/src/v1/model/users.js",
 				"/A/AppJS/circledoo/service-api/src/v1/controller/circle_images.js",
-				"/A/AppJS/circledoo/service-api/src/v1/controller/circles.js",
-				"/A/AppJS/circledoo/service-api/db.js",
-				"/A/AppJS/circledoo/service-api/src/v1/router/users.js",
 				"/A/AppJS/circledoo/service-api/yarn.lock",
-				"/A/AppJS/circledoo/service-api/src/v1/router/index.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/site/package.json",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/site/nuxt.config.js",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/nuxt.config.js",
@@ -2333,47 +2412,7 @@
 				"/A/hiuData/hiuWEB/App/hiu/ikan/build/webpack.config.js",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/app.html",
 				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/card.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/layout.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/padding.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/margin.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/package.json",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.babelrc",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/webpack.config.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/js/ikan.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/app.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/css/ikan.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/app.bundle.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/app.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/scss/color.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle-no-color.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.gitignore",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/scss/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/less/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/stylus/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/bundle.scss",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/components/base.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/dist/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/color.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/container.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/a-test-wrapper.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs"
+				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/layout.scss"
 			],
 			"find":
 			{
@@ -2400,6 +2439,57 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"        ",
+					".post",
+					"post",
+					"put",
+					"is_auth",
+					"users/photo",
+					"usersphoto",
+					"<p class=\"i-text-grey",
+					"i-col",
+					"     <p class=\"i-text-grey i-center\">Foto Profile</p>",
+					"     <",
+					"thrid",
+					"class=\"i-center\"",
+					"query",
+					"Genders",
+					"genders",
+					"gender",
+					"enders",
+					"genders",
+					"enders",
+					"genders",
+					"query",
+					"genders",
+					"enders",
+					"query",
+					"enders",
+					"payments",
+					"query",
+					"enders",
+					"users",
+					"enders",
+					"formData",
+					"query",
+					"enders",
+					"query",
+					"genders",
+					"query",
+					"Users",
+					"users",
+					"router.use",
+					"0.0.0.0",
+					"host",
+					"output",
+					"0.0.0.0",
+					"\":",
+					"messages",
+					"\":",
+					"messages",
+					"\":",
+					"messages",
+					"messagesModel",
 					"venues",
 					"userExpertisesController",
 					"userExpertise",
@@ -2476,58 +2566,7 @@
 					".i-image",
 					".i-dropdown-hover",
 					".i-dropdown-click",
-					".i-main",
-					".i-maim",
-					".i-main",
-					".i-collapse",
-					".i-collapse ",
-					".i-sidebar",
-					".i-bar-item ",
-					".i-bar-block ",
-					".i-bar ",
-					"seashell",
-					".i-bar ",
-					".i-bar",
-					".i-table-all ",
-					".i-hoverable ",
-					".i-hovered ",
-					".i-striped ",
-					".i-table ",
-					".i-table",
-					".i-display-container",
-					".i-top",
-					".i-hide ",
-					".i-hide",
-					".i-circle",
-					".i-left-align",
-					".i-left",
-					".i-center",
-					"display",
-					"div",
-					"!important",
-					"$color_celeste_approx",
-					"#ccc",
-					"$color_celeste_approx",
-					".i-btn",
-					".i-button",
-					"i-button",
-					"card",
-					"shadow",
-					"seashell",
-					"$color_apple_approx",
-					"i-code",
-					"i-tag",
-					"i-ul",
-					"i-badge",
-					"i-panel",
-					"i-display-c",
-					"i-ul",
-					"i-panel ",
-					"i-cell",
-					"i-cell-row",
-					"w3-cell-row",
-					"import",
-					"';"
+					".i-main"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2587,6 +2626,118 @@
 				"whole_word": false,
 				"wrap": false
 			},
+			"folders":
+			[
+				{
+					"path": "C:\\hiu-env\\hiu-cmd\\cmder\\bin"
+				},
+				{
+					"path": "A:\\AppJS\\circledoo\\service-api"
+				},
+				{
+					"path": "A:\\AppJS\\circledoo\\testing"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/A/AppJS/circledoo/service-api/src/v1/midleware/users.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3379,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										548,
+										548
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 456,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										377,
+										456
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 142.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/A/AppJS/circledoo/service-api/src/v1/router/vouchers.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3583,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3449,
+										3449
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2646.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
 			"incremental_find":
 			{
 				"height": 54.0
@@ -2620,7 +2771,7 @@
 				"rows":
 				[
 					0.0,
-					0.5,
+					0.366022099448,
 					1.0
 				]
 			},
@@ -2630,7 +2781,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,732,226,-26,1055",
+			"position": "0,0,1,-1,-1,-1,-1,824,416,37,1248",
+			"project": "",
 			"replace":
 			{
 				"height": 102.0
@@ -2643,16 +2795,188 @@
 				"selected_items":
 				[
 					[
-						"users",
-						"src\\v1\\controller\\users.js"
+						"vouchers",
+						"service-api\\src\\v1\\router\\vouchers.js"
 					],
 					[
-						"packa",
+						"users",
+						"service-api\\src\\v1\\router\\users.js"
+					],
+					[
+						"typec",
+						"service-api\\src\\v1\\router\\typeCircles.js"
+					],
+					[
+						"topics",
+						"service-api\\src\\v1\\router\\topics.js"
+					],
+					[
+						"testimonis",
+						"service-api\\src\\v1\\router\\testimonis.js"
+					],
+					[
+						"paymen",
+						"service-api\\src\\v1\\router\\payments.js"
+					],
+					[
+						"notifi",
+						"service-api\\src\\v1\\router\\notifications.js"
+					],
+					[
+						"chats",
+						"service-api\\src\\v1\\router\\chat.js"
+					],
+					[
+						"messages",
+						"service-api\\src\\v1\\router\\messages.js"
+					],
+					[
+						"genders",
+						"service-api\\src\\v1\\router\\genders.js"
+					],
+					[
+						"conver",
+						"service-api\\src\\v1\\router\\conversation.js"
+					],
+					[
+						"com",
+						"service-api\\src\\v1\\router\\comunity.js"
+					],
+					[
+						"follow",
+						"service-api\\src\\v1\\router\\follow.js"
+					],
+					[
+						"conversa",
+						"service-api\\src\\v1\\router\\conversation.js"
+					],
+					[
+						"",
+						"bin\\alias.bat"
+					],
+					[
+						"comme",
+						"service-api\\src\\v1\\router\\comment.js"
+					],
+					[
+						"comuni",
+						"service-api\\src\\v1\\router\\comunity.js"
+					],
+					[
+						"cola",
+						"service-api\\src\\v1\\router\\colaboration.js"
+					],
+					[
+						"circles",
+						"service-api\\src\\v1\\router\\circles.js"
+					],
+					[
+						"circleimages",
+						"service-api\\src\\v1\\router\\circle_images.js"
+					],
+					[
+						"minio",
+						"service-api\\src\\v1\\helpers\\minio.js"
+					],
+					[
+						"chatgroups",
+						"service-api\\src\\v1\\router\\chat_group.js"
+					],
+					[
+						"chat",
+						"service-api\\src\\v1\\router\\chat.js"
+					],
+					[
+						"route",
+						"service-api\\src\\v1\\router\\index.js"
+					],
+					[
+						"db",
+						"service-api\\db.js"
+					],
+					[
+						"constra",
+						"service-api\\db\\live-saver-query\\relations-constraint.sql"
+					],
+					[
+						"routeindex.js",
+						"service-api\\src\\v1\\router\\index.js"
+					],
+					[
+						"voucher",
+						"service-api\\src\\v1\\router\\vouchers.js"
+					],
+					[
+						"type",
+						"service-api\\src\\v1\\router\\typeCircles.js"
+					],
+					[
+						"indexrout",
+						"service-api\\node_modules\\express\\lib\\router\\index.js"
+					],
+					[
+						"typecirc",
+						"service-api\\src\\v1\\router\\typeCircles.js"
+					],
+					[
+						"testimoni",
+						"service-api\\src\\v1\\router\\testimonis.js"
+					],
+					[
+						"db.js",
+						"service-api\\db.js"
+					],
+					[
+						"payments",
+						"service-api\\src\\v1\\router\\payments.js"
+					],
+					[
+						"index",
+						"service-api\\src\\v1\\index.js"
+					],
+					[
+						"message",
+						"service-api\\src\\v1\\controller\\messages.js"
+					],
+					[
+						"d",
+						"service-api\\db.js"
+					],
+					[
+						"gender",
+						"service-api\\src\\v1\\controller\\genders.js"
+					],
+					[
+						"pma",
+						"bin\\pma.cmd"
+					],
+					[
+						"model",
+						"src\\v1\\helpers\\model.js"
+					],
+					[
+						"package",
 						"package.json"
 					],
 					[
 						"controller",
 						"src\\v1\\helpers\\controller.js"
+					],
+					[
+						"vou",
+						"src\\v1\\router\\vouchers.js"
+					],
+					[
+						"contro",
+						"src\\v1\\helpers\\controller.js"
+					],
+					[
+						"noti",
+						"src\\v1\\router\\notifications.js"
+					],
+					[
+						"packa",
+						"package.json"
 					],
 					[
 						"collabo",
@@ -2835,10 +3159,6 @@
 						"src\\scss\\app.scss"
 					],
 					[
-						"",
-						"src\\scss\\container.scss"
-					],
-					[
 						"ex",
 						"src\\scss\\extend.scss"
 					],
@@ -2927,10 +3247,6 @@
 						"cmder\\bin\\appchr.cmd"
 					],
 					[
-						"package",
-						"hiuProperty-sails\\package.json"
-					],
-					[
 						"package.json",
 						"hiuProperty-sails\\package-lock.json"
 					],
@@ -2963,10 +3279,6 @@
 						"f7-vue\\src\\css\\app.css"
 					],
 					[
-						"index",
-						"hiu-me\\index.html"
-					],
-					[
 						"sl.cmd",
 						"cmder\\bin\\sl.cmd"
 					],
@@ -2993,166 +3305,6 @@
 					[
 						"main.js",
 						"f7-vue\\src\\main.js"
-					],
-					[
-						"tomomi",
-						"hiuProperty-sails\\views\\test\\tomomi.ejs"
-					],
-					[
-						"layout",
-						"hiuProperty-sails\\views\\layout.ejs"
-					],
-					[
-						"hello",
-						"hiuProperty-vue\\src\\components\\Hello.vue"
-					],
-					[
-						"modal-is",
-						"hiuProperty-sails\\views\\partials\\modal-instant-view.ejs"
-					],
-					[
-						"listings",
-						"hiuProperty-sails\\views\\pages\\listings.ejs"
-					],
-					[
-						"badge",
-						"hiuProperty-sails\\views\\partials\\top-logo-badge.ejs"
-					],
-					[
-						"floating",
-						"hiuProperty-sails\\views\\partials\\floating-search-card.ejs"
-					],
-					[
-						"modal",
-						"hiuProperty-sails\\views\\partials\\modal-login.ejs"
-					],
-					[
-						"footer",
-						"hiuProperty-sails\\views\\partials\\footer.ejs"
-					],
-					[
-						"logo-bad",
-						"hiuProperty-sails\\views\\partials\\top-logo-badge.ejs"
-					],
-					[
-						"navbar",
-						"hiuProperty-sails\\views\\partials\\navbar.ejs"
-					],
-					[
-						"model",
-						"hiuProperty-sails\\config\\models.js"
-					],
-					[
-						"indexejs",
-						"views\\pages\\index.ejs"
-					],
-					[
-						"listing",
-						"views\\pages\\listings.ejs"
-					],
-					[
-						"searchli",
-						"views\\pages\\search-listings.ejs"
-					],
-					[
-						"searchnot",
-						"views\\res-search-not-found.ejs"
-					],
-					[
-						"searc",
-						"api\\responses\\searchNotFound.js"
-					],
-					[
-						"agentlis",
-						"views\\pages\\agent-list.ejs"
-					],
-					[
-						"instant",
-						"views\\partials\\modal-instant-view.ejs"
-					],
-					[
-						"listingdeta",
-						"views\\pages\\listing-detail.ejs"
-					],
-					[
-						"modal-pic",
-						"views\\partials\\modal-listing-pictures-main.ejs"
-					],
-					[
-						"listingcon",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"filter",
-						"views\\partials\\filter-options-listings.ejs"
-					],
-					[
-						"floati",
-						"views\\partials\\floating-search-card.ejs"
-					],
-					[
-						"navba",
-						"views\\partials\\navbar-search.ejs"
-					],
-					[
-						"index.ejs",
-						"views\\pages\\index.ejs"
-					],
-					[
-						"notfound",
-						"api\\responses\\searchNotFound.js"
-					],
-					[
-						"w3",
-						"assets\\css\\w3-4.css"
-					],
-					[
-						"listingsj",
-						"api\\models\\Listings.js"
-					],
-					[
-						"hiusq",
-						"hiusig.sql"
-					],
-					[
-						"listingde",
-						"views\\pages\\listing-detail.ejs"
-					],
-					[
-						"conn",
-						"config\\connections.js"
-					],
-					[
-						"listincon",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"testcon",
-						"api\\controllers\\TestController.js"
-					],
-					[
-						"test",
-						"node_modules\\caseless\\test.js"
-					],
-					[
-						"listingco",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"lay",
-						"views\\layout-dashboards.ejs"
-					],
-					[
-						"sql",
-						"hiusig.sql"
-					],
-					[
-						"deve",
-						"config\\env\\development.js"
-					],
-					[
-						"testco",
-						"api\\controllers\\TestController.js"
 					]
 				],
 				"width": 0.0
@@ -3203,6 +3355,7 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -3215,7 +3368,8 @@
 			"template_settings":
 			{
 			},
-			"window_id": 74
+			"window_id": 74,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
