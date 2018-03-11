@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+<<<<<<< HEAD
+=======
+		"/A/AppJS/circledoo/service-api",
+		"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin",
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
 		"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails",
 		"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp",
@@ -21,7 +26,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 809.0,
+		"new_window_height": 699.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -29,8 +34,25 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"l",
 						"layout-dashboard"
+=======
+						"user",
+						"userExpertises"
+					],
+					[
+						"ty",
+						"typeCircles"
+					],
+					[
+						"pa",
+						"payments"
+					],
+					[
+						"onke",
+						"onkeyup\tAttr"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					],
 					[
 						"la",
@@ -215,10 +237,6 @@
 					[
 						"padd",
 						"padding-top"
-					],
-					[
-						"pa",
-						"padding-left"
 					],
 					[
 						"card",
@@ -539,6 +557,21 @@
 					[
 						"modal",
 						"modal-detail-payment"
+<<<<<<< HEAD
+=======
+					],
+					[
+						"repa",
+						"repayment-paid-on"
+					],
+					[
+						"e",
+						"email"
+					],
+					[
+						"wid",
+						"width"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					]
 				]
 			},
@@ -645,6 +678,7 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
@@ -680,6 +714,29 @@
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/package.json",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/index.html",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/README.md",
+=======
+				"/A/AppJS/circledoo/service-api/src/v1/controller/users.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/typeCircles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/typeCircles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/controller.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/notifications.js",
+				"/A/AppJS/circledoo/service-api/server.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/controllerFn.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/colaboration.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/model.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/users.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/circle_images.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/circles.js",
+				"/A/AppJS/circledoo/service-api/db.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/users.js",
+				"/A/AppJS/circledoo/service-api/yarn.lock",
+				"/A/AppJS/circledoo/service-api/src/v1/router/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/site/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/site/nuxt.config.js",
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/nuxt.config.js",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/meta.js",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/index.vue",
@@ -706,6 +763,7 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
+<<<<<<< HEAD
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
@@ -773,6 +831,9 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/letterhead.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/reports.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/surat-pemesanan-properti.ejs"
+=======
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 			],
 			"find":
 			{
@@ -801,6 +862,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"<%=data",
 					"listingform",
 					"form",
@@ -929,6 +991,136 @@
 					"mbar w3-hover",
 					"=\"w3-leftbar",
 					"Xtab"
+=======
+					"venues",
+					"userExpertisesController",
+					"userExpertise",
+					"typeCircles",
+					"typeCirclesController",
+					"typeCircles",
+					"topics",
+					"testimonis",
+					"payments",
+					"notifications",
+					"messages",
+					"genders",
+					"colaboration",
+					"users",
+					"internall",
+					"nall",
+					"code",
+					"w3",
+					"href=\".",
+					".html\">",
+					"Reds",
+					"href='",
+					"')\">",
+					"onclick=\"ikanLink(",
+					"common",
+					"(),\n",
+					"},\n",
+					"wrapper",
+					"main",
+					"newNode",
+					"var",
+					"Item",
+					"onclick=\"ikan(",
+					"html\">",
+					"target=\"_top\" href",
+					"\"i-bar-item i-button\"",
+					"href=\".",
+					"w3",
+					"href=\"",
+					"include",
+					"I",
+					"Ikan",
+					"I",
+					"div",
+					"\">ikan",
+					"ikan_",
+					"i-overlay",
+					"i-opa",
+					"W3.CSS",
+					"icss",
+					"i-margin-left",
+					"h2",
+					"class=\"i-padding\"",
+					"\"i-padding\"",
+					"i-padding",
+					"class=\"left\"",
+					"w3",
+					"target=\"_top\"",
+					".asp",
+					"W3.CSS",
+					"w3-",
+					"ex",
+					"examp",
+					"w3",
+					".w3",
+					".i-text ",
+					".i-text",
+					".i-tooltip",
+					".i-modal ",
+					".i-modal",
+					".i-select ",
+					".i-input ",
+					".i-input",
+					".i-image",
+					".i-dropdown-hover",
+					".i-dropdown-click",
+					".i-main",
+					".i-maim",
+					".i-main",
+					".i-collapse",
+					".i-collapse ",
+					".i-sidebar",
+					".i-bar-item ",
+					".i-bar-block ",
+					".i-bar ",
+					"seashell",
+					".i-bar ",
+					".i-bar",
+					".i-table-all ",
+					".i-hoverable ",
+					".i-hovered ",
+					".i-striped ",
+					".i-table ",
+					".i-table",
+					".i-display-container",
+					".i-top",
+					".i-hide ",
+					".i-hide",
+					".i-circle",
+					".i-left-align",
+					".i-left",
+					".i-center",
+					"display",
+					"div",
+					"!important",
+					"$color_celeste_approx",
+					"#ccc",
+					"$color_celeste_approx",
+					".i-btn",
+					".i-button",
+					"i-button",
+					"card",
+					"shadow",
+					"seashell",
+					"$color_apple_approx",
+					"i-code",
+					"i-tag",
+					"i-ul",
+					"i-badge",
+					"i-panel",
+					"i-display-c",
+					"i-ul",
+					"i-panel ",
+					"i-cell",
+					"i-cell-row",
+					"w3-cell-row",
+					"import",
+					"';"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1007,8 +1199,33 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"pol",
 						"2359-hotel\\config\\policies.js"
+=======
+						"users",
+						"src\\v1\\controller\\users.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"controller",
+						"src\\v1\\helpers\\controller.js"
+					],
+					[
+						"collabo",
+						"src\\v1\\controller\\colaboration.js"
+					],
+					[
+						"side",
+						"master\\app\\assets\\side-bar.html"
+					],
+					[
+						"js/ikan",
+						"master\\dist\\js\\ikan.js"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					],
 					[
 						"islo",
@@ -1043,12 +1260,17 @@
 						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
 					],
 					[
+<<<<<<< HEAD
 						"rooms",
 						"2359-hotel\\api\\models\\Rooms.js"
 					],
 					[
 						"ikan",
 						"2359-hotel\\assets\\styles\\ikan.css"
+=======
+						"input",
+						"src\\scss\\input.scss"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					],
 					[
 						"layo",
@@ -1421,6 +1643,7 @@
 					[
 						"testco",
 						"api\\controllers\\TestController.js"
+<<<<<<< HEAD
 					],
 					[
 						"paymentc",
@@ -1517,6 +1740,8 @@
 					[
 						"detailboo",
 						"views\\partials\\modal-detail-booking.ejs"
+=======
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					]
 				],
 				"width": 0.0
@@ -1569,7 +1794,7 @@
 			{
 			}
 		},
-		"new_window_width": 937.0
+		"new_window_width": 813.0
 	},
 	"windows":
 	[
@@ -1579,8 +1804,25 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"l",
 						"layout-dashboard"
+=======
+						"user",
+						"userExpertises"
+					],
+					[
+						"ty",
+						"typeCircles"
+					],
+					[
+						"pa",
+						"payments"
+					],
+					[
+						"onke",
+						"onkeyup\tAttr"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					],
 					[
 						"la",
@@ -1765,10 +2007,6 @@
 					[
 						"padd",
 						"padding-top"
-					],
-					[
-						"pa",
-						"padding-left"
 					],
 					[
 						"card",
@@ -2089,6 +2327,21 @@
 					[
 						"modal",
 						"modal-detail-payment"
+<<<<<<< HEAD
+=======
+					],
+					[
+						"repa",
+						"repayment-paid-on"
+					],
+					[
+						"e",
+						"email"
+					],
+					[
+						"wid",
+						"width"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					]
 				]
 			},
@@ -2196,6 +2449,7 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
@@ -2231,6 +2485,29 @@
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/package.json",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/index.html",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/README.md",
+=======
+				"/A/AppJS/circledoo/service-api/src/v1/controller/users.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/vouchers.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/typeCircles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/typeCircles.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/controller.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/notifications.js",
+				"/A/AppJS/circledoo/service-api/server.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/controllerFn.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/colaboration.js",
+				"/A/AppJS/circledoo/service-api/src/v1/helpers/model.js",
+				"/A/AppJS/circledoo/service-api/src/v1/model/users.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/circle_images.js",
+				"/A/AppJS/circledoo/service-api/src/v1/controller/circles.js",
+				"/A/AppJS/circledoo/service-api/db.js",
+				"/A/AppJS/circledoo/service-api/src/v1/router/users.js",
+				"/A/AppJS/circledoo/service-api/yarn.lock",
+				"/A/AppJS/circledoo/service-api/src/v1/router/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/site/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/ikan/site/nuxt.config.js",
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/nuxt.config.js",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/meta.js",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/index.vue",
@@ -2257,6 +2534,7 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
+<<<<<<< HEAD
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
@@ -2324,6 +2602,9 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/letterhead.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/reports.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/surat-pemesanan-properti.ejs"
+=======
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 			],
 			"find":
 			{
@@ -2352,6 +2633,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"<%=data",
 					"listingform",
 					"form",
@@ -2480,6 +2762,136 @@
 					"mbar w3-hover",
 					"=\"w3-leftbar",
 					"Xtab"
+=======
+					"venues",
+					"userExpertisesController",
+					"userExpertise",
+					"typeCircles",
+					"typeCirclesController",
+					"typeCircles",
+					"topics",
+					"testimonis",
+					"payments",
+					"notifications",
+					"messages",
+					"genders",
+					"colaboration",
+					"users",
+					"internall",
+					"nall",
+					"code",
+					"w3",
+					"href=\".",
+					".html\">",
+					"Reds",
+					"href='",
+					"')\">",
+					"onclick=\"ikanLink(",
+					"common",
+					"(),\n",
+					"},\n",
+					"wrapper",
+					"main",
+					"newNode",
+					"var",
+					"Item",
+					"onclick=\"ikan(",
+					"html\">",
+					"target=\"_top\" href",
+					"\"i-bar-item i-button\"",
+					"href=\".",
+					"w3",
+					"href=\"",
+					"include",
+					"I",
+					"Ikan",
+					"I",
+					"div",
+					"\">ikan",
+					"ikan_",
+					"i-overlay",
+					"i-opa",
+					"W3.CSS",
+					"icss",
+					"i-margin-left",
+					"h2",
+					"class=\"i-padding\"",
+					"\"i-padding\"",
+					"i-padding",
+					"class=\"left\"",
+					"w3",
+					"target=\"_top\"",
+					".asp",
+					"W3.CSS",
+					"w3-",
+					"ex",
+					"examp",
+					"w3",
+					".w3",
+					".i-text ",
+					".i-text",
+					".i-tooltip",
+					".i-modal ",
+					".i-modal",
+					".i-select ",
+					".i-input ",
+					".i-input",
+					".i-image",
+					".i-dropdown-hover",
+					".i-dropdown-click",
+					".i-main",
+					".i-maim",
+					".i-main",
+					".i-collapse",
+					".i-collapse ",
+					".i-sidebar",
+					".i-bar-item ",
+					".i-bar-block ",
+					".i-bar ",
+					"seashell",
+					".i-bar ",
+					".i-bar",
+					".i-table-all ",
+					".i-hoverable ",
+					".i-hovered ",
+					".i-striped ",
+					".i-table ",
+					".i-table",
+					".i-display-container",
+					".i-top",
+					".i-hide ",
+					".i-hide",
+					".i-circle",
+					".i-left-align",
+					".i-left",
+					".i-center",
+					"display",
+					"div",
+					"!important",
+					"$color_celeste_approx",
+					"#ccc",
+					"$color_celeste_approx",
+					".i-btn",
+					".i-button",
+					"i-button",
+					"card",
+					"shadow",
+					"seashell",
+					"$color_apple_approx",
+					"i-code",
+					"i-tag",
+					"i-ul",
+					"i-badge",
+					"i-panel",
+					"i-display-c",
+					"i-ul",
+					"i-panel ",
+					"i-cell",
+					"i-cell-row",
+					"w3-cell-row",
+					"import",
+					"';"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2565,7 +2977,11 @@
 				"rows":
 				[
 					0.0,
+<<<<<<< HEAD
 					0.539845758355,
+=======
+					0.5,
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					1.0
 				]
 			},
@@ -2575,7 +2991,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
+<<<<<<< HEAD
 			"position": "0,0,1,-1,-1,-1,-1,862,518,-6,1471",
+=======
+			"position": "0,0,1,-1,-1,-1,-1,732,226,-26,1055",
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 			"replace":
 			{
 				"height": 102.0
@@ -2588,8 +3008,29 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"pol",
 						"2359-hotel\\config\\policies.js"
+=======
+						"users",
+						"src\\v1\\controller\\users.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"controller",
+						"src\\v1\\helpers\\controller.js"
+					],
+					[
+						"collabo",
+						"src\\v1\\controller\\colaboration.js"
+					],
+					[
+						"side",
+						"master\\app\\assets\\side-bar.html"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					],
 					[
 						"islo",
@@ -2628,8 +3069,17 @@
 						"2359-hotel\\api\\models\\Rooms.js"
 					],
 					[
+<<<<<<< HEAD
 						"ikan",
 						"2359-hotel\\assets\\styles\\ikan.css"
+=======
+						"appjs",
+						"src\\app.js"
+					],
+					[
+						"input",
+						"src\\scss\\input.scss"
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					],
 					[
 						"layo",
@@ -3002,6 +3452,7 @@
 					[
 						"testco",
 						"api\\controllers\\TestController.js"
+<<<<<<< HEAD
 					],
 					[
 						"paymentc",
@@ -3098,6 +3549,8 @@
 					[
 						"detailboo",
 						"views\\partials\\modal-detail-booking.ejs"
+=======
+>>>>>>> 1af3376a1adb37a7cd71b0af7eef988a87cde6f6
 					]
 				],
 				"width": 0.0
