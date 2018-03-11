@@ -1,8 +1,12 @@
 {
 	"folder_history":
 	[
-		"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin",
 		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
+		"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails",
+		"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp",
+		"/A/hiuData/hiuWEB/App/exp/sails-seed",
+		"/A/hiuData/hiuWEB/App/exp/2359-hotel",
+		"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin",
 		"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt",
 		"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master",
 		"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev",
@@ -13,7 +17,7 @@
 		"/A/hiuData/hiuWEB/App/forked"
 	],
 	"last_version": 3143,
-	"last_window_id": 138,
+	"last_window_id": 141,
 	"log_indexing": false,
 	"settings":
 	{
@@ -25,76 +29,76 @@
 				"selected_items":
 				[
 					[
-						"onke",
-						"onkeyup\tAttr"
+						"l",
+						"layout-dashboard"
 					],
 					[
-						"ikan",
-						"ikanCSS"
+						"la",
+						"layouts"
 					],
 					[
-						"co",
-						"component"
-					],
-					[
-						"c",
-						"component"
-					],
-					[
-						"i",
-						"innerHTML"
-					],
-					[
-						"te",
-						"templateData"
-					],
-					[
-						"side",
-						"side-bar"
-					],
-					[
-						"new",
-						"newItem"
-					],
-					[
-						"com",
-						"Composable"
-					],
-					[
-						"mar",
-						"margin-left"
-					],
-					[
-						"con",
-						"concurrently"
-					],
-					[
-						"margin",
-						"margin-left"
+						"room",
+						"room-form"
 					],
 					[
 						"font",
 						"font-size"
 					],
 					[
-						"padding",
-						"padding-top"
+						"max",
+						"max-width"
+					],
+					[
+						"lo",
+						"login"
+					],
+					[
+						"i-p",
+						"i-padding-16"
+					],
+					[
+						"ro",
+						"Rooms"
+					],
+					[
+						"i-te",
+						"i-text-blue-grey"
+					],
+					[
+						"iher",
+						"i-hover-text-grey"
+					],
+					[
+						"i-hover-gre",
+						"i-hover-light-grey"
 					],
 					[
 						"pad",
 						"padding-left"
 					],
 					[
-						"we",
-						"webpack-dev-server"
+						"actio",
+						"action"
 					],
 					[
-						"ika",
-						"ikanJS"
+						"user",
+						"users"
 					],
 					[
-						"ex",
-						"extractSCSS"
+						"re",
+						"results"
+					],
+					[
+						"sils",
+						"sails-mysql"
+					],
+					[
+						"friz",
+						"frizaPic"
+					],
+					[
+						"fr",
+						"frizaPic"
 					],
 					[
 						"uk",
@@ -173,6 +177,10 @@
 						"contentSRC"
 					],
 					[
+						"con",
+						"contentSRC"
+					],
+					[
 						"conte",
 						"content"
 					],
@@ -189,12 +197,20 @@
 						"z-index"
 					],
 					[
+						"co",
+						"contentSRC"
+					],
+					[
 						"back",
 						"background-color"
 					],
 					[
 						"ba",
 						"background-color"
+					],
+					[
+						"mar",
+						"margin-top"
 					],
 					[
 						"padd",
@@ -241,8 +257,16 @@
 						"style\tAttr"
 					],
 					[
+						"margin",
+						"margin-right"
+					],
+					[
 						"w3-d",
 						"w3-display-container"
+					],
+					[
+						"c",
+						"colspan\tAttr"
 					],
 					[
 						"w3-dis",
@@ -353,10 +377,6 @@
 						"minlength\tAttr"
 					],
 					[
-						"re",
-						"required\tAttr"
-					],
-					[
 						"fet",
 						"fetchListToBanks"
 					],
@@ -419,6 +439,10 @@
 					[
 						"fa-user",
 						"fa-user-secret"
+					],
+					[
+						"te",
+						"textTerbilang"
 					],
 					[
 						"ter",
@@ -515,26 +539,6 @@
 					[
 						"modal",
 						"modal-detail-payment"
-					],
-					[
-						"repa",
-						"repayment-paid-on"
-					],
-					[
-						"e",
-						"email"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"ag",
-						"agentPending"
-					],
-					[
-						"age",
-						"agentPending"
 					]
 				]
 			},
@@ -545,37 +549,9 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "set sass",
+				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"set sass",
-						"Set Syntax: SCSS"
-					],
-					[
-						"set scss",
-						"Set Syntax: SCSS"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"updat",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"set",
-						"Set Syntax: SCSS"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
 					[
 						"",
 						"Boxy Theme: Configuration"
@@ -605,6 +581,10 @@
 						"Package Control: List Packages"
 					],
 					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
 						"remove",
 						"Package Control: Remove Package"
 					],
@@ -615,6 +595,10 @@
 					[
 						"jsx",
 						"Set Syntax: JSX"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"box",
@@ -641,7 +625,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -661,105 +645,58 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/ikan/site/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/site/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/dashboard.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/UsersController.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout-dashboard.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-manage.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/modal-confirm-delete-room.ejs",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/dashboards/user-form.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/node_modules/waterline-sql-builder/test/unit/sequelizer/sequelizer.distinct.test.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/assets/styles/ikan.css",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/blueprints.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Users.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Rooms.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/api/models/Users.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/helpers.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/routes.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/action-index.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/package.json",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
+				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js",
+				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/about.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/components/friza-pic.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/backpages/index.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/package.json",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/README.md",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/intro/intro.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/app/intro/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/intro/intro.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/app/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/intro/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/side-bar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color/color.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/home.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/template.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/top-bar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/head.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/.gitignore",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/axios.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/footer.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/html.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/sidebar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.common.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/partials/sidebar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/container.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/app.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/animation.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/input.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/app.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ex/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/display.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/effect.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/README.md",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/color.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/table.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/extend.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/font.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/css/ikan.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/js/ikan.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/base.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/node_modules/normalize.css/normalize.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/backup-webpack.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/tooltip.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/modal.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/bar.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/grid.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/dropdown.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/image.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/button.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/border.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/round.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/build/webpack.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/card.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/layout.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/padding.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/margin.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/package.json",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.babelrc",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/webpack.config.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/js/ikan.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/app.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/css/ikan.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/app.bundle.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/app.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/scss/color.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle-no-color.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.gitignore",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/scss/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/less/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/stylus/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/bundle.scss",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/components/base.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/dist/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/color.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/container.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/a-test-wrapper.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/meta.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/hiu-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/nuxt.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/layouts/default.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/.nuxt/components/nuxt.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/nuxt-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/README.md",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/app/.gitkeep",
+				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/package.json",
+				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/README.md",
+				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-project",
+				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/ikan.sublime-project",
+				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-project",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -788,7 +725,54 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/-cur_console",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiu-me-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html"
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-appjs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/templates/layout.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/App.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/main.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/Hello.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css/app.css",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/node/asyncAwait.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/dev.env.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/test/tomomi.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/w3.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/css/w3.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/floating-search-card.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/listings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-instant-view.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/api/models/Listings.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-repayment.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-login.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings-confirm.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/kuitansi.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/letterhead.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/reports.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/surat-pemesanan-properti.ejs"
 			],
 			"find":
 			{
@@ -799,6 +783,8 @@
 				"height": 150.0,
 				"where_history":
 				[
+					"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects",
+					"<open folders>",
 					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
 					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
 					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
@@ -812,137 +798,137 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"w3",
-					"href=\".",
-					".html\">",
-					"Reds",
-					"href='",
-					"')\">",
-					"onclick=\"ikanLink(",
-					"common",
-					"(),\n",
-					"},\n",
-					"wrapper",
-					"main",
-					"newNode",
-					"var",
-					"Item",
-					"onclick=\"ikan(",
-					"html\">",
-					"target=\"_top\" href",
-					"\"i-bar-item i-button\"",
-					"href=\".",
-					"w3",
-					"href=\"",
-					"include",
-					"I",
-					"Ikan",
-					"I",
-					"div",
-					"\">ikan",
-					"ikan_",
-					"i-overlay",
-					"i-opa",
-					"W3.CSS",
-					"icss",
-					"i-margin-left",
-					"h2",
-					"class=\"i-padding\"",
-					"\"i-padding\"",
-					"i-padding",
-					"class=\"left\"",
-					"w3",
-					"target=\"_top\"",
-					".asp",
-					"W3.CSS",
+					"<%=data",
+					"listingform",
+					"form",
+					"Listing",
+					"border-red",
+					"dataEdit",
 					"w3-",
-					"ex",
-					"examp",
-					"w3",
-					".w3",
-					".i-text ",
-					".i-text",
-					".i-tooltip",
-					".i-modal ",
-					".i-modal",
-					".i-select ",
-					".i-input ",
-					".i-input",
-					".i-image",
-					".i-dropdown-hover",
-					".i-dropdown-click",
-					".i-main",
-					".i-maim",
-					".i-main",
-					".i-collapse",
-					".i-collapse ",
-					".i-sidebar",
-					".i-bar-item ",
-					".i-bar-block ",
-					".i-bar ",
-					"seashell",
-					".i-bar ",
-					".i-bar",
-					".i-table-all ",
-					".i-hoverable ",
-					".i-hovered ",
-					".i-striped ",
-					".i-table ",
-					".i-table",
-					".i-display-container",
-					".i-top",
-					".i-hide ",
-					".i-hide",
-					".i-circle",
-					".i-left-align",
-					".i-left",
-					".i-center",
-					"display",
-					"div",
-					"!important",
-					"$color_celeste_approx",
-					"#ccc",
-					"$color_celeste_approx",
-					".i-btn",
-					".i-button",
-					"i-button",
-					"card",
-					"shadow",
-					"seashell",
-					"$color_apple_approx",
-					"i-code",
-					"i-tag",
-					"i-ul",
-					"i-badge",
-					"i-panel",
-					"i-display-c",
-					"i-ul",
-					"i-panel ",
-					"i-cell",
-					"i-cell-row",
-					"w3-cell-row",
-					"import",
-					"';",
-					"grid",
-					"i-image",
-					"i-mobile",
-					"i-image",
-					"media",
-					"@media",
-					"i-opacity",
-					"i-trans",
-					"i-transparent",
-					"i-hide-small",
-					"i-half",
-					"i-content",
-					"i-rest",
-					"i-col ",
-					"i-col",
-					"i-half",
-					"i-content"
+					"blue-grey",
+					"i-hover-green",
+					"\n  <%if(userRole==='administrator'){%>\n  <hr class=\"i-opacity i-hr\"/>\n\n  <%}%>\n\n  <%if((userRole==='agent'||userRole==='administrator')&&!agentPending){%>\n\n  <%}%>\n\n  <%if(userRole==='agent'||userRole==='member'||userRole==='administrator'){%>\n\n  <%}%>",
+					"img",
+					"w3-",
+					"listing",
+					"mcdl",
+					"dataListings",
+					"w3-",
+					"frizadiga site",
+					"description",
+					"dist",
+					"nuxt-link",
+					"3000",
+					"Logo",
+					"hiuApps",
+					"-hiuApps",
+					"19px",
+					";*/\n",
+					"300ms",
+					"page-from",
+					".page-from-right",
+					"openAlert",
+					"right-panel",
+					"left-panel",
+					">\n",
+					"LeftPanel",
+					"author",
+					"body",
+					"::",
+					"iframe",
+					"').",
+					";\n",
+					"body",
+					"test",
+					"Info",
+					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
+					"f7-popup",
+					"\n.",
+					"></",
+					"drawer",
+					" <q-toolbar slot=\"header\">\n        <q-btn flat>\n          <q-icon name=\"menu\" />\n        </q-btn>\n        <q-toolbar-title>\n          {{ topTitle }}\n        </q-toolbar-title>\n        <q-btn flat>\n          <q-icon name=\"more_vert\" />\n        </q-btn>\n      </q-toolbar>",
+					"h4",
+					"quasar",
+					"myinfiniteVar",
+					"Framework7",
+					"Homepage",
+					"ello",
+					"w3-hover-white",
+					"height:70vh",
+					"w3-sepia",
+					"height:70vh;",
+					"id=\"main-pic\"",
+					"height:70vh;",
+					"/img/rumah2q-logo.png",
+					"rumah2q-logo",
+					"roperty-logo",
+					"rumah2q-logo",
+					"openTab",
+					"height:100%",
+					"80vh",
+					"green",
+					"teal",
+					"blue",
+					"red",
+					"jual",
+					"dijual",
+					"w3-red",
+					"</li>",
+					"<li>",
+					"li",
+					"id=\"map\"",
+					"t, 'maps",
+					"map",
+					"ss=\"tablink",
+					"cityName",
+					"dataListings",
+					"openCity",
+					"tabInstantView",
+					"city\"",
+					"city",
+					"dataListings",
+					"grey",
+					"text",
+					"w3-button",
+					"id01",
+					"sort",
+					"jual",
+					"a id=",
+					"data.",
+					"customer",
+					"modal-detail-booking",
+					"ooking",
+					"dataUsers",
+					"Booking",
+					"idPaymentDetail",
+					"basename",
+					"value=\"\"",
+					"selectToBank",
+					"select-to-bank",
+					"function",
+					"function(req,res){",
+					"Banks",
+					"back",
+					"''%>\"",
+					"delete-user",
+					"deleteUser",
+					"BANK",
+					"no",
+					"user",
+					"Users",
+					"ser",
+					"Users",
+					"user",
+					"  ",
+					"w3-light-grey w3-bottombar w3-hover-light-grey w3-hover-text-blue-grey w3-padding w3-border-green",
+					"w3-hover-text-blue-grey w3-",
+					"t-grey w3-bottombar w3-hover-light-grey",
+					"mbar w3-hover",
+					"=\"w3-leftbar",
+					"Xtab"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -950,17 +936,10 @@
 				"regex": false,
 				"replace_history":
 				[
-					"i",
-					"ikan",
-					"Ikan",
-					"i",
 					"i-",
-					"i",
-					".i",
-					"I",
-					"i",
-					".i",
-					"u",
+					"light-grey",
+					"i-",
+					"hiuApps",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
 					"filter-options-listings",
@@ -999,7 +978,7 @@
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": false,
+				"whole_word": true,
 				"wrap": false
 			},
 			"incremental_find":
@@ -1028,224 +1007,140 @@
 				"selected_items":
 				[
 					[
-						"side",
-						"master\\app\\assets\\side-bar.html"
+						"pol",
+						"2359-hotel\\config\\policies.js"
 					],
 					[
-						"js/ikan",
-						"master\\dist\\js\\ikan.js"
+						"islo",
+						"hiuProperty-sails\\api\\policies\\isLogin.js"
 					],
 					[
-						"introjs",
-						"src\\html\\intro\\intro.js"
+						"layou",
+						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
 					],
 					[
-						"intro",
-						"src\\html\\intro\\intro.html"
+						"roomnew",
+						"2359-hotel\\views\\pages\\roomNew.ejs"
 					],
 					[
-						"htmljs",
-						"src\\html\\assets\\html.js"
+						"model",
+						"2359-hotel\\config\\models.js"
 					],
 					[
-						"home",
-						"src\\html\\home.html"
+						"data",
+						"2359-hotel\\config\\datastores.js"
 					],
 					[
-						"indexhtml",
-						"src\\html\\index.html"
+						"laydas",
+						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
 					],
 					[
-						"htmlcss",
-						"src\\html\\assets\\html.css"
+						"room-for",
+						"2359-hotel\\views\\pages\\room-form.ejs"
 					],
 					[
-						"topbar",
-						"src\\html\\assets\\top-bar.html"
+						"layour",
+						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
 					],
 					[
-						"conta",
-						"src\\html\\container.html"
-					],
-					[
-						"indexht",
-						"src\\html\\index.html"
-					],
-					[
-						"contai",
-						"src\\html\\container.html"
-					],
-					[
-						"pa",
-						"package.json"
-					],
-					[
-						"color",
-						"src\\html\\color.html"
-					],
-					[
-						"app.js",
-						"src\\app.js"
-					],
-					[
-						"web",
-						"webpack.common.js"
-					],
-					[
-						"apphtml",
-						"src\\html\\wrapper\\app.html"
-					],
-					[
-						"appht",
-						"src\\html\\app.html"
-					],
-					[
-						"webpack",
-						"webpack.dev.js"
-					],
-					[
-						"app",
-						"src\\html\\app.html"
-					],
-					[
-						"con",
-						"src\\scss\\container.scss"
-					],
-					[
-						"appjs",
-						"src\\app.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"input",
-						"src\\scss\\input.scss"
-					],
-					[
-						"appscs",
-						"src\\scss\\app.scss"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"dis",
-						"src\\scss\\display.scss"
-					],
-					[
-						"font",
-						"src\\scss\\font.scss"
-					],
-					[
-						"bundle",
-						"ref\\bundle.scss"
-					],
-					[
-						"table",
-						"src\\scss\\table.scss"
-					],
-					[
-						"extend",
-						"src\\scss\\extend.scss"
-					],
-					[
-						"container",
-						"src\\scss\\container.scss"
-					],
-					[
-						"app.scss",
-						"src\\scss\\app.scss"
-					],
-					[
-						"base",
-						"src\\scss\\base.scss"
-					],
-					[
-						"norma",
-						"node_modules\\normalize.css\\normalize.css"
-					],
-					[
-						"appcss",
-						"src\\scss\\app.scss"
+						"rooms",
+						"2359-hotel\\api\\models\\Rooms.js"
 					],
 					[
 						"ikan",
-						"dist\\js\\ikan.js"
+						"2359-hotel\\assets\\styles\\ikan.css"
 					],
 					[
-						"pac",
-						"package.json"
+						"layo",
+						"hiuProperty-sails\\views\\layout-dashboards.ejs"
 					],
 					[
-						"exte",
-						"src\\scss\\extend.scss"
+						"modal-room",
+						"2359-hotel\\views\\partials\\modal-confirm-delete-room.ejs"
 					],
 					[
-						"bund",
-						"ref\\bundle.scss"
+						"userform",
+						"hiuProperty-sails\\views\\dashboards\\user-form.ejs"
 					],
 					[
-						"apps",
-						"src\\scss\\app.scss"
+						"users",
+						"2359-hotel\\api\\controllers\\UsersController.js"
 					],
 					[
-						"grid",
-						"src\\scss\\grid.scss"
+						"usersedit",
+						"2359-hotel\\node_modules\\waterline-sql-builder\\test\\unit\\sequelizer\\sequelizer.distinct.test.js"
 					],
 					[
-						"butto",
-						"src\\scss\\button.scss"
+						"das",
+						"2359-hotel\\views\\pages\\dashboard.ejs"
 					],
 					[
-						"border",
-						"src\\scss\\border.scss"
-					],
-					[
-						"appsc",
-						"src\\scss\\app.scss"
-					],
-					[
-						"",
-						"src\\scss\\container.scss"
-					],
-					[
-						"ex",
-						"src\\scss\\extend.scss"
-					],
-					[
-						"cont",
-						"examples\\container.html"
-					],
-					[
-						"ikanjs",
-						"dist\\js\\ikan.js"
-					],
-					[
-						"bundlescss",
-						"ref\\bundle.scss"
-					],
-					[
-						"bundlecss",
-						"ref\\bundle.css"
-					],
-					[
-						"wepconfig",
-						"webpack.config.js"
-					],
-					[
-						"gitig",
-						".gitignore"
-					],
-					[
-						"pack",
-						"package.json"
+						"blue",
+						"hiuProperty-sails\\config\\blueprints.js"
 					],
 					[
 						"routes",
-						"hiu-land-api\\config\\routes.js"
+						"hiuProperty-sails\\config\\routes.js"
+					],
+					[
+						"listingcon",
+						"hiuProperty-sails\\api\\controllers\\ListingsController.js"
+					],
+					[
+						"users.js",
+						"2359-hotel\\api\\models\\Users.js"
+					],
+					[
+						"room",
+						"2359-hotel\\api\\models\\Rooms.js"
+					],
+					[
+						"dashb",
+						"2359-hotel\\views\\pages\\dashboard.ejs"
+					],
+					[
+						"datas",
+						"2359-hotel\\config\\datastores.js"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"backpagevue",
+						"src\\pages\\backpages\\index.vue"
+					],
+					[
+						"indexvue",
+						"src\\pages\\index.vue"
+					],
+					[
+						"friza",
+						"src\\components\\friza-pic.vue"
+					],
+					[
+						"nuxtvue",
+						"dev\\src\\pages\\nuxt.vue"
+					],
+					[
+						"nuxtvu",
+						"dev\\.nuxt\\components\\nuxt.vue"
+					],
+					[
+						"nuxtlog",
+						"dev\\src\\components\\nuxt-logo.vue"
+					],
+					[
+						"nuxt",
+						"hiu-nuxt\\nuxt.config.js"
+					],
+					[
+						"devindexvue",
+						"dev\\src\\pages\\index.vue"
+					],
+					[
+						"index.vue",
+						"hiu-nuxt\\pages\\index.vue"
 					],
 					[
 						"panel",
@@ -1266,6 +1161,10 @@
 					[
 						"f7-view.vue",
 						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
+					],
+					[
+						"app",
+						"f7-vue\\src\\app.vue"
 					],
 					[
 						"wa.cmd",
@@ -1300,10 +1199,6 @@
 						"cmder\\bin\\appchr.cmd"
 					],
 					[
-						"package",
-						"hiuProperty-sails\\package.json"
-					],
-					[
 						"package.json",
 						"hiuProperty-sails\\package-lock.json"
 					],
@@ -1324,8 +1219,8 @@
 						"hiu-me-vue\\.gitignore"
 					],
 					[
-						"indexvue",
-						"hiu-me-vue\\src\\renderer\\components\\index.vue"
+						"",
+						"cmder\\-cur_console"
 					],
 					[
 						"land",
@@ -1354,6 +1249,10 @@
 					[
 						"responses",
 						"f7-vue\\node_modules\\express\\lib\\response.js"
+					],
+					[
+						"packa",
+						"f7-vue\\package.json"
 					],
 					[
 						"cd-app",
@@ -1412,8 +1311,8 @@
 						"hiuProperty-sails\\views\\partials\\navbar.ejs"
 					],
 					[
-						"model",
-						"hiuProperty-sails\\config\\models.js"
+						"con",
+						"hiuProperty-sails\\config\\connections.js"
 					],
 					[
 						"indexejs",
@@ -1450,10 +1349,6 @@
 					[
 						"modal-pic",
 						"views\\partials\\modal-listing-pictures-main.ejs"
-					],
-					[
-						"listingcon",
-						"api\\controllers\\ListingsController.js"
 					],
 					[
 						"filter",
@@ -1538,6 +1433,90 @@
 					[
 						"listing-d",
 						"views\\pages\\listing-detail.ejs"
+					],
+					[
+						"listingc",
+						"api\\controllers\\ListingsController.js"
+					],
+					[
+						"lett",
+						"views\\dashboards\\documents\\letterhead.ejs"
+					],
+					[
+						"listing-de",
+						"views\\pages\\listing-detail.ejs"
+					],
+					[
+						"report",
+						"views\\dashboards\\documents\\report-transactions.ejs"
+					],
+					[
+						"docu",
+						"api\\controllers\\DocumentsController.js"
+					],
+					[
+						"kuitansi",
+						"views\\dashboards\\documents\\kuitansi.ejs"
+					],
+					[
+						"listing-f",
+						"views\\dashboards\\listing-form.ejs"
+					],
+					[
+						"hius",
+						"hiusig.sql"
+					],
+					[
+						"listingsco",
+						"api\\controllers\\ListingsController.js"
+					],
+					[
+						"bank",
+						"views\\dashboards\\banks-manage.ejs"
+					],
+					[
+						"agent",
+						"views\\dashboards\\agents-confirm.ejs"
+					],
+					[
+						"listingfor",
+						"views\\dashboards\\listing-form.ejs"
+					],
+					[
+						"document",
+						"api\\controllers\\DocumentsController.js"
+					],
+					[
+						"repayme",
+						"views\\dashboards\\payments-repayment-confirm.ejs"
+					],
+					[
+						"modaldetailp",
+						"views\\partials\\modal-detail-payment.ejs"
+					],
+					[
+						"paymentcont",
+						"api\\controllers\\PaymentsController.js"
+					],
+					[
+						"hiu",
+						"hiusig.sql"
+					],
+					[
+						"dpconfi",
+						"views\\dashboards\\payments-dp-confirm.ejs"
+					],
+					[
+						"paymentcon",
+						"views\\dashboards\\payments-confirm.ejs"
+					],
+					[
+						"booking",
+						"views\\dashboards\\bookings-confirm.ejs"
+					],
+					[
+						"detailboo",
+						"views\\partials\\modal-detail-booking.ejs"
 					]
 				],
 				"width": 0.0
@@ -1545,36 +1524,28 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "1",
+				"last_filter": "ikan",
 				"selected_items":
 				[
 					[
-						"1",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\1.sublime-project"
+						"ikan",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\ikan.sublime-project"
 					],
 					[
-						"",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\islamic.sublime-project"
+						"ik",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\ikan.sublime-project"
 					],
 					[
-						"s",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\scrapler.sublime-project"
+						"exp",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\exp.sublime-project"
 					],
 					[
 						"env",
 						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\hiu-env.sublime-project"
 					],
 					[
-						"play",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\playground.sublime-project"
-					],
-					[
-						"land",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-land.sublime-project"
-					],
-					[
-						"text",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-text-project.sublime-project"
+						"",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\islamic.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1608,76 +1579,76 @@
 				"selected_items":
 				[
 					[
-						"onke",
-						"onkeyup\tAttr"
+						"l",
+						"layout-dashboard"
 					],
 					[
-						"ikan",
-						"ikanCSS"
+						"la",
+						"layouts"
 					],
 					[
-						"co",
-						"component"
-					],
-					[
-						"c",
-						"component"
-					],
-					[
-						"i",
-						"innerHTML"
-					],
-					[
-						"te",
-						"templateData"
-					],
-					[
-						"side",
-						"side-bar"
-					],
-					[
-						"new",
-						"newItem"
-					],
-					[
-						"com",
-						"Composable"
-					],
-					[
-						"mar",
-						"margin-left"
-					],
-					[
-						"con",
-						"concurrently"
-					],
-					[
-						"margin",
-						"margin-left"
+						"room",
+						"room-form"
 					],
 					[
 						"font",
 						"font-size"
 					],
 					[
-						"padding",
-						"padding-top"
+						"max",
+						"max-width"
+					],
+					[
+						"lo",
+						"login"
+					],
+					[
+						"i-p",
+						"i-padding-16"
+					],
+					[
+						"ro",
+						"Rooms"
+					],
+					[
+						"i-te",
+						"i-text-blue-grey"
+					],
+					[
+						"iher",
+						"i-hover-text-grey"
+					],
+					[
+						"i-hover-gre",
+						"i-hover-light-grey"
 					],
 					[
 						"pad",
 						"padding-left"
 					],
 					[
-						"we",
-						"webpack-dev-server"
+						"actio",
+						"action"
 					],
 					[
-						"ika",
-						"ikanJS"
+						"user",
+						"users"
 					],
 					[
-						"ex",
-						"extractSCSS"
+						"re",
+						"results"
+					],
+					[
+						"sils",
+						"sails-mysql"
+					],
+					[
+						"friz",
+						"frizaPic"
+					],
+					[
+						"fr",
+						"frizaPic"
 					],
 					[
 						"uk",
@@ -1756,6 +1727,10 @@
 						"contentSRC"
 					],
 					[
+						"con",
+						"contentSRC"
+					],
+					[
 						"conte",
 						"content"
 					],
@@ -1772,12 +1747,20 @@
 						"z-index"
 					],
 					[
+						"co",
+						"contentSRC"
+					],
+					[
 						"back",
 						"background-color"
 					],
 					[
 						"ba",
 						"background-color"
+					],
+					[
+						"mar",
+						"margin-top"
 					],
 					[
 						"padd",
@@ -1824,8 +1807,16 @@
 						"style\tAttr"
 					],
 					[
+						"margin",
+						"margin-right"
+					],
+					[
 						"w3-d",
 						"w3-display-container"
+					],
+					[
+						"c",
+						"colspan\tAttr"
 					],
 					[
 						"w3-dis",
@@ -1936,10 +1927,6 @@
 						"minlength\tAttr"
 					],
 					[
-						"re",
-						"required\tAttr"
-					],
-					[
 						"fet",
 						"fetchListToBanks"
 					],
@@ -2002,6 +1989,10 @@
 					[
 						"fa-user",
 						"fa-user-secret"
+					],
+					[
+						"te",
+						"textTerbilang"
 					],
 					[
 						"ter",
@@ -2098,26 +2089,6 @@
 					[
 						"modal",
 						"modal-detail-payment"
-					],
-					[
-						"repa",
-						"repayment-paid-on"
-					],
-					[
-						"e",
-						"email"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"ag",
-						"agentPending"
-					],
-					[
-						"age",
-						"agentPending"
 					]
 				]
 			},
@@ -2129,37 +2100,9 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "set sass",
+				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"set sass",
-						"Set Syntax: SCSS"
-					],
-					[
-						"set scss",
-						"Set Syntax: SCSS"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"updat",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"set",
-						"Set Syntax: SCSS"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
 					[
 						"",
 						"Boxy Theme: Configuration"
@@ -2189,6 +2132,10 @@
 						"Package Control: List Packages"
 					],
 					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
 						"remove",
 						"Package Control: Remove Package"
 					],
@@ -2199,6 +2146,10 @@
 					[
 						"jsx",
 						"Set Syntax: JSX"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"box",
@@ -2225,7 +2176,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -2245,105 +2196,58 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/ikan/site/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/site/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/dashboard.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/UsersController.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout-dashboard.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-manage.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/modal-confirm-delete-room.ejs",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/dashboards/user-form.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/node_modules/waterline-sql-builder/test/unit/sequelizer/sequelizer.distinct.test.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/assets/styles/ikan.css",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/blueprints.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Users.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Rooms.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/api/models/Users.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/helpers.ejs",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/routes.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/action-index.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/package.json",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
+				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js",
+				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/about.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/components/friza-pic.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/backpages/index.vue",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/package.json",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/README.md",
 				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/intro/intro.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/app/intro/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/intro/intro.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/app/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/intro/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/side-bar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color/color.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/home.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/template.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/color.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/html.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/top-bar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/head.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.dev.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/.gitignore",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/axios.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/footer.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/assets/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/html.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/sidebar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/wrapper/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.common.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/html/partials/sidebar.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.prod.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/container.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/app.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/animation.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/input.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/app.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ex/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/display.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/effect.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/README.md",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/color.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/table.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/extend.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/font.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/css/ikan.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/js/ikan.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/base.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/node_modules/normalize.css/normalize.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/backup-webpack.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/tooltip.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/modal.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/bar.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/grid.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/dropdown.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/image.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/ref/bundle.css",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/button.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/border.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/round.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/webpack.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/build/webpack.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/dist/app.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/card.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/layout.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/examples/container.html",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/padding.scss",
-				"/A/hiuData/hiuWEB/App/hiu/ikan/src/scss/margin.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/examples/app.html",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/package.json",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.babelrc",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/webpack.config.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/js/ikan.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/app.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/css/ikan.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/dist/app.bundle.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/app.js",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/scss/color.scss",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/bundle-no-color.css",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/.gitignore",
-				"/A/hiuData/hiuWEB/AppJS/hiu/ikan/src/js/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/scss/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/less/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/stylus/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/bundle.scss",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/src/components/base.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/dist/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/color.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/container.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-ui/test/a-test-wrapper.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index-w3.html",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io/index.html",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/meta.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/hiu-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/nuxt.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/layouts/default.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/.nuxt/components/nuxt.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/nuxt-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/README.md",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/app/.gitkeep",
+				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/package.json",
+				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/README.md",
+				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-project",
+				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/ikan.sublime-project",
+				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-project",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -2372,7 +2276,54 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/-cur_console",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiu-me-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html"
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-appjs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/templates/layout.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/App.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/main.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/Hello.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css/app.css",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/node/asyncAwait.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/dev.env.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/test/tomomi.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/w3.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/css/w3.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/floating-search-card.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/listings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-instant-view.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/api/models/Listings.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-repayment.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-login.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings-confirm.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/kuitansi.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/letterhead.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/reports.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/surat-pemesanan-properti.ejs"
 			],
 			"find":
 			{
@@ -2383,6 +2334,8 @@
 				"height": 150.0,
 				"where_history":
 				[
+					"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects",
+					"<open folders>",
 					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
 					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
 					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
@@ -2396,137 +2349,137 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"w3",
-					"href=\".",
-					".html\">",
-					"Reds",
-					"href='",
-					"')\">",
-					"onclick=\"ikanLink(",
-					"common",
-					"(),\n",
-					"},\n",
-					"wrapper",
-					"main",
-					"newNode",
-					"var",
-					"Item",
-					"onclick=\"ikan(",
-					"html\">",
-					"target=\"_top\" href",
-					"\"i-bar-item i-button\"",
-					"href=\".",
-					"w3",
-					"href=\"",
-					"include",
-					"I",
-					"Ikan",
-					"I",
-					"div",
-					"\">ikan",
-					"ikan_",
-					"i-overlay",
-					"i-opa",
-					"W3.CSS",
-					"icss",
-					"i-margin-left",
-					"h2",
-					"class=\"i-padding\"",
-					"\"i-padding\"",
-					"i-padding",
-					"class=\"left\"",
-					"w3",
-					"target=\"_top\"",
-					".asp",
-					"W3.CSS",
+					"<%=data",
+					"listingform",
+					"form",
+					"Listing",
+					"border-red",
+					"dataEdit",
 					"w3-",
-					"ex",
-					"examp",
-					"w3",
-					".w3",
-					".i-text ",
-					".i-text",
-					".i-tooltip",
-					".i-modal ",
-					".i-modal",
-					".i-select ",
-					".i-input ",
-					".i-input",
-					".i-image",
-					".i-dropdown-hover",
-					".i-dropdown-click",
-					".i-main",
-					".i-maim",
-					".i-main",
-					".i-collapse",
-					".i-collapse ",
-					".i-sidebar",
-					".i-bar-item ",
-					".i-bar-block ",
-					".i-bar ",
-					"seashell",
-					".i-bar ",
-					".i-bar",
-					".i-table-all ",
-					".i-hoverable ",
-					".i-hovered ",
-					".i-striped ",
-					".i-table ",
-					".i-table",
-					".i-display-container",
-					".i-top",
-					".i-hide ",
-					".i-hide",
-					".i-circle",
-					".i-left-align",
-					".i-left",
-					".i-center",
-					"display",
-					"div",
-					"!important",
-					"$color_celeste_approx",
-					"#ccc",
-					"$color_celeste_approx",
-					".i-btn",
-					".i-button",
-					"i-button",
-					"card",
-					"shadow",
-					"seashell",
-					"$color_apple_approx",
-					"i-code",
-					"i-tag",
-					"i-ul",
-					"i-badge",
-					"i-panel",
-					"i-display-c",
-					"i-ul",
-					"i-panel ",
-					"i-cell",
-					"i-cell-row",
-					"w3-cell-row",
-					"import",
-					"';",
-					"grid",
-					"i-image",
-					"i-mobile",
-					"i-image",
-					"media",
-					"@media",
-					"i-opacity",
-					"i-trans",
-					"i-transparent",
-					"i-hide-small",
-					"i-half",
-					"i-content",
-					"i-rest",
-					"i-col ",
-					"i-col",
-					"i-half",
-					"i-content"
+					"blue-grey",
+					"i-hover-green",
+					"\n  <%if(userRole==='administrator'){%>\n  <hr class=\"i-opacity i-hr\"/>\n\n  <%}%>\n\n  <%if((userRole==='agent'||userRole==='administrator')&&!agentPending){%>\n\n  <%}%>\n\n  <%if(userRole==='agent'||userRole==='member'||userRole==='administrator'){%>\n\n  <%}%>",
+					"img",
+					"w3-",
+					"listing",
+					"mcdl",
+					"dataListings",
+					"w3-",
+					"frizadiga site",
+					"description",
+					"dist",
+					"nuxt-link",
+					"3000",
+					"Logo",
+					"hiuApps",
+					"-hiuApps",
+					"19px",
+					";*/\n",
+					"300ms",
+					"page-from",
+					".page-from-right",
+					"openAlert",
+					"right-panel",
+					"left-panel",
+					">\n",
+					"LeftPanel",
+					"author",
+					"body",
+					"::",
+					"iframe",
+					"').",
+					";\n",
+					"body",
+					"test",
+					"Info",
+					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
+					"f7-popup",
+					"\n.",
+					"></",
+					"drawer",
+					" <q-toolbar slot=\"header\">\n        <q-btn flat>\n          <q-icon name=\"menu\" />\n        </q-btn>\n        <q-toolbar-title>\n          {{ topTitle }}\n        </q-toolbar-title>\n        <q-btn flat>\n          <q-icon name=\"more_vert\" />\n        </q-btn>\n      </q-toolbar>",
+					"h4",
+					"quasar",
+					"myinfiniteVar",
+					"Framework7",
+					"Homepage",
+					"ello",
+					"w3-hover-white",
+					"height:70vh",
+					"w3-sepia",
+					"height:70vh;",
+					"id=\"main-pic\"",
+					"height:70vh;",
+					"/img/rumah2q-logo.png",
+					"rumah2q-logo",
+					"roperty-logo",
+					"rumah2q-logo",
+					"openTab",
+					"height:100%",
+					"80vh",
+					"green",
+					"teal",
+					"blue",
+					"red",
+					"jual",
+					"dijual",
+					"w3-red",
+					"</li>",
+					"<li>",
+					"li",
+					"id=\"map\"",
+					"t, 'maps",
+					"map",
+					"ss=\"tablink",
+					"cityName",
+					"dataListings",
+					"openCity",
+					"tabInstantView",
+					"city\"",
+					"city",
+					"dataListings",
+					"grey",
+					"text",
+					"w3-button",
+					"id01",
+					"sort",
+					"jual",
+					"a id=",
+					"data.",
+					"customer",
+					"modal-detail-booking",
+					"ooking",
+					"dataUsers",
+					"Booking",
+					"idPaymentDetail",
+					"basename",
+					"value=\"\"",
+					"selectToBank",
+					"select-to-bank",
+					"function",
+					"function(req,res){",
+					"Banks",
+					"back",
+					"''%>\"",
+					"delete-user",
+					"deleteUser",
+					"BANK",
+					"no",
+					"user",
+					"Users",
+					"ser",
+					"Users",
+					"user",
+					"  ",
+					"w3-light-grey w3-bottombar w3-hover-light-grey w3-hover-text-blue-grey w3-padding w3-border-green",
+					"w3-hover-text-blue-grey w3-",
+					"t-grey w3-bottombar w3-hover-light-grey",
+					"mbar w3-hover",
+					"=\"w3-leftbar",
+					"Xtab"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2534,17 +2487,10 @@
 				"regex": false,
 				"replace_history":
 				[
-					"i",
-					"ikan",
-					"Ikan",
-					"i",
 					"i-",
-					"i",
-					".i",
-					"I",
-					"i",
-					".i",
-					"u",
+					"light-grey",
+					"i-",
+					"hiuApps",
 					"/img/hiuProperty-logo.png",
 					"hiuProperty-logo",
 					"filter-options-listings",
@@ -2583,7 +2529,7 @@
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": false,
+				"whole_word": true,
 				"wrap": false
 			},
 			"incremental_find":
@@ -2603,6 +2549,12 @@
 						0,
 						1,
 						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
 					]
 				],
 				"cols":
@@ -2613,6 +2565,7 @@
 				"rows":
 				[
 					0.0,
+					0.539845758355,
 					1.0
 				]
 			},
@@ -2622,7 +2575,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,875,1713,7,2666",
+			"position": "0,0,1,-1,-1,-1,-1,862,518,-6,1471",
 			"replace":
 			{
 				"height": 102.0
@@ -2635,224 +2588,140 @@
 				"selected_items":
 				[
 					[
-						"side",
-						"master\\app\\assets\\side-bar.html"
+						"pol",
+						"2359-hotel\\config\\policies.js"
 					],
 					[
-						"js/ikan",
-						"master\\dist\\js\\ikan.js"
+						"islo",
+						"hiuProperty-sails\\api\\policies\\isLogin.js"
 					],
 					[
-						"introjs",
-						"src\\html\\intro\\intro.js"
+						"layou",
+						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
 					],
 					[
-						"intro",
-						"src\\html\\intro\\intro.html"
+						"roomnew",
+						"2359-hotel\\views\\pages\\roomNew.ejs"
 					],
 					[
-						"htmljs",
-						"src\\html\\assets\\html.js"
+						"model",
+						"2359-hotel\\config\\models.js"
 					],
 					[
-						"home",
-						"src\\html\\home.html"
+						"data",
+						"2359-hotel\\config\\datastores.js"
 					],
 					[
-						"indexhtml",
-						"src\\html\\index.html"
+						"laydas",
+						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
 					],
 					[
-						"htmlcss",
-						"src\\html\\assets\\html.css"
+						"room-for",
+						"2359-hotel\\views\\pages\\room-form.ejs"
 					],
 					[
-						"topbar",
-						"src\\html\\assets\\top-bar.html"
+						"layour",
+						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
 					],
 					[
-						"conta",
-						"src\\html\\container.html"
-					],
-					[
-						"indexht",
-						"src\\html\\index.html"
-					],
-					[
-						"contai",
-						"src\\html\\container.html"
-					],
-					[
-						"pa",
-						"package.json"
-					],
-					[
-						"color",
-						"src\\html\\color.html"
-					],
-					[
-						"app.js",
-						"src\\app.js"
-					],
-					[
-						"web",
-						"webpack.common.js"
-					],
-					[
-						"apphtml",
-						"src\\html\\wrapper\\app.html"
-					],
-					[
-						"appht",
-						"src\\html\\app.html"
-					],
-					[
-						"webpack",
-						"webpack.dev.js"
-					],
-					[
-						"app",
-						"src\\html\\app.html"
-					],
-					[
-						"con",
-						"src\\scss\\container.scss"
-					],
-					[
-						"appjs",
-						"src\\app.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"input",
-						"src\\scss\\input.scss"
-					],
-					[
-						"appscs",
-						"src\\scss\\app.scss"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"dis",
-						"src\\scss\\display.scss"
-					],
-					[
-						"font",
-						"src\\scss\\font.scss"
-					],
-					[
-						"bundle",
-						"ref\\bundle.scss"
-					],
-					[
-						"table",
-						"src\\scss\\table.scss"
-					],
-					[
-						"extend",
-						"src\\scss\\extend.scss"
-					],
-					[
-						"container",
-						"src\\scss\\container.scss"
-					],
-					[
-						"app.scss",
-						"src\\scss\\app.scss"
-					],
-					[
-						"base",
-						"src\\scss\\base.scss"
-					],
-					[
-						"norma",
-						"node_modules\\normalize.css\\normalize.css"
-					],
-					[
-						"appcss",
-						"src\\scss\\app.scss"
+						"rooms",
+						"2359-hotel\\api\\models\\Rooms.js"
 					],
 					[
 						"ikan",
-						"dist\\js\\ikan.js"
+						"2359-hotel\\assets\\styles\\ikan.css"
 					],
 					[
-						"pac",
-						"package.json"
+						"layo",
+						"hiuProperty-sails\\views\\layout-dashboards.ejs"
 					],
 					[
-						"exte",
-						"src\\scss\\extend.scss"
+						"modal-room",
+						"2359-hotel\\views\\partials\\modal-confirm-delete-room.ejs"
 					],
 					[
-						"bund",
-						"ref\\bundle.scss"
+						"userform",
+						"hiuProperty-sails\\views\\dashboards\\user-form.ejs"
 					],
 					[
-						"apps",
-						"src\\scss\\app.scss"
+						"users",
+						"2359-hotel\\api\\controllers\\UsersController.js"
 					],
 					[
-						"grid",
-						"src\\scss\\grid.scss"
+						"usersedit",
+						"2359-hotel\\node_modules\\waterline-sql-builder\\test\\unit\\sequelizer\\sequelizer.distinct.test.js"
 					],
 					[
-						"butto",
-						"src\\scss\\button.scss"
+						"das",
+						"2359-hotel\\views\\pages\\dashboard.ejs"
 					],
 					[
-						"border",
-						"src\\scss\\border.scss"
-					],
-					[
-						"appsc",
-						"src\\scss\\app.scss"
-					],
-					[
-						"",
-						"src\\scss\\container.scss"
-					],
-					[
-						"ex",
-						"src\\scss\\extend.scss"
-					],
-					[
-						"cont",
-						"examples\\container.html"
-					],
-					[
-						"ikanjs",
-						"dist\\js\\ikan.js"
-					],
-					[
-						"bundlescss",
-						"ref\\bundle.scss"
-					],
-					[
-						"bundlecss",
-						"ref\\bundle.css"
-					],
-					[
-						"wepconfig",
-						"webpack.config.js"
-					],
-					[
-						"gitig",
-						".gitignore"
-					],
-					[
-						"pack",
-						"package.json"
+						"blue",
+						"hiuProperty-sails\\config\\blueprints.js"
 					],
 					[
 						"routes",
-						"hiu-land-api\\config\\routes.js"
+						"hiuProperty-sails\\config\\routes.js"
+					],
+					[
+						"listingcon",
+						"hiuProperty-sails\\api\\controllers\\ListingsController.js"
+					],
+					[
+						"users.js",
+						"2359-hotel\\api\\models\\Users.js"
+					],
+					[
+						"room",
+						"2359-hotel\\api\\models\\Rooms.js"
+					],
+					[
+						"dashb",
+						"2359-hotel\\views\\pages\\dashboard.ejs"
+					],
+					[
+						"datas",
+						"2359-hotel\\config\\datastores.js"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"backpagevue",
+						"src\\pages\\backpages\\index.vue"
+					],
+					[
+						"indexvue",
+						"src\\pages\\index.vue"
+					],
+					[
+						"friza",
+						"src\\components\\friza-pic.vue"
+					],
+					[
+						"nuxtvue",
+						"dev\\src\\pages\\nuxt.vue"
+					],
+					[
+						"nuxtvu",
+						"dev\\.nuxt\\components\\nuxt.vue"
+					],
+					[
+						"nuxtlog",
+						"dev\\src\\components\\nuxt-logo.vue"
+					],
+					[
+						"nuxt",
+						"hiu-nuxt\\nuxt.config.js"
+					],
+					[
+						"devindexvue",
+						"dev\\src\\pages\\index.vue"
+					],
+					[
+						"index.vue",
+						"hiu-nuxt\\pages\\index.vue"
 					],
 					[
 						"panel",
@@ -2873,6 +2742,10 @@
 					[
 						"f7-view.vue",
 						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
+					],
+					[
+						"app",
+						"f7-vue\\src\\app.vue"
 					],
 					[
 						"wa.cmd",
@@ -2907,10 +2780,6 @@
 						"cmder\\bin\\appchr.cmd"
 					],
 					[
-						"package",
-						"hiuProperty-sails\\package.json"
-					],
-					[
 						"package.json",
 						"hiuProperty-sails\\package-lock.json"
 					],
@@ -2931,8 +2800,8 @@
 						"hiu-me-vue\\.gitignore"
 					],
 					[
-						"indexvue",
-						"hiu-me-vue\\src\\renderer\\components\\index.vue"
+						"",
+						"cmder\\-cur_console"
 					],
 					[
 						"land",
@@ -2961,6 +2830,10 @@
 					[
 						"responses",
 						"f7-vue\\node_modules\\express\\lib\\response.js"
+					],
+					[
+						"packa",
+						"f7-vue\\package.json"
 					],
 					[
 						"cd-app",
@@ -3019,8 +2892,8 @@
 						"hiuProperty-sails\\views\\partials\\navbar.ejs"
 					],
 					[
-						"model",
-						"hiuProperty-sails\\config\\models.js"
+						"con",
+						"hiuProperty-sails\\config\\connections.js"
 					],
 					[
 						"indexejs",
@@ -3057,10 +2930,6 @@
 					[
 						"modal-pic",
 						"views\\partials\\modal-listing-pictures-main.ejs"
-					],
-					[
-						"listingcon",
-						"api\\controllers\\ListingsController.js"
 					],
 					[
 						"filter",
@@ -3145,6 +3014,90 @@
 					[
 						"listing-d",
 						"views\\pages\\listing-detail.ejs"
+					],
+					[
+						"listingc",
+						"api\\controllers\\ListingsController.js"
+					],
+					[
+						"lett",
+						"views\\dashboards\\documents\\letterhead.ejs"
+					],
+					[
+						"listing-de",
+						"views\\pages\\listing-detail.ejs"
+					],
+					[
+						"report",
+						"views\\dashboards\\documents\\report-transactions.ejs"
+					],
+					[
+						"docu",
+						"api\\controllers\\DocumentsController.js"
+					],
+					[
+						"kuitansi",
+						"views\\dashboards\\documents\\kuitansi.ejs"
+					],
+					[
+						"listing-f",
+						"views\\dashboards\\listing-form.ejs"
+					],
+					[
+						"hius",
+						"hiusig.sql"
+					],
+					[
+						"listingsco",
+						"api\\controllers\\ListingsController.js"
+					],
+					[
+						"bank",
+						"views\\dashboards\\banks-manage.ejs"
+					],
+					[
+						"agent",
+						"views\\dashboards\\agents-confirm.ejs"
+					],
+					[
+						"listingfor",
+						"views\\dashboards\\listing-form.ejs"
+					],
+					[
+						"document",
+						"api\\controllers\\DocumentsController.js"
+					],
+					[
+						"repayme",
+						"views\\dashboards\\payments-repayment-confirm.ejs"
+					],
+					[
+						"modaldetailp",
+						"views\\partials\\modal-detail-payment.ejs"
+					],
+					[
+						"paymentcont",
+						"api\\controllers\\PaymentsController.js"
+					],
+					[
+						"hiu",
+						"hiusig.sql"
+					],
+					[
+						"dpconfi",
+						"views\\dashboards\\payments-dp-confirm.ejs"
+					],
+					[
+						"paymentcon",
+						"views\\dashboards\\payments-confirm.ejs"
+					],
+					[
+						"booking",
+						"views\\dashboards\\bookings-confirm.ejs"
+					],
+					[
+						"detailboo",
+						"views\\partials\\modal-detail-booking.ejs"
 					]
 				],
 				"width": 0.0
@@ -3152,36 +3105,28 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "1",
+				"last_filter": "ikan",
 				"selected_items":
 				[
 					[
-						"1",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\1.sublime-project"
+						"ikan",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\ikan.sublime-project"
 					],
 					[
-						"",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\islamic.sublime-project"
+						"ik",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\ikan.sublime-project"
 					],
 					[
-						"s",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\scrapler.sublime-project"
+						"exp",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\exp.sublime-project"
 					],
 					[
 						"env",
 						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\hiu-env.sublime-project"
 					],
 					[
-						"play",
-						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\playground.sublime-project"
-					],
-					[
-						"land",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-land.sublime-project"
-					],
-					[
-						"text",
-						"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects\\hiu-text-project.sublime-project"
+						"",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\islamic.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3207,18 +3152,18 @@
 			"template_settings":
 			{
 			},
-			"window_id": 74
+			"window_id": 141
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/A/hiuData/hiuWEB/App/hiuText-projects/ikan.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-env.sublime-workspace",
-			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-nuxt-template.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/exp.sublime-workspace",
+			"/A/hiuData/hiuWEB/App/hiuText-projects/ikan.sublime-workspace",
+			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-nuxt-template.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-text-project.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/playground.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/scrapler.sublime-workspace",
