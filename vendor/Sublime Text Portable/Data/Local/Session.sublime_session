@@ -1,8 +1,17 @@
 {
 	"folder_history":
 	[
-		"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo",
+		"/A/Data Friza/App/circledoo-frontend-demo",
+		"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin",
+		"/A/Data Friza/App/partner-app-adira",
+		"/A/Data Friza/App/service-api",
+		"/A/Data Friza/App/jidesha",
+		"/A/Data Friza/App/partner-app",
+		"/A/hiuData/hiuWEB/App/work/circledoo/service-realtime",
+		"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/report-query",
 		"/A/hiuData/hiuWEB/App/work/circledoo/service-api",
+		"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app",
+		"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo",
 		"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin",
 		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
 		"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails",
@@ -19,11 +28,11 @@
 		"/A/hiuData/hiuWEB/App/forked"
 	],
 	"last_version": 3143,
-	"last_window_id": 143,
+	"last_window_id": 146,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 822.0,
+		"new_window_height": 695.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -31,12 +40,296 @@
 				"selected_items":
 				[
 					[
-						"ser",
-						"serverSocket"
+						"pad",
+						"padding"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"fle",
+						"flex-start"
+					],
+					[
+						"co",
+						"connected"
+					],
+					[
+						"ta",
+						"TabBar"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"s",
+						"space-between"
+					],
+					[
+						"class",
+						"class-tag"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"mar",
+						"marginTop"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"ty",
+						"type_circle_id"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"top",
+						"topic_name"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"cla",
+						"className"
+					],
+					[
+						"dataClassSchedules",
+						"dataClassSchedulesFilter"
+					],
+					[
+						"datac",
+						"dataClassSchedulesFilter"
+					],
+					[
+						"date",
+						"dateEvent"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"even",
+						"eventDate"
+					],
+					[
+						"eve",
+						"eventTime"
+					],
+					[
+						"cl",
+						"className"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"e",
+						"encodeURIComponent"
+					],
+					[
+						"is",
+						"isOwner"
+					],
+					[
+						"border-r",
+						"border-right-style"
+					],
+					[
+						"cir",
+						"circles_serial"
+					],
+					[
+						"sche",
+						"classSchedules"
+					],
+					[
+						"pro",
+						"profile"
+					],
+					[
+						"typ",
+						"typeClass"
+					],
+					[
+						"follo",
+						"following"
+					],
+					[
+						"data",
+						"dataCircle"
+					],
+					[
+						"all",
+						"allClassTagsFilter"
+					],
+					[
+						"alltag",
+						"allClassTags"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"fet",
+						"fetchTypeClassAPI"
+					],
+					[
+						"type",
+						"typeClass"
+					],
+					[
+						"get",
+						"getTypeClass"
+					],
+					[
+						"phoneV",
+						"phoneValid"
+					],
+					[
+						"ph",
+						"phone"
+					],
+					[
+						"phone",
+						"phoneValidation"
+					],
+					[
+						"rea",
+						"react-router-dom"
+					],
+					[
+						"follow",
+						"followers"
+					],
+					[
+						"foll",
+						"following"
+					],
+					[
+						"event",
+						"event_date"
+					],
+					[
+						"datapro",
+						"dataProfilesFilterName"
+					],
+					[
+						"f",
+						"followers"
+					],
+					[
+						"ex",
+						"ExplorerProfiles"
 					],
 					[
 						"sea",
-						"searchParams"
+						"searchtext"
+					],
+					[
+						"tea",
+						"TeacherProfile"
+					],
+					[
+						"border",
+						"borderBottom"
+					],
+					[
+						"A",
+						"Avatar"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"bt",
+						"cd-btn"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"btn-",
+						"bdrst-n\tborder-right-style: none;"
+					],
+					[
+						"link",
+						"links-list"
+					],
+					[
+						"prof",
+						"profile-section"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"circl",
+						"circles"
+					],
+					[
+						"col-",
+						"col-lg-12"
+					],
+					[
+						"div",
+						"Divider"
+					],
+					[
+						"st",
+						"style"
+					],
+					[
+						"F",
+						"Followers"
+					],
+					[
+						"ser",
+						"serverSocket"
 					],
 					[
 						"load",
@@ -45,10 +338,6 @@
 					[
 						"fo",
 						"fontSize"
-					],
-					[
-						"data",
-						"dataProfilesFilterName"
 					],
 					[
 						"live",
@@ -71,10 +360,6 @@
 						"NODE_ENV"
 					],
 					[
-						"date",
-						"dateFormat"
-					],
-					[
 						"for",
 						"format"
 					],
@@ -87,24 +372,12 @@
 						"clean-build"
 					],
 					[
-						"pro",
-						"profiles"
-					],
-					[
 						"ima",
 						"imageBanner"
 					],
 					[
 						"encodeU",
 						"encodeURIComponent"
-					],
-					[
-						"font",
-						"fontWeight"
-					],
-					[
-						"rea",
-						"realProfileStar"
 					],
 					[
 						"re",
@@ -123,16 +396,8 @@
 						"objectFit"
 					],
 					[
-						"pad",
-						"paddingLeft"
-					],
-					[
 						"ca",
 						"capitalize"
-					],
-					[
-						"tex",
-						"textTransform"
 					],
 					[
 						"rev",
@@ -149,22 +414,6 @@
 					[
 						"ro",
 						"row-reverse"
-					],
-					[
-						"padd",
-						"padding-top"
-					],
-					[
-						"s",
-						"span"
-					],
-					[
-						"ba",
-						"backgroundColor"
-					],
-					[
-						"margin",
-						"marginBottom"
 					],
 					[
 						"sty",
@@ -195,20 +444,12 @@
 						"textAlign"
 					],
 					[
-						"cl",
-						"Classes"
-					],
-					[
 						"compo",
 						"componentWillMount"
 					],
 					[
 						"ch",
 						"changeHeader"
-					],
-					[
-						"is",
-						"isHomepage"
 					],
 					[
 						"DOM",
@@ -251,10 +492,6 @@
 						"long"
 					],
 					[
-						"cir",
-						"CircleCard"
-					],
-					[
 						"se",
 						"searchParams"
 					],
@@ -275,20 +512,8 @@
 						"makers"
 					],
 					[
-						"class",
-						"className"
-					],
-					[
 						"bann",
 						"banner-slide-item"
-					],
-					[
-						"cla",
-						"className"
-					],
-					[
-						"dis",
-						"display"
 					],
 					[
 						"set",
@@ -307,10 +532,6 @@
 						"Link"
 					],
 					[
-						"fet",
-						"fetchProfile"
-					],
-					[
 						"as",
 						"async"
 					],
@@ -323,224 +544,12 @@
 						"height"
 					],
 					[
-						"get",
-						"getFieldDecorator"
-					],
-					[
 						"form",
 						"FormSearchBox"
 					],
 					[
-						"f",
-						"Form"
-					],
-					[
-						"F",
-						"FormItem"
-					],
-					[
 						"t",
 						"typefilter"
-					],
-					[
-						"in",
-						"interest"
-					],
-					[
-						"val",
-						"values"
-					],
-					[
-						"acc",
-						"acc_facebook"
-					],
-					[
-						"c",
-						"circle"
-					],
-					[
-						"up",
-						"updateAPI"
-					],
-					[
-						"i",
-						"inherit"
-					],
-					[
-						"de",
-						"default"
-					],
-					[
-						"y",
-						"YYYY-MM-DD"
-					],
-					[
-						"user",
-						"username"
-					],
-					[
-						"He",
-						"Header"
-					],
-					[
-						"prof",
-						"ProfileEdit"
-					],
-					[
-						"P",
-						"ProfileEdit"
-					],
-					[
-						"mar",
-						"marginBottom"
-					],
-					[
-						"H",
-						"Header"
-					],
-					[
-						"S",
-						"Search"
-					],
-					[
-						"la",
-						"layouts"
-					],
-					[
-						"room",
-						"room-form"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"lo",
-						"login"
-					],
-					[
-						"i-p",
-						"i-padding-16"
-					],
-					[
-						"i-te",
-						"i-text-blue-grey"
-					],
-					[
-						"iher",
-						"i-hover-text-grey"
-					],
-					[
-						"i-hover-gre",
-						"i-hover-light-grey"
-					],
-					[
-						"actio",
-						"action"
-					],
-					[
-						"sils",
-						"sails-mysql"
-					],
-					[
-						"friz",
-						"frizaPic"
-					],
-					[
-						"fr",
-						"frizaPic"
-					],
-					[
-						"uk",
-						"uk-animation-fade"
-					],
-					[
-						"pos",
-						"uk-position-cover"
-					],
-					[
-						"op",
-						"opacity"
-					],
-					[
-						"uk-",
-						"uk-animation-kenburns"
-					],
-					[
-						"background",
-						"background-size"
-					],
-					[
-						"ha",
-						"cur-ha\tcursor: hand;"
-					],
-					[
-						"animatio",
-						"animation-duration"
-					],
-					[
-						"o",
-						"openAlert"
-					],
-					[
-						"transition-d",
-						"transition-duration"
-					],
-					[
-						"tr",
-						"transition"
-					],
-					[
-						"lef",
-						"left-panel-view"
-					],
-					[
-						"le",
-						"LeftPanel"
-					],
-					[
-						"left",
-						"LeftPanel"
-					],
-					[
-						"ht",
-						"https"
-					],
-					[
-						"a",
-						"author"
-					],
-					[
-						"p",
-						"placeholder\tAttr"
-					],
-					[
-						"conten",
-						"contentSRC"
-					],
-					[
-						"con",
-						"contentSRC"
-					],
-					[
-						"conte",
-						"content"
-					],
-					[
-						"input",
-						"input-src"
-					],
-					[
-						"z",
-						"z-index"
-					],
-					[
-						"co",
-						"contentSRC"
-					],
-					[
-						"pa",
-						"padding-left"
 					]
 				]
 			},
@@ -663,58 +672,106 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/components/styles/card.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/build/service-worker.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/index.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/index.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/messages/style.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/style.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/campus/create-lesson.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/utils/helper.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/public/index.html",
+				"/A/Data Friza/App/circledoo-frontend-demo/build/index.html",
+				"/A/Data Friza/App/jidesha/chrome/manifest.json",
+				"/A/Data Friza/App/circledoo-frontend-demo/build/asset-manifest.json",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-dev.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-prod.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/App.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/show.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/TopUpLogIndivara.sql",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/_show.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ShareButton.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/server.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/eco.config.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/.env",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/public/index.html",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/create.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep2.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/explore.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/show.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/styles/card.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/FeaturedVideos.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/SearchBox.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/style.css",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ClassList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ClassCard.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/TeacherProfile.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/index.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/components/ClassCard.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/TextCountDown.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/tags/classTags.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followingsList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followersList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/skills/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Footer.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/App.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-dev.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/chat/Chat.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/HomePage.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/SearchPage.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/package.json",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Recommendation.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/ClassesPage.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/public/index.html",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/base-ui/styles/ClassCard-styles.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/CategoryList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/skills/styles.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/search.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/helpers/controller.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/search.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/model/users.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/users.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/users.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/utils/config.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/blog-content/circledooblog.wordpress.2018-04-03.xml",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ClassListOnsite.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/LiveList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/create.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/StepProgramType.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-prod.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/blog/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/type_circles.sql",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/circles.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/circledoo.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/server.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/createSingleVideo.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/StepGetLink.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/assets/video/Circledoo - School of Skills.webm",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/StepBasicInfo.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ShareButton.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/list/UserItem.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/BannerSlide.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/SerialCard.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/edit.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/assets/css/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/TopUpLogIndivara.sql",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/_show.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/eco.config.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/.env",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep2.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/SearchBox.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormSignUp.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/signup.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/TeacherProfile.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/assets/css/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ClassCard.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/circledoo_prod_db.sql",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/circledoo.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/edit2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/BannerSlide.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/tools/config.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Maps.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/AutoRegister.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/login.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormLogin.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/LiveList.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin-bak.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/CircleMaps.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep1.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Footer.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/chat/Chat.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/list/UserItem.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ExistingClass.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/users.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/users.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalClass.js",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
@@ -742,55 +799,7 @@
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
 				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/about.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/components/friza-pic.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/backpages/index.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/package.json",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/README.md",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/meta.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/index.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/hiu-logo.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/nuxt.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/layouts/default.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/.nuxt/components/nuxt.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/nuxt-logo.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/README.md",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/app/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/package.json",
-				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/README.md",
-				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/ikan.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-ios.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-mat.cmd",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue"
+				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js"
 			],
 			"find":
 			{
@@ -801,17 +810,6 @@
 				"height": 150.0,
 				"where_history":
 				[
-					"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects",
-					"<open folders>",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api"
 				]
 			},
 			"find_state":
@@ -819,134 +817,46 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"frameBorder",
-					"-id",
-					"-",
-					"circleid",
-					"id",
-					"circles.id",
-					"circles",
-					"global",
-					"fetch",
-					"global",
-					"io.con",
-					"socket",
-					"datafield",
-					"<Spin",
-					"Spin",
-					"loading",
-					"keepLoading",
-					"spin",
-					"spinner",
-					"days_left",
-					"daysleft",
-					"moment",
-					"a.",
-					"socket",
-					"io.conne",
-					"socket",
-					"content",
-					"setImageBanner",
-					"yourTicket",
-					"userS",
-					"user",
-					"users",
-					"Chat",
-					"159",
-					"global",
-					"159",
-					"const",
-					"import",
-					"const",
-					"socket",
-					"maps",
-					"google",
-					"googlemaps",
-					"topic",
-					"<Link to = \"/classes?topic_id=12\">\n            Entrepreneur\n          </Link>",
-					"toggler",
-					"homepage",
-					"Homepage",
-					"isHomepage",
-					"ishomepage",
-					"business",
-					"bisnis",
-					"date_of",
-					"date",
-					"alrea",
-					"ant-btn",
-					"ant",
-					"btn",
-					"encodeuri",
-					"encode",
-					"content",
-					"global",
-					"uri",
+					"65",
+					"tag--small",
+					"\"live class\"",
+					"finis",
+					"class-img",
+					"12px",
+					"  -webkit-background-clip: text;\n",
+					"tag",
+					"{",
+					"tag--red",
+					"topic-name",
+					"main",
+					"service",
+					"serbice",
+					"main",
+					"script",
+					".js",
+					"main",
+					".js",
+					"main",
+					"bundle",
+					"meetup-class",
+					"isLive",
+					"typeClassID === 4 &&",
+					"daysLeft",
+					"</span>",
+					"<span>",
+					"</span>",
+					"handle",
+					"daysLeft",
+					"today",
+					"Circledoo",
+					"jitsi",
+					"Jitsi",
+					"jitsi",
+					"Jitsi",
 					"profile",
-					"default",
-					"circles",
-					"users",
-					"classes",
-					"dataprofiles",
-					"circles",
-					"Circles",
-					"circles",
-					"Circles",
-					"hover",
-					"btn",
-					"push",
-					"why-ci",
-					"text_count",
-					"photo",
-					"photo?",
-					"fetchapi",
-					"arrFollowers",
-					"rate",
-					"follow",
-					"day",
-					"gender_id",
-					".btn-follow",
-					"postFollow",
-					"rate",
-					"profileStar",
-					"rate",
-					" star",
-					"star",
-					"num",
-					"getOtherFollowers",
-					"?'es'",
-					"Class{",
-					"class",
-					"classes",
-					"review",
-					"star",
-					"abs",
-					"avatar_file_name",
-					"profile",
-					"Link",
-					"profile",
-					"item",
-					"alltestimoni",
-					"reviews",
-					"img",
-					"share your",
-					"increase",
-					" marginBottom:'2em', borderBottom:'1px solid #e2e2e2'}}",
-					"stylclassName",
-					"style1",
-					"number\"}",
-					"styleNumber",
-					"'",
-					"h1",
-					"src",
-					"id=\"row-",
-					"1",
-					"Style1",
-					"{fontSize:20 ,textTransform:'initial', color:'grey'}",
-					"banner_5",
-					"xtTransform:'initial'",
-					"2",
-					"learn more"
+					"auth",
+					"login",
+					"isauth"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -954,44 +864,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"i-",
-					"light-grey",
-					"i-",
-					"hiuApps",
-					"/img/hiuProperty-logo.png",
-					"hiuProperty-logo",
-					"filter-options-listings",
-					"layout-dashboards",
-					"/dashboards/",
-					"dashboards/",
-					"/dashboards",
-					".listing",
-					".beds",
-					".baths",
-					"baths",
-					"floors",
-					"floors.",
-					"/listings-",
-					"/listings'",
-					"/listings?",
-					"/listings\"",
-					"/listings/",
-					"Listings",
-					"listings",
-					"Listings",
-					"dataProperties",
-					"owner",
-					"agent",
-					"class=\"",
-					"w3-text-grey",
-					"modal-confirm-delete-message",
-					"modal-image",
-					"",
-					"dataAgent",
-					"dataAgents",
-					"<p><b>Villa View Seminyak Beach</b></p>",
-					"w3-card",
-					"sideBarLeft"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1001,7 +873,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 54.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1015,7 +887,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 102.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1024,6 +896,422 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"show",
+						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
+					],
+					[
+						"classes/s",
+						"circledoo-frontend-demo\\src\\pages\\classes\\style.css"
+					],
+					[
+						"circle/s",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"service",
+						"circledoo-frontend-demo\\build\\service-worker.js"
+					],
+					[
+						"index.css",
+						"circledoo-frontend-demo\\src\\index.css"
+					],
+					[
+						"classcard",
+						"circledoo-frontend-demo\\src\\components\\card\\ClassCard.js"
+					],
+					[
+						"index",
+						"circledoo-frontend-demo\\build\\index.html"
+					],
+					[
+						"serviceworker",
+						"circledoo-frontend-demo\\build\\service-worker.js"
+					],
+					[
+						"classes/",
+						"circledoo-frontend-demo\\src\\pages\\classes\\style.css"
+					],
+					[
+						"messages.css",
+						"circledoo-frontend-demo\\src\\pages\\messages\\style.css"
+					],
+					[
+						"cardcss",
+						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
+					],
+					[
+						"cardclass",
+						"circledoo-frontend-demo\\src\\components\\card\\ClassCard.js"
+					],
+					[
+						"pages/campus",
+						"circledoo-frontend-demo\\src\\pages\\campus\\create-lesson.js"
+					],
+					[
+						"helper",
+						"circledoo-frontend-demo\\src\\utils\\helper.js"
+					],
+					[
+						"tabb",
+						"circledoo-frontend-demo\\src\\components\\TabBar.js"
+					],
+					[
+						"header",
+						"circledoo-frontend-demo\\src\\components\\Header.js"
+					],
+					[
+						"circle/st",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"profile/",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"exp",
+						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
+					],
+					[
+						"styles/",
+						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
+					],
+					[
+						"circle/sty",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"/search/s",
+						"circledoo-frontend-demo\\src\\pages\\search\\style.css"
+					],
+					[
+						"search/",
+						"circledoo-frontend-demo\\src\\pages\\search\\index.js"
+					],
+					[
+						"explore",
+						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
+					],
+					[
+						"featured",
+						"circledoo-frontend-demo\\src\\components\\FeaturedVideos.js"
+					],
+					[
+						"homepa",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"classlis",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"classli",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"teacher",
+						"circledoo-frontend-demo\\src\\components\\card\\TeacherProfile.js"
+					],
+					[
+						"countdo",
+						"circledoo-frontend-demo\\src\\components\\TextCountDown.js"
+					],
+					[
+						"classtag",
+						"circledoo-frontend-demo\\src\\pages\\tags\\classTags.js"
+					],
+					[
+						"classl",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"follower",
+						"circledoo-frontend-demo\\src\\pages\\profile\\followersList.js"
+					],
+					[
+						"following",
+						"circledoo-frontend-demo\\src\\pages\\profile\\followingsList.js"
+					],
+					[
+						"profile/st",
+						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
+					],
+					[
+						"skills/",
+						"circledoo-frontend-demo\\src\\pages\\skills\\index.js"
+					],
+					[
+						"teac",
+						"circledoo-frontend-demo\\src\\components\\card\\TeacherProfile.js"
+					],
+					[
+						"footer",
+						"circledoo-frontend-demo\\src\\components\\Footer.js"
+					],
+					[
+						"homepage",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"config",
+						"circledoo-frontend-demo\\src\\utils\\config-dev.js"
+					],
+					[
+						"home",
+						"frontend-mobile-app\\src\\pages\\HomePage.js"
+					],
+					[
+						"profile/s",
+						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
+					],
+					[
+						"chat",
+						"circledoo-frontend-demo\\src\\components\\chat\\Chat.js"
+					],
+					[
+						"profile/in",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"app",
+						"circledoo-frontend-demo\\src\\pages\\App.js"
+					],
+					[
+						"class",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"followi",
+						"circledoo-frontend-demo\\src\\pages\\profile\\followingsList.js"
+					],
+					[
+						"search",
+						"frontend-mobile-app\\src\\pages\\SearchPage.js"
+					],
+					[
+						"recomend",
+						"circledoo-frontend-demo\\src\\components\\Recommendation.js"
+					],
+					[
+						"classes",
+						"frontend-mobile-app\\src\\pages\\ClassesPage.js"
+					],
+					[
+						"cla",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"tags/",
+						"circledoo-frontend-demo\\src\\pages\\tags\\classTags.js"
+					],
+					[
+						"explo",
+						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
+					],
+					[
+						"skill",
+						"circledoo-frontend-demo\\src\\pages\\skills\\index.js"
+					],
+					[
+						"classlist",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"styles/card",
+						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
+					],
+					[
+						"classc",
+						"circledoo-frontend-demo\\src\\components\\card\\ClassCard.js"
+					],
+					[
+						"homepage/",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"profile/sty",
+						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
+					],
+					[
+						"packa",
+						"circledoo-frontend-demo\\package.json"
+					],
+					[
+						"category",
+						"circledoo-frontend-demo\\src\\components\\CategoryList.js"
+					],
+					[
+						"appjs",
+						"circledoo-frontend-demo\\src\\pages\\App.js"
+					],
+					[
+						"model/us",
+						"service-api\\src\\v1\\model\\users.js"
+					],
+					[
+						"controller/se",
+						"service-api\\src\\v1\\controller\\search.js"
+					],
+					[
+						"searchcontroller",
+						"service-api\\src\\v1\\helpers\\controller.js"
+					],
+					[
+						"skill/",
+						"circledoo-frontend-demo\\src\\pages\\skills\\index.js"
+					],
+					[
+						"user",
+						"service-api\\src\\v1\\router\\users.js"
+					],
+					[
+						"users",
+						"service-api\\src\\v1\\controller\\users.js"
+					],
+					[
+						"live",
+						"circledoo-frontend-demo\\src\\components\\LiveList.js"
+					],
+					[
+						"steppr",
+						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepProgramType.js"
+					],
+					[
+						"circle/c",
+						"circledoo-frontend-demo\\src\\pages\\circle\\create.js"
+					],
+					[
+						"pages/blog",
+						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
+					],
+					[
+						"config-prod",
+						"circledoo-frontend-demo\\src\\utils\\config-prod.js"
+					],
+					[
+						"controller/cir",
+						"service-api\\src\\v1\\controller\\circles.js"
+					],
+					[
+						"circle/show",
+						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
+					],
+					[
+						"onsite",
+						"circledoo-frontend-demo\\src\\components\\ClassListOnsite.js"
+					],
+					[
+						"whatis/",
+						"circledoo-frontend-demo\\src\\pages\\what-is\\style.css"
+					],
+					[
+						"what-is/",
+						"circledoo-frontend-demo\\src\\pages\\what-is\\circledoo.js"
+					],
+					[
+						"ser",
+						"circledoo-frontend-demo\\server.js"
+					],
+					[
+						"config-dev",
+						"circledoo-frontend-demo\\src\\utils\\config-dev.js"
+					],
+					[
+						"blog/",
+						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
+					],
+					[
+						"skills",
+						"circledoo-frontend-demo\\src\\assets\\video\\Circledoo - School of Skills.webm"
+					],
+					[
+						"getlink",
+						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepGetLink.js"
+					],
+					[
+						"pages/bl",
+						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
+					],
+					[
+						"home/index",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"index.html",
+						"circledoo-frontend-demo\\public\\index.html"
+					],
+					[
+						"share",
+						"circledoo-frontend-demo\\src\\components\\ShareButton.js"
+					],
+					[
+						"package",
+						"circledoo-frontend-demo\\package.json"
+					],
+					[
+						"stepbas",
+						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepBasicInfo.js"
+					],
+					[
+						"sho",
+						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
+					],
+					[
+						"profile/i",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"search/in",
+						"circledoo-frontend-demo\\src\\pages\\search\\index.js"
+					],
+					[
+						"useritem",
+						"circledoo-frontend-demo\\src\\components\\list\\UserItem.js"
+					],
+					[
+						"style",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"profile/inde",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"banner",
+						"src\\components\\BannerSlide.js"
+					],
+					[
+						"countdown",
+						"src\\components\\TextCountDown.js"
+					],
+					[
+						"serialcard",
+						"src\\components\\card\\SerialCard.js"
+					],
+					[
+						"profile/edit",
+						"src\\pages\\profile\\edit.js"
+					],
+					[
+						"profile",
+						"src\\pages\\profile\\index.js"
+					],
+					[
+						"edit",
+						"src\\pages\\profile\\edit.js"
+					],
+					[
+						"livelist",
+						"src\\components\\LiveList.js"
+					],
+					[
+						"classe",
+						"src\\pages\\classes\\index.js"
+					],
+					[
+						"cound",
+						"src\\components\\TextCountDown.js"
+					],
 					[
 						"inde",
 						"public\\index.html"
@@ -1037,56 +1325,12 @@
 						"src\\utils\\config-dev.js"
 					],
 					[
-						"live",
-						"src\\components\\LiveList.js"
-					],
-					[
-						"classlist",
-						"src\\components\\ClassList.js"
-					],
-					[
-						"search",
-						"src\\components\\SearchBox.js"
-					],
-					[
-						"config",
-						"src\\utils\\config-prod.js"
-					],
-					[
-						"classcard",
-						"src\\components\\card\\ClassCard.js"
-					],
-					[
-						"circle/show",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"search/",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"profile",
-						"src\\pages\\profile\\index.js"
-					],
-					[
 						"config-p",
 						"src\\utils\\config-prod.js"
 					],
 					[
-						"profile/",
-						"src\\pages\\profile\\index.js"
-					],
-					[
-						"header",
-						"src\\components\\Header.js"
-					],
-					[
 						"circle/",
 						"src\\pages\\circle\\_show.js"
-					],
-					[
-						"appjs",
-						"src\\pages\\App.js"
 					],
 					[
 						"forms",
@@ -1095,10 +1339,6 @@
 					[
 						"circle/crea",
 						"src\\pages\\circle\\create.js"
-					],
-					[
-						"share",
-						"src\\components\\ShareButton.js"
 					],
 					[
 						"circle/sh",
@@ -1117,26 +1357,6 @@
 						"src\\pages\\circle\\show.js"
 					],
 					[
-						"index",
-						"public\\index.html"
-					],
-					[
-						"classes",
-						"src\\pages\\classes\\index.js"
-					],
-					[
-						"homepa",
-						"src\\pages\\homepage\\index.js"
-					],
-					[
-						"class",
-						"src\\components\\ClassList.js"
-					],
-					[
-						"homepage",
-						"src\\pages\\homepage\\index.js"
-					],
-					[
 						"signup",
 						"src\\pages\\auth\\signup.js"
 					],
@@ -1153,22 +1373,6 @@
 						"src\\pages\\profile\\style.css"
 					],
 					[
-						"show",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"teac",
-						"src\\components\\card\\TeacherProfile.js"
-					],
-					[
-						"home",
-						"src\\pages\\homepage\\index.js"
-					],
-					[
-						"what-is/",
-						"src\\pages\\what-is\\style.css"
-					],
-					[
 						"circle",
 						"src\\pages\\what-is\\circledoo.js"
 					],
@@ -1177,28 +1381,8 @@
 						"package.json"
 					],
 					[
-						"circle/s",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"edit",
-						"src\\pages\\profile\\edit.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
 						"sear",
 						"src\\components\\SearchBox.js"
-					],
-					[
-						"banner",
-						"src\\components\\BannerSlide.js"
-					],
-					[
-						"profile/in",
-						"src\\pages\\profile\\index.js"
 					],
 					[
 						"pack",
@@ -1207,14 +1391,6 @@
 					[
 						"config.js",
 						"src\\tools\\config.js"
-					],
-					[
-						"app",
-						"src\\pages\\App.js"
-					],
-					[
-						"ser",
-						"server.js"
 					],
 					[
 						"step",
@@ -1231,310 +1407,6 @@
 					[
 						"circle/sho",
 						"src\\pages\\circle\\show.js"
-					],
-					[
-						"index.html",
-						"public\\index.html"
-					],
-					[
-						"componets/maps",
-						"src\\components\\Maps.js"
-					],
-					[
-						"classli",
-						"src\\components\\ClassList.js"
-					],
-					[
-						"autore",
-						"src\\components\\AutoRegister.js"
-					],
-					[
-						"modallo",
-						"src\\components\\ModalLogin.js"
-					],
-					[
-						"profi",
-						"src\\pages\\profile\\index.js"
-					],
-					[
-						"exis",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"circles",
-						"src\\components\\CircleMaps.js"
-					],
-					[
-						"footer",
-						"src\\components\\Footer.js"
-					],
-					[
-						"searchin",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"chat",
-						"src\\components\\chat\\Chat.js"
-					],
-					[
-						"tool/con",
-						"src\\tools\\config.js"
-					],
-					[
-						"exi",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"search/ind",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"searc",
-						"src\\components\\SearchBox.js"
-					],
-					[
-						"circ",
-						"src\\components\\CircleMaps.js"
-					],
-					[
-						"router/user",
-						"service-api\\src\\v1\\router\\users.js"
-					],
-					[
-						"circlema",
-						"src\\components\\CircleMaps.js"
-					],
-					[
-						"existing",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"step2",
-						"src\\pages\\circle\\step\\FormStep2.js"
-					],
-					[
-						"exist",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"searchindex",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"style",
-						"src\\assets\\css\\style.css"
-					],
-					[
-						"formse",
-						"src\\pages\\circle\\step\\FormStep2.js"
-					],
-					[
-						"circle/c",
-						"src\\pages\\circle\\create.js"
-					],
-					[
-						"modalc",
-						"src\\components\\ModalClass.js"
-					],
-					[
-						"liveli",
-						"src\\components\\LiveList.js"
-					],
-					[
-						"pol",
-						"2359-hotel\\config\\policies.js"
-					],
-					[
-						"islo",
-						"hiuProperty-sails\\api\\policies\\isLogin.js"
-					],
-					[
-						"layou",
-						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
-					],
-					[
-						"roomnew",
-						"2359-hotel\\views\\pages\\roomNew.ejs"
-					],
-					[
-						"model",
-						"2359-hotel\\config\\models.js"
-					],
-					[
-						"data",
-						"2359-hotel\\config\\datastores.js"
-					],
-					[
-						"laydas",
-						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
-					],
-					[
-						"room-for",
-						"2359-hotel\\views\\pages\\room-form.ejs"
-					],
-					[
-						"layour",
-						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
-					],
-					[
-						"rooms",
-						"2359-hotel\\api\\models\\Rooms.js"
-					],
-					[
-						"ikan",
-						"2359-hotel\\assets\\styles\\ikan.css"
-					],
-					[
-						"layo",
-						"hiuProperty-sails\\views\\layout-dashboards.ejs"
-					],
-					[
-						"modal-room",
-						"2359-hotel\\views\\partials\\modal-confirm-delete-room.ejs"
-					],
-					[
-						"userform",
-						"hiuProperty-sails\\views\\dashboards\\user-form.ejs"
-					],
-					[
-						"users",
-						"2359-hotel\\api\\controllers\\UsersController.js"
-					],
-					[
-						"usersedit",
-						"2359-hotel\\node_modules\\waterline-sql-builder\\test\\unit\\sequelizer\\sequelizer.distinct.test.js"
-					],
-					[
-						"das",
-						"2359-hotel\\views\\pages\\dashboard.ejs"
-					],
-					[
-						"blue",
-						"hiuProperty-sails\\config\\blueprints.js"
-					],
-					[
-						"routes",
-						"hiuProperty-sails\\config\\routes.js"
-					],
-					[
-						"listingcon",
-						"hiuProperty-sails\\api\\controllers\\ListingsController.js"
-					],
-					[
-						"users.js",
-						"2359-hotel\\api\\models\\Users.js"
-					],
-					[
-						"room",
-						"2359-hotel\\api\\models\\Rooms.js"
-					],
-					[
-						"dashb",
-						"2359-hotel\\views\\pages\\dashboard.ejs"
-					],
-					[
-						"datas",
-						"2359-hotel\\config\\datastores.js"
-					],
-					[
-						"package",
-						"package.json"
-					],
-					[
-						"backpagevue",
-						"src\\pages\\backpages\\index.vue"
-					],
-					[
-						"indexvue",
-						"src\\pages\\index.vue"
-					],
-					[
-						"friza",
-						"src\\components\\friza-pic.vue"
-					],
-					[
-						"nuxtvue",
-						"dev\\src\\pages\\nuxt.vue"
-					],
-					[
-						"nuxtvu",
-						"dev\\.nuxt\\components\\nuxt.vue"
-					],
-					[
-						"nuxtlog",
-						"dev\\src\\components\\nuxt-logo.vue"
-					],
-					[
-						"nuxt",
-						"hiu-nuxt\\nuxt.config.js"
-					],
-					[
-						"devindexvue",
-						"dev\\src\\pages\\index.vue"
-					],
-					[
-						"index.vue",
-						"hiu-nuxt\\pages\\index.vue"
-					],
-					[
-						"panel",
-						"f7-vue\\src\\components\\panel-left.vue"
-					],
-					[
-						"materialcss",
-						"f7-vue\\node_modules\\framework7\\dist\\css\\framework7.material.css"
-					],
-					[
-						"appba",
-						"f7-vue\\src\\app-backup.vue"
-					],
-					[
-						"main",
-						"f7-vue\\src\\main.js"
-					],
-					[
-						"f7-view.vue",
-						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
-					],
-					[
-						"wa.cmd",
-						"cmder\\bin\\whatsapp.cmd"
-					],
-					[
-						"tele",
-						"cmder\\bin\\telegram.cmd"
-					],
-					[
-						"f7-vuemain.js",
-						"f7-vue\\src\\main.js"
-					],
-					[
-						"goo",
-						"cmder\\bin\\google-translate.cmd"
-					],
-					[
-						"quran",
-						"cmder\\bin\\quran.cmd"
-					],
-					[
-						"app.vue",
-						"f7-vue\\src\\app.vue"
-					],
-					[
-						"f7-",
-						"cmder\\bin\\f7-kitchen-sink-mat.cmd"
-					],
-					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
-					],
-					[
-						"package.json",
-						"hiuProperty-sails\\package-lock.json"
-					],
-					[
-						"goog",
-						"cmder\\bin\\google-translate.cmd"
 					]
 				],
 				"width": 0.0
@@ -1581,13 +1453,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 209.0,
+			"side_bar_width": 185.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 995.0
+		"new_window_width": 815.0
 	},
 	"windows":
 	[
@@ -1597,12 +1469,296 @@
 				"selected_items":
 				[
 					[
-						"ser",
-						"serverSocket"
+						"pad",
+						"padding"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"fle",
+						"flex-start"
+					],
+					[
+						"co",
+						"connected"
+					],
+					[
+						"ta",
+						"TabBar"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"s",
+						"space-between"
+					],
+					[
+						"class",
+						"class-tag"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"mar",
+						"marginTop"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"ty",
+						"type_circle_id"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"top",
+						"topic_name"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"cla",
+						"className"
+					],
+					[
+						"dataClassSchedules",
+						"dataClassSchedulesFilter"
+					],
+					[
+						"datac",
+						"dataClassSchedulesFilter"
+					],
+					[
+						"date",
+						"dateEvent"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"even",
+						"eventDate"
+					],
+					[
+						"eve",
+						"eventTime"
+					],
+					[
+						"cl",
+						"className"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"e",
+						"encodeURIComponent"
+					],
+					[
+						"is",
+						"isOwner"
+					],
+					[
+						"border-r",
+						"border-right-style"
+					],
+					[
+						"cir",
+						"circles_serial"
+					],
+					[
+						"sche",
+						"classSchedules"
+					],
+					[
+						"pro",
+						"profile"
+					],
+					[
+						"typ",
+						"typeClass"
+					],
+					[
+						"follo",
+						"following"
+					],
+					[
+						"data",
+						"dataCircle"
+					],
+					[
+						"all",
+						"allClassTagsFilter"
+					],
+					[
+						"alltag",
+						"allClassTags"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"fet",
+						"fetchTypeClassAPI"
+					],
+					[
+						"type",
+						"typeClass"
+					],
+					[
+						"get",
+						"getTypeClass"
+					],
+					[
+						"phoneV",
+						"phoneValid"
+					],
+					[
+						"ph",
+						"phone"
+					],
+					[
+						"phone",
+						"phoneValidation"
+					],
+					[
+						"rea",
+						"react-router-dom"
+					],
+					[
+						"follow",
+						"followers"
+					],
+					[
+						"foll",
+						"following"
+					],
+					[
+						"event",
+						"event_date"
+					],
+					[
+						"datapro",
+						"dataProfilesFilterName"
+					],
+					[
+						"f",
+						"followers"
+					],
+					[
+						"ex",
+						"ExplorerProfiles"
 					],
 					[
 						"sea",
-						"searchParams"
+						"searchtext"
+					],
+					[
+						"tea",
+						"TeacherProfile"
+					],
+					[
+						"border",
+						"borderBottom"
+					],
+					[
+						"A",
+						"Avatar"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"bt",
+						"cd-btn"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"btn-",
+						"bdrst-n\tborder-right-style: none;"
+					],
+					[
+						"link",
+						"links-list"
+					],
+					[
+						"prof",
+						"profile-section"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"circl",
+						"circles"
+					],
+					[
+						"col-",
+						"col-lg-12"
+					],
+					[
+						"div",
+						"Divider"
+					],
+					[
+						"st",
+						"style"
+					],
+					[
+						"F",
+						"Followers"
+					],
+					[
+						"ser",
+						"serverSocket"
 					],
 					[
 						"load",
@@ -1611,10 +1767,6 @@
 					[
 						"fo",
 						"fontSize"
-					],
-					[
-						"data",
-						"dataProfilesFilterName"
 					],
 					[
 						"live",
@@ -1637,10 +1789,6 @@
 						"NODE_ENV"
 					],
 					[
-						"date",
-						"dateFormat"
-					],
-					[
 						"for",
 						"format"
 					],
@@ -1653,24 +1801,12 @@
 						"clean-build"
 					],
 					[
-						"pro",
-						"profiles"
-					],
-					[
 						"ima",
 						"imageBanner"
 					],
 					[
 						"encodeU",
 						"encodeURIComponent"
-					],
-					[
-						"font",
-						"fontWeight"
-					],
-					[
-						"rea",
-						"realProfileStar"
 					],
 					[
 						"re",
@@ -1689,16 +1825,8 @@
 						"objectFit"
 					],
 					[
-						"pad",
-						"paddingLeft"
-					],
-					[
 						"ca",
 						"capitalize"
-					],
-					[
-						"tex",
-						"textTransform"
 					],
 					[
 						"rev",
@@ -1715,22 +1843,6 @@
 					[
 						"ro",
 						"row-reverse"
-					],
-					[
-						"padd",
-						"padding-top"
-					],
-					[
-						"s",
-						"span"
-					],
-					[
-						"ba",
-						"backgroundColor"
-					],
-					[
-						"margin",
-						"marginBottom"
 					],
 					[
 						"sty",
@@ -1761,20 +1873,12 @@
 						"textAlign"
 					],
 					[
-						"cl",
-						"Classes"
-					],
-					[
 						"compo",
 						"componentWillMount"
 					],
 					[
 						"ch",
 						"changeHeader"
-					],
-					[
-						"is",
-						"isHomepage"
 					],
 					[
 						"DOM",
@@ -1817,10 +1921,6 @@
 						"long"
 					],
 					[
-						"cir",
-						"CircleCard"
-					],
-					[
 						"se",
 						"searchParams"
 					],
@@ -1841,20 +1941,8 @@
 						"makers"
 					],
 					[
-						"class",
-						"className"
-					],
-					[
 						"bann",
 						"banner-slide-item"
-					],
-					[
-						"cla",
-						"className"
-					],
-					[
-						"dis",
-						"display"
 					],
 					[
 						"set",
@@ -1873,10 +1961,6 @@
 						"Link"
 					],
 					[
-						"fet",
-						"fetchProfile"
-					],
-					[
 						"as",
 						"async"
 					],
@@ -1889,224 +1973,12 @@
 						"height"
 					],
 					[
-						"get",
-						"getFieldDecorator"
-					],
-					[
 						"form",
 						"FormSearchBox"
 					],
 					[
-						"f",
-						"Form"
-					],
-					[
-						"F",
-						"FormItem"
-					],
-					[
 						"t",
 						"typefilter"
-					],
-					[
-						"in",
-						"interest"
-					],
-					[
-						"val",
-						"values"
-					],
-					[
-						"acc",
-						"acc_facebook"
-					],
-					[
-						"c",
-						"circle"
-					],
-					[
-						"up",
-						"updateAPI"
-					],
-					[
-						"i",
-						"inherit"
-					],
-					[
-						"de",
-						"default"
-					],
-					[
-						"y",
-						"YYYY-MM-DD"
-					],
-					[
-						"user",
-						"username"
-					],
-					[
-						"He",
-						"Header"
-					],
-					[
-						"prof",
-						"ProfileEdit"
-					],
-					[
-						"P",
-						"ProfileEdit"
-					],
-					[
-						"mar",
-						"marginBottom"
-					],
-					[
-						"H",
-						"Header"
-					],
-					[
-						"S",
-						"Search"
-					],
-					[
-						"la",
-						"layouts"
-					],
-					[
-						"room",
-						"room-form"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"lo",
-						"login"
-					],
-					[
-						"i-p",
-						"i-padding-16"
-					],
-					[
-						"i-te",
-						"i-text-blue-grey"
-					],
-					[
-						"iher",
-						"i-hover-text-grey"
-					],
-					[
-						"i-hover-gre",
-						"i-hover-light-grey"
-					],
-					[
-						"actio",
-						"action"
-					],
-					[
-						"sils",
-						"sails-mysql"
-					],
-					[
-						"friz",
-						"frizaPic"
-					],
-					[
-						"fr",
-						"frizaPic"
-					],
-					[
-						"uk",
-						"uk-animation-fade"
-					],
-					[
-						"pos",
-						"uk-position-cover"
-					],
-					[
-						"op",
-						"opacity"
-					],
-					[
-						"uk-",
-						"uk-animation-kenburns"
-					],
-					[
-						"background",
-						"background-size"
-					],
-					[
-						"ha",
-						"cur-ha\tcursor: hand;"
-					],
-					[
-						"animatio",
-						"animation-duration"
-					],
-					[
-						"o",
-						"openAlert"
-					],
-					[
-						"transition-d",
-						"transition-duration"
-					],
-					[
-						"tr",
-						"transition"
-					],
-					[
-						"lef",
-						"left-panel-view"
-					],
-					[
-						"le",
-						"LeftPanel"
-					],
-					[
-						"left",
-						"LeftPanel"
-					],
-					[
-						"ht",
-						"https"
-					],
-					[
-						"a",
-						"author"
-					],
-					[
-						"p",
-						"placeholder\tAttr"
-					],
-					[
-						"conten",
-						"contentSRC"
-					],
-					[
-						"con",
-						"contentSRC"
-					],
-					[
-						"conte",
-						"content"
-					],
-					[
-						"input",
-						"input-src"
-					],
-					[
-						"z",
-						"z-index"
-					],
-					[
-						"co",
-						"contentSRC"
-					],
-					[
-						"pa",
-						"padding-left"
 					]
 				]
 			},
@@ -2230,58 +2102,106 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/components/styles/card.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/build/service-worker.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/index.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/index.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/messages/style.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/style.css",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/campus/create-lesson.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/src/utils/helper.js",
+				"/A/Data Friza/App/circledoo-frontend-demo/public/index.html",
+				"/A/Data Friza/App/circledoo-frontend-demo/build/index.html",
+				"/A/Data Friza/App/jidesha/chrome/manifest.json",
+				"/A/Data Friza/App/circledoo-frontend-demo/build/asset-manifest.json",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-dev.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-prod.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/App.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/show.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/TopUpLogIndivara.sql",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/_show.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ShareButton.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/server.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/eco.config.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/.env",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/public/index.html",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/create.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep2.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/explore.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/show.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/styles/card.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/FeaturedVideos.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/SearchBox.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/style.css",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ClassList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ClassCard.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/TeacherProfile.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/index.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/components/ClassCard.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/TextCountDown.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/tags/classTags.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followingsList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followersList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/skills/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Footer.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/App.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-dev.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/chat/Chat.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/HomePage.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/SearchPage.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/package.json",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Recommendation.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/ClassesPage.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/public/index.html",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/base-ui/styles/ClassCard-styles.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/CategoryList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/skills/styles.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/search.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/helpers/controller.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/search.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/model/users.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/users.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/users.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/utils/config.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/blog-content/circledooblog.wordpress.2018-04-03.xml",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ClassListOnsite.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/LiveList.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/create.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/StepProgramType.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-prod.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/blog/index.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/type_circles.sql",
+				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/circles.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/circledoo.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/server.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/createSingleVideo.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/StepGetLink.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/assets/video/Circledoo - School of Skills.webm",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/StepBasicInfo.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ShareButton.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/list/UserItem.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/BannerSlide.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/SerialCard.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/edit.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/assets/css/style.css",
+				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/TopUpLogIndivara.sql",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/_show.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/eco.config.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/.env",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep2.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/SearchBox.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormSignUp.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/signup.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/TeacherProfile.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/assets/css/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ClassCard.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/circledoo_prod_db.sql",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/circledoo.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/edit2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/BannerSlide.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/tools/config.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Maps.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/AutoRegister.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/login.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormLogin.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/LiveList.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin-bak.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/CircleMaps.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep1.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Footer.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/chat/Chat.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/list/UserItem.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ExistingClass.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/users.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/users.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalClass.js",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
@@ -2309,55 +2229,7 @@
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
 				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/about.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/components/friza-pic.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/backpages/index.vue",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/package.json",
-				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/index.html",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/README.md",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/master/meta.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/index.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/hiu-logo.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/pages/nuxt.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/layouts/default.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/.nuxt/components/nuxt.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/dev/src/components/nuxt-logo.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/README.md",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/nuxt.config.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiu-nuxt-template/template/app/.gitkeep",
-				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/package.json",
-				"/A/hiuData/hiuWEB/AppJS/hiu/hiuwave/README.md",
-				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/hiu-land.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/ikan.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/hiuText-projects/islamic.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-ios.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-mat.cmd",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue"
+				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js"
 			],
 			"find":
 			{
@@ -2368,17 +2240,6 @@
 				"height": 150.0,
 				"where_history":
 				[
-					"A:\\hiuData\\hiuWEB\\AppJS\\hiuText-projects",
-					"<open folders>",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api"
 				]
 			},
 			"find_state":
@@ -2386,134 +2247,46 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"frameBorder",
-					"-id",
-					"-",
-					"circleid",
-					"id",
-					"circles.id",
-					"circles",
-					"global",
-					"fetch",
-					"global",
-					"io.con",
-					"socket",
-					"datafield",
-					"<Spin",
-					"Spin",
-					"loading",
-					"keepLoading",
-					"spin",
-					"spinner",
-					"days_left",
-					"daysleft",
-					"moment",
-					"a.",
-					"socket",
-					"io.conne",
-					"socket",
-					"content",
-					"setImageBanner",
-					"yourTicket",
-					"userS",
-					"user",
-					"users",
-					"Chat",
-					"159",
-					"global",
-					"159",
-					"const",
-					"import",
-					"const",
-					"socket",
-					"maps",
-					"google",
-					"googlemaps",
-					"topic",
-					"<Link to = \"/classes?topic_id=12\">\n            Entrepreneur\n          </Link>",
-					"toggler",
-					"homepage",
-					"Homepage",
-					"isHomepage",
-					"ishomepage",
-					"business",
-					"bisnis",
-					"date_of",
-					"date",
-					"alrea",
-					"ant-btn",
-					"ant",
-					"btn",
-					"encodeuri",
-					"encode",
-					"content",
-					"global",
-					"uri",
+					"65",
+					"tag--small",
+					"\"live class\"",
+					"finis",
+					"class-img",
+					"12px",
+					"  -webkit-background-clip: text;\n",
+					"tag",
+					"{",
+					"tag--red",
+					"topic-name",
+					"main",
+					"service",
+					"serbice",
+					"main",
+					"script",
+					".js",
+					"main",
+					".js",
+					"main",
+					"bundle",
+					"meetup-class",
+					"isLive",
+					"typeClassID === 4 &&",
+					"daysLeft",
+					"</span>",
+					"<span>",
+					"</span>",
+					"handle",
+					"daysLeft",
+					"today",
+					"Circledoo",
+					"jitsi",
+					"Jitsi",
+					"jitsi",
+					"Jitsi",
 					"profile",
-					"default",
-					"circles",
-					"users",
-					"classes",
-					"dataprofiles",
-					"circles",
-					"Circles",
-					"circles",
-					"Circles",
-					"hover",
-					"btn",
-					"push",
-					"why-ci",
-					"text_count",
-					"photo",
-					"photo?",
-					"fetchapi",
-					"arrFollowers",
-					"rate",
-					"follow",
-					"day",
-					"gender_id",
-					".btn-follow",
-					"postFollow",
-					"rate",
-					"profileStar",
-					"rate",
-					" star",
-					"star",
-					"num",
-					"getOtherFollowers",
-					"?'es'",
-					"Class{",
-					"class",
-					"classes",
-					"review",
-					"star",
-					"abs",
-					"avatar_file_name",
-					"profile",
-					"Link",
-					"profile",
-					"item",
-					"alltestimoni",
-					"reviews",
-					"img",
-					"share your",
-					"increase",
-					" marginBottom:'2em', borderBottom:'1px solid #e2e2e2'}}",
-					"stylclassName",
-					"style1",
-					"number\"}",
-					"styleNumber",
-					"'",
-					"h1",
-					"src",
-					"id=\"row-",
-					"1",
-					"Style1",
-					"{fontSize:20 ,textTransform:'initial', color:'grey'}",
-					"banner_5",
-					"xtTransform:'initial'",
-					"2",
-					"learn more"
+					"auth",
+					"login",
+					"isauth"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2521,44 +2294,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"i-",
-					"light-grey",
-					"i-",
-					"hiuApps",
-					"/img/hiuProperty-logo.png",
-					"hiuProperty-logo",
-					"filter-options-listings",
-					"layout-dashboards",
-					"/dashboards/",
-					"dashboards/",
-					"/dashboards",
-					".listing",
-					".beds",
-					".baths",
-					"baths",
-					"floors",
-					"floors.",
-					"/listings-",
-					"/listings'",
-					"/listings?",
-					"/listings\"",
-					"/listings/",
-					"Listings",
-					"listings",
-					"Listings",
-					"dataProperties",
-					"owner",
-					"agent",
-					"class=\"",
-					"w3-text-grey",
-					"modal-confirm-delete-message",
-					"modal-image",
-					"",
-					"dataAgent",
-					"dataAgents",
-					"<p><b>Villa View Seminyak Beach</b></p>",
-					"w3-card",
-					"sideBarLeft"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -2568,7 +2303,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 54.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -2583,12 +2318,6 @@
 						0,
 						1,
 						1
-					],
-					[
-						0,
-						1,
-						1,
-						2
 					]
 				],
 				"cols":
@@ -2599,7 +2328,6 @@
 				"rows":
 				[
 					0.0,
-					0.1917891122,
 					1.0
 				]
 			},
@@ -2609,10 +2337,10 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,863,1599,-18,2610",
+			"position": "0,0,1,-1,-1,-1,-1,761,495,7,1326",
 			"replace":
 			{
-				"height": 102.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2621,6 +2349,422 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"show",
+						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
+					],
+					[
+						"classes/s",
+						"circledoo-frontend-demo\\src\\pages\\classes\\style.css"
+					],
+					[
+						"circle/s",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"service",
+						"circledoo-frontend-demo\\build\\service-worker.js"
+					],
+					[
+						"index.css",
+						"circledoo-frontend-demo\\src\\index.css"
+					],
+					[
+						"classcard",
+						"circledoo-frontend-demo\\src\\components\\card\\ClassCard.js"
+					],
+					[
+						"index",
+						"circledoo-frontend-demo\\build\\index.html"
+					],
+					[
+						"serviceworker",
+						"circledoo-frontend-demo\\build\\service-worker.js"
+					],
+					[
+						"classes/",
+						"circledoo-frontend-demo\\src\\pages\\classes\\style.css"
+					],
+					[
+						"messages.css",
+						"circledoo-frontend-demo\\src\\pages\\messages\\style.css"
+					],
+					[
+						"cardcss",
+						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
+					],
+					[
+						"cardclass",
+						"circledoo-frontend-demo\\src\\components\\card\\ClassCard.js"
+					],
+					[
+						"pages/campus",
+						"circledoo-frontend-demo\\src\\pages\\campus\\create-lesson.js"
+					],
+					[
+						"helper",
+						"circledoo-frontend-demo\\src\\utils\\helper.js"
+					],
+					[
+						"tabb",
+						"circledoo-frontend-demo\\src\\components\\TabBar.js"
+					],
+					[
+						"header",
+						"circledoo-frontend-demo\\src\\components\\Header.js"
+					],
+					[
+						"circle/st",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"profile/",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"exp",
+						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
+					],
+					[
+						"styles/",
+						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
+					],
+					[
+						"circle/sty",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"/search/s",
+						"circledoo-frontend-demo\\src\\pages\\search\\style.css"
+					],
+					[
+						"search/",
+						"circledoo-frontend-demo\\src\\pages\\search\\index.js"
+					],
+					[
+						"explore",
+						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
+					],
+					[
+						"featured",
+						"circledoo-frontend-demo\\src\\components\\FeaturedVideos.js"
+					],
+					[
+						"homepa",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"classlis",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"classli",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"teacher",
+						"circledoo-frontend-demo\\src\\components\\card\\TeacherProfile.js"
+					],
+					[
+						"countdo",
+						"circledoo-frontend-demo\\src\\components\\TextCountDown.js"
+					],
+					[
+						"classtag",
+						"circledoo-frontend-demo\\src\\pages\\tags\\classTags.js"
+					],
+					[
+						"classl",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"follower",
+						"circledoo-frontend-demo\\src\\pages\\profile\\followersList.js"
+					],
+					[
+						"following",
+						"circledoo-frontend-demo\\src\\pages\\profile\\followingsList.js"
+					],
+					[
+						"profile/st",
+						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
+					],
+					[
+						"skills/",
+						"circledoo-frontend-demo\\src\\pages\\skills\\index.js"
+					],
+					[
+						"teac",
+						"circledoo-frontend-demo\\src\\components\\card\\TeacherProfile.js"
+					],
+					[
+						"footer",
+						"circledoo-frontend-demo\\src\\components\\Footer.js"
+					],
+					[
+						"homepage",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"config",
+						"circledoo-frontend-demo\\src\\utils\\config-dev.js"
+					],
+					[
+						"home",
+						"frontend-mobile-app\\src\\pages\\HomePage.js"
+					],
+					[
+						"profile/s",
+						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
+					],
+					[
+						"chat",
+						"circledoo-frontend-demo\\src\\components\\chat\\Chat.js"
+					],
+					[
+						"profile/in",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"app",
+						"circledoo-frontend-demo\\src\\pages\\App.js"
+					],
+					[
+						"class",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"followi",
+						"circledoo-frontend-demo\\src\\pages\\profile\\followingsList.js"
+					],
+					[
+						"search",
+						"frontend-mobile-app\\src\\pages\\SearchPage.js"
+					],
+					[
+						"recomend",
+						"circledoo-frontend-demo\\src\\components\\Recommendation.js"
+					],
+					[
+						"classes",
+						"frontend-mobile-app\\src\\pages\\ClassesPage.js"
+					],
+					[
+						"cla",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"tags/",
+						"circledoo-frontend-demo\\src\\pages\\tags\\classTags.js"
+					],
+					[
+						"explo",
+						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
+					],
+					[
+						"skill",
+						"circledoo-frontend-demo\\src\\pages\\skills\\index.js"
+					],
+					[
+						"classlist",
+						"circledoo-frontend-demo\\src\\components\\ClassList.js"
+					],
+					[
+						"styles/card",
+						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
+					],
+					[
+						"classc",
+						"circledoo-frontend-demo\\src\\components\\card\\ClassCard.js"
+					],
+					[
+						"homepage/",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"profile/sty",
+						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
+					],
+					[
+						"packa",
+						"circledoo-frontend-demo\\package.json"
+					],
+					[
+						"category",
+						"circledoo-frontend-demo\\src\\components\\CategoryList.js"
+					],
+					[
+						"appjs",
+						"circledoo-frontend-demo\\src\\pages\\App.js"
+					],
+					[
+						"model/us",
+						"service-api\\src\\v1\\model\\users.js"
+					],
+					[
+						"controller/se",
+						"service-api\\src\\v1\\controller\\search.js"
+					],
+					[
+						"searchcontroller",
+						"service-api\\src\\v1\\helpers\\controller.js"
+					],
+					[
+						"skill/",
+						"circledoo-frontend-demo\\src\\pages\\skills\\index.js"
+					],
+					[
+						"user",
+						"service-api\\src\\v1\\router\\users.js"
+					],
+					[
+						"users",
+						"service-api\\src\\v1\\controller\\users.js"
+					],
+					[
+						"live",
+						"circledoo-frontend-demo\\src\\components\\LiveList.js"
+					],
+					[
+						"steppr",
+						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepProgramType.js"
+					],
+					[
+						"circle/c",
+						"circledoo-frontend-demo\\src\\pages\\circle\\create.js"
+					],
+					[
+						"pages/blog",
+						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
+					],
+					[
+						"config-prod",
+						"circledoo-frontend-demo\\src\\utils\\config-prod.js"
+					],
+					[
+						"controller/cir",
+						"service-api\\src\\v1\\controller\\circles.js"
+					],
+					[
+						"circle/show",
+						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
+					],
+					[
+						"onsite",
+						"circledoo-frontend-demo\\src\\components\\ClassListOnsite.js"
+					],
+					[
+						"whatis/",
+						"circledoo-frontend-demo\\src\\pages\\what-is\\style.css"
+					],
+					[
+						"what-is/",
+						"circledoo-frontend-demo\\src\\pages\\what-is\\circledoo.js"
+					],
+					[
+						"ser",
+						"circledoo-frontend-demo\\server.js"
+					],
+					[
+						"config-dev",
+						"circledoo-frontend-demo\\src\\utils\\config-dev.js"
+					],
+					[
+						"blog/",
+						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
+					],
+					[
+						"skills",
+						"circledoo-frontend-demo\\src\\assets\\video\\Circledoo - School of Skills.webm"
+					],
+					[
+						"getlink",
+						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepGetLink.js"
+					],
+					[
+						"pages/bl",
+						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
+					],
+					[
+						"home/index",
+						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
+					],
+					[
+						"index.html",
+						"circledoo-frontend-demo\\public\\index.html"
+					],
+					[
+						"share",
+						"circledoo-frontend-demo\\src\\components\\ShareButton.js"
+					],
+					[
+						"package",
+						"circledoo-frontend-demo\\package.json"
+					],
+					[
+						"stepbas",
+						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepBasicInfo.js"
+					],
+					[
+						"sho",
+						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
+					],
+					[
+						"profile/i",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"search/in",
+						"circledoo-frontend-demo\\src\\pages\\search\\index.js"
+					],
+					[
+						"useritem",
+						"circledoo-frontend-demo\\src\\components\\list\\UserItem.js"
+					],
+					[
+						"style",
+						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
+					],
+					[
+						"profile/inde",
+						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
+					],
+					[
+						"banner",
+						"src\\components\\BannerSlide.js"
+					],
+					[
+						"countdown",
+						"src\\components\\TextCountDown.js"
+					],
+					[
+						"serialcard",
+						"src\\components\\card\\SerialCard.js"
+					],
+					[
+						"profile/edit",
+						"src\\pages\\profile\\edit.js"
+					],
+					[
+						"profile",
+						"src\\pages\\profile\\index.js"
+					],
+					[
+						"edit",
+						"src\\pages\\profile\\edit.js"
+					],
+					[
+						"livelist",
+						"src\\components\\LiveList.js"
+					],
+					[
+						"classe",
+						"src\\pages\\classes\\index.js"
+					],
+					[
+						"cound",
+						"src\\components\\TextCountDown.js"
+					],
 					[
 						"inde",
 						"public\\index.html"
@@ -2634,56 +2778,12 @@
 						"src\\utils\\config-dev.js"
 					],
 					[
-						"live",
-						"src\\components\\LiveList.js"
-					],
-					[
-						"classlist",
-						"src\\components\\ClassList.js"
-					],
-					[
-						"search",
-						"src\\components\\SearchBox.js"
-					],
-					[
-						"config",
-						"src\\utils\\config-prod.js"
-					],
-					[
-						"classcard",
-						"src\\components\\card\\ClassCard.js"
-					],
-					[
-						"circle/show",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"search/",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"profile",
-						"src\\pages\\profile\\index.js"
-					],
-					[
 						"config-p",
 						"src\\utils\\config-prod.js"
 					],
 					[
-						"profile/",
-						"src\\pages\\profile\\index.js"
-					],
-					[
-						"header",
-						"src\\components\\Header.js"
-					],
-					[
 						"circle/",
 						"src\\pages\\circle\\_show.js"
-					],
-					[
-						"appjs",
-						"src\\pages\\App.js"
 					],
 					[
 						"forms",
@@ -2692,10 +2792,6 @@
 					[
 						"circle/crea",
 						"src\\pages\\circle\\create.js"
-					],
-					[
-						"share",
-						"src\\components\\ShareButton.js"
 					],
 					[
 						"circle/sh",
@@ -2714,26 +2810,6 @@
 						"src\\pages\\circle\\show.js"
 					],
 					[
-						"index",
-						"public\\index.html"
-					],
-					[
-						"classes",
-						"src\\pages\\classes\\index.js"
-					],
-					[
-						"homepa",
-						"src\\pages\\homepage\\index.js"
-					],
-					[
-						"class",
-						"src\\components\\ClassList.js"
-					],
-					[
-						"homepage",
-						"src\\pages\\homepage\\index.js"
-					],
-					[
 						"signup",
 						"src\\pages\\auth\\signup.js"
 					],
@@ -2750,22 +2826,6 @@
 						"src\\pages\\profile\\style.css"
 					],
 					[
-						"show",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"teac",
-						"src\\components\\card\\TeacherProfile.js"
-					],
-					[
-						"home",
-						"src\\pages\\homepage\\index.js"
-					],
-					[
-						"what-is/",
-						"src\\pages\\what-is\\style.css"
-					],
-					[
 						"circle",
 						"src\\pages\\what-is\\circledoo.js"
 					],
@@ -2774,28 +2834,8 @@
 						"package.json"
 					],
 					[
-						"circle/s",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"edit",
-						"src\\pages\\profile\\edit.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
 						"sear",
 						"src\\components\\SearchBox.js"
-					],
-					[
-						"banner",
-						"src\\components\\BannerSlide.js"
-					],
-					[
-						"profile/in",
-						"src\\pages\\profile\\index.js"
 					],
 					[
 						"pack",
@@ -2804,14 +2844,6 @@
 					[
 						"config.js",
 						"src\\tools\\config.js"
-					],
-					[
-						"app",
-						"src\\pages\\App.js"
-					],
-					[
-						"ser",
-						"server.js"
 					],
 					[
 						"step",
@@ -2828,310 +2860,6 @@
 					[
 						"circle/sho",
 						"src\\pages\\circle\\show.js"
-					],
-					[
-						"index.html",
-						"public\\index.html"
-					],
-					[
-						"componets/maps",
-						"src\\components\\Maps.js"
-					],
-					[
-						"classli",
-						"src\\components\\ClassList.js"
-					],
-					[
-						"autore",
-						"src\\components\\AutoRegister.js"
-					],
-					[
-						"modallo",
-						"src\\components\\ModalLogin.js"
-					],
-					[
-						"profi",
-						"src\\pages\\profile\\index.js"
-					],
-					[
-						"exis",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"circles",
-						"src\\components\\CircleMaps.js"
-					],
-					[
-						"footer",
-						"src\\components\\Footer.js"
-					],
-					[
-						"searchin",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"chat",
-						"src\\components\\chat\\Chat.js"
-					],
-					[
-						"tool/con",
-						"src\\tools\\config.js"
-					],
-					[
-						"exi",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"search/ind",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"searc",
-						"src\\components\\SearchBox.js"
-					],
-					[
-						"circ",
-						"src\\components\\CircleMaps.js"
-					],
-					[
-						"router/user",
-						"service-api\\src\\v1\\router\\users.js"
-					],
-					[
-						"circlema",
-						"src\\components\\CircleMaps.js"
-					],
-					[
-						"existing",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"step2",
-						"src\\pages\\circle\\step\\FormStep2.js"
-					],
-					[
-						"exist",
-						"src\\components\\card\\ExistingClass.js"
-					],
-					[
-						"searchindex",
-						"src\\pages\\search\\index.js"
-					],
-					[
-						"style",
-						"src\\assets\\css\\style.css"
-					],
-					[
-						"formse",
-						"src\\pages\\circle\\step\\FormStep2.js"
-					],
-					[
-						"circle/c",
-						"src\\pages\\circle\\create.js"
-					],
-					[
-						"modalc",
-						"src\\components\\ModalClass.js"
-					],
-					[
-						"liveli",
-						"src\\components\\LiveList.js"
-					],
-					[
-						"pol",
-						"2359-hotel\\config\\policies.js"
-					],
-					[
-						"islo",
-						"hiuProperty-sails\\api\\policies\\isLogin.js"
-					],
-					[
-						"layou",
-						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
-					],
-					[
-						"roomnew",
-						"2359-hotel\\views\\pages\\roomNew.ejs"
-					],
-					[
-						"model",
-						"2359-hotel\\config\\models.js"
-					],
-					[
-						"data",
-						"2359-hotel\\config\\datastores.js"
-					],
-					[
-						"laydas",
-						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
-					],
-					[
-						"room-for",
-						"2359-hotel\\views\\pages\\room-form.ejs"
-					],
-					[
-						"layour",
-						"2359-hotel\\views\\layouts\\layout-dashboard.ejs"
-					],
-					[
-						"rooms",
-						"2359-hotel\\api\\models\\Rooms.js"
-					],
-					[
-						"ikan",
-						"2359-hotel\\assets\\styles\\ikan.css"
-					],
-					[
-						"layo",
-						"hiuProperty-sails\\views\\layout-dashboards.ejs"
-					],
-					[
-						"modal-room",
-						"2359-hotel\\views\\partials\\modal-confirm-delete-room.ejs"
-					],
-					[
-						"userform",
-						"hiuProperty-sails\\views\\dashboards\\user-form.ejs"
-					],
-					[
-						"users",
-						"2359-hotel\\api\\controllers\\UsersController.js"
-					],
-					[
-						"usersedit",
-						"2359-hotel\\node_modules\\waterline-sql-builder\\test\\unit\\sequelizer\\sequelizer.distinct.test.js"
-					],
-					[
-						"das",
-						"2359-hotel\\views\\pages\\dashboard.ejs"
-					],
-					[
-						"blue",
-						"hiuProperty-sails\\config\\blueprints.js"
-					],
-					[
-						"routes",
-						"hiuProperty-sails\\config\\routes.js"
-					],
-					[
-						"listingcon",
-						"hiuProperty-sails\\api\\controllers\\ListingsController.js"
-					],
-					[
-						"users.js",
-						"2359-hotel\\api\\models\\Users.js"
-					],
-					[
-						"room",
-						"2359-hotel\\api\\models\\Rooms.js"
-					],
-					[
-						"dashb",
-						"2359-hotel\\views\\pages\\dashboard.ejs"
-					],
-					[
-						"datas",
-						"2359-hotel\\config\\datastores.js"
-					],
-					[
-						"package",
-						"package.json"
-					],
-					[
-						"backpagevue",
-						"src\\pages\\backpages\\index.vue"
-					],
-					[
-						"indexvue",
-						"src\\pages\\index.vue"
-					],
-					[
-						"friza",
-						"src\\components\\friza-pic.vue"
-					],
-					[
-						"nuxtvue",
-						"dev\\src\\pages\\nuxt.vue"
-					],
-					[
-						"nuxtvu",
-						"dev\\.nuxt\\components\\nuxt.vue"
-					],
-					[
-						"nuxtlog",
-						"dev\\src\\components\\nuxt-logo.vue"
-					],
-					[
-						"nuxt",
-						"hiu-nuxt\\nuxt.config.js"
-					],
-					[
-						"devindexvue",
-						"dev\\src\\pages\\index.vue"
-					],
-					[
-						"index.vue",
-						"hiu-nuxt\\pages\\index.vue"
-					],
-					[
-						"panel",
-						"f7-vue\\src\\components\\panel-left.vue"
-					],
-					[
-						"materialcss",
-						"f7-vue\\node_modules\\framework7\\dist\\css\\framework7.material.css"
-					],
-					[
-						"appba",
-						"f7-vue\\src\\app-backup.vue"
-					],
-					[
-						"main",
-						"f7-vue\\src\\main.js"
-					],
-					[
-						"f7-view.vue",
-						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
-					],
-					[
-						"wa.cmd",
-						"cmder\\bin\\whatsapp.cmd"
-					],
-					[
-						"tele",
-						"cmder\\bin\\telegram.cmd"
-					],
-					[
-						"f7-vuemain.js",
-						"f7-vue\\src\\main.js"
-					],
-					[
-						"goo",
-						"cmder\\bin\\google-translate.cmd"
-					],
-					[
-						"quran",
-						"cmder\\bin\\quran.cmd"
-					],
-					[
-						"app.vue",
-						"f7-vue\\src\\app.vue"
-					],
-					[
-						"f7-",
-						"cmder\\bin\\f7-kitchen-sink-mat.cmd"
-					],
-					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
-					],
-					[
-						"package.json",
-						"hiuProperty-sails\\package-lock.json"
-					],
-					[
-						"goog",
-						"cmder\\bin\\google-translate.cmd"
 					]
 				],
 				"width": 0.0
@@ -3181,12 +2909,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 209.0,
+			"side_bar_width": 185.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 141
+			"window_id": 146
 		}
 	],
 	"workspaces":
