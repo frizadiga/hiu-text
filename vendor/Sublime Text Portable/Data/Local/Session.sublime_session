@@ -1459,7 +1459,7 @@
 			{
 			}
 		},
-		"new_window_width": 688.0
+		"new_window_width": 681.0
 	},
 	"windows":
 	[
@@ -2337,7 +2337,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,775,527,0,1231",
+			"position": "0,0,1,-1,-1,-1,-1,775,676,0,1373",
 			"replace":
 			{
 				"height": 48.0
