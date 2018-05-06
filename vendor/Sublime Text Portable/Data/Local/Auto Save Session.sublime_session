@@ -1982,6 +1982,9 @@
 					]
 				]
 			},
+			"buffers":
+			[
+			],
 			"build_system": "",
 			"build_system_choices":
 			[
@@ -2301,6 +2304,14 @@
 				"whole_word": false,
 				"wrap": false
 			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
 			"incremental_find":
 			{
 				"height": 26.0
@@ -2337,7 +2348,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,775,527,0,1231",
+			"position": "0,0,1,-1,-1,-1,-1,776,676,0,1374",
+			"project": "",
 			"replace":
 			{
 				"height": 48.0
@@ -2902,6 +2914,7 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -2914,7 +2927,8 @@
 			"template_settings":
 			{
 			},
-			"window_id": 146
+			"window_id": 146,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
