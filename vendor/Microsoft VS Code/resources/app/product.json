@@ -39,7 +39,6 @@
 	"extensionTips": {
 		"ms-vscode.csharp": "{**/*.cs,**/project.json,**/global.json,**/*.csproj,**/*.sln,**/appsettings.json}",
 		"msjsdiag.debugger-for-chrome": "{**/*.ts,**/*.tsx**/*.js,**/*.jsx,**/*.es6,**/.babelrc}",
-		"lukehoban.Go": "**/*.go",
 		"ms-vscode.Go": "**/*.go",
 		"ms-vscode.PowerShell": "{**/*.ps,**/*.ps1,**/*.ps.config,**/*.ps1.config}",
 		"austin.code-gnu-global": "{**/*.c,**/*.cpp,**/*.h}",
@@ -84,6 +83,10 @@
 		"ms-python.python": {
 			"name": "Python",
 			"pattern": "{**/*.py}"
+		},
+		"ms-vscode.Go": {
+			"name": "Go",
+			"pattern": "**/*.go"
 		},
 		"vscjava.vscode-java-pack": {
 			"name": "Java",
@@ -628,14 +631,14 @@
 		"editCount": 10,
 		"userProbability": 0.05
 	}],
-	"commit": "7c7da59c2333a1306c41e6e7b68d7f0caa7b3d45",
-	"date": "2018-05-03T16:44:55.614Z",
+	"commit": "d0182c3417d225529c6d5ad24b7572815d0de9ac",
+	"date": "2018-05-10T17:11:17.614Z",
 	"checksums": {
-		"vs/workbench/workbench.main.js": "61WBrTP8ChElpdAWlvJSFw",
+		"vs/workbench/workbench.main.js": "dWGecBTEIjUK0BKCEAKCoQ",
 		"vs/workbench/workbench.main.css": "R52KNBb9vxfyDHno/Rq1LA",
 		"vs/workbench/electron-browser/bootstrap/index.html": "/Tgz9oebstmTGvDlTpbgpg",
-		"vs/workbench/electron-browser/bootstrap/index.js": "ldQSTCLdtKPF7UGULa7wbA",
-		"vs/workbench/electron-browser/bootstrap/preload.js": "cU0Hb9zwETQDGGTbTm4MPw"
+		"vs/workbench/electron-browser/bootstrap/index.js": "7l4bfFVYGA5HpEaiEnJEVA",
+		"vs/workbench/electron-browser/bootstrap/preload.js": "fxv/4NNr6DT+IKJDQ4L0kg"
 	},
-	"settingsSearchBuildId": 123001188
+	"settingsSearchBuildId": 123010009
 }

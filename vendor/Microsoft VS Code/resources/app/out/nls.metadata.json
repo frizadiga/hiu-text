@@ -214,11 +214,6 @@
 			"toggleTabs",
 			"view"
 		],
-		"vs/workbench/parts/preferences/electron-browser/preferences.contribution": [
-			"defaultPreferencesEditor",
-			"keybindingsEditor",
-			"preferences"
-		],
 		"vs/workbench/parts/preferences/browser/keybindingsEditorContribution": [
 			"defineKeybinding.start",
 			"defineKeybinding.kbLayoutErrorMessage",
@@ -236,6 +231,11 @@
 					"The placeholder will contain a keyboard combination e.g. Ctrl+Shift+/"
 				]
 			}
+		],
+		"vs/workbench/parts/preferences/electron-browser/preferences.contribution": [
+			"defaultPreferencesEditor",
+			"keybindingsEditor",
+			"preferences"
 		],
 		"vs/workbench/parts/logs/electron-browser/logs.contribution": [
 			"mainLog",
@@ -641,6 +641,26 @@
 			"searchFor",
 			"noExtensionsToInstall"
 		],
+		"vs/workbench/parts/extensions/electron-browser/extensionsViewlet": [
+			"marketPlace",
+			"installedExtensions",
+			"searchInstalledExtensions",
+			"recommendedExtensions",
+			"otherRecommendedExtensions",
+			"workspaceRecommendedExtensions",
+			"builtInExtensions",
+			"builtInThemesExtensions",
+			"builtInBasicsExtensions",
+			"searchExtensions",
+			"sort by installs",
+			"sort by rating",
+			"sort by name",
+			"suggestProxyError",
+			"extensions",
+			"outdatedExtensions",
+			"malicious warning",
+			"reloadNow"
+		],
 		"vs/workbench/parts/welcome/page/electron-browser/welcomePage.contribution": [
 			"workbenchConfigurationTitle",
 			{
@@ -663,26 +683,6 @@
 			},
 			"workbench.startupEditor",
 			"help"
-		],
-		"vs/workbench/parts/extensions/electron-browser/extensionsViewlet": [
-			"marketPlace",
-			"installedExtensions",
-			"searchInstalledExtensions",
-			"recommendedExtensions",
-			"otherRecommendedExtensions",
-			"workspaceRecommendedExtensions",
-			"builtInExtensions",
-			"builtInThemesExtensions",
-			"builtInBasicsExtensions",
-			"searchExtensions",
-			"sort by installs",
-			"sort by rating",
-			"sort by name",
-			"suggestProxyError",
-			"extensions",
-			"outdatedExtensions",
-			"malicious warning",
-			"reloadNow"
 		],
 		"vs/workbench/parts/output/electron-browser/output.contribution": [
 			"output",
@@ -885,6 +885,11 @@
 			"snippetSuggest.longLabel",
 			"snippetSuggest.longLabel"
 		],
+		"vs/workbench/parts/snippets/electron-browser/insertSnippet": [
+			"snippet.suggestions.label",
+			"sep.userSnippet",
+			"sep.extSnippet"
+		],
 		"vs/workbench/parts/snippets/electron-browser/configureSnippets": [
 			"global.scope",
 			"global.1",
@@ -895,11 +900,6 @@
 			"openSnippet.pickLanguage",
 			"openSnippet.label",
 			"preferences"
-		],
-		"vs/workbench/parts/snippets/electron-browser/insertSnippet": [
-			"snippet.suggestions.label",
-			"sep.userSnippet",
-			"sep.extSnippet"
 		],
 		"vs/workbench/parts/snippets/electron-browser/tabCompletion": [
 			"tabCompletion"
@@ -1476,11 +1476,11 @@
 		"vs/workbench/services/editor/common/editorService": [
 			"compareLabels"
 		],
-		"vs/workbench/common/views": [
-			"duplicateId"
-		],
 		"vs/workbench/browser/parts/views/viewsViewlet": [
 			"hideView"
+		],
+		"vs/workbench/common/views": [
+			"duplicateId"
 		],
 		"vs/workbench/parts/localizations/electron-browser/localizationsActions": [
 			"configureLocale",
@@ -1493,6 +1493,53 @@
 			"sev.error",
 			"sev.warning",
 			"sev.info"
+		],
+		"vs/workbench/parts/preferences/browser/keybindingWidgets": [
+			"defineKeybinding.initial",
+			"defineKeybinding.chordsTo"
+		],
+		"vs/workbench/parts/preferences/browser/preferencesWidgets": [
+			"defaultSettings",
+			"noSettingsFound",
+			"settingsSwitcherBarAriaLabel",
+			"userSettings",
+			"workspaceSettings",
+			"folderSettings",
+			"workspaceSettings",
+			"userSettings"
+		],
+		"vs/editor/common/view/editorColorRegistry": [
+			"lineHighlight",
+			"lineHighlightBorderBox",
+			"rangeHighlight",
+			"rangeHighlightBorder",
+			"caret",
+			"editorCursorBackground",
+			"editorWhitespaces",
+			"editorIndentGuides",
+			"editorActiveIndentGuide",
+			"editorLineNumbers",
+			"editorActiveLineNumber",
+			"deprecatedEditorActiveLineNumber",
+			"editorActiveLineNumber",
+			"editorRuler",
+			"editorCodeLensForeground",
+			"editorBracketMatchBackground",
+			"editorBracketMatchBorder",
+			"editorOverviewRulerBorder",
+			"editorGutter",
+			"errorForeground",
+			"errorBorder",
+			"warningForeground",
+			"warningBorder",
+			"infoForeground",
+			"infoBorder",
+			"hintForeground",
+			"hintBorder",
+			"overviewRulerRangeHighlight",
+			"overviewRuleError",
+			"overviewRuleWarning",
+			"overviewRuleInfo"
 		],
 		"vs/workbench/parts/preferences/browser/preferencesEditor": [
 			"SearchSettingsWidget.AriaLabel",
@@ -1562,53 +1609,6 @@
 		"vs/workbench/services/preferences/common/preferences": [
 			"userSettingsTarget",
 			"workspaceSettingsTarget"
-		],
-		"vs/workbench/parts/preferences/browser/keybindingWidgets": [
-			"defineKeybinding.initial",
-			"defineKeybinding.chordsTo"
-		],
-		"vs/workbench/parts/preferences/browser/preferencesWidgets": [
-			"defaultSettings",
-			"noSettingsFound",
-			"settingsSwitcherBarAriaLabel",
-			"userSettings",
-			"workspaceSettings",
-			"folderSettings",
-			"workspaceSettings",
-			"userSettings"
-		],
-		"vs/editor/common/view/editorColorRegistry": [
-			"lineHighlight",
-			"lineHighlightBorderBox",
-			"rangeHighlight",
-			"rangeHighlightBorder",
-			"caret",
-			"editorCursorBackground",
-			"editorWhitespaces",
-			"editorIndentGuides",
-			"editorActiveIndentGuide",
-			"editorLineNumbers",
-			"editorActiveLineNumber",
-			"deprecatedEditorActiveLineNumber",
-			"editorActiveLineNumber",
-			"editorRuler",
-			"editorCodeLensForeground",
-			"editorBracketMatchBackground",
-			"editorBracketMatchBorder",
-			"editorOverviewRulerBorder",
-			"editorGutter",
-			"errorForeground",
-			"errorBorder",
-			"warningForeground",
-			"warningBorder",
-			"infoForeground",
-			"infoBorder",
-			"hintForeground",
-			"hintBorder",
-			"overviewRulerRangeHighlight",
-			"overviewRuleError",
-			"overviewRuleWarning",
-			"overviewRuleInfo"
 		],
 		"vs/workbench/parts/logs/electron-browser/logsActions": [
 			"openLogsFolder",
@@ -1919,6 +1919,11 @@
 			"openFileToReveal",
 			"openFileToCopy"
 		],
+		"vs/workbench/browser/parts/editor/editorCommands": [
+			"editorCommand.activeEditorMove.description",
+			"editorCommand.activeEditorMove.arg.name",
+			"editorCommand.activeEditorMove.arg.description"
+		],
 		"vs/workbench/browser/actions/workspaceCommands": [
 			"addFolderToWorkspace",
 			{
@@ -1929,11 +1934,6 @@
 			},
 			"addFolderToWorkspaceTitle",
 			"workspaceFolderPickerPlaceholder"
-		],
-		"vs/workbench/browser/parts/editor/editorCommands": [
-			"editorCommand.activeEditorMove.description",
-			"editorCommand.activeEditorMove.arg.name",
-			"editorCommand.activeEditorMove.arg.description"
 		],
 		"vs/platform/list/browser/listService": [
 			"workbenchConfigurationTitle",
@@ -1959,6 +1959,9 @@
 		"vs/workbench/parts/files/common/editors/fileEditorInput": [
 			"orphanedFile"
 		],
+		"vs/workbench/parts/files/browser/editors/binaryFileEditor": [
+			"binaryFileEditor"
+		],
 		"vs/workbench/parts/files/browser/editors/textFileEditor": [
 			"textFileEditor",
 			"createFile",
@@ -1966,9 +1969,6 @@
 			"configureMemoryLimit",
 			"fileEditorWithInputAriaLabel",
 			"fileEditorAriaLabel"
-		],
-		"vs/workbench/parts/files/browser/editors/binaryFileEditor": [
-			"binaryFileEditor"
 		],
 		"vs/workbench/parts/files/common/dirtyFilesTracker": [
 			"dirtyFile",
@@ -2415,12 +2415,12 @@
 			"addConfigTo",
 			"addConfiguration"
 		],
+		"vs/workbench/parts/markers/electron-browser/markersPanelActions": [
+			"showing filtered problems"
+		],
 		"vs/workbench/parts/markers/electron-browser/markersPanel": [
 			"disableFilesExclude",
 			"clearFilter"
-		],
-		"vs/workbench/parts/markers/electron-browser/markersPanelActions": [
-			"showing filtered problems"
 		],
 		"vs/workbench/parts/markers/electron-browser/messages": [
 			"viewCategory",
@@ -2689,6 +2689,13 @@
 			"yes",
 			"no"
 		],
+		"vs/workbench/parts/extensions/electron-browser/extensionProfileService": [
+			"restart1",
+			"restart2",
+			"restart3",
+			"cancel",
+			"selectAndStartDebug"
+		],
 		"vs/workbench/parts/extensions/electron-browser/runtimeExtensionsEditor": [
 			"starActivation",
 			{
@@ -2718,12 +2725,10 @@
 			"extensionHostProfileStop",
 			"saveExtensionHostProfile"
 		],
-		"vs/workbench/parts/extensions/electron-browser/extensionProfileService": [
-			"restart1",
-			"restart2",
-			"restart3",
-			"cancel",
-			"selectAndStartDebug"
+		"vs/workbench/parts/extensions/electron-browser/extensionsViews": [
+			"extensions",
+			"no extensions found",
+			"suggestProxyError"
 		],
 		"vs/workbench/parts/welcome/page/electron-browser/welcomePage": [
 			"welcomePage",
@@ -2756,11 +2761,6 @@
 			"details",
 			"welcomePage.buttonBackground",
 			"welcomePage.buttonHoverBackground"
-		],
-		"vs/workbench/parts/extensions/electron-browser/extensionsViews": [
-			"extensions",
-			"no extensions found",
-			"suggestProxyError"
 		],
 		"vs/editor/common/modes/modesRegistry": [
 			"plainText.alias"
@@ -3450,11 +3450,11 @@
 		"vs/workbench/parts/codeEditor/electron-browser/toggleMultiCursorModifier": [
 			"toggleLocation"
 		],
-		"vs/workbench/parts/codeEditor/electron-browser/toggleRenderWhitespace": [
-			"toggleRenderWhitespace"
-		],
 		"vs/workbench/parts/codeEditor/electron-browser/toggleRenderControlCharacter": [
 			"toggleRenderControlCharacters"
+		],
+		"vs/workbench/parts/codeEditor/electron-browser/toggleRenderWhitespace": [
+			"toggleRenderWhitespace"
 		],
 		"vs/workbench/parts/codeEditor/electron-browser/toggleWordWrap": [
 			"toggle.wordwrap",
@@ -3558,6 +3558,9 @@
 			"prof.detail.restart",
 			"prof.restart"
 		],
+		"vs/workbench/electron-browser/commands": [
+			"diffLeftRightLabel"
+		],
 		"vs/workbench/services/jsonschemas/common/jsonValidationExtensionPoint": [
 			"contributes.jsonValidation",
 			"contributes.jsonValidation.fileMatch",
@@ -3648,9 +3651,6 @@
 			"folderStatusMessageRemoveSingleFolder",
 			"folderStatusMessageRemoveMultipleFolders",
 			"folderStatusChangeFolder"
-		],
-		"vs/workbench/electron-browser/commands": [
-			"diffLeftRightLabel"
 		],
 		"vs/base/node/processes": [
 			"TaskRunner.UNC"
@@ -5090,29 +5090,6 @@
 			"largeFileOptimizations",
 			"renderIndicators"
 		],
-		"vs/workbench/browser/parts/editor/textEditor": [
-			"editorLabelWithGroup"
-		],
-		"vs/workbench/services/preferences/common/preferencesModels": [
-			"commonlyUsed",
-			"defaultKeybindingsHeader"
-		],
-		"vs/workbench/parts/preferences/browser/preferencesRenderers": [
-			"emptyUserSettingsHeader",
-			"emptyWorkspaceSettingsHeader",
-			"emptyFolderSettingsHeader",
-			"reportSettingsSearchIssue",
-			"newExtensionLabel",
-			"editTtile",
-			"replaceDefaultValue",
-			"copyDefaultValue"
-		],
-		"vs/workbench/services/preferences/common/keybindingsEditorModel": [
-			"default",
-			"user",
-			"meta",
-			"option"
-		],
 		"vs/base/common/keybindingLabels": [
 			{
 				"key": "ctrlKey",
@@ -5186,6 +5163,29 @@
 					"This is the long form for the Windows key on the keyboard"
 				]
 			}
+		],
+		"vs/workbench/browser/parts/editor/textEditor": [
+			"editorLabelWithGroup"
+		],
+		"vs/workbench/parts/preferences/browser/preferencesRenderers": [
+			"emptyUserSettingsHeader",
+			"emptyWorkspaceSettingsHeader",
+			"emptyFolderSettingsHeader",
+			"reportSettingsSearchIssue",
+			"newExtensionLabel",
+			"editTtile",
+			"replaceDefaultValue",
+			"copyDefaultValue"
+		],
+		"vs/workbench/services/preferences/common/preferencesModels": [
+			"commonlyUsed",
+			"defaultKeybindingsHeader"
+		],
+		"vs/workbench/services/preferences/common/keybindingsEditorModel": [
+			"default",
+			"user",
+			"meta",
+			"option"
 		],
 		"vs/base/parts/quickopen/browser/quickOpenWidget": [
 			"quickOpenAriaLabel",
@@ -6199,16 +6199,16 @@
 			"Toggle Tab Visibility",
 			"View"
 		],
-		"vs/workbench/parts/preferences/electron-browser/preferences.contribution": [
-			"Default Preferences Editor",
-			"Keybindings Editor",
-			"Preferences"
-		],
 		"vs/workbench/parts/preferences/browser/keybindingsEditorContribution": [
 			"Define Keybinding",
 			"You won't be able to produce this key combination under your current keyboard layout.",
 			"**{0}** for your current keyboard layout (**{1}** for US standard).",
 			"**{0}** for your current keyboard layout."
+		],
+		"vs/workbench/parts/preferences/electron-browser/preferences.contribution": [
+			"Default Preferences Editor",
+			"Keybindings Editor",
+			"Preferences"
 		],
 		"vs/workbench/parts/logs/electron-browser/logs.contribution": [
 			"Log (Main)",
@@ -6514,14 +6514,6 @@
 			"Press Enter to search for '{0}' in the Marketplace.",
 			"Type an extension name"
 		],
-		"vs/workbench/parts/welcome/page/electron-browser/welcomePage.contribution": [
-			"Workbench",
-			"Start without an editor.",
-			"Open the Welcome page (default).",
-			"Open a new untitled file.",
-			"Controls which editor is shown at startup, if none is restored from the previous session. Select 'none' to start without an editor, 'welcomePage' to open the Welcome page (default), 'newUntitledFile' to open a new untitled file (only opening an empty workspace).",
-			"Help"
-		],
 		"vs/workbench/parts/extensions/electron-browser/extensionsViewlet": [
 			"Marketplace",
 			"Installed",
@@ -6541,6 +6533,14 @@
 			"{0} Outdated Extensions",
 			"We have uninstalled '{0}' which was reported to be problematic.",
 			"Reload Now"
+		],
+		"vs/workbench/parts/welcome/page/electron-browser/welcomePage.contribution": [
+			"Workbench",
+			"Start without an editor.",
+			"Open the Welcome page (default).",
+			"Open a new untitled file.",
+			"Controls which editor is shown at startup, if none is restored from the previous session. Select 'none' to start without an editor, 'welcomePage' to open the Welcome page (default), 'newUntitledFile' to open a new untitled file (only opening an empty workspace).",
+			"Help"
 		],
 		"vs/workbench/parts/output/electron-browser/output.contribution": [
 			"Output",
@@ -6733,6 +6733,11 @@
 			"{0}, {1}",
 			"{0}, {1}"
 		],
+		"vs/workbench/parts/snippets/electron-browser/insertSnippet": [
+			"Insert Snippet",
+			"User Snippets",
+			"Extension Snippets"
+		],
 		"vs/workbench/parts/snippets/electron-browser/configureSnippets": [
 			"(global)",
 			"({0})",
@@ -6743,11 +6748,6 @@
 			"Select Snippets File or Create Snippets",
 			"Configure User Snippets",
 			"Preferences"
-		],
-		"vs/workbench/parts/snippets/electron-browser/insertSnippet": [
-			"Insert Snippet",
-			"User Snippets",
-			"Extension Snippets"
 		],
 		"vs/workbench/parts/snippets/electron-browser/tabCompletion": [
 			"Insert snippets when their prefix matches. Works best when 'quickSuggestions' aren't enabled."
@@ -7283,11 +7283,11 @@
 		"vs/workbench/services/editor/common/editorService": [
 			"{0} ↔ {1}"
 		],
-		"vs/workbench/common/views": [
-			"A view with id '{0}' is already registered in the location '{1}'"
-		],
 		"vs/workbench/browser/parts/views/viewsViewlet": [
 			"Hide"
+		],
+		"vs/workbench/common/views": [
+			"A view with id '{0}' is already registered in the location '{1}'"
 		],
 		"vs/workbench/parts/localizations/electron-browser/localizationsActions": [
 			"Configure Language",
@@ -7300,6 +7300,53 @@
 			"Error",
 			"Warning",
 			"Info"
+		],
+		"vs/workbench/parts/preferences/browser/keybindingWidgets": [
+			"Press desired key combination and then press ENTER.",
+			"chord to"
+		],
+		"vs/workbench/parts/preferences/browser/preferencesWidgets": [
+			"Place your settings in the right hand side editor to override.",
+			"No Settings Found.",
+			"Settings Switcher",
+			"User Settings",
+			"Workspace Settings",
+			"Folder Settings",
+			"Workspace Settings",
+			"User Settings"
+		],
+		"vs/editor/common/view/editorColorRegistry": [
+			"Background color for the highlight of line at the cursor position.",
+			"Background color for the border around the line at the cursor position.",
+			"Background color of highlighted ranges, like by quick open and find features. The color must not be opaque to not hide underlying decorations.",
+			"Background color of the border around highlighted ranges.",
+			"Color of the editor cursor.",
+			"The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.",
+			"Color of whitespace characters in the editor.",
+			"Color of the editor indentation guides.",
+			"Color of the active editor indentation guides.",
+			"Color of editor line numbers.",
+			"Color of editor active line number",
+			"Id is deprecated. Use 'editorLineNumber.activeForeground' instead.",
+			"Color of editor active line number",
+			"Color of the editor rulers.",
+			"Foreground color of editor code lenses",
+			"Background color behind matching brackets",
+			"Color for matching brackets boxes",
+			"Color of the overview ruler border.",
+			"Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.",
+			"Foreground color of error squigglies in the editor.",
+			"Border color of error squigglies in the editor.",
+			"Foreground color of warning squigglies in the editor.",
+			"Border color of warning squigglies in the editor.",
+			"Foreground color of info squigglies in the editor.",
+			"Border color of info squigglies in the editor.",
+			"Foreground color of hint squigglies in the editor.",
+			"Border color of hint squigglies in the editor.",
+			"Overview ruler marker color for range highlights. The color must not be opaque to not hide underlying decorations.",
+			"Overview ruler marker color for errors.",
+			"Overview ruler marker color for warnings.",
+			"Overview ruler marker color for infos."
 		],
 		"vs/workbench/parts/preferences/browser/preferencesEditor": [
 			"Search settings",
@@ -7369,53 +7416,6 @@
 		"vs/workbench/services/preferences/common/preferences": [
 			"User Settings",
 			"Workspace Settings"
-		],
-		"vs/workbench/parts/preferences/browser/keybindingWidgets": [
-			"Press desired key combination and then press ENTER.",
-			"chord to"
-		],
-		"vs/workbench/parts/preferences/browser/preferencesWidgets": [
-			"Place your settings in the right hand side editor to override.",
-			"No Settings Found.",
-			"Settings Switcher",
-			"User Settings",
-			"Workspace Settings",
-			"Folder Settings",
-			"Workspace Settings",
-			"User Settings"
-		],
-		"vs/editor/common/view/editorColorRegistry": [
-			"Background color for the highlight of line at the cursor position.",
-			"Background color for the border around the line at the cursor position.",
-			"Background color of highlighted ranges, like by quick open and find features. The color must not be opaque to not hide underlying decorations.",
-			"Background color of the border around highlighted ranges.",
-			"Color of the editor cursor.",
-			"The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.",
-			"Color of whitespace characters in the editor.",
-			"Color of the editor indentation guides.",
-			"Color of the active editor indentation guides.",
-			"Color of editor line numbers.",
-			"Color of editor active line number",
-			"Id is deprecated. Use 'editorLineNumber.activeForeground' instead.",
-			"Color of editor active line number",
-			"Color of the editor rulers.",
-			"Foreground color of editor code lenses",
-			"Background color behind matching brackets",
-			"Color for matching brackets boxes",
-			"Color of the overview ruler border.",
-			"Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.",
-			"Foreground color of error squigglies in the editor.",
-			"Border color of error squigglies in the editor.",
-			"Foreground color of warning squigglies in the editor.",
-			"Border color of warning squigglies in the editor.",
-			"Foreground color of info squigglies in the editor.",
-			"Border color of info squigglies in the editor.",
-			"Foreground color of hint squigglies in the editor.",
-			"Border color of hint squigglies in the editor.",
-			"Overview ruler marker color for range highlights. The color must not be opaque to not hide underlying decorations.",
-			"Overview ruler marker color for errors.",
-			"Overview ruler marker color for warnings.",
-			"Overview ruler marker color for infos."
 		],
 		"vs/workbench/parts/logs/electron-browser/logsActions": [
 			"Open Logs Folder",
@@ -7676,16 +7676,16 @@
 			"Open a file first to reveal",
 			"Open a file first to copy its path"
 		],
+		"vs/workbench/browser/parts/editor/editorCommands": [
+			"Move the active editor by tabs or groups",
+			"Active editor move argument",
+			"Argument Properties:\n\t* 'to': String value providing where to move.\n\t* 'by': String value providing the unit for move. By tab or by group.\n\t* 'value': Number value providing how many positions or an absolute position to move."
+		],
 		"vs/workbench/browser/actions/workspaceCommands": [
 			"Add Folder to Workspace...",
 			"&&Add",
 			"Add Folder to Workspace",
 			"Select workspace folder"
-		],
-		"vs/workbench/browser/parts/editor/editorCommands": [
-			"Move the active editor by tabs or groups",
-			"Active editor move argument",
-			"Argument Properties:\n\t* 'to': String value providing where to move.\n\t* 'by': String value providing the unit for move. By tab or by group.\n\t* 'value': Number value providing how many positions or an absolute position to move."
 		],
 		"vs/platform/list/browser/listService": [
 			"Workbench",
@@ -7700,6 +7700,9 @@
 		"vs/workbench/parts/files/common/editors/fileEditorInput": [
 			"{0} (deleted from disk)"
 		],
+		"vs/workbench/parts/files/browser/editors/binaryFileEditor": [
+			"Binary File Viewer"
+		],
 		"vs/workbench/parts/files/browser/editors/textFileEditor": [
 			"Text File Editor",
 			"Create File",
@@ -7707,9 +7710,6 @@
 			"Configure Memory Limit",
 			"{0}. Text file editor.",
 			"Text file editor."
-		],
-		"vs/workbench/parts/files/browser/editors/binaryFileEditor": [
-			"Binary File Viewer"
 		],
 		"vs/workbench/parts/files/common/dirtyFilesTracker": [
 			"1 unsaved file",
@@ -8099,12 +8099,12 @@
 			"Add Config ({0})...",
 			"Add Configuration..."
 		],
+		"vs/workbench/parts/markers/electron-browser/markersPanelActions": [
+			"Showing {0} of {1}"
+		],
 		"vs/workbench/parts/markers/electron-browser/markersPanel": [
 			"Disable Files Exclude Filter.",
 			"Clear Filter."
-		],
-		"vs/workbench/parts/markers/electron-browser/markersPanelActions": [
-			"Showing {0} of {1}"
 		],
 		"vs/workbench/parts/markers/electron-browser/messages": [
 			"View",
@@ -8368,6 +8368,13 @@
 			"Yes",
 			"No"
 		],
+		"vs/workbench/parts/extensions/electron-browser/extensionProfileService": [
+			"Profile Extensions",
+			"In order to profile extensions a restart is required. Do you want to restart '{0}' now?",
+			"Restart",
+			"Cancel",
+			"Click to stop profiling."
+		],
 		"vs/workbench/parts/extensions/electron-browser/runtimeExtensionsEditor": [
 			"Activated on start-up",
 			"Activated because a file matching {0} exists in your workspace",
@@ -8382,12 +8389,10 @@
 			"Stop Extension Host Profile",
 			"Save Extension Host Profile"
 		],
-		"vs/workbench/parts/extensions/electron-browser/extensionProfileService": [
-			"Profile Extensions",
-			"In order to profile extensions a restart is required. Do you want to restart '{0}' now?",
-			"Restart",
-			"Cancel",
-			"Click to stop profiling."
+		"vs/workbench/parts/extensions/electron-browser/extensionsViews": [
+			"Extensions",
+			"No extensions found.",
+			"Marketplace returned 'ECONNREFUSED'. Please check the 'http.proxy' setting."
 		],
 		"vs/workbench/parts/welcome/page/electron-browser/welcomePage": [
 			"Welcome",
@@ -8420,11 +8425,6 @@
 			"Details",
 			"Background color for the buttons on the Welcome page.",
 			"Hover background color for the buttons on the Welcome page."
-		],
-		"vs/workbench/parts/extensions/electron-browser/extensionsViews": [
-			"Extensions",
-			"No extensions found.",
-			"Marketplace returned 'ECONNREFUSED'. Please check the 'http.proxy' setting."
 		],
 		"vs/editor/common/modes/modesRegistry": [
 			"Plain Text"
@@ -9089,11 +9089,11 @@
 		"vs/workbench/parts/codeEditor/electron-browser/toggleMultiCursorModifier": [
 			"Toggle Multi-Cursor Modifier"
 		],
-		"vs/workbench/parts/codeEditor/electron-browser/toggleRenderWhitespace": [
-			"View: Toggle Render Whitespace"
-		],
 		"vs/workbench/parts/codeEditor/electron-browser/toggleRenderControlCharacter": [
 			"View: Toggle Control Characters"
+		],
+		"vs/workbench/parts/codeEditor/electron-browser/toggleRenderWhitespace": [
+			"View: Toggle Render Whitespace"
 		],
 		"vs/workbench/parts/codeEditor/electron-browser/toggleWordWrap": [
 			"View: Toggle Word Wrap",
@@ -9197,6 +9197,9 @@
 			"A final restart is required to continue to use '{0}'. Again, thank you for your contribution.",
 			"Restart"
 		],
+		"vs/workbench/electron-browser/commands": [
+			"{0} ⟷ {1}"
+		],
 		"vs/workbench/services/jsonschemas/common/jsonValidationExtensionPoint": [
 			"Contributes json schema configuration.",
 			"The file pattern to match, for example \"package.json\" or \"*.launch\".",
@@ -9287,9 +9290,6 @@
 			"Extension '{0}' removed 1 folder from the workspace",
 			"Extension '{0}' removed {1} folders from the workspace",
 			"Extension '{0}' changed folders of the workspace"
-		],
-		"vs/workbench/electron-browser/commands": [
-			"{0} ⟷ {1}"
 		],
 		"vs/base/node/processes": [
 			"Can't execute a shell command on a UNC drive."
@@ -9799,29 +9799,6 @@
 			"Special handling for large files to disable certain memory intensive features.",
 			"Controls if the diff editor shows +/- indicators for added/removed changes"
 		],
-		"vs/workbench/browser/parts/editor/textEditor": [
-			"{0}, Group {1}."
-		],
-		"vs/workbench/services/preferences/common/preferencesModels": [
-			"Commonly Used",
-			"Overwrite key bindings by placing them into your key bindings file."
-		],
-		"vs/workbench/parts/preferences/browser/preferencesRenderers": [
-			"Place your settings here to overwrite the Default Settings.",
-			"Place your settings here to overwrite the User Settings.",
-			"Place your folder settings here to overwrite those from the Workspace Settings.",
-			"Report Issue",
-			"Show Extension \"{0}\"",
-			"Edit",
-			"Replace in Settings",
-			"Copy to Settings"
-		],
-		"vs/workbench/services/preferences/common/keybindingsEditorModel": [
-			"Default",
-			"User",
-			"meta",
-			"option"
-		],
 		"vs/base/common/keybindingLabels": [
 			"Ctrl",
 			"Shift",
@@ -9835,6 +9812,29 @@
 			"Shift",
 			"Alt",
 			"Windows"
+		],
+		"vs/workbench/browser/parts/editor/textEditor": [
+			"{0}, Group {1}."
+		],
+		"vs/workbench/parts/preferences/browser/preferencesRenderers": [
+			"Place your settings here to overwrite the Default Settings.",
+			"Place your settings here to overwrite the User Settings.",
+			"Place your folder settings here to overwrite those from the Workspace Settings.",
+			"Report Issue",
+			"Show Extension \"{0}\"",
+			"Edit",
+			"Replace in Settings",
+			"Copy to Settings"
+		],
+		"vs/workbench/services/preferences/common/preferencesModels": [
+			"Commonly Used",
+			"Overwrite key bindings by placing them into your key bindings file."
+		],
+		"vs/workbench/services/preferences/common/keybindingsEditorModel": [
+			"Default",
+			"User",
+			"meta",
+			"option"
 		],
 		"vs/base/parts/quickopen/browser/quickOpenWidget": [
 			"Quick picker. Type to narrow down results.",

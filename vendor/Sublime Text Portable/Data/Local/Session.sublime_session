@@ -1,6 +1,10 @@
 {
 	"folder_history":
 	[
+		"/A/Data Friza/App/streamer",
+		"/A/Data Friza/App/desktop-streamer",
+		"/A/Data Friza/App/lib-jitsi-meet",
+		"/A/Data Friza/App/circledoo-encoder",
 		"/A/Data Friza/App/circledoo-frontend-demo",
 		"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin",
 		"/A/Data Friza/App/partner-app-adira",
@@ -27,8 +31,8 @@
 		"/A/hiuData/hiuWEB/App/forked/starter-template",
 		"/A/hiuData/hiuWEB/App/forked"
 	],
-	"last_version": 3143,
-	"last_window_id": 146,
+	"last_version": 3176,
+	"last_window_id": 150,
 	"log_indexing": false,
 	"settings":
 	{
@@ -39,6 +43,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"b",
+						"brightness()\tfilter"
+					],
 					[
 						"pad",
 						"padding"
@@ -546,10 +554,6 @@
 					[
 						"form",
 						"FormSearchBox"
-					],
-					[
-						"t",
-						"typefilter"
 					]
 				]
 			},
@@ -560,7 +564,7 @@
 			"command_palette":
 			{
 				"height": 136.0,
-				"last_filter": "profile",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -659,6 +663,10 @@
 				"height": 158.0,
 				"history":
 				[
+					"clear",
+					"dir",
+					"ls",
+					"test"
 				]
 			},
 			"distraction_free":
@@ -672,6 +680,7 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/circledoo-encoder/node_modules/tinycolor2/docs/docco.css",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/styles/card.css",
@@ -798,12 +807,11 @@
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/package.json",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js"
+				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js"
 			],
 			"find":
 			{
-				"height": 54.0
+				"height": 65.0
 			},
 			"find_in_files":
 			{
@@ -817,6 +825,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"    border-radius: 2em;\n",
 					"65",
 					"tag--small",
 					"\"live class\"",
@@ -873,7 +882,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -887,7 +896,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -896,6 +905,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						".vue",
+						"streamer\\src\\renderer\\components\\LandingPage.vue"
+					],
+					[
+						"package",
+						"streamer\\package.json"
+					],
+					[
+						".css",
+						"node_modules\\tinycolor2\\docs\\docco.css"
+					],
+					[
+						"pac",
+						"package.json"
+					],
 					[
 						"show",
 						"src\\pages\\circle\\show.js"
@@ -1245,10 +1270,6 @@
 						"circledoo-frontend-demo\\src\\components\\ShareButton.js"
 					],
 					[
-						"package",
-						"circledoo-frontend-demo\\package.json"
-					],
-					[
 						"stepbas",
 						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepBasicInfo.js"
 					],
@@ -1377,10 +1398,6 @@
 						"src\\pages\\what-is\\circledoo.js"
 					],
 					[
-						"pac",
-						"package.json"
-					],
-					[
 						"sear",
 						"src\\components\\SearchBox.js"
 					],
@@ -1399,14 +1416,6 @@
 					[
 						"classes/in",
 						"src\\pages\\classes\\index.js"
-					],
-					[
-						"classca",
-						"src\\components\\card\\ClassCard.js"
-					],
-					[
-						"circle/sho",
-						"src\\pages\\circle\\show.js"
 					]
 				],
 				"width": 0.0
@@ -1414,7 +1423,7 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "env",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -1452,14 +1461,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 185.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 681.0
+		"new_window_width": 993.0
 	},
 	"windows":
 	[
@@ -1468,6 +1477,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"b",
+						"brightness()\tfilter"
+					],
 					[
 						"pad",
 						"padding"
@@ -1975,10 +1988,6 @@
 					[
 						"form",
 						"FormSearchBox"
-					],
-					[
-						"t",
-						"typefilter"
 					]
 				]
 			},
@@ -1990,7 +1999,7 @@
 			"command_palette":
 			{
 				"height": 136.0,
-				"last_filter": "profile",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -2089,6 +2098,10 @@
 				"height": 158.0,
 				"history":
 				[
+					"clear",
+					"dir",
+					"ls",
+					"test"
 				]
 			},
 			"distraction_free":
@@ -2102,6 +2115,7 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/circledoo-encoder/node_modules/tinycolor2/docs/docco.css",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/styles/card.css",
@@ -2228,12 +2242,11 @@
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/package.json",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed/config/routes.js"
+				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js"
 			],
 			"find":
 			{
-				"height": 54.0
+				"height": 65.0
 			},
 			"find_in_files":
 			{
@@ -2247,6 +2260,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"    border-radius: 2em;\n",
 					"65",
 					"tag--small",
 					"\"live class\"",
@@ -2303,7 +2317,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -2337,10 +2351,10 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,775,676,0,1373",
+			"position": "0,0,1,-1,-1,-1,-1,775,364,0,1373",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2349,6 +2363,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						".vue",
+						"streamer\\src\\renderer\\components\\LandingPage.vue"
+					],
+					[
+						"package",
+						"streamer\\package.json"
+					],
+					[
+						".css",
+						"node_modules\\tinycolor2\\docs\\docco.css"
+					],
+					[
+						"pac",
+						"package.json"
+					],
 					[
 						"show",
 						"src\\pages\\circle\\show.js"
@@ -2698,10 +2728,6 @@
 						"circledoo-frontend-demo\\src\\components\\ShareButton.js"
 					],
 					[
-						"package",
-						"circledoo-frontend-demo\\package.json"
-					],
-					[
 						"stepbas",
 						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepBasicInfo.js"
 					],
@@ -2830,10 +2856,6 @@
 						"src\\pages\\what-is\\circledoo.js"
 					],
 					[
-						"pac",
-						"package.json"
-					],
-					[
 						"sear",
 						"src\\components\\SearchBox.js"
 					],
@@ -2852,14 +2874,6 @@
 					[
 						"classes/in",
 						"src\\pages\\classes\\index.js"
-					],
-					[
-						"classca",
-						"src\\components\\card\\ClassCard.js"
-					],
-					[
-						"circle/sho",
-						"src\\pages\\circle\\show.js"
 					]
 				],
 				"width": 0.0
@@ -2867,7 +2881,7 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "env",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -2908,7 +2922,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 185.0,
 			"status_bar_visible": true,
 			"template_settings":
