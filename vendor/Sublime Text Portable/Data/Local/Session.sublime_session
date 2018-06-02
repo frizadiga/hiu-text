@@ -1,14 +1,18 @@
 {
 	"folder_history":
 	[
-		"/A/Data Friza/App/streamer",
+		"/A/Data Friza/App/koa/hiu-koa",
+		"/A/Data Friza/App/sails/no-frontend",
+		"/A/Data Friza/App/sails/minimal",
 		"/A/Data Friza/App/desktop-streamer",
-		"/A/Data Friza/App/lib-jitsi-meet",
 		"/A/Data Friza/App/circledoo-encoder",
+		"/A/Data Friza/App/streamer",
+		"/A/Data Friza/App/circledoo-business",
+		"/A/Data Friza/App/service-api",
+		"/A/Data Friza/App/lib-jitsi-meet",
 		"/A/Data Friza/App/circledoo-frontend-demo",
 		"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin",
 		"/A/Data Friza/App/partner-app-adira",
-		"/A/Data Friza/App/service-api",
 		"/A/Data Friza/App/jidesha",
 		"/A/Data Friza/App/partner-app",
 		"/A/hiuData/hiuWEB/App/work/circledoo/service-realtime",
@@ -43,6 +47,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"con",
+						"config"
+					],
+					[
+						"p",
+						"PORT"
+					],
 					[
 						"b",
 						"brightness()\tfilter"
@@ -546,14 +558,6 @@
 					[
 						"u",
 						"users"
-					],
-					[
-						"he",
-						"height"
-					],
-					[
-						"form",
-						"FormSearchBox"
 					]
 				]
 			},
@@ -680,6 +684,19 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/koa/hiu-koa/app/.gitignore",
+				"/A/Data Friza/App/koa/hiu-koa/config/.gitkeep",
+				"/A/Data Friza/App/koa/hiu-koa/app/.gitkeep",
+				"/A/Data Friza/App/sails/minimal/config/routes.js",
+				"/A/Data Friza/App/sails/no-frontend/config/routes.js",
+				"/A/Data Friza/App/circledoo-business/package.json",
+				"/A/Data Friza/App/circledoo-business/.gitignore",
+				"/A/Data Friza/App/circledoo-business/firebase.json",
+				"/A/Data Friza/App/circledoo-business/server.js",
+				"/A/Data Friza/App/streamer/package.json",
+				"/A/Data Friza/App/service-api/src/v1/controller/circles.js",
+				"/A/Data Friza/App/config/config.js",
+				"/C/Windows/System32/drivers/etc/hosts",
 				"/A/Data Friza/App/circledoo-encoder/node_modules/tinycolor2/docs/docco.css",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
@@ -794,24 +811,11 @@
 				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/dashboards/user-form.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/node_modules/waterline-sql-builder/test/unit/sequelizer/sequelizer.distinct.test.js",
 				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/assets/styles/ikan.css",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/blueprints.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Users.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Rooms.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/api/models/Users.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/helpers.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/action-index.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/package.json",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js"
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js"
 			],
 			"find":
 			{
-				"height": 65.0
+				"height": 54.0
 			},
 			"find_in_files":
 			{
@@ -825,6 +829,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					";",
+					"partner",
 					"    border-radius: 2em;\n",
 					"65",
 					"tag--small",
@@ -886,7 +892,7 @@
 			},
 			"input":
 			{
-				"height": 46.0
+				"height": 47.0
 			},
 			"menu_visible": false,
 			"output.find_results":
@@ -906,12 +912,24 @@
 				"selected_items":
 				[
 					[
-						".vue",
-						"streamer\\src\\renderer\\components\\LandingPage.vue"
+						"packa",
+						"hiu-koa\\package.json"
+					],
+					[
+						"routes",
+						"no-frontend\\config\\routes.js"
 					],
 					[
 						"package",
-						"streamer\\package.json"
+						"circledoo-business\\package.json"
+					],
+					[
+						"circles",
+						"service-api\\src\\v1\\controller\\circles.js"
+					],
+					[
+						".vue",
+						"streamer\\src\\renderer\\components\\LandingPage.vue"
 					],
 					[
 						".css",
@@ -1156,10 +1174,6 @@
 					[
 						"profile/sty",
 						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
-					],
-					[
-						"packa",
-						"circledoo-frontend-demo\\package.json"
 					],
 					[
 						"category",
@@ -1408,14 +1422,6 @@
 					[
 						"config.js",
 						"src\\tools\\config.js"
-					],
-					[
-						"step",
-						"src\\pages\\circle\\step\\FormStep2.js"
-					],
-					[
-						"classes/in",
-						"src\\pages\\classes\\index.js"
 					]
 				],
 				"width": 0.0
@@ -1468,7 +1474,7 @@
 			{
 			}
 		},
-		"new_window_width": 993.0
+		"new_window_width": 992.0
 	},
 	"windows":
 	[
@@ -1477,6 +1483,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"con",
+						"config"
+					],
+					[
+						"p",
+						"PORT"
+					],
 					[
 						"b",
 						"brightness()\tfilter"
@@ -1980,14 +1994,6 @@
 					[
 						"u",
 						"users"
-					],
-					[
-						"he",
-						"height"
-					],
-					[
-						"form",
-						"FormSearchBox"
 					]
 				]
 			},
@@ -2115,6 +2121,19 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/koa/hiu-koa/app/.gitignore",
+				"/A/Data Friza/App/koa/hiu-koa/config/.gitkeep",
+				"/A/Data Friza/App/koa/hiu-koa/app/.gitkeep",
+				"/A/Data Friza/App/sails/minimal/config/routes.js",
+				"/A/Data Friza/App/sails/no-frontend/config/routes.js",
+				"/A/Data Friza/App/circledoo-business/package.json",
+				"/A/Data Friza/App/circledoo-business/.gitignore",
+				"/A/Data Friza/App/circledoo-business/firebase.json",
+				"/A/Data Friza/App/circledoo-business/server.js",
+				"/A/Data Friza/App/streamer/package.json",
+				"/A/Data Friza/App/service-api/src/v1/controller/circles.js",
+				"/A/Data Friza/App/config/config.js",
+				"/C/Windows/System32/drivers/etc/hosts",
 				"/A/Data Friza/App/circledoo-encoder/node_modules/tinycolor2/docs/docco.css",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
@@ -2229,24 +2248,11 @@
 				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/dashboards/user-form.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/node_modules/waterline-sql-builder/test/unit/sequelizer/sequelizer.distinct.test.js",
 				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/assets/styles/ikan.css",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/blueprints.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Users.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/models/Rooms.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/api/models/Users.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/helpers.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/routes.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/action-index.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/package.json",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/datastores.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/models.js",
-				"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp/config/routes.js"
+				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js"
 			],
 			"find":
 			{
-				"height": 65.0
+				"height": 54.0
 			},
 			"find_in_files":
 			{
@@ -2260,6 +2266,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					";",
+					"partner",
 					"    border-radius: 2em;\n",
 					"65",
 					"tag--small",
@@ -2321,7 +2329,7 @@
 			},
 			"input":
 			{
-				"height": 46.0
+				"height": 47.0
 			},
 			"layout":
 			{
@@ -2351,7 +2359,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,775,364,0,1373",
+			"position": "0,0,1,-1,-1,-1,-1,775,365,0,1373",
 			"replace":
 			{
 				"height": 50.0
@@ -2364,12 +2372,24 @@
 				"selected_items":
 				[
 					[
-						".vue",
-						"streamer\\src\\renderer\\components\\LandingPage.vue"
+						"packa",
+						"hiu-koa\\package.json"
+					],
+					[
+						"routes",
+						"no-frontend\\config\\routes.js"
 					],
 					[
 						"package",
-						"streamer\\package.json"
+						"circledoo-business\\package.json"
+					],
+					[
+						"circles",
+						"service-api\\src\\v1\\controller\\circles.js"
+					],
+					[
+						".vue",
+						"streamer\\src\\renderer\\components\\LandingPage.vue"
 					],
 					[
 						".css",
@@ -2614,10 +2634,6 @@
 					[
 						"profile/sty",
 						"circledoo-frontend-demo\\src\\pages\\profile\\style.css"
-					],
-					[
-						"packa",
-						"circledoo-frontend-demo\\package.json"
 					],
 					[
 						"category",
@@ -2866,14 +2882,6 @@
 					[
 						"config.js",
 						"src\\tools\\config.js"
-					],
-					[
-						"step",
-						"src\\pages\\circle\\step\\FormStep2.js"
-					],
-					[
-						"classes/in",
-						"src\\pages\\classes\\index.js"
 					]
 				],
 				"width": 0.0
@@ -2935,6 +2943,8 @@
 	{
 		"recent_workspaces":
 		[
+			"/A/Data Friza/App/hiu-text-project/streamer.sublime-workspace",
+			"/A/Data Friza/App/hiu-text-project/service-api.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/circledoo.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-env.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/1.sublime-workspace",
