@@ -1,6 +1,13 @@
 {
 	"folder_history":
 	[
+		"/A/Data Friza/App/partner-app-adira/server/koa",
+		"/A/Data Friza/App/partner-app-adira/server/sails",
+		"/A/Data Friza/App/partner-app-adira/server",
+		"/A/Data Friza/App/partner-app-adira",
+		"/A/Data Friza/App/jidesha",
+		"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin",
+		"/A/Data Friza/App/jitsi-meet",
 		"/A/Data Friza/App/koa/hiu-koa",
 		"/A/Data Friza/App/sails/no-frontend",
 		"/A/Data Friza/App/sails/minimal",
@@ -11,9 +18,6 @@
 		"/A/Data Friza/App/service-api",
 		"/A/Data Friza/App/lib-jitsi-meet",
 		"/A/Data Friza/App/circledoo-frontend-demo",
-		"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin",
-		"/A/Data Friza/App/partner-app-adira",
-		"/A/Data Friza/App/jidesha",
 		"/A/Data Friza/App/partner-app",
 		"/A/hiuData/hiuWEB/App/work/circledoo/service-realtime",
 		"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/report-query",
@@ -36,7 +40,7 @@
 		"/A/hiuData/hiuWEB/App/forked"
 	],
 	"last_version": 3176,
-	"last_window_id": 150,
+	"last_window_id": 151,
 	"log_indexing": false,
 	"settings":
 	{
@@ -47,6 +51,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"a",
+						"axios"
+					],
+					[
+						"rou",
+						"router"
+					],
+					[
+						"re",
+						"Router"
+					],
 					[
 						"con",
 						"config"
@@ -74,10 +90,6 @@
 					[
 						"al",
 						"align-items"
-					],
-					[
-						"a",
-						"auto"
 					],
 					[
 						"bac",
@@ -400,10 +412,6 @@
 						"encodeURIComponent"
 					],
 					[
-						"re",
-						"reviews"
-					],
-					[
 						"profile",
 						"profileStar"
 					],
@@ -554,10 +562,6 @@
 					[
 						"as",
 						"async"
-					],
-					[
-						"u",
-						"users"
 					]
 				]
 			},
@@ -684,6 +688,16 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/partner-app-adira/server/sails/config/globals.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/UsersController.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/sails/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/koa/.gitignore",
+				"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin/pssh.cmd",
+				"/A/Data Friza/App/jidesha/chrome/manifest.json",
+				"/A/Data Friza/App/jidesha/chrome/README.md",
+				"/A/Data Friza/App/jidesha/chrome/logo.zip",
 				"/A/Data Friza/App/koa/hiu-koa/app/.gitignore",
 				"/A/Data Friza/App/koa/hiu-koa/config/.gitkeep",
 				"/A/Data Friza/App/koa/hiu-koa/app/.gitkeep",
@@ -710,7 +724,6 @@
 				"/A/Data Friza/App/circledoo-frontend-demo/src/utils/helper.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/public/index.html",
 				"/A/Data Friza/App/circledoo-frontend-demo/build/index.html",
-				"/A/Data Friza/App/jidesha/chrome/manifest.json",
 				"/A/Data Friza/App/circledoo-frontend-demo/build/asset-manifest.json",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/explore.js",
@@ -802,16 +815,7 @@
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/dashboard.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/UsersController.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout-dashboard.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-manage.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/modal-confirm-delete-room.ejs",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/dashboards/user-form.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/node_modules/waterline-sql-builder/test/unit/sequelizer/sequelizer.distinct.test.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js"
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js"
 			],
 			"find":
 			{
@@ -829,6 +833,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"R.",
+					"R",
+					"router.",
+					"Router",
+					"router",
+					"app.use(_.",
+					"Jitsi Meet",
+					"Jidesha",
 					";",
 					"partner",
 					"    border-radius: 2em;\n",
@@ -912,12 +924,28 @@
 				"selected_items":
 				[
 					[
+						"classes",
+						"sails\\api\\controllers\\ClassesController.js"
+					],
+					[
 						"packa",
-						"hiu-koa\\package.json"
+						"koa\\package.json"
+					],
+					[
+						"globals",
+						"sails\\config\\globals.js"
 					],
 					[
 						"routes",
-						"no-frontend\\config\\routes.js"
+						"sails\\config\\routes.js"
+					],
+					[
+						"sails/pa",
+						"sails\\package.json"
+					],
+					[
+						"",
+						"koa\\package.json"
 					],
 					[
 						"package",
@@ -1134,10 +1162,6 @@
 					[
 						"recomend",
 						"circledoo-frontend-demo\\src\\components\\Recommendation.js"
-					],
-					[
-						"classes",
-						"frontend-mobile-app\\src\\pages\\ClassesPage.js"
 					],
 					[
 						"cla",
@@ -1410,18 +1434,6 @@
 					[
 						"circle",
 						"src\\pages\\what-is\\circledoo.js"
-					],
-					[
-						"sear",
-						"src\\components\\SearchBox.js"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"config.js",
-						"src\\tools\\config.js"
 					]
 				],
 				"width": 0.0
@@ -1474,7 +1486,7 @@
 			{
 			}
 		},
-		"new_window_width": 992.0
+		"new_window_width": 998.0
 	},
 	"windows":
 	[
@@ -1483,6 +1495,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"a",
+						"axios"
+					],
+					[
+						"rou",
+						"router"
+					],
+					[
+						"re",
+						"Router"
+					],
 					[
 						"con",
 						"config"
@@ -1510,10 +1534,6 @@
 					[
 						"al",
 						"align-items"
-					],
-					[
-						"a",
-						"auto"
 					],
 					[
 						"bac",
@@ -1836,10 +1856,6 @@
 						"encodeURIComponent"
 					],
 					[
-						"re",
-						"reviews"
-					],
-					[
 						"profile",
 						"profileStar"
 					],
@@ -1990,10 +2006,6 @@
 					[
 						"as",
 						"async"
-					],
-					[
-						"u",
-						"users"
 					]
 				]
 			},
@@ -2121,6 +2133,16 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/partner-app-adira/server/sails/config/globals.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/UsersController.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/sails/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/koa/.gitignore",
+				"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin/pssh.cmd",
+				"/A/Data Friza/App/jidesha/chrome/manifest.json",
+				"/A/Data Friza/App/jidesha/chrome/README.md",
+				"/A/Data Friza/App/jidesha/chrome/logo.zip",
 				"/A/Data Friza/App/koa/hiu-koa/app/.gitignore",
 				"/A/Data Friza/App/koa/hiu-koa/config/.gitkeep",
 				"/A/Data Friza/App/koa/hiu-koa/app/.gitkeep",
@@ -2147,7 +2169,6 @@
 				"/A/Data Friza/App/circledoo-frontend-demo/src/utils/helper.js",
 				"/A/Data Friza/App/circledoo-frontend-demo/public/index.html",
 				"/A/Data Friza/App/circledoo-frontend-demo/build/index.html",
-				"/A/Data Friza/App/jidesha/chrome/manifest.json",
 				"/A/Data Friza/App/circledoo-frontend-demo/build/asset-manifest.json",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/explore.js",
@@ -2239,16 +2260,7 @@
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
 				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/dashboard.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/api/controllers/UsersController.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/layouts/layout-dashboard.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-manage.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/partials/modal-confirm-delete-room.ejs",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/dashboards/user-form.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/node_modules/waterline-sql-builder/test/unit/sequelizer/sequelizer.distinct.test.js",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/config/blueprints.js"
+				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js"
 			],
 			"find":
 			{
@@ -2266,6 +2278,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"R.",
+					"R",
+					"router.",
+					"Router",
+					"router",
+					"app.use(_.",
+					"Jitsi Meet",
+					"Jidesha",
 					";",
 					"partner",
 					"    border-radius: 2em;\n",
@@ -2359,7 +2379,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,775,365,0,1373",
+			"position": "0,0,1,-1,-1,-1,-1,775,359,0,1373",
 			"replace":
 			{
 				"height": 50.0
@@ -2372,12 +2392,28 @@
 				"selected_items":
 				[
 					[
+						"classes",
+						"sails\\api\\controllers\\ClassesController.js"
+					],
+					[
 						"packa",
-						"hiu-koa\\package.json"
+						"koa\\package.json"
+					],
+					[
+						"globals",
+						"sails\\config\\globals.js"
 					],
 					[
 						"routes",
-						"no-frontend\\config\\routes.js"
+						"sails\\config\\routes.js"
+					],
+					[
+						"sails/pa",
+						"sails\\package.json"
+					],
+					[
+						"",
+						"koa\\package.json"
 					],
 					[
 						"package",
@@ -2594,10 +2630,6 @@
 					[
 						"recomend",
 						"circledoo-frontend-demo\\src\\components\\Recommendation.js"
-					],
-					[
-						"classes",
-						"frontend-mobile-app\\src\\pages\\ClassesPage.js"
 					],
 					[
 						"cla",
@@ -2870,18 +2902,6 @@
 					[
 						"circle",
 						"src\\pages\\what-is\\circledoo.js"
-					],
-					[
-						"sear",
-						"src\\components\\SearchBox.js"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"config.js",
-						"src\\tools\\config.js"
 					]
 				],
 				"width": 0.0
