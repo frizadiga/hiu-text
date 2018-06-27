@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/A/Data Friza/App/service-api",
 		"/A/Data Friza/App/partner-app-adira/server/koa",
 		"/A/Data Friza/App/partner-app-adira/server/sails",
 		"/A/Data Friza/App/partner-app-adira/server",
@@ -15,7 +16,6 @@
 		"/A/Data Friza/App/circledoo-encoder",
 		"/A/Data Friza/App/streamer",
 		"/A/Data Friza/App/circledoo-business",
-		"/A/Data Friza/App/service-api",
 		"/A/Data Friza/App/lib-jitsi-meet",
 		"/A/Data Friza/App/circledoo-frontend-demo",
 		"/A/Data Friza/App/partner-app",
@@ -44,7 +44,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 716.0,
+		"new_window_height": 728.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -52,8 +52,24 @@
 				"selected_items":
 				[
 					[
+						"co",
+						"cors"
+					],
+					[
+						"cl",
+						"Classes"
+					],
+					[
+						"k",
+						"knex"
+					],
+					[
 						"a",
-						"axios"
+						"apiURL"
+					],
+					[
+						"us",
+						"UsersController"
 					],
 					[
 						"rou",
@@ -98,10 +114,6 @@
 					[
 						"fle",
 						"flex-start"
-					],
-					[
-						"co",
-						"connected"
 					],
 					[
 						"ta",
@@ -182,10 +194,6 @@
 					[
 						"eve",
 						"eventTime"
-					],
-					[
-						"cl",
-						"className"
 					],
 					[
 						"user",
@@ -554,14 +562,6 @@
 					[
 						"Ci",
 						"CircleMaps"
-					],
-					[
-						"li",
-						"Link"
-					],
-					[
-						"as",
-						"async"
 					]
 				]
 			},
@@ -688,10 +688,29 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/UsersController.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/routes/index.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/ClassesController.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/config/db.js",
+				"/A/Data Friza/App/service-api/src/v1/helpers/model.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/config/globals.js",
+				"/A/Data Friza/App/service-api/src/v1/controller/users.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/swagger.json",
+				"/A/Data Friza/App/service-api/server.js",
+				"/A/Data Friza/App/service-api/db.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/ClassesController.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/node_modules/sails/test/integration/router.specifiedRoutes.test.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Classes.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Users.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/routers/index.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/config/http.js",
 				"/A/Data Friza/App/partner-app-adira/server/sails/config/globals.js",
 				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/UsersController.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/.gitkeep",
 				"/A/Data Friza/App/partner-app-adira/server/sails/package.json",
 				"/A/Data Friza/App/partner-app-adira/server/koa/.gitignore",
 				"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin/pssh.cmd",
@@ -796,26 +815,7 @@
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/.env",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep2.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/SearchBox.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormSignUp.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/signup.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/circledoo_prod_db.sql",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/edit2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/tools/config.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Maps.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/AutoRegister.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/login.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormLogin.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin-bak.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/CircleMaps.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep1.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ExistingClass.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalClass.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js"
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js"
 			],
 			"find":
 			{
@@ -833,6 +833,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					",",
+					".js",
+					"const ",
+					"const knex = require('knex')({\n  client: 'mysql2',\n  connection: {\n    host: 'db.circledoo.com',\n    user: 'root',\n    password: 'NcgYP=n6_Q\\H?kWV',\n    database: 'circledoo_prod_db',\n  }\n})",
+					"Controller",
+					"req.",
+					"', ",
+					"Users",
 					"R.",
 					"R",
 					"router.",
@@ -924,20 +932,64 @@
 				"selected_items":
 				[
 					[
-						"classes",
-						"sails\\api\\controllers\\ClassesController.js"
+						"app",
+						"koa\\app.js"
+					],
+					[
+						"global",
+						"koa\\config\\globals.js"
+					],
+					[
+						"users",
+						"service-api\\src\\v1\\controller\\users.js"
 					],
 					[
 						"packa",
 						"koa\\package.json"
 					],
 					[
-						"globals",
-						"sails\\config\\globals.js"
+						"ser",
+						"service-api\\server.js"
+					],
+					[
+						"class",
+						"koa\\app\\controllers\\Classes.js"
+					],
+					[
+						"classe",
+						"sails\\api\\controllers\\ClassesController.js"
+					],
+					[
+						"d",
+						"service-api\\db.js"
+					],
+					[
+						"routes/",
+						"koa\\app\\routes\\index.js"
 					],
 					[
 						"routes",
-						"sails\\config\\routes.js"
+						"sails\\node_modules\\sails\\test\\integration\\router.specifiedRoutes.test.js"
+					],
+					[
+						"classes",
+						"koa\\app\\models\\Classes.js"
+					],
+					[
+						"model",
+						"service-api\\src\\v1\\helpers\\model.js"
+					],
+					[
+						"db.js",
+						"koa\\config\\db.js"
+					],
+					[
+						"http",
+						"sails\\config\\http.js"
+					],
+					[
+						"globals",
+						"sails\\config\\globals.js"
 					],
 					[
 						"sails/pa",
@@ -1144,14 +1196,6 @@
 						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
 					],
 					[
-						"app",
-						"circledoo-frontend-demo\\src\\pages\\App.js"
-					],
-					[
-						"class",
-						"circledoo-frontend-demo\\src\\components\\ClassList.js"
-					],
-					[
 						"followi",
 						"circledoo-frontend-demo\\src\\pages\\profile\\followingsList.js"
 					],
@@ -1228,10 +1272,6 @@
 						"service-api\\src\\v1\\router\\users.js"
 					],
 					[
-						"users",
-						"service-api\\src\\v1\\controller\\users.js"
-					],
-					[
 						"live",
 						"circledoo-frontend-demo\\src\\components\\LiveList.js"
 					],
@@ -1270,10 +1310,6 @@
 					[
 						"what-is/",
 						"circledoo-frontend-demo\\src\\pages\\what-is\\circledoo.js"
-					],
-					[
-						"ser",
-						"circledoo-frontend-demo\\server.js"
 					],
 					[
 						"config-dev",
@@ -1364,10 +1400,6 @@
 						"src\\components\\LiveList.js"
 					],
 					[
-						"classe",
-						"src\\pages\\classes\\index.js"
-					],
-					[
 						"cound",
 						"src\\components\\TextCountDown.js"
 					],
@@ -1410,30 +1442,6 @@
 					[
 						"p",
 						"package.json"
-					],
-					[
-						"cirl/show",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"signup",
-						"src\\pages\\auth\\signup.js"
-					],
-					[
-						"profile/ed",
-						"src\\pages\\profile\\edit.js"
-					],
-					[
-						"assets/sty",
-						"src\\assets\\css\\style.css"
-					],
-					[
-						"profile/style",
-						"src\\pages\\profile\\style.css"
-					],
-					[
-						"circle",
-						"src\\pages\\what-is\\circledoo.js"
 					]
 				],
 				"width": 0.0
@@ -1479,14 +1487,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 185.0,
+			"side_bar_visible": false,
+			"side_bar_width": 177.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 998.0
+		"new_window_width": 843.0
 	},
 	"windows":
 	[
@@ -1496,8 +1504,24 @@
 				"selected_items":
 				[
 					[
+						"co",
+						"cors"
+					],
+					[
+						"cl",
+						"Classes"
+					],
+					[
+						"k",
+						"knex"
+					],
+					[
 						"a",
-						"axios"
+						"apiURL"
+					],
+					[
+						"us",
+						"UsersController"
 					],
 					[
 						"rou",
@@ -1542,10 +1566,6 @@
 					[
 						"fle",
 						"flex-start"
-					],
-					[
-						"co",
-						"connected"
 					],
 					[
 						"ta",
@@ -1626,10 +1646,6 @@
 					[
 						"eve",
 						"eventTime"
-					],
-					[
-						"cl",
-						"className"
 					],
 					[
 						"user",
@@ -1998,14 +2014,6 @@
 					[
 						"Ci",
 						"CircleMaps"
-					],
-					[
-						"li",
-						"Link"
-					],
-					[
-						"as",
-						"async"
 					]
 				]
 			},
@@ -2133,10 +2141,29 @@
 			},
 			"file_history":
 			[
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/UsersController.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/routes/index.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/ClassesController.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/config/db.js",
+				"/A/Data Friza/App/service-api/src/v1/helpers/model.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/config/globals.js",
+				"/A/Data Friza/App/service-api/src/v1/controller/users.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/swagger.json",
+				"/A/Data Friza/App/service-api/server.js",
+				"/A/Data Friza/App/service-api/db.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/ClassesController.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/node_modules/sails/test/integration/router.specifiedRoutes.test.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Classes.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Users.js",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/routers/index.js",
+				"/A/Data Friza/App/partner-app-adira/server/sails/config/http.js",
 				"/A/Data Friza/App/partner-app-adira/server/sails/config/globals.js",
 				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/UsersController.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
+				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/.gitkeep",
 				"/A/Data Friza/App/partner-app-adira/server/sails/package.json",
 				"/A/Data Friza/App/partner-app-adira/server/koa/.gitignore",
 				"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin/pssh.cmd",
@@ -2241,26 +2268,7 @@
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/.env",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep2.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/SearchBox.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormSignUp.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/signup.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/circledoo_prod_db.sql",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/edit2.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/tools/config.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Maps.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/AutoRegister.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/auth/login.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/auth/FormLogin.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalLogin-bak.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/CircleMaps.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/FormStep1.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ExistingClass.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ModalClass.js",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/rooms-new.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/roomNew.ejs",
-				"/A/hiuData/hiuWEB/App/exp/2359-hotel/views/pages/room-new.ejs",
-				"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails/config/models.js"
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header2.js"
 			],
 			"find":
 			{
@@ -2278,6 +2286,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					",",
+					".js",
+					"const ",
+					"const knex = require('knex')({\n  client: 'mysql2',\n  connection: {\n    host: 'db.circledoo.com',\n    user: 'root',\n    password: 'NcgYP=n6_Q\\H?kWV',\n    database: 'circledoo_prod_db',\n  }\n})",
+					"Controller",
+					"req.",
+					"', ",
+					"Users",
 					"R.",
 					"R",
 					"router.",
@@ -2379,7 +2395,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,775,359,0,1373",
+			"position": "0,0,1,-1,-1,-1,-1,779,299,-7,1158",
 			"replace":
 			{
 				"height": 50.0
@@ -2392,20 +2408,64 @@
 				"selected_items":
 				[
 					[
-						"classes",
-						"sails\\api\\controllers\\ClassesController.js"
+						"app",
+						"koa\\app.js"
+					],
+					[
+						"global",
+						"koa\\config\\globals.js"
+					],
+					[
+						"users",
+						"service-api\\src\\v1\\controller\\users.js"
 					],
 					[
 						"packa",
 						"koa\\package.json"
 					],
 					[
-						"globals",
-						"sails\\config\\globals.js"
+						"ser",
+						"service-api\\server.js"
+					],
+					[
+						"class",
+						"koa\\app\\controllers\\Classes.js"
+					],
+					[
+						"classe",
+						"sails\\api\\controllers\\ClassesController.js"
+					],
+					[
+						"d",
+						"service-api\\db.js"
+					],
+					[
+						"routes/",
+						"koa\\app\\routes\\index.js"
 					],
 					[
 						"routes",
-						"sails\\config\\routes.js"
+						"sails\\node_modules\\sails\\test\\integration\\router.specifiedRoutes.test.js"
+					],
+					[
+						"classes",
+						"koa\\app\\models\\Classes.js"
+					],
+					[
+						"model",
+						"service-api\\src\\v1\\helpers\\model.js"
+					],
+					[
+						"db.js",
+						"koa\\config\\db.js"
+					],
+					[
+						"http",
+						"sails\\config\\http.js"
+					],
+					[
+						"globals",
+						"sails\\config\\globals.js"
 					],
 					[
 						"sails/pa",
@@ -2612,14 +2672,6 @@
 						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
 					],
 					[
-						"app",
-						"circledoo-frontend-demo\\src\\pages\\App.js"
-					],
-					[
-						"class",
-						"circledoo-frontend-demo\\src\\components\\ClassList.js"
-					],
-					[
 						"followi",
 						"circledoo-frontend-demo\\src\\pages\\profile\\followingsList.js"
 					],
@@ -2696,10 +2748,6 @@
 						"service-api\\src\\v1\\router\\users.js"
 					],
 					[
-						"users",
-						"service-api\\src\\v1\\controller\\users.js"
-					],
-					[
 						"live",
 						"circledoo-frontend-demo\\src\\components\\LiveList.js"
 					],
@@ -2738,10 +2786,6 @@
 					[
 						"what-is/",
 						"circledoo-frontend-demo\\src\\pages\\what-is\\circledoo.js"
-					],
-					[
-						"ser",
-						"circledoo-frontend-demo\\server.js"
 					],
 					[
 						"config-dev",
@@ -2832,10 +2876,6 @@
 						"src\\components\\LiveList.js"
 					],
 					[
-						"classe",
-						"src\\pages\\classes\\index.js"
-					],
-					[
 						"cound",
 						"src\\components\\TextCountDown.js"
 					],
@@ -2878,30 +2918,6 @@
 					[
 						"p",
 						"package.json"
-					],
-					[
-						"cirl/show",
-						"src\\pages\\circle\\show.js"
-					],
-					[
-						"signup",
-						"src\\pages\\auth\\signup.js"
-					],
-					[
-						"profile/ed",
-						"src\\pages\\profile\\edit.js"
-					],
-					[
-						"assets/sty",
-						"src\\assets\\css\\style.css"
-					],
-					[
-						"profile/style",
-						"src\\pages\\profile\\style.css"
-					],
-					[
-						"circle",
-						"src\\pages\\what-is\\circledoo.js"
 					]
 				],
 				"width": 0.0
@@ -2950,8 +2966,8 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 185.0,
+			"side_bar_visible": false,
+			"side_bar_width": 177.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
