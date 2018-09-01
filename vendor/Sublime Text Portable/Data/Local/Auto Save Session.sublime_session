@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
+		"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io",
+		"/A/hiuData/hiuWEB/App/exp/vue-exp",
 		"/A/hiuData/hiuWEB/App/hiu/f-api",
 		"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa",
 		"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa",
@@ -31,7 +34,6 @@
 		"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app",
 		"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo",
 		"/D/hiuSoft/Application/hiu-env/hiu-cmd/cmder/bin",
-		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
 		"/A/hiuData/hiuWEB/App/hiu/hiuProperty/hiuProperty-sails",
 		"/A/hiuData/hiuWEB/App/exp/sails-seed-webapp",
 		"/A/hiuData/hiuWEB/App/exp/sails-seed",
@@ -46,11 +48,11 @@
 		"/A/hiuData/hiuWEB/App/forked"
 	],
 	"last_version": 3176,
-	"last_window_id": 152,
+	"last_window_id": 153,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 848.0,
+		"new_window_height": 823.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -58,20 +60,76 @@
 				"selected_items":
 				[
 					[
-						"just",
-						"justify-self"
-					],
-					[
-						"pro",
-						"product__carousel"
+						"margin",
+						"margin-top\tproperty"
 					],
 					[
 						"b",
-						"bottom"
+						"brightness()\tfilter"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"font-s",
+						"font-size\tproperty"
+					],
+					[
+						"tex",
+						"text-align\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"font",
+						"font-family\tproperty"
+					],
+					[
+						"text",
+						"text-transform\tproperty"
+					],
+					[
+						"pro",
+						"ProductssController"
+					],
+					[
+						"bott",
+						"bottom-bar__item"
+					],
+					[
+						"ex",
+						"EXP"
+					],
+					[
+						"f",
+						"FETCH"
+					],
+					[
+						"set",
+						"setIsLoading"
 					],
 					[
 						"se",
-						"search__info-wrapper"
+						"setIsLoading"
+					],
+					[
+						"wi",
+						"withHandlers"
+					],
+					[
+						"c",
+						"componentDidMount"
+					],
+					[
+						"comp",
+						"Comp"
+					],
+					[
+						"just",
+						"justify-self"
 					],
 					[
 						"di",
@@ -84,10 +142,6 @@
 					[
 						"bottom",
 						"bottom-bar"
-					],
-					[
-						"font",
-						"font-size\tproperty"
 					],
 					[
 						"co",
@@ -214,10 +268,6 @@
 						"false"
 					],
 					[
-						"text",
-						"text-transform"
-					],
-					[
 						"even",
 						"eventDate"
 					],
@@ -270,10 +320,6 @@
 						"allClassTags"
 					],
 					[
-						"margin",
-						"margin-bottom"
-					],
-					[
 						"fet",
 						"fetchTypeClassAPI"
 					],
@@ -318,14 +364,6 @@
 						"dataProfilesFilterName"
 					],
 					[
-						"f",
-						"followers"
-					],
-					[
-						"ex",
-						"ExplorerProfiles"
-					],
-					[
 						"sea",
 						"searchtext"
 					],
@@ -346,10 +384,6 @@
 						"padding-left"
 					],
 					[
-						"tex",
-						"text-decoration"
-					],
-					[
 						"bt",
 						"cd-btn"
 					],
@@ -368,10 +402,6 @@
 					[
 						"prof",
 						"profile-section"
-					],
-					[
-						"wid",
-						"width"
 					],
 					[
 						"circl",
@@ -540,34 +570,6 @@
 					[
 						"pr",
 						"props"
-					],
-					[
-						"ret",
-						"redirectTo"
-					],
-					[
-						"L",
-						"Link"
-					],
-					[
-						"l",
-						"long"
-					],
-					[
-						"com",
-						"componentDidMount"
-					],
-					[
-						"Sea",
-						"SearchBox"
-					],
-					[
-						"impot",
-						"important"
-					],
-					[
-						"maker",
-						"makers"
 					]
 				]
 			},
@@ -694,16 +696,60 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/wishlist.js",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/components/hiu-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/layouts/default.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/exp/vue-exp/package.json",
+				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/products/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/ProductCard/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/TopBar/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/package.json",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/product/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/TopBar/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/BottomBar/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/profile/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/_app.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/api/profile.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/node_modules/regenerate-unicode-properties/Binary_Property/Extended_Pictographic.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/.next/bundles/pages/exp.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/registerServiceWorker.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/style.scss",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/routes/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/controller.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/model.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/config/globals.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/lib/FETCH.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/app/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/routes/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/models/Classes.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/controllers/Classes.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/app.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/lib/FnComp.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/BottomBar/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/index/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/profile/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/product/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/lib/utils.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/product.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/wishlist.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/profile.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/components/Layout.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/components/TopBar.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/components/BottomBar.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/cart.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/components/ProductCard.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/search.js",
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/profile.js",
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/cart.js",
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/components/BottomBar.js",
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/components/TopBar.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/utils/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/components/ProductList.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/package.json",
@@ -777,51 +823,7 @@
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/styles/card.css",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/FeaturedVideos.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ClassList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ClassCard.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/TeacherProfile.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/index.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/components/ClassCard.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/TextCountDown.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/tags/classTags.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followingsList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followersList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/skills/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Footer.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/App.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-dev.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/chat/Chat.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/HomePage.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/SearchPage.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/package.json",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Recommendation.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/ClassesPage.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/public/index.html",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/base-ui/styles/ClassCard-styles.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/CategoryList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/skills/styles.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/search.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/helpers/controller.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/search.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/model/users.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/router/users.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/users.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/utils/config.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/blog-content/circledooblog.wordpress.2018-04-03.xml",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ClassListOnsite.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/LiveList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/create.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/step/StepProgramType.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-prod.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/blog/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/DB-Backup/type_circles.sql",
-				"/A/hiuData/hiuWEB/App/work/circledoo/service-api/src/v1/controller/circles.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/circledoo.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/what-is/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/server.js"
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js"
 			],
 			"find":
 			{
@@ -839,6 +841,25 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"webpack\"",
+					"webpack",
+					"webpack: ",
+					"webpack :",
+					"webpack:",
+					"hiu-pic",
+					"hiuPic",
+					"friza",
+					"frizadiga",
+					"webpack",
+					"33vw",
+					"Classes",
+					"classes",
+					"Classes",
+					"../",
+					"ClassesController",
+					"/profile",
+					"as=",
+					"fas",
 					"cart__shop-now",
 					"wishlist__shop-now",
 					".wishlist__shop-now",
@@ -949,8 +970,88 @@
 				"selected_items":
 				[
 					[
+						"hiu",
+						"hiuwave.github.io\\src\\components\\hiu-logo.vue"
+					],
+					[
+						"hiulogo",
+						"hiuwave.github.io\\src\\components\\hiu-logo.vue"
+					],
+					[
+						"nuxt",
+						"frizadiga.github.io\\nuxt.config.js"
+					],
+					[
+						"package",
+						"frizadiga.github.io\\package.json"
+					],
+					[
 						"topbar",
-						"vip-plaza-pwa\\components\\TopBar.js"
+						"pwa\\components\\TopBar\\style.scss"
+					],
+					[
+						"productcard",
+						"pwa\\components\\ProductCard\\style.scss"
+					],
+					[
+						"product",
+						"pwa\\pages\\product\\style.scss"
+					],
+					[
+						"products/st",
+						"pwa\\pages\\products\\style.scss"
+					],
+					[
+						"profile/",
+						"pwa\\pages\\profile\\style.scss"
+					],
+					[
+						"bottombar/",
+						"pwa\\components\\BottomBar\\index.js"
+					],
+					[
+						"exp/",
+						"pwa\\pages\\exp\\index.js"
+					],
+					[
+						"exp",
+						"pwa\\node_modules\\regenerate-unicode-properties\\Binary_Property\\Extended_Pictographic.js"
+					],
+					[
+						"pages/exp",
+						"pwa\\.next\\bundles\\pages\\exp.js"
+					],
+					[
+						"_app",
+						"pwa\\pages\\_app.js"
+					],
+					[
+						"bottom",
+						"pwa\\components\\BottomBar\\index.js"
+					],
+					[
+						"component/ex",
+						"components\\EXP\\index.js"
+					],
+					[
+						"pages/indexindex",
+						"pages\\index\\index.js"
+					],
+					[
+						"bottombar",
+						"components\\BottomBar\\index.js"
+					],
+					[
+						"EXP/",
+						"components\\EXP\\index.js"
+					],
+					[
+						"product/sty",
+						"pwa\\pages\\product\\style.scss"
+					],
+					[
+						"product/ind",
+						"pwa\\pages\\product\\index.js"
 					],
 					[
 						"botto",
@@ -973,10 +1074,6 @@
 						"vip-plaza-pwa\\pages\\wishlist.js"
 					],
 					[
-						"product",
-						"vip-plaza-pwa\\pages\\product.js"
-					],
-					[
 						"utils",
 						"vip-plaza-pwa\\lib\\utils.js"
 					],
@@ -991,10 +1088,6 @@
 					[
 						"class",
 						"f-api\\src\\controllers\\Classes.js"
-					],
-					[
-						"package",
-						"f-api\\package.json"
 					],
 					[
 						"sear",
@@ -1147,14 +1240,6 @@
 					[
 						"circle/st",
 						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
-					],
-					[
-						"profile/",
-						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
-					],
-					[
-						"exp",
-						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
 					],
 					[
 						"styles/",
@@ -1395,70 +1480,6 @@
 					[
 						"home/index",
 						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
-					],
-					[
-						"index.html",
-						"circledoo-frontend-demo\\public\\index.html"
-					],
-					[
-						"share",
-						"circledoo-frontend-demo\\src\\components\\ShareButton.js"
-					],
-					[
-						"stepbas",
-						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepBasicInfo.js"
-					],
-					[
-						"sho",
-						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
-					],
-					[
-						"profile/i",
-						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
-					],
-					[
-						"search/in",
-						"circledoo-frontend-demo\\src\\pages\\search\\index.js"
-					],
-					[
-						"useritem",
-						"circledoo-frontend-demo\\src\\components\\list\\UserItem.js"
-					],
-					[
-						"style",
-						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
-					],
-					[
-						"profile/inde",
-						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
-					],
-					[
-						"banner",
-						"src\\components\\BannerSlide.js"
-					],
-					[
-						"countdown",
-						"src\\components\\TextCountDown.js"
-					],
-					[
-						"serialcard",
-						"src\\components\\card\\SerialCard.js"
-					],
-					[
-						"profile/edit",
-						"src\\pages\\profile\\edit.js"
-					],
-					[
-						"edit",
-						"src\\pages\\profile\\edit.js"
-					],
-					[
-						"livelist",
-						"src\\components\\LiveList.js"
-					],
-					[
-						"cound",
-						"src\\components\\TextCountDown.js"
 					]
 				],
 				"width": 0.0
@@ -1511,7 +1532,7 @@
 			{
 			}
 		},
-		"new_window_width": 1124.0
+		"new_window_width": 939.0
 	},
 	"windows":
 	[
@@ -1520,6 +1541,38 @@
 			{
 				"selected_items":
 				[
+					[
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"b",
+						"brightness()\tfilter"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"font-s",
+						"font-size\tproperty"
+					],
+					[
+						"tex",
+						"text-align\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"font",
+						"font-family\tproperty"
+					],
+					[
+						"text",
+						"text-transform\tproperty"
+					],
 					[
 						"pro",
 						"ProductssController"
@@ -1561,10 +1614,6 @@
 						"justify-self"
 					],
 					[
-						"b",
-						"bottom"
-					],
-					[
 						"di",
 						"div"
 					],
@@ -1575,10 +1624,6 @@
 					[
 						"bottom",
 						"bottom-bar"
-					],
-					[
-						"font",
-						"font-size\tproperty"
 					],
 					[
 						"co",
@@ -1705,10 +1750,6 @@
 						"false"
 					],
 					[
-						"text",
-						"text-transform"
-					],
-					[
 						"even",
 						"eventDate"
 					],
@@ -1759,10 +1800,6 @@
 					[
 						"alltag",
 						"allClassTags"
-					],
-					[
-						"margin",
-						"margin-bottom"
 					],
 					[
 						"fet",
@@ -1829,10 +1866,6 @@
 						"padding-left"
 					],
 					[
-						"tex",
-						"text-decoration"
-					],
-					[
 						"bt",
 						"cd-btn"
 					],
@@ -1851,10 +1884,6 @@
 					[
 						"prof",
 						"profile-section"
-					],
-					[
-						"wid",
-						"width"
 					],
 					[
 						"circl",
@@ -2023,66 +2052,24 @@
 					[
 						"pr",
 						"props"
-					],
-					[
-						"ret",
-						"redirectTo"
-					],
-					[
-						"L",
-						"Link"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/package.json",
+					"file": "/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/nuxt.config.js",
 					"settings":
 					{
-						"buffer_size": 892,
+						"buffer_size": 881,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/BottomBar/index.js",
+					"file": "/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 					"settings":
 					{
-						"buffer_size": 942,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/index.js",
-					"settings":
-					{
-						"buffer_size": 924,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/style.scss",
-					"settings":
-					{
-						"buffer_size": 38,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/style.scss",
-					"settings":
-					{
-						"buffer_size": 564,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/index.js",
-					"settings":
-					{
-						"buffer_size": 1031,
+						"buffer_size": 84,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -2212,12 +2199,38 @@
 			},
 			"expanded_folders":
 			[
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa"
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io"
 			],
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/f-api/package.json",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/components/hiu-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/layouts/default.vue",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/exp/vue-exp/package.json",
+				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/products/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/ProductCard/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/TopBar/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/package.json",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/product/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/TopBar/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/BottomBar/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/profile/style.scss",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/_app.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/api/profile.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/node_modules/regenerate-unicode-properties/Binary_Property/Extended_Pictographic.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/.next/bundles/pages/exp.js",
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/registerServiceWorker.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/style.scss",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/package.json",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/routes/index.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/controller.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/model.js",
@@ -2229,13 +2242,10 @@
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/controllers/Classes.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/app.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/lib/FnComp.js",
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/BottomBar/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/BottomBar/style.scss",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/index/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/profile/index.js",
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/product/index.js",
-				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/product/style.scss",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/lib/utils.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/product.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa/pages/wishlist.js",
@@ -2320,30 +2330,7 @@
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/styles/card.css",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/FeaturedVideos.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/ClassList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/ClassCard.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/card/TeacherProfile.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/index.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/components/ClassCard.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/TextCountDown.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/tags/classTags.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followingsList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/followersList.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/skills/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Footer.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/App.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/utils/config-dev.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/chat/Chat.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/HomePage.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/SearchPage.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/package.json",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Recommendation.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/pages/ClassesPage.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/public/index.html",
-				"/A/hiuData/hiuWEB/App/work/circledoo/frontend-mobile-app/src/base-ui/styles/ClassCard-styles.js"
+				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js"
 			],
 			"find":
 			{
@@ -2361,6 +2348,17 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"webpack\"",
+					"webpack",
+					"webpack: ",
+					"webpack :",
+					"webpack:",
+					"hiu-pic",
+					"hiuPic",
+					"friza",
+					"frizadiga",
+					"webpack",
+					"33vw",
 					"Classes",
 					"classes",
 					"Classes",
@@ -2456,10 +2454,7 @@
 			"folders":
 			[
 				{
-					"path": "A:\\hiuData\\hiuWEB\\App\\hiu\\f-api"
-				},
-				{
-					"path": "A:\\hiuData\\hiuWEB\\App\\work\\vip-plaza\\pwa"
+					"path": "A:\\hiuData\\hiuWEB\\App\\exp\\frizadiga.github.io"
 				}
 			],
 			"groups":
@@ -2470,55 +2465,26 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/package.json",
+							"file": "/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/nuxt.config.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 892,
+								"buffer_size": 881,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										519,
-										519
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 48.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/BottomBar/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 942,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										128,
-										128
+										686,
+										686
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2526,126 +2492,35 @@
 							},
 							"stack_index": 1,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
+						},
 						{
-							"buffer": 2,
-							"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/index.js",
+							"buffer": 1,
+							"file": "/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 924,
+								"buffer_size": 84,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										759,
-										759
+										31,
+										31
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 288.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/style.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 38,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										38,
-										38
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/SCSS/SCSS.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/style.scss",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 564,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/SCSS/SCSS.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1031,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										712,
-										712
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 576.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -2668,12 +2543,6 @@
 						0,
 						1,
 						1
-					],
-					[
-						0,
-						1,
-						1,
-						2
 					]
 				],
 				"cols":
@@ -2684,7 +2553,6 @@
 				"rows":
 				[
 					0.0,
-					0.513033175356,
 					1.0
 				]
 			},
@@ -2694,7 +2562,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,907,1593,0,2763",
+			"position": "0,0,1,-1,-1,-1,-1,907,1593,0,2764",
 			"project": "",
 			"replace":
 			{
@@ -2708,16 +2576,68 @@
 				"selected_items":
 				[
 					[
+						"hiu",
+						"hiuwave.github.io\\src\\components\\hiu-logo.vue"
+					],
+					[
+						"hiulogo",
+						"hiuwave.github.io\\src\\components\\hiu-logo.vue"
+					],
+					[
+						"nuxt",
+						"frizadiga.github.io\\nuxt.config.js"
+					],
+					[
+						"package",
+						"frizadiga.github.io\\package.json"
+					],
+					[
+						"topbar",
+						"pwa\\components\\TopBar\\style.scss"
+					],
+					[
+						"productcard",
+						"pwa\\components\\ProductCard\\style.scss"
+					],
+					[
+						"product",
+						"pwa\\pages\\product\\style.scss"
+					],
+					[
+						"products/st",
+						"pwa\\pages\\products\\style.scss"
+					],
+					[
+						"profile/",
+						"pwa\\pages\\profile\\style.scss"
+					],
+					[
+						"bottombar/",
+						"pwa\\components\\BottomBar\\index.js"
+					],
+					[
+						"exp/",
+						"pwa\\pages\\exp\\index.js"
+					],
+					[
+						"exp",
+						"pwa\\node_modules\\regenerate-unicode-properties\\Binary_Property\\Extended_Pictographic.js"
+					],
+					[
+						"pages/exp",
+						"pwa\\.next\\bundles\\pages\\exp.js"
+					],
+					[
+						"_app",
+						"pwa\\pages\\_app.js"
+					],
+					[
 						"bottom",
 						"pwa\\components\\BottomBar\\index.js"
 					],
 					[
 						"component/ex",
 						"components\\EXP\\index.js"
-					],
-					[
-						"profile/",
-						"pages\\profile\\index.js"
 					],
 					[
 						"pages/indexindex",
@@ -2740,10 +2660,6 @@
 						"pwa\\pages\\product\\index.js"
 					],
 					[
-						"topbar",
-						"vip-plaza-pwa\\components\\TopBar.js"
-					],
-					[
 						"botto",
 						"vip-plaza-pwa\\components\\BottomBar.js"
 					],
@@ -2764,10 +2680,6 @@
 						"vip-plaza-pwa\\pages\\wishlist.js"
 					],
 					[
-						"product",
-						"vip-plaza-pwa\\pages\\product.js"
-					],
-					[
 						"utils",
 						"vip-plaza-pwa\\lib\\utils.js"
 					],
@@ -2782,10 +2694,6 @@
 					[
 						"class",
 						"f-api\\src\\controllers\\Classes.js"
-					],
-					[
-						"package",
-						"f-api\\package.json"
 					],
 					[
 						"sear",
@@ -2938,10 +2846,6 @@
 					[
 						"circle/st",
 						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
-					],
-					[
-						"exp",
-						"circledoo-frontend-demo\\src\\pages\\profile\\explore.js"
 					],
 					[
 						"styles/",
@@ -3182,42 +3086,6 @@
 					[
 						"home/index",
 						"circledoo-frontend-demo\\src\\pages\\homepage\\index.js"
-					],
-					[
-						"index.html",
-						"circledoo-frontend-demo\\public\\index.html"
-					],
-					[
-						"share",
-						"circledoo-frontend-demo\\src\\components\\ShareButton.js"
-					],
-					[
-						"stepbas",
-						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepBasicInfo.js"
-					],
-					[
-						"sho",
-						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
-					],
-					[
-						"profile/i",
-						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
-					],
-					[
-						"search/in",
-						"circledoo-frontend-demo\\src\\pages\\search\\index.js"
-					],
-					[
-						"useritem",
-						"circledoo-frontend-demo\\src\\components\\list\\UserItem.js"
-					],
-					[
-						"style",
-						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
-					],
-					[
-						"profile/inde",
-						"circledoo-frontend-demo\\src\\pages\\profile\\index.js"
 					]
 				],
 				"width": 0.0
@@ -3260,7 +3128,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
