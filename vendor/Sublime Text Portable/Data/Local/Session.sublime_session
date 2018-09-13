@@ -1,8 +1,8 @@
 {
 	"folder_history":
 	[
-		"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io",
 		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
+		"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io",
 		"/A/hiuData/hiuWEB/App/exp/vue-exp",
 		"/A/hiuData/hiuWEB/App/hiu/f-api",
 		"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa",
@@ -52,13 +52,45 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 823.0,
+		"new_window_height": 880.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"fn",
+						"fnChange"
+					],
+					[
+						"f",
+						"fnReverse"
+					],
+					[
+						"r",
+						"fnReverse"
+					],
+					[
+						"al",
+						"align-content\tproperty"
+					],
+					[
+						"font",
+						"font-style\tproperty"
+					],
+					[
+						"fonts",
+						"font-size\tproperty"
+					],
 					[
 						"margin",
 						"margin-top\tproperty"
@@ -84,10 +116,6 @@
 						"text-align\tproperty"
 					],
 					[
-						"font",
-						"font-family\tproperty"
-					],
-					[
 						"text",
 						"text-transform\tproperty"
 					],
@@ -102,10 +130,6 @@
 					[
 						"ex",
 						"EXP"
-					],
-					[
-						"f",
-						"FETCH"
 					],
 					[
 						"set",
@@ -130,10 +154,6 @@
 					[
 						"just",
 						"justify-self"
-					],
-					[
-						"di",
-						"div"
 					],
 					[
 						"bo",
@@ -168,10 +188,6 @@
 						"router"
 					],
 					[
-						"re",
-						"Router"
-					],
-					[
 						"con",
 						"config"
 					],
@@ -186,10 +202,6 @@
 					[
 						"box",
 						"box-shadow"
-					],
-					[
-						"al",
-						"align-items"
 					],
 					[
 						"bac",
@@ -558,18 +570,6 @@
 					[
 						"red",
 						"redirect"
-					],
-					[
-						"redire",
-						"redirectTo"
-					],
-					[
-						"cons",
-						"console"
-					],
-					[
-						"pr",
-						"props"
 					]
 				]
 			},
@@ -583,6 +583,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
 					[
 						"profile",
 						"Plugin Development: Profile Events"
@@ -696,6 +700,7 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/pages/index.vue",
@@ -704,7 +709,6 @@
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
 				"/A/hiuData/hiuWEB/App/exp/vue-exp/package.json",
-				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/products/style.scss",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/ProductCard/style.scss",
@@ -841,6 +845,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"},\n",
+					"}</",
 					"webpack\"",
 					"webpack",
 					"webpack: ",
@@ -1526,13 +1532,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 152.0,
+			"side_bar_width": 160.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 939.0
+		"new_window_width": 1064.0
 	},
 	"windows":
 	[
@@ -1541,6 +1547,38 @@
 			{
 				"selected_items":
 				[
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"fn",
+						"fnChange"
+					],
+					[
+						"f",
+						"fnReverse"
+					],
+					[
+						"r",
+						"fnReverse"
+					],
+					[
+						"al",
+						"align-content\tproperty"
+					],
+					[
+						"font",
+						"font-style\tproperty"
+					],
+					[
+						"fonts",
+						"font-size\tproperty"
+					],
 					[
 						"margin",
 						"margin-top\tproperty"
@@ -1566,10 +1604,6 @@
 						"text-align\tproperty"
 					],
 					[
-						"font",
-						"font-family\tproperty"
-					],
-					[
 						"text",
 						"text-transform\tproperty"
 					],
@@ -1584,10 +1618,6 @@
 					[
 						"ex",
 						"EXP"
-					],
-					[
-						"f",
-						"FETCH"
 					],
 					[
 						"set",
@@ -1612,10 +1642,6 @@
 					[
 						"just",
 						"justify-self"
-					],
-					[
-						"di",
-						"div"
 					],
 					[
 						"bo",
@@ -1650,10 +1676,6 @@
 						"router"
 					],
 					[
-						"re",
-						"Router"
-					],
-					[
 						"con",
 						"config"
 					],
@@ -1668,10 +1690,6 @@
 					[
 						"box",
 						"box-shadow"
-					],
-					[
-						"al",
-						"align-items"
 					],
 					[
 						"bac",
@@ -2040,18 +2058,6 @@
 					[
 						"red",
 						"redirect"
-					],
-					[
-						"redire",
-						"redirectTo"
-					],
-					[
-						"cons",
-						"console"
-					],
-					[
-						"pr",
-						"props"
 					]
 				]
 			},
@@ -2066,6 +2072,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
 					[
 						"profile",
 						"Plugin Development: Profile Events"
@@ -2179,6 +2189,7 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/pages/index.vue",
@@ -2187,7 +2198,6 @@
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
 				"/A/hiuData/hiuWEB/App/exp/vue-exp/package.json",
-				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/products/style.scss",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/ProductCard/style.scss",
@@ -2324,6 +2334,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"},\n",
+					"}</",
 					"webpack\"",
 					"webpack",
 					"webpack: ",
@@ -2463,7 +2475,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,895,1841,13,2796",
+			"position": "0,0,1,-1,-1,-1,-1,918,1602,-20,2682",
 			"replace":
 			{
 				"height": 50.0
@@ -3035,7 +3047,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 152.0,
+			"side_bar_width": 160.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
