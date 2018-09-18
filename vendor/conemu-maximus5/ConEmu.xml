@@ -483,9 +483,9 @@
 			<value name="DndLKey" type="hex" data="00"/>
 			<value name="DndRKey" type="hex" data="a2"/>
 			<value name="WndDragKey" type="dword" data="00121101"/>
-			<key name="Tasks" modified="2018-09-14 01:17:43" build="171205">
-				<value name="Count" type="long" data="5"/>
-				<key name="Task1" modified="2018-09-14 01:17:43" build="171205">
+			<key name="Tasks" modified="2018-09-19 00:03:51" build="171205">
+				<value name="Count" type="long" data="4"/>
+				<key name="Task1" modified="2018-09-19 00:03:51" build="171205">
 					<value name="Name" type="string" data="{ST3}"/>
 					<value name="GuiArgs" type="string" data=""/>
 					<value name="Cmd1" type="string" data="&gt;*-cur_console &quot;vendor\Sublime Text Portable\sublime_text.exe&quot; -a"/>
@@ -494,7 +494,7 @@
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="Flags" type="dword" data="00000000"/>
 				</key>
-				<key name="Task2" modified="2018-09-14 01:17:43" build="171205">
+				<key name="Task2" modified="2018-09-19 00:03:51" build="171205">
 					<value name="Name" type="string" data="{VSC}"/>
 					<value name="GuiArgs" type="string" data=""/>
 					<value name="Cmd1" type="string" data="&gt;*-cur_console &quot;vendor\Microsoft VS Code\Code.exe&quot; -a"/>
@@ -504,7 +504,7 @@
 					<value name="Flags" type="dword" data="00000003"/>
 					<value name="Cmd2" type="string" data="&quot;"/>
 				</key>
-				<key name="Task3" modified="2018-09-14 01:17:43" build="171205">
+				<key name="Task3" modified="2018-09-19 00:03:51" build="171205">
 					<value name="Name" type="string" data="{cmder}"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
@@ -513,17 +513,18 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Flags" type="dword" data="00000004"/>
 				</key>
-				<key name="Task4" modified="2018-09-14 01:17:43" build="171205">
-					<value name="Name" type="string" data="{ST3 + Cmder + Fullscreen}"/>
+				<key name="Task4" modified="2018-09-19 00:03:51" build="171205">
+					<value name="Name" type="string" data="{hiuText}"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
-					<value name="GuiArgs" type="string" data=""/>
+					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
 					<value name="Cmd1" type="string" data="* -cur_console:f -cur_console:d:D:\hiuSoft\Application\hiu-env\hiu-text &quot;vendor\Sublime Text Portable\sublime_text.exe&quot; -a"/>
-					<value name="Cmd2" type="string" data="&gt;* -cur_console:s1T33H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiu-env\hiu-text\icons\cmder.ico cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
+					<value name="Cmd2" type="string" data="&gt;* -cur_console:bs1T30H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiu-env\hiu-text\icons\cmder.ico cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
 					<value name="Active" type="long" data="2"/>
-					<value name="Count" type="long" data="2"/>
-					<value name="Flags" type="dword" data="00000000"/>
+					<value name="Count" type="long" data="3"/>
+					<value name="Flags" type="dword" data="00000004"/>
+					<value name="Cmd3" type="string" data="* -cur_console:s2T50V -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiu-env\hiu-text\icons\cmder.ico cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
 				</key>
-				<key name="Task5" modified="2018-09-14 01:17:43" build="171205">
+				<key name="Task5" modified="2018-09-19 00:02:51" build="171205">
 					<value name="Name" type="string" data="{hiuText}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -694,11 +695,11 @@
 				</key>
 			</key>
 
-			<key name="Apps" modified="2018-09-14 01:17:43" build="171205">
+			<key name="Apps" modified="2018-09-19 00:03:51" build="171205">
 				<value name="Count" type="long" data="0"/>
 			</key>
-			<key name="Colors" modified="2018-09-14 01:17:43" build="171205">
-				<key name="Palette1" modified="2018-09-14 01:17:43" build="171205">
+			<key name="Colors" modified="2018-09-19 00:03:51" build="171205">
+				<key name="Palette1" modified="2018-09-19 00:03:51" build="171205">
 					<value name="Name" type="string" data="Monokai"/>
 					<value name="ExtendColors" type="hex" data="00"/>
 					<value name="ExtendColorIdx" type="hex" data="0e"/>

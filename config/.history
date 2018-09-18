@@ -15,3 +15,13 @@ cd ..
 ls
 cd frizadiga.github.io\
 c:
+cd-p
+cd /d A:\hiuData\hiuWEB\App\exp\frizadiga.github.io 
+cd-p
+cd /d A:\hiuData\hiuWEB\App\exp\frizadiga.github.io 
+sd -h
+cd-app
+cd exp
+cd frizadiga.github.io\
+cd-c
+npm run dev
