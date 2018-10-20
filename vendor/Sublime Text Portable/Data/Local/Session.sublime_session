@@ -48,11 +48,11 @@
 		"/A/hiuData/hiuWEB/App/forked"
 	],
 	"last_version": 3176,
-	"last_window_id": 153,
+	"last_window_id": 158,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 880.0,
+		"new_window_height": 838.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -952,7 +952,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -966,7 +966,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1538,7 +1538,7 @@
 			{
 			}
 		},
-		"new_window_width": 1064.0
+		"new_window_width": 632.0
 	},
 	"windows":
 	[
@@ -2441,7 +2441,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -2475,10 +2475,10 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,918,1602,-20,2682",
+			"position": "0,0,1,-1,-1,-1,-1,910,674,13,1322",
 			"replace":
 			{
-				"height": 50.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
