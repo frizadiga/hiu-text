@@ -30,3 +30,44 @@ ls
 ls
 C:\Users\frizadiga                                                      
                                                    ntuser.dat.LOG2                                                           ntuser.ini                                                                ntuser.pol                                                                source/                                                                                                                                            C:\Users\frizadiga                                                        λ C:\Users\frizadiga                                                                                                                                'C:\Users\frizadiga' is not recognized as an internal or external command ,                                                                         operable program or batch file.                                                                                                                     C:\Users\frizadiga                                                     
+cd-app
+cd hiu
+ls
+cd hiuwave.com\
+cd hiuwave.github.io\
+cd-c
+cd-p
+cd /d A:\hiuData\hiuWEB\App\hiu\f-api 
+git status
+npm i -D nodemon
+cd-p
+cd /d A:\hiuData\hiuWEB\App\hiu\hiuwave.com\hiuwave.github.io 
+ls
+C:\Users\frizadiga                                                      
+                                                   ntuser.dat.LOG2                                                           ntuser.ini                                                                ntuser.pol                                                                source/                                                                                                                                            C:\Users\frizadiga                                                        λ C:\Users\frizadiga                                                                                                                                'C:\Users\frizadiga' is not recognized as an internal or external command ,                                                                         operable program or batch file.                                                                                                                     C:\Users\frizadiga                                                     
+cd-app
+cd hiu
+ls
+cd hiuwave.com\
+cd hiuwave.github.io\
+cd-c
+cd-p
+npm i -D nodemon
+git status -v
+git commit -m "add API_URL env variable"
+git branch
+git checkout -b dev
+git push 
+git push -u origin dev
+git checkout master
+git pull
+git checkout dev
+git push
+cd /d A:\hiuData\hiuWEB\App\hiu\f-api 
+cd-p
+cd /d A:\hiuData\hiuWEB\App\hiu\hiuwave.com\hiuwave.github.io 
+npm out
+git add .
+git status
+git commit -m "update"
+npm run generate
