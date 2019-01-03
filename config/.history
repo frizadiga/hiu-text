@@ -71,3 +71,165 @@ git add .
 git status
 git commit -m "update"
 npm run generate
+npm i -D nodemon
+git commit -m "add API_URL env variable"
+git checkout -b dev
+git push 
+git push -u origin dev
+git checkout master
+git checkout dev
+cd /d A:\hiuData\hiuWEB\App\hiu\f-api 
+cd-p
+cd /d A:\hiuData\hiuWEB\App\hiu\hiuwave.com\hiuwave.github.io 
+npm out
+npm run generate
+cd-app
+cd hiu\f-api\
+git add .
+git status -v
+git commit -m "update"
+git push
+cd ..
+cd work\
+cd vip-plaza\
+ls
+cd mobile-pwa\
+git status
+git reset
+git reset --hard
+git checkout staging
+git pull
+cd-c
+git branch
+git branch -all
+git branch -a
+git checkout bugfix/ui
+git merge staging
+ping gitlab.com
+ping github.com
+npm ci
+git push -u origin dev
+git checkout master
+git checkout dev
+cd /d A:\hiuData\hiuWEB\App\hiu\f-api 
+cd /d A:\hiuData\hiuWEB\App\hiu\hiuwave.com\hiuwave.github.io 
+npm run generate
+cd-app
+cd hiu\f-api\
+git status -v
+cd work\
+cd vip-plaza\
+cd mobile-pwa\
+git reset
+git reset --hard
+git checkout staging
+git pull
+cd-c
+git branch
+git branch -all
+git branch -a
+git checkout bugfix/ui
+git merge staging
+ping github.com
+cd-p
+cd /d A:\hiuData\hiuWEB\App\exp\oversent 
+yarn add react@latest
+yarn add react@next
+yarn add react-dom@next
+npm i node-sass
+yarn add node-sass
+git commit -m "update"
+yarn add react-router-dom
+e.
+ping gitlab.com
+ping google.com
+yarn add prop-types
+git add /
+git commit -m "update opinion"
+git push
+git push origin dev
+yarn upgrade react-scripts
+npm run lint:fix
+npm run lint
+ npm out
+npm i react-scripts@latest
+npm i react-dom@latest
+npm i react-dom@next
+npm i react@canary react-dom@canary
+npm out
+cd ..
+cd remember\
+ls
+npm i react@next react-dom@next
+cd ..\oversent\
+npm ci
+rm -rf node_modules\
+npm i
+cd ..\remember\
+npm i -D node-sass
+npm t
+npm i react-router-dom
+git add .
+git gl
+git log
+git status
+git commit -m "init"
+git checkout -b dev
+git show remote -v
+git remote show -v
+git remote show
+git remote add origin git@github.com:frizadiga/remember.git
+git remote -v
+git push -u
+git push -u origin
+git push -u origin dev master
+exit
+git commit -m "update"
+npm run generate
+npm i -D nodemon
+git commit -m "add API_URL env variable"
+git checkout -b dev
+git push 
+git push -u origin dev
+git checkout master
+git checkout dev
+cd /d A:\hiuData\hiuWEB\App\hiu\f-api 
+cd /d A:\hiuData\hiuWEB\App\hiu\hiuwave.com\hiuwave.github.io 
+npm out
+npm run generate
+cd-app
+cd hiu\f-api\
+git add .
+git status -v
+git commit -m "update"
+git push
+cd work\
+cd vip-plaza\
+cd mobile-pwa\
+git reset
+git reset --hard
+git checkout staging
+git pull
+cd-c
+git branch
+git branch -all
+git branch -a
+git checkout bugfix/ui
+git merge staging
+ping gitlab.com
+ping github.com
+npm ci
+cd-p
+cd /d A:\hiuData\hiuWEB\App\exp\oversent 
+yarn
+git diff
+npm run test
+yarn start
+npm run start
+git status
+cd ..
+ls
+cd oversent\
+cd ..\remember\
+npm start
+exit

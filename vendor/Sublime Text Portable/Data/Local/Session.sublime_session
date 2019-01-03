@@ -1,10 +1,14 @@
 {
 	"folder_history":
 	[
-		"/A/hiuData/hiuWEB/App/hiu/f-api",
-		"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io",
-		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
+		"/A/hiuData/hiuWEB/App/exp/remember-api",
+		"/A/hiuData/hiuWEB/App/exp/remember",
+		"/A/hiuData/hiuWEB/App/exp/oversent",
+		"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa",
 		"/A/hiuData/hiuWEB/App/exp/vue-exp",
+		"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io",
+		"/A/hiuData/hiuWEB/App/hiu/f-api",
+		"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io",
 		"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa",
 		"/A/hiuData/hiuWEB/App/work/vip-plaza/vip-plaza-pwa",
 		"/A/hiuData/hiuWEB/App/hiu/hiu-vue-native",
@@ -48,7 +52,7 @@
 		"/A/hiuData/hiuWEB/App/forked"
 	],
 	"last_version": 3176,
-	"last_window_id": 159,
+	"last_window_id": 163,
 	"log_indexing": false,
 	"settings":
 	{
@@ -59,6 +63,70 @@
 			{
 				"selected_items":
 				[
+					[
+						"cu",
+						"columns\tproperty"
+					],
+					[
+						"grida",
+						"grid-auto-flow\tproperty"
+					],
+					[
+						"R",
+						"Route"
+					],
+					[
+						"S",
+						"Switch"
+					],
+					[
+						"grid-c",
+						"grid-auto-columns\tproperty"
+					],
+					[
+						"P",
+						"Proptypes"
+					],
+					[
+						"ChatC",
+						"ChatCard"
+					],
+					[
+						"tex",
+						"text-transform\tproperty"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"Ro",
+						"Route"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"set",
+						"setLoading"
+					],
+					[
+						"c",
+						"ctx"
+					],
+					[
+						"op",
+						"opacity\tproperty"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"pro",
+						"process"
+					],
 					[
 						"di",
 						"div\tTag"
@@ -108,20 +176,12 @@
 						"font-size\tproperty"
 					],
 					[
-						"tex",
-						"text-align\tproperty"
-					],
-					[
 						"texta",
 						"text-align\tproperty"
 					],
 					[
 						"text",
 						"text-transform\tproperty"
-					],
-					[
-						"pro",
-						"ProductssController"
 					],
 					[
 						"bott",
@@ -132,20 +192,12 @@
 						"EXP"
 					],
 					[
-						"set",
-						"setIsLoading"
-					],
-					[
 						"se",
 						"setIsLoading"
 					],
 					[
 						"wi",
 						"withHandlers"
-					],
-					[
-						"c",
-						"componentDidMount"
 					],
 					[
 						"comp",
@@ -218,10 +270,6 @@
 					[
 						"marg",
 						"margin"
-					],
-					[
-						"s",
-						"space-between"
 					],
 					[
 						"class",
@@ -526,50 +574,6 @@
 					[
 						"col",
 						"col-md-6"
-					],
-					[
-						"ban",
-						"banner_5"
-					],
-					[
-						"sec",
-						"section"
-					],
-					[
-						"w",
-						"whatIsCircledoo"
-					],
-					[
-						"topic",
-						"topicLinkStyle"
-					],
-					[
-						"te",
-						"textAlign"
-					],
-					[
-						"compo",
-						"componentWillMount"
-					],
-					[
-						"ch",
-						"changeHeader"
-					],
-					[
-						"DOM",
-						"DOMContentLoaded"
-					],
-					[
-						"backg",
-						"background-color"
-					],
-					[
-						"back",
-						"backgroundColor"
-					],
-					[
-						"red",
-						"redirect"
 					]
 				]
 			},
@@ -583,6 +587,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"box",
+						"Boxy Theme: Configuration"
+					],
 					[
 						"update",
 						"Package Control: Upgrade/Overwrite All Packages"
@@ -652,10 +660,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"box",
-						"Boxy Theme: Configuration"
-					],
-					[
 						"setti",
 						"Preferences: Settings"
 					],
@@ -683,6 +687,7 @@
 				"height": 158.0,
 				"history":
 				[
+					"ls",
 					"clear",
 					"dir",
 					"ls",
@@ -700,14 +705,79 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/f-api/package.json",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/bottom-bar/bottom-bar.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/bottom-bar/bottom-bar.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/package.json",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/app.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/styles/index.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/home-page/home-page.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/menu-page/menu-page.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/menu-page/menu-page.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/app/app.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/bottom-bar/bottom-bar.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/public/index.html",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/menu-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/home-page/style.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/home-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/bottom-bar/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/app/app.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/service-worker/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/service-worker/service-worker.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/package.json",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/indexApp.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/.env",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/App.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chats-page/chats-page.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-page/chat-page.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/public/manifest.json",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-card/chat-card.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-card/style.scss",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/.gitignore",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/sw/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/bottom-bar/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chats-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-card/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatPage/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatPage/ChatPage.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar/BottomBar.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/.env",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatsPage/ChatsPage.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatsPage/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/index.scss",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/index.css",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chat/Chat.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chats/Chats.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar/style.scss",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/App.scss",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chats/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chat.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chats.js",
+				"/A/hiuData/hiuWEB/App/exp/vue-exp/public/index.html",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/pages/order/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/app/api/order.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/components/Order/components/AddToCartGroup/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/components/SelectGender/style.scss",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/layouts/default.vue",
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/routes/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/components/hiu-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/controller.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/config/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/.env.example",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/config/globals.js",
 				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/components/hiu-logo.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/layouts/default.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
 				"/A/hiuData/hiuWEB/App/exp/vue-exp/package.json",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/index.js",
@@ -722,16 +792,12 @@
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/_app.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/api/profile.js",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/node_modules/regenerate-unicode-properties/Binary_Property/Extended_Pictographic.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/.next/bundles/pages/exp.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/registerServiceWorker.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/style.scss",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/routes/index.js",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/controller.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/model.js",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/config/globals.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/lib/FETCH.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/app/index.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/routes/index.js",
@@ -766,68 +832,7 @@
 				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/ClassesController.js",
 				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes.js",
 				"/A/Data Friza/App/partner-app-adira/server/koa/config/db.js",
-				"/A/Data Friza/App/service-api/src/v1/helpers/model.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/config/globals.js",
-				"/A/Data Friza/App/service-api/src/v1/controller/users.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
-				"/A/Data Friza/App/partner-app-adira/server/swagger.json",
-				"/A/Data Friza/App/service-api/server.js",
-				"/A/Data Friza/App/service-api/db.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/ClassesController.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/node_modules/sails/test/integration/router.specifiedRoutes.test.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Classes.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Users.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/routers/index.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/config/http.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/config/globals.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/UsersController.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/.gitkeep",
-				"/A/Data Friza/App/partner-app-adira/server/sails/package.json",
-				"/A/Data Friza/App/partner-app-adira/server/koa/.gitignore",
-				"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin/pssh.cmd",
-				"/A/Data Friza/App/jidesha/chrome/manifest.json",
-				"/A/Data Friza/App/jidesha/chrome/README.md",
-				"/A/Data Friza/App/jidesha/chrome/logo.zip",
-				"/A/Data Friza/App/koa/hiu-koa/app/.gitignore",
-				"/A/Data Friza/App/koa/hiu-koa/config/.gitkeep",
-				"/A/Data Friza/App/koa/hiu-koa/app/.gitkeep",
-				"/A/Data Friza/App/sails/minimal/config/routes.js",
-				"/A/Data Friza/App/sails/no-frontend/config/routes.js",
-				"/A/Data Friza/App/circledoo-business/package.json",
-				"/A/Data Friza/App/circledoo-business/.gitignore",
-				"/A/Data Friza/App/circledoo-business/firebase.json",
-				"/A/Data Friza/App/circledoo-business/server.js",
-				"/A/Data Friza/App/streamer/package.json",
-				"/A/Data Friza/App/service-api/src/v1/controller/circles.js",
-				"/A/Data Friza/App/config/config.js",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/A/Data Friza/App/circledoo-encoder/node_modules/tinycolor2/docs/docco.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/components/styles/card.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/build/service-worker.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/index.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/index.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/messages/style.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/style.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/campus/create-lesson.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/utils/helper.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/public/index.html",
-				"/A/Data Friza/App/circledoo-frontend-demo/build/index.html",
-				"/A/Data Friza/App/circledoo-frontend-demo/build/asset-manifest.json",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/explore.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/show.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/styles/card.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/FeaturedVideos.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js"
+				"/A/Data Friza/App/service-api/src/v1/helpers/model.js"
 			],
 			"find":
 			{
@@ -845,6 +850,32 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Home",
+					"home",
+					"Home",
+					"HomePage",
+					"homepage",
+					"HomePage",
+					"StrictMode",
+					")\n",
+					"Chats",
+					"Router",
+					"div",
+					"T.",
+					"item.",
+					"Page",
+					"Chat",
+					"Chats",
+					"view",
+					"Fragment",
+					"Chat",
+					"message",
+					"essage",
+					"sender",
+					"exact",
+					"Chat",
+					"isOpenSize",
+					"apiURL",
 					"},\n",
 					"}</",
 					"webpack\"",
@@ -976,6 +1007,86 @@
 				"selected_items":
 				[
 					[
+						"bottombar",
+						"remember\\src\\bottom-bar\\bottom-bar.js"
+					],
+					[
+						"bottom",
+						"oversent\\src\\components\\bottom-bar\\bottom-bar.js"
+					],
+					[
+						"app/sty",
+						"oversent\\src\\app\\styles\\index.scss"
+					],
+					[
+						"app",
+						"oversent\\src\\app\\app.js"
+					],
+					[
+						"pack",
+						"oversent\\package.json"
+					],
+					[
+						"packa",
+						"remember\\package.json"
+					],
+					[
+						"ignore",
+						"f-api\\.gitignore"
+					],
+					[
+						"chatpage",
+						"oversent\\src\\components\\chat-page\\chat-page.js"
+					],
+					[
+						"styles/",
+						"oversent\\src\\app\\styles\\index.scss"
+					],
+					[
+						"indexhtml",
+						"vue-exp\\public\\index.html"
+					],
+					[
+						"selectgender",
+						"mobile-pwa\\components\\SelectGender\\style.scss"
+					],
+					[
+						"addtocart",
+						"mobile-pwa\\components\\Order\\components\\AddToCartGroup\\index.js"
+					],
+					[
+						"apiorder",
+						"mobile-pwa\\app\\api\\order.js"
+					],
+					[
+						"order/",
+						"mobile-pwa\\pages\\order\\index.js"
+					],
+					[
+						"defa",
+						"hiuwave.github.io\\src\\layouts\\default.vue"
+					],
+					[
+						"layoutvue",
+						"hiuwave.github.io\\src\\layouts\\default.vue"
+					],
+					[
+						"indexvue",
+						"hiuwave.github.io\\src\\pages\\index.vue"
+					],
+					[
+						"config/index",
+						"src\\app\\config\\index.js"
+					],
+					[
+						"appindex",
+						"src\\app\\index.js"
+					],
+					[
+						"app/index",
+						"src\\app\\index.js"
+					],
+					[
 						"index.v",
 						"src\\pages\\index.vue"
 					],
@@ -1036,20 +1147,12 @@
 						"pwa\\pages\\_app.js"
 					],
 					[
-						"bottom",
-						"pwa\\components\\BottomBar\\index.js"
-					],
-					[
 						"component/ex",
 						"components\\EXP\\index.js"
 					],
 					[
 						"pages/indexindex",
 						"pages\\index\\index.js"
-					],
-					[
-						"bottombar",
-						"components\\BottomBar\\index.js"
 					],
 					[
 						"EXP/",
@@ -1116,20 +1219,12 @@
 						"package.json"
 					],
 					[
-						"app",
-						"koa\\app.js"
-					],
-					[
 						"global",
 						"koa\\config\\globals.js"
 					],
 					[
 						"users",
 						"service-api\\src\\v1\\controller\\users.js"
-					],
-					[
-						"packa",
-						"koa\\package.json"
 					],
 					[
 						"ser",
@@ -1250,10 +1345,6 @@
 					[
 						"circle/st",
 						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
-					],
-					[
-						"styles/",
-						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
 					],
 					[
 						"circle/sty",
@@ -1426,66 +1517,6 @@
 					[
 						"user",
 						"service-api\\src\\v1\\router\\users.js"
-					],
-					[
-						"live",
-						"circledoo-frontend-demo\\src\\components\\LiveList.js"
-					],
-					[
-						"steppr",
-						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepProgramType.js"
-					],
-					[
-						"circle/c",
-						"circledoo-frontend-demo\\src\\pages\\circle\\create.js"
-					],
-					[
-						"pages/blog",
-						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
-					],
-					[
-						"config-prod",
-						"circledoo-frontend-demo\\src\\utils\\config-prod.js"
-					],
-					[
-						"controller/cir",
-						"service-api\\src\\v1\\controller\\circles.js"
-					],
-					[
-						"circle/show",
-						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
-					],
-					[
-						"onsite",
-						"circledoo-frontend-demo\\src\\components\\ClassListOnsite.js"
-					],
-					[
-						"whatis/",
-						"circledoo-frontend-demo\\src\\pages\\what-is\\style.css"
-					],
-					[
-						"what-is/",
-						"circledoo-frontend-demo\\src\\pages\\what-is\\circledoo.js"
-					],
-					[
-						"config-dev",
-						"circledoo-frontend-demo\\src\\utils\\config-dev.js"
-					],
-					[
-						"blog/",
-						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
-					],
-					[
-						"skills",
-						"circledoo-frontend-demo\\src\\assets\\video\\Circledoo - School of Skills.webm"
-					],
-					[
-						"getlink",
-						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepGetLink.js"
-					],
-					[
-						"pages/bl",
-						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
 					]
 				],
 				"width": 0.0
@@ -1493,9 +1524,17 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "cir",
 				"selected_items":
 				[
+					[
+						"cir",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\circledoo.sublime-project"
+					],
+					[
+						"c",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\circledoo.sublime-project"
+					],
 					[
 						"env",
 						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\hiu-env.sublime-project"
@@ -1532,7 +1571,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 160.0,
+			"side_bar_width": 148.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1547,6 +1586,70 @@
 			{
 				"selected_items":
 				[
+					[
+						"cu",
+						"columns\tproperty"
+					],
+					[
+						"grida",
+						"grid-auto-flow\tproperty"
+					],
+					[
+						"R",
+						"Route"
+					],
+					[
+						"S",
+						"Switch"
+					],
+					[
+						"grid-c",
+						"grid-auto-columns\tproperty"
+					],
+					[
+						"P",
+						"Proptypes"
+					],
+					[
+						"ChatC",
+						"ChatCard"
+					],
+					[
+						"tex",
+						"text-transform\tproperty"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"Ro",
+						"Route"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"set",
+						"setLoading"
+					],
+					[
+						"c",
+						"ctx"
+					],
+					[
+						"op",
+						"opacity\tproperty"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"pro",
+						"process"
+					],
 					[
 						"di",
 						"div\tTag"
@@ -1596,20 +1699,12 @@
 						"font-size\tproperty"
 					],
 					[
-						"tex",
-						"text-align\tproperty"
-					],
-					[
 						"texta",
 						"text-align\tproperty"
 					],
 					[
 						"text",
 						"text-transform\tproperty"
-					],
-					[
-						"pro",
-						"ProductssController"
 					],
 					[
 						"bott",
@@ -1620,20 +1715,12 @@
 						"EXP"
 					],
 					[
-						"set",
-						"setIsLoading"
-					],
-					[
 						"se",
 						"setIsLoading"
 					],
 					[
 						"wi",
 						"withHandlers"
-					],
-					[
-						"c",
-						"componentDidMount"
 					],
 					[
 						"comp",
@@ -1706,10 +1793,6 @@
 					[
 						"marg",
 						"margin"
-					],
-					[
-						"s",
-						"space-between"
 					],
 					[
 						"class",
@@ -2014,50 +2097,6 @@
 					[
 						"col",
 						"col-md-6"
-					],
-					[
-						"ban",
-						"banner_5"
-					],
-					[
-						"sec",
-						"section"
-					],
-					[
-						"w",
-						"whatIsCircledoo"
-					],
-					[
-						"topic",
-						"topicLinkStyle"
-					],
-					[
-						"te",
-						"textAlign"
-					],
-					[
-						"compo",
-						"componentWillMount"
-					],
-					[
-						"ch",
-						"changeHeader"
-					],
-					[
-						"DOM",
-						"DOMContentLoaded"
-					],
-					[
-						"backg",
-						"background-color"
-					],
-					[
-						"back",
-						"backgroundColor"
-					],
-					[
-						"red",
-						"redirect"
 					]
 				]
 			},
@@ -2072,6 +2111,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"box",
+						"Boxy Theme: Configuration"
+					],
 					[
 						"update",
 						"Package Control: Upgrade/Overwrite All Packages"
@@ -2141,10 +2184,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"box",
-						"Boxy Theme: Configuration"
-					],
-					[
 						"setti",
 						"Preferences: Settings"
 					],
@@ -2172,6 +2211,7 @@
 				"height": 158.0,
 				"history":
 				[
+					"ls",
 					"clear",
 					"dir",
 					"ls",
@@ -2189,14 +2229,79 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/App/hiu/f-api/package.json",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/bottom-bar/bottom-bar.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/bottom-bar/bottom-bar.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/package.json",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/app.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/styles/index.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/home-page/home-page.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/menu-page/menu-page.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/menu-page/menu-page.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/app/app.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/bottom-bar/bottom-bar.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/public/index.html",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/menu-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/home-page/style.scss",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/home-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/bottom-bar/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/app/app.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/service-worker/index.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/service-worker/service-worker.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/package.json",
+				"/A/hiuData/hiuWEB/App/exp/remember/src/indexApp.js",
+				"/A/hiuData/hiuWEB/App/exp/remember/.env",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/App.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chats-page/chats-page.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-page/chat-page.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/public/manifest.json",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-card/chat-card.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-card/style.scss",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/.gitignore",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/sw/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/bottom-bar/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chats-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-page/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/chat-card/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatPage/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatPage/ChatPage.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar/BottomBar.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/.env",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatsPage/ChatsPage.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/ChatsPage/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/app/index.scss",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/index.css",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chat/Chat.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chats/Chats.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar/style.scss",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/App.scss",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chats/index.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/components/BottomBar.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chat.js",
+				"/A/hiuData/hiuWEB/App/exp/oversent/src/views/Chats.js",
+				"/A/hiuData/hiuWEB/App/exp/vue-exp/public/index.html",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/pages/order/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/app/api/order.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/components/Order/components/AddToCartGroup/index.js",
+				"/A/hiuData/hiuWEB/App/work/vip-plaza/mobile-pwa/components/SelectGender/style.scss",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/layouts/default.vue",
 				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/pages/index.vue",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/routes/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
+				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/components/hiu-logo.vue",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/controller.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/config/index.js",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/.env.example",
+				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/config/globals.js",
 				"/A/hiuData/hiuWEB/App/exp/vue-exp.vue",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/src/pages/index.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/package.json",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/components/hiu-logo.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/src/layouts/default.vue",
-				"/A/hiuData/hiuWEB/App/hiu/hiuwave.com/hiuwave.github.io/nuxt.config.js",
 				"/A/hiuData/hiuWEB/App/exp/frizadiga.github.io/package.json",
 				"/A/hiuData/hiuWEB/App/exp/vue-exp/package.json",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/index.js",
@@ -2211,16 +2316,12 @@
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/_app.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/app/api/profile.js",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/node_modules/regenerate-unicode-properties/Binary_Property/Extended_Pictographic.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/components/EXP/index.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/.next/bundles/pages/exp.js",
 				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/registerServiceWorker.js",
 				"/A/hiuData/hiuWEB/App/work/vip-plaza/pwa/pages/exp/style.scss",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/routes/index.js",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/controller.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/Products/model.js",
-				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/config/globals.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/app/lib/FETCH.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/app/index.js",
 				"/A/hiuData/hiuWEB/App/hiu/f-api/src/routes/index.js",
@@ -2255,68 +2356,7 @@
 				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/ClassesController.js",
 				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes.js",
 				"/A/Data Friza/App/partner-app-adira/server/koa/config/db.js",
-				"/A/Data Friza/App/service-api/src/v1/helpers/model.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/config/globals.js",
-				"/A/Data Friza/App/service-api/src/v1/controller/users.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/package.json",
-				"/A/Data Friza/App/partner-app-adira/server/swagger.json",
-				"/A/Data Friza/App/service-api/server.js",
-				"/A/Data Friza/App/service-api/db.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/ClassesController.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/node_modules/sails/test/integration/router.specifiedRoutes.test.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/models/Classes",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Classes.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/Users.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/routers/index.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/config/http.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/config/globals.js",
-				"/A/Data Friza/App/partner-app-adira/server/sails/api/controllers/UsersController.js",
-				"/A/Data Friza/App/partner-app-adira/server/koa/app/controllers/.gitkeep",
-				"/A/Data Friza/App/partner-app-adira/server/sails/package.json",
-				"/A/Data Friza/App/partner-app-adira/server/koa/.gitignore",
-				"/A/Data Friza/hiu-env/hiu-cmd/cmder/bin/pssh.cmd",
-				"/A/Data Friza/App/jidesha/chrome/manifest.json",
-				"/A/Data Friza/App/jidesha/chrome/README.md",
-				"/A/Data Friza/App/jidesha/chrome/logo.zip",
-				"/A/Data Friza/App/koa/hiu-koa/app/.gitignore",
-				"/A/Data Friza/App/koa/hiu-koa/config/.gitkeep",
-				"/A/Data Friza/App/koa/hiu-koa/app/.gitkeep",
-				"/A/Data Friza/App/sails/minimal/config/routes.js",
-				"/A/Data Friza/App/sails/no-frontend/config/routes.js",
-				"/A/Data Friza/App/circledoo-business/package.json",
-				"/A/Data Friza/App/circledoo-business/.gitignore",
-				"/A/Data Friza/App/circledoo-business/firebase.json",
-				"/A/Data Friza/App/circledoo-business/server.js",
-				"/A/Data Friza/App/streamer/package.json",
-				"/A/Data Friza/App/service-api/src/v1/controller/circles.js",
-				"/A/Data Friza/App/config/config.js",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/A/Data Friza/App/circledoo-encoder/node_modules/tinycolor2/docs/docco.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/components/TabBar.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/components/card/ClassCard.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/components/styles/card.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/build/service-worker.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/index.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/index.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/messages/style.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/classes/style.css",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/pages/campus/create-lesson.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/src/utils/helper.js",
-				"/A/Data Friza/App/circledoo-frontend-demo/public/index.html",
-				"/A/Data Friza/App/circledoo-frontend-demo/build/index.html",
-				"/A/Data Friza/App/circledoo-frontend-demo/build/asset-manifest.json",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/Header.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/explore.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/classes/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/show.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/circle/style.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/profile/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/styles/card.css",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/homepage/index.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/components/FeaturedVideos.js",
-				"/A/hiuData/hiuWEB/App/work/circledoo/circledoo-frontend-demo/src/pages/search/index.js"
+				"/A/Data Friza/App/service-api/src/v1/helpers/model.js"
 			],
 			"find":
 			{
@@ -2334,6 +2374,32 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Home",
+					"home",
+					"Home",
+					"HomePage",
+					"homepage",
+					"HomePage",
+					"StrictMode",
+					")\n",
+					"Chats",
+					"Router",
+					"div",
+					"T.",
+					"item.",
+					"Page",
+					"Chat",
+					"Chats",
+					"view",
+					"Fragment",
+					"Chat",
+					"message",
+					"essage",
+					"sender",
+					"exact",
+					"Chat",
+					"isOpenSize",
+					"apiURL",
 					"},\n",
 					"}</",
 					"webpack\"",
@@ -2456,16 +2522,36 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.644628099174,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
+					0.5,
 					1.0
 				]
 			},
@@ -2475,7 +2561,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,922,1603,-16,2733",
+			"position": "0,0,1,-1,-1,-1,-1,922,3,-16,1133",
 			"replace":
 			{
 				"height": 58.0
@@ -2487,6 +2573,86 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"bottombar",
+						"remember\\src\\bottom-bar\\bottom-bar.js"
+					],
+					[
+						"bottom",
+						"oversent\\src\\components\\bottom-bar\\bottom-bar.js"
+					],
+					[
+						"app/sty",
+						"oversent\\src\\app\\styles\\index.scss"
+					],
+					[
+						"app",
+						"oversent\\src\\app\\app.js"
+					],
+					[
+						"pack",
+						"oversent\\package.json"
+					],
+					[
+						"packa",
+						"remember\\package.json"
+					],
+					[
+						"ignore",
+						"f-api\\.gitignore"
+					],
+					[
+						"chatpage",
+						"oversent\\src\\components\\chat-page\\chat-page.js"
+					],
+					[
+						"styles/",
+						"oversent\\src\\app\\styles\\index.scss"
+					],
+					[
+						"indexhtml",
+						"vue-exp\\public\\index.html"
+					],
+					[
+						"selectgender",
+						"mobile-pwa\\components\\SelectGender\\style.scss"
+					],
+					[
+						"addtocart",
+						"mobile-pwa\\components\\Order\\components\\AddToCartGroup\\index.js"
+					],
+					[
+						"apiorder",
+						"mobile-pwa\\app\\api\\order.js"
+					],
+					[
+						"order/",
+						"mobile-pwa\\pages\\order\\index.js"
+					],
+					[
+						"defa",
+						"hiuwave.github.io\\src\\layouts\\default.vue"
+					],
+					[
+						"layoutvue",
+						"hiuwave.github.io\\src\\layouts\\default.vue"
+					],
+					[
+						"indexvue",
+						"hiuwave.github.io\\src\\pages\\index.vue"
+					],
+					[
+						"config/index",
+						"src\\app\\config\\index.js"
+					],
+					[
+						"appindex",
+						"src\\app\\index.js"
+					],
+					[
+						"app/index",
+						"src\\app\\index.js"
+					],
 					[
 						"index.v",
 						"src\\pages\\index.vue"
@@ -2548,20 +2714,12 @@
 						"pwa\\pages\\_app.js"
 					],
 					[
-						"bottom",
-						"pwa\\components\\BottomBar\\index.js"
-					],
-					[
 						"component/ex",
 						"components\\EXP\\index.js"
 					],
 					[
 						"pages/indexindex",
 						"pages\\index\\index.js"
-					],
-					[
-						"bottombar",
-						"components\\BottomBar\\index.js"
 					],
 					[
 						"EXP/",
@@ -2628,20 +2786,12 @@
 						"package.json"
 					],
 					[
-						"app",
-						"koa\\app.js"
-					],
-					[
 						"global",
 						"koa\\config\\globals.js"
 					],
 					[
 						"users",
 						"service-api\\src\\v1\\controller\\users.js"
-					],
-					[
-						"packa",
-						"koa\\package.json"
 					],
 					[
 						"ser",
@@ -2762,10 +2912,6 @@
 					[
 						"circle/st",
 						"circledoo-frontend-demo\\src\\pages\\circle\\style.css"
-					],
-					[
-						"styles/",
-						"circledoo-frontend-demo\\src\\components\\styles\\card.css"
 					],
 					[
 						"circle/sty",
@@ -2938,66 +3084,6 @@
 					[
 						"user",
 						"service-api\\src\\v1\\router\\users.js"
-					],
-					[
-						"live",
-						"circledoo-frontend-demo\\src\\components\\LiveList.js"
-					],
-					[
-						"steppr",
-						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepProgramType.js"
-					],
-					[
-						"circle/c",
-						"circledoo-frontend-demo\\src\\pages\\circle\\create.js"
-					],
-					[
-						"pages/blog",
-						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
-					],
-					[
-						"config-prod",
-						"circledoo-frontend-demo\\src\\utils\\config-prod.js"
-					],
-					[
-						"controller/cir",
-						"service-api\\src\\v1\\controller\\circles.js"
-					],
-					[
-						"circle/show",
-						"circledoo-frontend-demo\\src\\pages\\circle\\show.js"
-					],
-					[
-						"onsite",
-						"circledoo-frontend-demo\\src\\components\\ClassListOnsite.js"
-					],
-					[
-						"whatis/",
-						"circledoo-frontend-demo\\src\\pages\\what-is\\style.css"
-					],
-					[
-						"what-is/",
-						"circledoo-frontend-demo\\src\\pages\\what-is\\circledoo.js"
-					],
-					[
-						"config-dev",
-						"circledoo-frontend-demo\\src\\utils\\config-dev.js"
-					],
-					[
-						"blog/",
-						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
-					],
-					[
-						"skills",
-						"circledoo-frontend-demo\\src\\assets\\video\\Circledoo - School of Skills.webm"
-					],
-					[
-						"getlink",
-						"circledoo-frontend-demo\\src\\pages\\circle\\step\\StepGetLink.js"
-					],
-					[
-						"pages/bl",
-						"circledoo-frontend-demo\\src\\pages\\blog\\index.js"
 					]
 				],
 				"width": 0.0
@@ -3005,9 +3091,17 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "cir",
 				"selected_items":
 				[
+					[
+						"cir",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\circledoo.sublime-project"
+					],
+					[
+						"c",
+						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\circledoo.sublime-project"
+					],
 					[
 						"env",
 						"A:\\hiuData\\hiuWEB\\App\\hiuText-projects\\hiu-env.sublime-project"
@@ -3047,23 +3141,24 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 160.0,
+			"side_bar_width": 148.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 146
+			"window_id": 162
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/A/hiuData/hiuWEB/App/hiuText-projects/1.sublime-workspace",
+			"/A/hiuData/hiuWEB/App/hiuText-projects/circledoo.sublime-workspace",
+			"/A/hiuData/hiuWEB/App/hiuText-projects/vip-plaza-mobile-pwa.sublime-workspace",
+			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-env.sublime-workspace",
 			"/A/Data Friza/App/hiu-text-project/streamer.sublime-workspace",
 			"/A/Data Friza/App/hiu-text-project/service-api.sublime-workspace",
-			"/A/hiuData/hiuWEB/App/hiuText-projects/circledoo.sublime-workspace",
-			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-env.sublime-workspace",
-			"/A/hiuData/hiuWEB/App/hiuText-projects/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/exp.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/ikan.sublime-workspace",
 			"/A/hiuData/hiuWEB/App/hiuText-projects/hiu-nuxt-template.sublime-workspace",
